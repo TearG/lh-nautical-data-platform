@@ -1,0 +1,42 @@
+02:15:08  INFO     =================================================================
+02:15:08  INFO       LH Nautical - Pipeline de Dados
+02:15:08  INFO       Inicio: 2026-08-13 02:15:08
+02:15:08  INFO       Log:    C:\Users\vanes\source\repos\nautical\outputs\pipeline_run.log
+02:15:08  INFO     =================================================================
+02:15:08  INFO     
+02:15:08  INFO       [01] EDA e Qualidade dos Dados
+02:15:14  INFO       [OK]   Concluido em 5.8s
+02:15:14  INFO     
+02:15:14  INFO       [02] Tratamento e Modelagem (Silver + DuckDB)
+02:15:21  INFO       [OK]   Concluido em 7.1s
+02:15:21  INFO     
+02:15:21  INFO       [03] Analise de Vendas e Clientes
+02:15:27  INFO       [OK]   Concluido em 6.4s
+02:15:27  INFO     
+02:15:27  INFO       [04] Previsao (Holt-Winters) + Recomendacao (SVD) + RFM
+02:15:41  INFO       [OK]   Concluido em 13.8s
+02:15:41  INFO     
+02:15:41  INFO       [06] Investigacao de Veracidade (Auditoria Fiscal)
+02:15:45  INFO       [OK]   Concluido em 3.9s
+02:15:45  INFO     
+02:15:45  INFO       [07] Analise Fase 2 (RH, Supply Chain, Geolocalizacao)
+02:15:48  INFO       [OK]   Concluido em 2.7s
+02:15:48  INFO     
+02:15:48  INFO       [05] Geracao do Dashboard HTML
+02:15:49  INFO       [OK]   Concluido em 1.0s
+02:15:49  INFO     
+02:15:49  INFO     =================================================================
+02:15:49  INFO       RESULTADO FINAL
+02:15:49  INFO     =================================================================
+02:15:49  INFO       [OK]  [01] EDA e Qualidade dos Dados                            5.8s
+02:15:49  INFO       [OK]  [02] Tratamento e Modelagem (Silver + DuckDB)             7.1s
+02:15:49  INFO       [OK]  [03] Analise de Vendas e Clientes                         6.4s
+02:15:49  INFO       [OK]  [04] Previsao (Holt-Winters) + Recomendacao (SVD) + RFM   13.8s
+02:15:49  INFO       [OK]  [06] Investigacao de Veracidade (Auditoria Fiscal)        3.9s
+02:15:49  INFO       [OK]  [07] Analise Fase 2 (RH, Supply Chain, Geolocalizacao)    2.7s
+02:15:49  INFO       [OK]  [05] Geracao do Dashboard HTML                            1.0s
+02:15:49  INFO     
+02:15:49  INFO       Tempo total do pipeline: 40.6s
+02:15:49  INFO       [SUCESSO] Pipeline concluido sem erros!
+02:15:49  INFO       Dashboard: C:\Users\vanes\source\repos\nautical\outputs\dashboard_lh_nautical.html
+02:15:49  INFO     =================================================================

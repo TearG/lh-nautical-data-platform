@@ -1,0 +1,1010 @@
+﻿variant_id,product_id,sku,cost_price,selling_price,weight_kg,is_active,product_name,brand_name,category_name,unit_of_measure,product_active
+1,1,LHN-353137,1409.59,2452.69,17.466,True,Motor de Popa 6014,Volvo Penta,Acessórios de Convés,UN,True
+2,1,LHN-424236,482.96,1057.68,38.9,True,Motor de Popa 6014,Volvo Penta,Acessórios de Convés,UN,True
+3,1,LHN-680793,27.15,36.65,27.526,True,Motor de Popa 6014,Volvo Penta,Acessórios de Convés,UN,True
+4,2,LHN-869444,1486.65,2111.04,10.215,True,Vela Mestra 3870,MaxSea,SEGURANÇA,UN,True
+5,2,LHN-152723,662.95,1425.34,32.302,True,Vela Mestra 3870,MaxSea,SEGURANÇA,UN,True
+6,2,LHN-833831,1897.88,2505.2,11.387,True,Vela Mestra 3870,MaxSea,SEGURANÇA,UN,True
+7,3,LHN-635877,85.01,136.02,46.207,True,Tinta Antifouling 5479,Honda Marine,Motores,L,True
+8,3,LHN-825942,378.89,522.87,5.0,True,Tinta Antifouling 5479,Honda Marine,Motores,L,True
+9,4,LHN-149282,1655.25,3194.63,16.735,True,Sonar Transducer 9933,Garmin,Iluminação,UN,True
+10,4,LHN-597798,718.6,1185.69,5.576,True,Sonar Transducer 9933,Garmin,Iluminação,UN,True
+11,5,LHN-139240,1114.4,1838.76,42.148,True,Bússola de Bordo 3641,Honda Marine,Velas,UN,True
+12,5,LHN-300634,475.52,817.89,8.389,True,Bússola de Bordo 3641,Honda Marine,Velas,UN,True
+13,5,LHN-673210,644.46,1114.92,9.03,True,Bússola de Bordo 3641,Honda Marine,Velas,UN,True
+14,6,LHN-117236,1994.5,4208.4,26.979,True,Defensa Náutica 7487,MaxSea,Coletes Salva-Vidas,PC,True
+15,6,LHN-660514,352.16,725.45,18.126,True,Defensa Náutica 7487,MaxSea,Coletes Salva-Vidas,PC,True
+16,6,LHN-754714,1254.27,1705.81,32.164,True,Defensa Náutica 7487,MaxSea,Coletes Salva-Vidas,PC,True
+17,7,LHN-220347,669.69,1238.93,32.115,True,Cabo Náutico 4894,Simrad,Velas,M,True
+18,7,LHN-510202,546.93,973.54,18.521,True,Cabo Náutico 4894,Simrad,Velas,M,True
+19,8,LHN-457547,1039.42,1517.55,1.815,True,Cabo Náutico 1373,Honda Marine,Pesca,M,True
+20,9,LHN-016677,1642.2,2315.5,23.955,True,Tinta Antifouling 874,Lowrance,Eletrônica Náutica,L,True
+21,9,LHN-444755,364.55,798.36,32.244,True,Tinta Antifouling 874,Lowrance,Eletrônica Náutica,L,True
+22,9,LHN-256375,752.0,1541.6,18.481,True,Tinta Antifouling 874,Lowrance,Eletrônica Náutica,L,True
+23,10,LHN-235717,790.86,1629.17,10.308,True,Colete Salva-Vidas 6199,Volvo Penta,Pesca,UN,True
+24,11,LHN-162345,1555.35,2659.65,11.337,True,Hélice de Alumínio 4091,Yamaha Marine,Eletrônica Náutica,UN,True
+25,11,LHN-415543,335.55,516.75,21.786,True,Hélice de Alumínio 4091,Yamaha Marine,Eletrônica Náutica,UN,True
+26,12,LHN-533184,1072.44,1726.63,32.772,True,Cabo Náutico 8028,Marisul,Pesca,M,True
+27,13,LHN-811383,1673.19,2928.08,42.21,True,GPS Plotter 7021,Honda Marine,Motores,UN,True
+28,14,LHN-224847,961.23,1614.87,9.626,True,Defensa Náutica 1161,Simrad,Manutenção,PC,True
+29,14,LHN-010981,1445.76,3180.67,24.48,True,Defensa Náutica 1161,Simrad,Manutenção,PC,True
+30,15,LHN-501122,710.25,1029.86,40.632,True,Bússola de Bordo 6287,Yamaha Marine,Acessórios de Convés,UN,True
+31,16,LHN-355112,234.2,496.5,17.961,True,Hélice de Alumínio 8340,Suzuki Marine,Equipamentos,UN,True
+32,16,LHN-893936,661.33,939.09,34.611,True,Hélice de Alumínio 8340,Suzuki Marine,Equipamentos,UN,True
+33,16,LHN-302669,331.65,537.27,29.174,True,Hélice de Alumínio 8340,Suzuki Marine,Equipamentos,UN,True
+34,17,LHN-968395,1609.67,3058.37,28.172,True,GPS Plotter 3436,Simrad,Acessórios de Convés,UN,True
+35,17,LHN-702543,848.41,1255.65,33.802,True,GPS Plotter 3436,Simrad,Acessórios de Convés,UN,True
+36,18,LHN-505195,1401.01,2563.85,6.639,True,Âncora Bruce 7120,Garmin,Motores,UN,True
+37,19,LHN-964357,79.15,117.93,17.175,True,Âncora Bruce 4405,Raymarine,Pesca,UN,True
+38,19,LHN-215053,1492.14,2178.52,15.677,True,Âncora Bruce 4405,Raymarine,Pesca,UN,True
+39,20,LHN-333265,1620.69,3046.9,28.339,True,GPS Plotter 7169,Lowrance,Velas,UN,True
+40,20,LHN-533548,851.2,1813.06,6.063,True,GPS Plotter 7169,Lowrance,Velas,UN,True
+41,21,LHN-261123,1045.4,2069.89,21.885,True,Âncora Bruce 6850,Mercury Marine,Manutenção,UN,True
+42,21,LHN-907998,1020.44,1847.0,21.883,True,Âncora Bruce 6850,Mercury Marine,Manutenção,UN,True
+43,22,LHN-937442,573.69,1032.64,2.069,True,Vela Mestra 7039,Garmin,Acessórios de Convés,UN,True
+44,22,LHN-119653,106.44,143.69,1.457,True,Vela Mestra 7039,Garmin,Acessórios de Convés,UN,True
+45,23,LHN-920996,1843.36,2765.04,25.234,True,Âncora Bruce 4975,Garmin,Cabos,UN,True
+46,23,LHN-504176,408.77,764.4,12.055,True,Âncora Bruce 4975,Garmin,Cabos,UN,True
+47,24,LHN-424788,1882.17,3896.09,12.657,True,Colete Salva-Vidas 3398,MaxSea,Eletrônica Náutica,UN,True
+48,24,LHN-868199,768.03,1605.18,8.81,True,Colete Salva-Vidas 3398,MaxSea,Eletrônica Náutica,UN,True
+49,25,LHN-763314,1429.97,2845.64,38.923,True,Bússola de Bordo 799,Honda Marine,Âncoras,UN,True
+50,26,LHN-520276,320.4,547.88,28.501,True,Bússola de Bordo 3795,Raymarine,Manutenção,UN,True
+51,26,LHN-424258,520.53,1113.93,15.212,True,Bússola de Bordo 3795,Raymarine,Manutenção,UN,True
+52,27,LHN-781949,334.74,585.8,41.264,True,Colete Salva-Vidas 7001,Suzuki Marine,Velas,UN,True
+53,27,LHN-551848,1064.58,1628.81,4.334,True,Colete Salva-Vidas 7001,Suzuki Marine,Velas,UN,True
+54,28,LHN-011955,1677.28,2767.51,16.339,False,Colete Salva-Vidas 1890,Marisul,Coletes Salva-Vidas,UN,True
+55,28,LHN-616600,1324.11,2780.63,34.635,True,Colete Salva-Vidas 1890,Marisul,Coletes Salva-Vidas,UN,True
+56,29,LHN-116117,1457.11,1923.39,29.745,True,Defensa Náutica 3153,Raymarine,Iluminação,PC,True
+57,29,LHN-639263,1487.81,3035.13,33.038,True,Defensa Náutica 3153,Raymarine,Iluminação,PC,True
+58,29,LHN-163046,498.6,717.98,21.821,True,Defensa Náutica 3153,Raymarine,Iluminação,PC,True
+59,30,LHN-542984,1651.13,3516.91,21.232,False,Colete Salva-Vidas 8612,Mercury Marine,Iluminação,UN,True
+60,31,LHN-951367,971.09,1466.35,32.375,True,Sonar Transducer 4635,Suzuki Marine,Motores,UN,True
+61,31,LHN-032019,1452.43,3122.72,16.267,True,Sonar Transducer 4635,Suzuki Marine,Motores,UN,True
+62,32,LHN-174522,1219.34,2219.2,11.147,True,Defensa Náutica 793,Volvo Penta,Velas,PC,True
+63,32,LHN-146807,648.97,1025.37,42.23,True,Defensa Náutica 793,Volvo Penta,Velas,PC,True
+64,33,LHN-868728,1655.85,2665.92,12.872,True,Hélice de Alumínio 7117,BR Náutica,Eletrônica Náutica,UN,True
+65,33,LHN-918092,963.97,1609.83,33.169,True,Hélice de Alumínio 7117,BR Náutica,Eletrônica Náutica,UN,True
+66,34,LHN-698603,820.04,1541.68,41.001,True,Defensa Náutica 5959,Lowrance,Pesca,PC,True
+67,35,LHN-270917,1213.42,2159.89,37.606,True,Colete Salva-Vidas 8211,Mercury Marine,Equipamentos,UN,True
+68,35,LHN-133378,231.29,381.63,19.23,True,Colete Salva-Vidas 8211,Mercury Marine,Equipamentos,UN,True
+69,36,LHN-585213,152.88,301.17,33.419,True,GPS Plotter 8951,BR Náutica,Pintura Marítima,UN,True
+70,36,LHN-373626,64.86,118.69,22.214,True,GPS Plotter 8951,BR Náutica,Pintura Marítima,UN,True
+71,37,LHN-047570,814.21,1571.43,49.366,True,Âncora Bruce 3597,BR Náutica,SEGURANÇA,UN,True
+72,37,LHN-561314,1506.88,3194.59,45.135,True,Âncora Bruce 3597,BR Náutica,SEGURANÇA,UN,True
+73,37,LHN-611667,381.54,755.45,14.38,True,Âncora Bruce 3597,BR Náutica,SEGURANÇA,UN,True
+74,38,LHN-448251,1187.83,1603.57,46.403,True,Sonar Transducer 7290,Garmin,Velas,UN,True
+75,39,LHN-305383,118.61,212.31,29.974,True,Bateria Náutica 3427,Lowrance,Âncoras,UN,True
+76,39,LHN-197081,559.32,1096.27,8.869,True,Bateria Náutica 3427,Lowrance,Âncoras,UN,True
+77,40,LHN-847740,725.36,1516.0,42.18,True,Tinta Antifouling 4321,Honda Marine,Pintura Marítima,L,True
+78,40,LHN-812993,1743.73,3365.4,11.304,True,Tinta Antifouling 4321,Honda Marine,Pintura Marítima,L,True
+79,41,LHN-377256,484.27,983.07,1.395,True,Âncora Bruce 2416,Marisul,Hélices,UN,True
+80,41,LHN-064671,41.86,67.81,37.577,True,Âncora Bruce 2416,Marisul,Hélices,UN,True
+81,42,LHN-115023,1188.42,2483.8,24.943,True,Tinta Antifouling 503,MaxSea,Acessórios de Convés,L,True
+82,43,LHN-058147,1177.83,1719.63,4.589,True,Defensa Náutica 9513,MaxSea,Equipamentos,PC,True
+83,43,LHN-794810,1958.37,3897.16,13.508,True,Defensa Náutica 9513,MaxSea,Equipamentos,PC,True
+84,43,LHN-584495,470.16,841.59,39.293,True,Defensa Náutica 9513,MaxSea,Equipamentos,PC,True
+85,44,LHN-414825,1542.06,2235.99,17.443,True,Motor de Popa 9645,Lowrance,Acessórios de Convés,UN,True
+86,44,LHN-171212,1984.96,3751.57,22.089,True,Motor de Popa 9645,Lowrance,Acessórios de Convés,UN,True
+87,45,LHN-529896,1896.82,3471.18,3.197,True,Tinta Antifouling 3620,Garmin,Hélices,L,True
+88,46,LHN-010900,1245.47,2590.58,16.489,True,Defensa Náutica 5036,MaxSea,Iluminação,PC,True
+89,46,LHN-604641,511.42,767.13,24.296,True,Defensa Náutica 5036,MaxSea,Iluminação,PC,True
+90,47,LHN-964745,1545.67,2102.11,7.891,True,Motor de Popa 5561,MaxSea,Âncoras,UN,True
+91,47,LHN-693667,1768.82,3732.21,30.401,True,Motor de Popa 5561,MaxSea,Âncoras,UN,True
+92,48,LHN-848751,1021.66,2084.19,20.451,True,Bússola de Bordo 6684,Simrad,Motores,UN,True
+93,49,LHN-380607,1133.54,1972.36,5.943,True,Bússola de Bordo 5407,Suzuki Marine,Pintura Marítima,UN,True
+94,49,LHN-100755,1414.47,2291.44,23.612,True,Bússola de Bordo 5407,Suzuki Marine,Pintura Marítima,UN,True
+95,49,LHN-528566,1583.08,2928.7,26.644,True,Bússola de Bordo 5407,Suzuki Marine,Pintura Marítima,UN,True
+96,50,LHN-609159,898.19,1553.87,12.68,True,Vela Mestra 1577,Yamaha Marine,SEGURANÇA,UN,True
+97,50,LHN-016397,1407.89,3055.12,43.058,True,Vela Mestra 1577,Yamaha Marine,SEGURANÇA,UN,True
+98,51,LHN-824534,1664.17,2546.18,49.357,True,Defensa Náutica 9969,BR Náutica,Hélices,PC,True
+99,52,LHN-296374,764.73,1078.27,31.636,True,Bateria Náutica 8532,Raymarine,Pintura Marítima,UN,True
+100,53,LHN-084998,1838.02,3529.0,38.291,True,Sonar Transducer 6909,BR Náutica,Hélices,UN,True
+101,53,LHN-261552,1619.29,2412.74,4.916,True,Sonar Transducer 6909,BR Náutica,Hélices,UN,True
+102,53,LHN-821834,233.41,380.46,2.612,True,Sonar Transducer 6909,BR Náutica,Hélices,UN,True
+103,54,LHN-734418,486.76,642.52,47.769,False,Colete Salva-Vidas 6302,Mercury Marine,Cabos,UN,True
+104,55,LHN-947731,536.69,821.14,34.35,True,GPS Plotter 6249,Raymarine,Âncoras,UN,True
+105,55,LHN-777708,1178.16,2368.1,41.79,True,GPS Plotter 6249,Raymarine,Âncoras,UN,True
+106,55,LHN-297432,654.97,1185.5,9.068,True,GPS Plotter 6249,Raymarine,Âncoras,UN,True
+107,56,LHN-566787,1433.55,2351.02,22.152,True,Sonar Transducer 4571,Honda Marine,Âncoras,UN,True
+108,57,LHN-470138,829.32,1501.07,45.951,True,Vela Mestra 6445,BR Náutica,Equipamentos,UN,True
+109,57,LHN-231402,425.03,824.56,16.547,True,Vela Mestra 6445,BR Náutica,Equipamentos,UN,True
+110,57,LHN-970128,1278.87,2749.57,12.044,True,Vela Mestra 6445,BR Náutica,Equipamentos,UN,True
+111,58,LHN-668014,599.41,917.1,6.563,True,Sonar Transducer 3832,Volvo Penta,Equipamentos,UN,True
+112,58,LHN-872810,284.7,549.47,47.329,True,Sonar Transducer 3832,Volvo Penta,Equipamentos,UN,True
+113,59,LHN-173568,25.91,53.89,15.253,True,Bateria Náutica 8789,BR Náutica,Coletes Salva-Vidas,UN,True
+114,59,LHN-761586,326.71,643.62,15.485,True,Bateria Náutica 8789,BR Náutica,Coletes Salva-Vidas,UN,True
+115,59,LHN-027288,1373.86,2459.21,11.5,True,Bateria Náutica 8789,BR Náutica,Coletes Salva-Vidas,UN,True
+116,60,LHN-475654,1462.18,2748.9,48.707,True,Vela Mestra 2410,Raymarine,Manutenção,UN,True
+117,61,LHN-144442,625.23,1262.96,21.238,True,Tinta Antifouling 693,Simrad,Cabos,L,True
+118,62,LHN-046155,427.69,885.32,2.266,True,Defensa Náutica 3549,Marisul,Equipamentos,PC,True
+119,62,LHN-480793,765.67,1569.62,21.305,True,Defensa Náutica 3549,Marisul,Equipamentos,PC,True
+120,62,LHN-592076,864.58,1677.29,10.082,True,Defensa Náutica 3549,Marisul,Equipamentos,PC,True
+121,63,LHN-012465,1578.09,2225.11,45.189,True,Colete Salva-Vidas 4753,Yamaha Marine,Pintura Marítima,UN,True
+122,63,LHN-958088,460.1,887.99,4.536,True,Colete Salva-Vidas 4753,Yamaha Marine,Pintura Marítima,UN,True
+123,63,LHN-453992,1260.5,2205.88,9.488,True,Colete Salva-Vidas 4753,Yamaha Marine,Pintura Marítima,UN,True
+124,64,LHN-268605,630.83,946.24,30.699,True,Tinta Antifouling 9693,Raymarine,Equipamentos,L,True
+125,64,LHN-183735,1851.17,3665.32,35.76,True,Tinta Antifouling 9693,Raymarine,Equipamentos,L,True
+126,65,LHN-668518,607.91,1045.61,48.519,True,Colete Salva-Vidas 1933,Marisul,Velas,UN,True
+127,65,LHN-188119,696.13,1524.52,13.56,True,Colete Salva-Vidas 1933,Marisul,Velas,UN,True
+128,66,LHN-688074,869.3,1625.59,34.183,True,TBD,Mercury Marine,Acessórios de Convés,UN,True
+129,66,LHN-077096,1366.88,2433.05,23.078,True,TBD,Mercury Marine,Acessórios de Convés,UN,True
+130,67,LHN-427420,410.8,669.6,33.866,True,Sonar Transducer 3474,Volvo Penta,Manutenção,UN,True
+131,67,LHN-424093,624.58,874.41,48.001,True,Sonar Transducer 3474,Volvo Penta,Manutenção,UN,True
+132,67,LHN-591244,745.97,1089.12,14.352,True,Sonar Transducer 3474,Volvo Penta,Manutenção,UN,True
+133,68,LHN-340543,696.01,1475.54,8.052,True,Âncora Bruce 2455,Yamaha Marine,Pesca,UN,True
+134,68,LHN-989335,552.14,993.85,6.551,True,Âncora Bruce 2455,Yamaha Marine,Pesca,UN,True
+135,68,LHN-087764,656.47,1253.86,37.708,True,Âncora Bruce 2455,Yamaha Marine,Pesca,UN,True
+136,69,LHN-299709,686.52,1276.93,17.187,True,Motor de Popa 2195,Suzuki Marine,Motores,UN,True
+137,70,LHN-225328,726.11,1038.34,42.171,True,Motor de Popa 1845,Suzuki Marine,Equipamentos,UN,True
+138,70,LHN-816660,1472.88,2710.1,10.183,True,Motor de Popa 1845,Suzuki Marine,Equipamentos,UN,True
+139,70,LHN-105599,1721.56,3391.47,28.887,True,Motor de Popa 1845,Suzuki Marine,Equipamentos,UN,True
+140,71,LHN-483007,414.3,658.74,29.435,True,Hélice de Alumínio 4633,Marisul,Pesca,UN,True
+141,71,LHN-873513,1610.7,2126.12,25.024,True,Hélice de Alumínio 4633,Marisul,Pesca,UN,True
+142,71,LHN-969942,1534.99,2993.23,8.906,True,Hélice de Alumínio 4633,Marisul,Pesca,UN,True
+143,72,LHN-163377,542.03,742.58,43.997,True,Motor de Popa 9771,Yamaha Marine,Eletrônica Náutica,UN,True
+144,73,LHN-822020,1969.47,3426.88,41.191,True,Hélice de Alumínio 3700,Mercury Marine,Acessórios de Convés,UN,True
+145,73,LHN-279958,1454.49,2690.81,17.922,True,Hélice de Alumínio 3700,Mercury Marine,Acessórios de Convés,UN,True
+146,73,LHN-923338,954.84,2100.65,9.898,True,Hélice de Alumínio 3700,Mercury Marine,Acessórios de Convés,UN,True
+147,74,LHN-677223,1899.87,3400.77,41.792,True,Bússola de Bordo 702,Marisul,Hélices,UN,True
+148,74,LHN-795790,620.67,1235.13,39.943,True,Bússola de Bordo 702,Marisul,Hélices,UN,True
+149,75,LHN-947646,290.4,406.56,30.846,True,Vela Mestra 1913,Marisul,Equipamentos,UN,True
+150,75,LHN-479510,1989.56,2606.32,47.619,True,Vela Mestra 1913,Marisul,Equipamentos,UN,True
+151,75,LHN-210217,897.54,1696.35,33.505,True,Vela Mestra 1913,Marisul,Equipamentos,UN,True
+152,76,LHN-432229,967.42,1625.27,15.471,True,Sonar Transducer 9995,Yamaha Marine,Motores,UN,True
+153,76,LHN-868053,154.91,233.91,1.27,True,Sonar Transducer 9995,Yamaha Marine,Motores,UN,True
+154,76,LHN-078133,1467.48,2700.16,44.371,True,Sonar Transducer 9995,Yamaha Marine,Motores,UN,True
+155,77,LHN-039200,29.37,52.57,0.526,True,Bateria Náutica 1945,Lowrance,Eletrônica Náutica,UN,True
+156,77,LHN-791661,1950.78,3004.2,45.032,True,Bateria Náutica 1945,Lowrance,Eletrônica Náutica,UN,True
+157,77,LHN-174868,1228.16,2382.63,49.094,True,Bateria Náutica 1945,Lowrance,Eletrônica Náutica,UN,True
+158,78,LHN-259969,1283.07,2219.71,44.811,True,Colete Salva-Vidas 8571,Suzuki Marine,Iluminação,UN,False
+159,78,LHN-999204,1096.27,1425.15,17.393,False,Colete Salva-Vidas 8571,Suzuki Marine,Iluminação,UN,False
+160,78,LHN-320718,562.57,843.86,47.128,True,Colete Salva-Vidas 8571,Suzuki Marine,Iluminação,UN,False
+161,79,LHN-205267,404.38,594.44,28.727,True,Sonar Transducer 5255,BR Náutica,Cabos,UN,True
+162,80,LHN-017653,697.92,1137.61,5.371,True,Hélice de Alumínio 6964,Volvo Penta,Âncoras,UN,True
+163,80,LHN-621903,993.35,1827.76,28.118,True,Hélice de Alumínio 6964,Volvo Penta,Âncoras,UN,True
+164,80,LHN-809705,843.02,1761.91,13.706,True,Hélice de Alumínio 6964,Volvo Penta,Âncoras,UN,True
+165,81,LHN-825451,321.14,529.88,45.232,True,Motor de Popa 7678,Honda Marine,Eletrônica Náutica,UN,True
+166,81,LHN-703072,1942.52,3069.18,12.975,True,Motor de Popa 7678,Honda Marine,Eletrônica Náutica,UN,True
+167,81,LHN-037844,260.79,414.66,3.659,True,Motor de Popa 7678,Honda Marine,Eletrônica Náutica,UN,True
+168,82,LHN-110984,967.56,1528.74,45.328,False,Bússola de Bordo 3993,Raymarine,Pintura Marítima,UN,True
+169,82,LHN-856587,1386.06,2148.39,16.786,True,Bússola de Bordo 3993,Raymarine,Pintura Marítima,UN,True
+170,83,LHN-273985,78.27,101.75,18.489,True,Bússola de Bordo 7257,Raymarine,Iluminação,UN,True
+171,83,LHN-322940,1304.95,1866.08,9.923,True,Bússola de Bordo 7257,Raymarine,Iluminação,UN,True
+172,84,LHN-968433,257.27,439.93,40.026,True,Defensa Náutica 656,Lowrance,Pesca,PC,True
+173,84,LHN-034318,634.92,1352.38,24.79,True,Defensa Náutica 656,Lowrance,Pesca,PC,True
+174,85,LHN-824993,1778.1,3040.55,48.831,True,Hélice de Alumínio 6549,Mercury Marine,Pesca,UN,True
+175,86,LHN-485526,558.56,916.04,1.369,True,GPS Plotter 4446,MaxSea,Coletes Salva-Vidas,UN,True
+176,86,LHN-565796,1521.26,2084.13,3.297,True,GPS Plotter 4446,MaxSea,Coletes Salva-Vidas,UN,True
+177,86,LHN-057708,666.5,959.76,13.813,True,GPS Plotter 4446,MaxSea,Coletes Salva-Vidas,UN,True
+178,87,LHN-781024,1385.97,2799.66,42.916,True,Vela Mestra 9995,Garmin,Hélices,UN,True
+179,87,LHN-399102,622.46,1325.84,34.063,True,Vela Mestra 9995,Garmin,Hélices,UN,True
+180,88,LHN-725276,1461.62,2601.68,38.136,True,Tinta Antifouling 6853,Suzuki Marine,Hélices,L,True
+181,88,LHN-998857,777.22,1476.72,25.281,True,Tinta Antifouling 6853,Suzuki Marine,Hélices,L,True
+182,88,LHN-530028,1102.03,1586.92,20.935,True,Tinta Antifouling 6853,Suzuki Marine,Hélices,L,True
+183,89,LHN-232031,433.2,818.75,7.965,True,Âncora Bruce 2687,Garmin,Iluminação,UN,True
+184,90,LHN-438749,158.53,269.5,32.832,True,Âncora Bruce 9445,BR Náutica,Equipamentos,UN,True
+185,90,LHN-799932,371.11,686.55,7.595,True,Âncora Bruce 9445,BR Náutica,Equipamentos,UN,True
+186,91,LHN-141733,1000.73,1771.29,7.372,True,Hélice de Alumínio 8603,Honda Marine,Coletes Salva-Vidas,UN,True
+187,91,LHN-409534,1732.45,3257.01,17.004,True,Hélice de Alumínio 8603,Honda Marine,Coletes Salva-Vidas,UN,True
+188,92,LHN-424293,166.74,360.16,4.219,True,Sonar Transducer 1236,Marisul,Velas,UN,True
+189,92,LHN-838174,1274.44,2344.97,43.979,True,Sonar Transducer 1236,Marisul,Velas,UN,True
+190,92,LHN-999365,121.76,256.91,19.468,True,Sonar Transducer 1236,Marisul,Velas,UN,True
+191,93,LHN-468939,325.84,518.09,21.413,True,Bússola de Bordo 2692,BR Náutica,Velas,UN,True
+192,93,LHN-061444,1996.43,3134.4,32.378,True,Bússola de Bordo 2692,BR Náutica,Velas,UN,True
+193,94,LHN-810046,1946.46,2705.58,41.338,False,Tinta Antifouling 569,Mercury Marine,Manutenção,L,True
+194,95,LHN-837338,1592.56,3073.64,12.854,True,Vela Mestra 6861,Volvo Penta,Pintura Marítima,UN,True
+195,95,LHN-759108,1408.75,2718.89,38.894,True,Vela Mestra 6861,Volvo Penta,Pintura Marítima,UN,True
+196,96,LHN-764566,749.07,1078.66,11.17,True,GPS Plotter 5928,Yamaha Marine,Hélices,UN,True
+197,96,LHN-566530,211.51,431.48,37.962,True,GPS Plotter 5928,Yamaha Marine,Hélices,UN,True
+198,96,LHN-344703,636.24,941.64,16.412,True,GPS Plotter 5928,Yamaha Marine,Hélices,UN,True
+199,97,LHN-387219,1079.52,1845.98,38.879,True,Motor de Popa 5396,Mercury Marine,Manutenção,UN,True
+200,97,LHN-684173,1597.43,2300.3,37.581,True,Motor de Popa 5396,Mercury Marine,Manutenção,UN,True
+201,98,LHN-207207,178.05,240.37,21.07,True,Bússola de Bordo 2458,Suzuki Marine,Equipamentos,UN,True
+202,98,LHN-994648,1379.03,2178.87,17.35,True,Bússola de Bordo 2458,Suzuki Marine,Equipamentos,UN,True
+203,99,LHN-219083,781.14,1640.39,33.703,True,Âncora Bruce 2417,Yamaha Marine,Eletrônica Náutica,UN,True
+204,100,LHN-296616,35.62,62.69,14.013,True,Defensa Náutica 2321,Mercury Marine,Âncoras,PC,True
+205,100,LHN-523996,1468.68,2217.71,47.414,True,Defensa Náutica 2321,Mercury Marine,Âncoras,PC,True
+206,101,LHN-550481,182.58,253.79,39.694,True,Defensa Náutica 3482,Garmin,Velas,PC,True
+207,101,LHN-249879,1839.27,3733.72,30.336,True,Defensa Náutica 3482,Garmin,Velas,PC,True
+208,102,LHN-410602,497.81,711.87,1.227,True,Bateria Náutica 3506,MaxSea,Âncoras,UN,True
+209,103,LHN-485834,749.65,1476.81,22.872,True,GPS Plotter 3183,Suzuki Marine,Coletes Salva-Vidas,UN,True
+210,103,LHN-259372,1644.58,2795.79,48.425,True,GPS Plotter 3183,Suzuki Marine,Coletes Salva-Vidas,UN,True
+211,103,LHN-583542,1208.16,1981.38,20.381,True,GPS Plotter 3183,Suzuki Marine,Coletes Salva-Vidas,UN,True
+212,104,LHN-012185,1319.99,2138.38,30.53,True,Bússola de Bordo 7303,Lowrance,Iluminação,UN,True
+213,105,LHN-417099,197.59,349.73,4.635,True,Defensa Náutica 1200,Honda Marine,Acessórios de Convés,PC,True
+214,106,LHN-531344,445.85,713.36,11.218,True,Hélice de Alumínio 2016,MaxSea,Velas,UN,True
+215,106,LHN-639347,706.18,1052.21,17.719,True,Hélice de Alumínio 2016,MaxSea,Velas,UN,True
+216,107,LHN-721988,1814.45,3139.0,2.466,True,Tinta Antifouling 5097,Volvo Penta,Iluminação,L,True
+217,108,LHN-235392,266.85,531.03,25.469,True,Âncora Bruce 326,Suzuki Marine,SEGURANÇA,UN,True
+218,108,LHN-640623,115.6,208.08,49.266,True,Âncora Bruce 326,Suzuki Marine,SEGURANÇA,UN,True
+219,108,LHN-990985,1359.64,2189.02,9.502,True,Âncora Bruce 326,Suzuki Marine,SEGURANÇA,UN,True
+220,109,LHN-338809,665.29,1370.5,33.327,True,Âncora Bruce 8139,BR Náutica,Eletrônica Náutica,UN,True
+221,110,LHN-129715,995.57,1543.13,15.888,True,Hélice de Alumínio 1155,Volvo Penta,Pesca,UN,True
+222,110,LHN-828849,1018.61,1843.68,21.025,True,Hélice de Alumínio 1155,Volvo Penta,Pesca,UN,True
+223,110,LHN-800976,1827.37,3033.43,40.008,True,Hélice de Alumínio 1155,Volvo Penta,Pesca,UN,True
+224,111,LHN-462788,1636.1,3157.67,19.04,True,Sonar Transducer 5950,Raymarine,Manutenção,UN,True
+225,111,LHN-196507,772.74,1568.66,17.771,True,Sonar Transducer 5950,Raymarine,Manutenção,UN,True
+226,111,LHN-912435,801.99,1724.28,24.95,True,Sonar Transducer 5950,Raymarine,Manutenção,UN,True
+227,112,LHN-334183,1927.67,3893.89,25.781,True,Âncora Bruce 7692,Honda Marine,Coletes Salva-Vidas,UN,True
+228,113,LHN-258023,1026.89,1458.18,6.368,True,Hélice de Alumínio 1281,Lowrance,Pintura Marítima,UN,True
+229,114,LHN-485571,1826.68,3854.29,32.953,True,Tinta Antifouling 3228,Suzuki Marine,Motores,L,True
+230,114,LHN-156424,953.48,1744.87,26.916,True,Tinta Antifouling 3228,Suzuki Marine,Motores,L,True
+231,114,LHN-753573,1832.61,2803.89,28.85,True,Tinta Antifouling 3228,Suzuki Marine,Motores,L,True
+232,115,LHN-949615,1195.68,2403.32,29.095,True,Bateria Náutica 8635,Raymarine,Pintura Marítima,UN,True
+233,115,LHN-244263,1219.9,2415.4,32.764,True,Bateria Náutica 8635,Raymarine,Pintura Marítima,UN,True
+234,115,LHN-740101,637.28,1089.75,48.419,True,Bateria Náutica 8635,Raymarine,Pintura Marítima,UN,True
+235,116,LHN-391937,430.69,947.52,5.172,True,Colete Salva-Vidas 280,Volvo Penta,Hélices,UN,True
+236,116,LHN-360466,236.28,465.47,34.04,True,Colete Salva-Vidas 280,Volvo Penta,Hélices,UN,True
+237,117,LHN-931901,1562.44,3281.12,36.442,True,Sonar Transducer 869,Garmin,Acessórios de Convés,UN,True
+238,117,LHN-207525,304.07,477.39,24.808,True,Sonar Transducer 869,Garmin,Acessórios de Convés,UN,True
+239,118,LHN-959770,304.46,624.14,3.988,True,Vela Mestra 5825,Volvo Penta,Pesca,UN,True
+240,118,LHN-133301,1009.31,1433.22,10.902,True,Vela Mestra 5825,Volvo Penta,Pesca,UN,True
+241,118,LHN-543582,659.7,1048.92,0.72,True,Vela Mestra 5825,Volvo Penta,Pesca,UN,True
+242,119,LHN-599210,325.03,542.8,15.308,True,Motor de Popa 2911,Marisul,Âncoras,UN,True
+243,120,LHN-524024,213.22,400.85,11.12,True,Motor de Popa 8681,Garmin,Cabos,UN,True
+244,121,LHN-704201,1971.98,3983.4,43.667,False,GPS Plotter 1152,Lowrance,Pesca,UN,True
+245,121,LHN-508411,1426.87,2325.8,36.994,True,GPS Plotter 1152,Lowrance,Pesca,UN,True
+246,122,LHN-220102,1521.38,2844.98,2.433,True,Vela Mestra 7742,Honda Marine,Âncoras,UN,True
+247,123,LHN-136796,1893.03,3483.18,30.853,True,Bateria Náutica 6577,Raymarine,SEGURANÇA,UN,True
+248,123,LHN-438034,649.82,1429.6,6.626,True,Bateria Náutica 6577,Raymarine,SEGURANÇA,UN,True
+249,124,LHN-392790,1325.88,2147.93,41.624,True,Âncora Bruce 9985,BR Náutica,Motores,UN,True
+250,124,LHN-644841,246.41,347.44,36.944,True,Âncora Bruce 9985,BR Náutica,Motores,UN,True
+251,125,LHN-163314,317.31,539.43,29.131,True,Âncora Bruce 9236,Simrad,Pesca,UN,True
+252,125,LHN-399930,719.35,1266.06,21.864,True,Âncora Bruce 9236,Simrad,Pesca,UN,True
+253,126,LHN-237052,1519.05,3083.67,6.303,True,Hélice de Alumínio 9713,Marisul,Iluminação,UN,True
+254,126,LHN-818024,659.19,1278.83,10.66,True,Hélice de Alumínio 9713,Marisul,Iluminação,UN,True
+255,127,LHN-513044,1840.54,3662.67,40.316,True,Defensa Náutica 6521,Simrad,Iluminação,PC,True
+256,127,LHN-812832,1007.73,1360.44,20.352,True,Defensa Náutica 6521,Simrad,Iluminação,PC,True
+257,128,LHN-263950,41.27,69.33,41.884,True,Cabo Náutico 7174,Raymarine,Hélices,M,True
+258,128,LHN-762559,1747.16,2498.44,19.572,True,Cabo Náutico 7174,Raymarine,Hélices,M,True
+259,129,LHN-715346,233.2,356.8,48.7,True,Defensa Náutica 4517,Yamaha Marine,Iluminação,PC,True
+260,129,LHN-967929,961.03,1489.6,35.376,True,Defensa Náutica 4517,Yamaha Marine,Iluminação,PC,True
+261,130,LHN-744271,1251.17,2489.83,35.62,True,Tinta Antifouling 9285,Yamaha Marine,SEGURANÇA,L,True
+262,130,LHN-141757,783.87,1403.13,25.648,True,Tinta Antifouling 9285,Yamaha Marine,SEGURANÇA,L,True
+263,130,LHN-788016,1859.26,2974.82,7.245,True,Tinta Antifouling 9285,Yamaha Marine,SEGURANÇA,L,True
+264,131,LHN-965938,925.72,1981.04,14.807,True,Âncora Bruce 7031,Garmin,Equipamentos,UN,True
+265,131,LHN-510659,1966.75,2832.12,31.082,True,Âncora Bruce 7031,Garmin,Equipamentos,UN,True
+266,132,LHN-025829,1863.13,3372.27,13.534,True,Tinta Antifouling 7287,Raymarine,Pintura Marítima,L,True
+267,133,LHN-932582,505.67,839.41,20.615,True,Âncora Bruce 7309,MaxSea,Manutenção,UN,True
+268,133,LHN-929459,1195.14,2402.23,44.225,True,Âncora Bruce 7309,MaxSea,Manutenção,UN,True
+269,134,LHN-917689,581.19,1022.89,45.623,True,Cabo Náutico 5788,Garmin,Cabos,M,True
+270,134,LHN-456796,58.53,103.6,28.267,True,Cabo Náutico 5788,Garmin,Cabos,M,True
+271,135,LHN-898040,35.18,46.79,2.07,True,GPS Plotter 3319,Raymarine,Cabos,UN,True
+272,135,LHN-124007,1524.76,2485.36,23.774,True,GPS Plotter 3319,Raymarine,Cabos,UN,True
+273,136,LHN-878599,460.39,865.53,42.861,True,Colete Salva-Vidas 9822,Honda Marine,SEGURANÇA,UN,True
+274,137,LHN-626925,1212.14,1636.39,8.795,True,Motor de Popa 8544,BR Náutica,Iluminação,UN,True
+275,138,LHN-542787,1159.48,2249.39,31.349,True,Cabo Náutico 3217,Simrad,Cabos,M,True
+276,138,LHN-714900,900.91,1828.85,32.269,True,Cabo Náutico 3217,Simrad,Cabos,M,True
+277,139,LHN-765491,1000.62,1540.95,3.972,True,Sonar Transducer 7171,MaxSea,Eletrônica Náutica,UN,True
+278,140,LHN-093091,1006.45,1751.22,12.44,True,Bússola de Bordo 5528,BR Náutica,Âncoras,UN,True
+279,140,LHN-368563,1664.28,3511.63,24.111,True,Bússola de Bordo 5528,BR Náutica,Âncoras,UN,True
+280,141,LHN-556664,1771.31,2408.98,14.357,True,Motor de Popa 5440,Garmin,Motores,UN,False
+281,141,LHN-474181,1041.8,1354.34,13.985,True,Motor de Popa 5440,Garmin,Motores,UN,False
+282,141,LHN-801931,325.7,612.32,18.357,True,Motor de Popa 5440,Garmin,Motores,UN,False
+283,142,LHN-270820,1426.64,2111.43,9.765,False,Cabo Náutico 3932,MaxSea,Âncoras,M,True
+284,143,LHN-219421,1333.3,2079.95,47.438,True,Tinta Antifouling 849,Volvo Penta,Cabos,L,True
+285,143,LHN-167095,281.55,380.09,0.108,True,Tinta Antifouling 849,Volvo Penta,Cabos,L,True
+286,143,LHN-563391,1150.31,2277.61,43.244,True,Tinta Antifouling 849,Volvo Penta,Cabos,L,True
+287,144,LHN-160223,493.51,996.89,26.019,True,Vela Mestra 7171,BR Náutica,Pintura Marítima,UN,True
+288,144,LHN-059232,21.39,45.56,24.734,True,Vela Mestra 7171,BR Náutica,Pintura Marítima,UN,True
+289,144,LHN-262711,1715.95,3243.15,33.966,True,Vela Mestra 7171,BR Náutica,Pintura Marítima,UN,True
+290,145,LHN-568743,669.86,1165.56,1.276,True,Sonar Transducer 1176,Honda Marine,Hélices,UN,True
+291,145,LHN-768668,1167.14,2264.25,0.515,True,Sonar Transducer 1176,Honda Marine,Hélices,UN,True
+292,146,LHN-331126,1295.33,2409.31,49.642,True,Cabo Náutico 7323,Raymarine,Cabos,M,True
+293,146,LHN-019959,1609.67,2398.41,26.209,True,Cabo Náutico 7323,Raymarine,Cabos,M,True
+294,147,LHN-945034,1837.17,3564.11,3.785,True,Motor de Popa 1923,Lowrance,Iluminação,UN,True
+295,147,LHN-237655,1235.98,2261.84,27.624,True,Motor de Popa 1923,Lowrance,Iluminação,UN,True
+296,148,LHN-244067,395.69,811.16,6.755,True,Colete Salva-Vidas 8269,Raymarine,Acessórios de Convés,UN,True
+297,149,LHN-406123,421.14,635.92,48.893,True,Bateria Náutica 948,Lowrance,Coletes Salva-Vidas,UN,True
+298,149,LHN-224382,761.64,1028.21,24.974,True,Bateria Náutica 948,Lowrance,Coletes Salva-Vidas,UN,True
+299,150,LHN-537793,149.61,266.31,39.424,True,Defensa Náutica 2783,MaxSea,SEGURANÇA,PC,False
+300,150,LHN-917754,534.41,764.21,26.779,True,Defensa Náutica 2783,MaxSea,SEGURANÇA,PC,False
+301,150,LHN-761774,1116.94,1854.12,29.513,True,Defensa Náutica 2783,MaxSea,SEGURANÇA,PC,False
+302,151,LHN-390007,1588.5,2557.48,1.346,True,Hélice de Alumínio 7225,Mercury Marine,Hélices,UN,True
+303,152,LHN-199903,1295.95,2112.4,36.314,True,Caboo Náutico 4942,Lowrance,Motores,M,True
+304,152,LHN-360573,1512.32,2646.56,17.138,True,Caboo Náutico 4942,Lowrance,Motores,M,True
+305,152,LHN-577354,1416.67,3102.51,44.508,True,Caboo Náutico 4942,Lowrance,Motores,M,True
+306,153,LHN-189707,293.25,501.46,12.381,True,Motor de Popa 9201,Marisul,Cabos,UN,True
+307,153,LHN-383939,453.78,984.7,22.996,True,Motor de Popa 9201,Marisul,Cabos,UN,True
+308,153,LHN-018613,1127.41,1905.32,6.487,True,Motor de Popa 9201,Marisul,Cabos,UN,True
+309,154,LHN-267610,1523.46,2422.3,27.604,True,Hélice de Alumínio 549,Garmin,Pintura Marítima,UN,True
+310,154,LHN-301594,1681.85,3447.79,44.823,True,Hélice de Alumínio 549,Garmin,Pintura Marítima,UN,True
+311,154,LHN-774541,1956.24,3755.98,23.629,True,Hélice de Alumínio 549,Garmin,Pintura Marítima,UN,True
+312,155,LHN-353962,637.73,1186.18,38.573,True,Bateria Náutica 5487,Marisul,Cabos,UN,True
+313,156,LHN-247083,1560.84,2778.3,28.598,True,GPS Plotter 2111,Volvo Penta,Velas,UN,True
+314,156,LHN-575869,1658.08,2967.96,22.814,True,GPS Plotter 2111,Volvo Penta,Velas,UN,True
+315,156,LHN-375360,1742.53,3084.28,28.232,True,GPS Plotter 2111,Volvo Penta,Velas,UN,True
+316,157,LHN-477634,1982.27,4083.48,46.653,True,Bússola de Bordo 1248,Suzuki Marine,Equipamentos,UN,True
+317,158,LHN-404411,188.95,253.19,17.727,True,Vela Mestra 8056,Lowrance,Iluminação,UN,True
+318,158,LHN-513250,667.37,1067.79,7.543,True,Vela Mestra 8056,Lowrance,Iluminação,UN,True
+319,158,LHN-302931,871.1,1890.29,20.436,True,Vela Mestra 8056,Lowrance,Iluminação,UN,True
+320,159,LHN-601489,1256.17,2487.22,26.352,True,GPS Plotter 2508,Yamaha Marine,Eletrônica Náutica,UN,True
+321,159,LHN-278353,1494.37,1972.57,17.749,True,GPS Plotter 2508,Yamaha Marine,Eletrônica Náutica,UN,True
+322,160,LHN-029125,1884.97,3581.44,41.913,True,Tinta Antifouling 901,Volvo Penta,Pintura Marítima,L,True
+323,160,LHN-617276,1687.43,2902.38,31.223,True,Tinta Antifouling 901,Volvo Penta,Pintura Marítima,L,True
+324,160,LHN-561045,284.98,550.01,23.448,True,Tinta Antifouling 901,Volvo Penta,Pintura Marítima,L,True
+325,161,LHN-720146,149.99,311.98,45.221,True,Bússola de Bordo 5772,Mercury Marine,Hélices,UN,True
+326,161,LHN-320826,1322.15,2882.29,21.805,True,Bússola de Bordo 5772,Mercury Marine,Hélices,UN,True
+327,161,LHN-801131,1146.44,2109.45,33.924,True,Bússola de Bordo 5772,Mercury Marine,Hélices,UN,True
+328,162,LHN-557467,1557.56,2492.1,33.814,True,Bateria Náutica 2654,Suzuki Marine,Motores,UN,True
+329,163,LHN-729636,1358.88,2541.11,4.914,True,Defensa Náutica 1277,Raymarine,Acessórios de Convés,PC,True
+330,164,LHN-541810,1193.04,1896.93,34.495,True,Bateria Náutica 2738,Yamaha Marine,Cabos,UN,True
+331,164,LHN-905808,954.24,1832.14,5.878,True,Bateria Náutica 2738,Yamaha Marine,Cabos,UN,True
+332,165,LHN-759446,1968.25,3680.63,42.969,True,GPS Plotter 6840,MaxSea,Manutenção,UN,True
+333,165,LHN-149847,595.32,1071.58,44.759,True,GPS Plotter 6840,MaxSea,Manutenção,UN,True
+334,166,LHN-375294,941.75,1704.57,17.556,True,GPS Plotter 7150,Garmin,Eletrônica Náutica,UN,True
+335,167,LHN-982583,754.91,1034.23,33.956,True,GPS Plotter 2659,Garmin,Eletrônica Náutica,UN,True
+336,167,LHN-531503,1935.25,3541.51,0.125,True,GPS Plotter 2659,Garmin,Eletrônica Náutica,UN,True
+337,167,LHN-913107,533.03,1135.35,39.296,True,GPS Plotter 2659,Garmin,Eletrônica Náutica,UN,True
+338,168,LHN-368821,184.24,311.37,9.273,True,Âncora Bruce 7525,Simrad,Iluminação,UN,True
+339,168,LHN-537386,1226.12,2476.76,26.787,True,Âncora Bruce 7525,Simrad,Iluminação,UN,True
+340,169,LHN-488524,674.56,1119.77,34.849,True,Hélice de Alumínio 1674,Yamaha Marine,Cabos,UN,True
+341,170,LHN-042718,180.66,265.57,32.079,True,Bateria Náutica 834,Yamaha Marine,Acessórios de Convés,UN,True
+342,170,LHN-201037,1701.98,3063.56,45.394,True,Bateria Náutica 834,Yamaha Marine,Acessórios de Convés,UN,True
+343,171,LHN-616875,500.44,695.61,13.062,True,Motor de Popa 6225,Raymarine,SEGURANÇA,UN,True
+344,171,LHN-757386,1929.54,3685.42,35.058,True,Motor de Popa 6225,Raymarine,SEGURANÇA,UN,True
+345,171,LHN-605492,1901.04,2661.46,24.288,True,Motor de Popa 6225,Raymarine,SEGURANÇA,UN,True
+346,172,LHN-564335,988.7,1779.66,2.724,True,Defensa Náutica 2684,Mercury Marine,Eletrônica Náutica,PC,True
+347,173,LHN-666608,1244.76,2651.34,42.09,True,Bateria Náutica 2569,Honda Marine,Hélices,UN,True
+348,173,LHN-761270,1028.94,2160.77,37.278,True,Bateria Náutica 2569,Honda Marine,Hélices,UN,True
+349,174,LHN-395321,397.05,770.28,29.542,True,Bússola de Bordo 755,Honda Marine,Eletrônica Náutica,UN,True
+350,174,LHN-737351,1623.28,3084.23,49.967,True,Bússola de Bordo 755,Honda Marine,Eletrônica Náutica,UN,True
+351,174,LHN-448636,1991.21,3683.74,11.693,True,Bússola de Bordo 755,Honda Marine,Eletrônica Náutica,UN,True
+352,175,LHN-361210,1301.03,2094.66,24.494,True,Hélice de Alumínio 7706,Raymarine,Equipamentos,UN,True
+353,175,LHN-312680,217.41,371.77,17.533,True,Hélice de Alumínio 7706,Raymarine,Equipamentos,UN,True
+354,176,LHN-276763,286.03,543.46,10.396,True,Vela Mestra 1834,Lowrance,Manutenção,UN,True
+355,176,LHN-524292,246.67,407.01,1.353,True,Vela Mestra 1834,Lowrance,Manutenção,UN,True
+356,176,LHN-721129,257.88,410.03,10.006,True,Vela Mestra 1834,Lowrance,Manutenção,UN,True
+357,177,LHN-509603,158.58,323.5,27.801,True,GPS Plotter 8413,Volvo Penta,Âncoras,UN,True
+358,177,LHN-742849,157.67,274.35,33.362,True,GPS Plotter 8413,Volvo Penta,Âncoras,UN,True
+359,177,LHN-963869,1867.4,2446.29,32.545,True,GPS Plotter 8413,Volvo Penta,Âncoras,UN,True
+360,178,LHN-935624,819.91,1639.82,21.08,True,Cabo Náutico 6215,MaxSea,Coletes Salva-Vidas,M,True
+361,178,LHN-906593,674.3,1153.05,1.469,True,Cabo Náutico 6215,MaxSea,Coletes Salva-Vidas,M,True
+362,179,LHN-867120,843.41,1475.97,28.173,True,Bateria Náutica 4055,Honda Marine,Iluminação,UN,True
+363,179,LHN-182063,323.01,532.97,16.077,True,Bateria Náutica 4055,Honda Marine,Iluminação,UN,True
+364,180,LHN-132290,610.18,1049.51,37.93,True,Motor de Popa 1949,Lowrance,SEGURANÇA,UN,True
+365,180,LHN-830083,81.96,131.14,8.087,True,Motor de Popa 1949,Lowrance,SEGURANÇA,UN,True
+366,180,LHN-581742,1226.23,2697.71,31.939,True,Motor de Popa 1949,Lowrance,SEGURANÇA,UN,True
+367,181,LHN-653353,931.28,1294.48,4.198,False,Bateria Náutica 7848,Suzuki Marine,Pintura Marítima,UN,True
+368,181,LHN-929005,1959.49,2939.24,16.815,True,Bateria Náutica 7848,Suzuki Marine,Pintura Marítima,UN,True
+369,182,LHN-581935,1680.37,3696.81,28.518,True,Vela Mestra 3395,Mercury Marine,Manutenção,UN,True
+370,182,LHN-931968,877.81,1711.73,49.069,True,Vela Mestra 3395,Mercury Marine,Manutenção,UN,True
+371,183,LHN-455459,779.72,1309.93,18.287,True,Cabo Náutico 394,Yamaha Marine,Coletes Salva-Vidas,M,True
+372,183,LHN-545542,1826.55,2922.48,22.461,True,Cabo Náutico 394,Yamaha Marine,Coletes Salva-Vidas,M,True
+373,184,LHN-843761,1368.94,2162.93,47.031,True,Tinta Antifouling 8753,Suzuki Marine,Eletrônica Náutica,L,True
+374,185,LHN-407465,526.47,873.94,19.984,True,Motor de Popa 2690,Yamaha Marine,Hélices,UN,True
+375,186,LHN-968944,1321.68,2207.21,31.564,True,Motor de Popa 4710,Mercury Marine,Equipamentos,UN,True
+376,187,LHN-686992,591.12,1276.82,43.269,False,asdf,Marisul,Iluminação,PC,True
+377,187,LHN-134712,1335.71,1749.78,21.753,True,asdf,Marisul,Iluminação,PC,True
+378,187,LHN-023205,1757.1,3602.06,6.672,True,asdf,Marisul,Iluminação,PC,True
+379,188,LHN-918614,1828.86,3730.87,12.248,True,Sonar Transducer 9366,Garmin,SEGURANÇA,UN,True
+380,188,LHN-860529,566.56,1042.47,30.234,True,Sonar Transducer 9366,Garmin,SEGURANÇA,UN,True
+381,188,LHN-770929,1199.43,2111.0,41.101,True,Sonar Transducer 9366,Garmin,SEGURANÇA,UN,True
+382,189,LHN-617427,1216.96,2579.96,4.543,True,Cabo Náutico 8341,Mercury Marine,Pesca,M,True
+383,190,LHN-727978,35.63,64.49,24.458,True,GPS Plotter 3107,Volvo Penta,Motores,UN,True
+384,190,LHN-799545,472.39,751.1,28.963,True,GPS Plotter 3107,Volvo Penta,Motores,UN,True
+385,190,LHN-686875,562.71,849.69,6.299,True,GPS Plotter 3107,Volvo Penta,Motores,UN,True
+386,191,LHN-684919,763.84,1069.38,4.735,True,Bússola de Bordo 8959,Honda Marine,Acessórios de Convés,UN,True
+387,191,LHN-315705,1629.06,2704.24,27.112,True,Bússola de Bordo 8959,Honda Marine,Acessórios de Convés,UN,True
+388,191,LHN-503948,1377.27,2589.27,27.887,True,Bússola de Bordo 8959,Honda Marine,Acessórios de Convés,UN,True
+389,192,LHN-786463,1445.38,2211.43,36.281,True,GPS Plotter 649,Raymarine,Manutenção,UN,True
+390,192,LHN-193662,237.1,308.23,0.34,True,GPS Plotter 649,Raymarine,Manutenção,UN,True
+391,193,LHN-361341,840.91,1362.27,25.005,True,Cabo Náutico 8225,Yamaha Marine,Pesca,M,True
+392,194,LHN-364453,656.52,1043.87,27.646,True,Hélice de Alumínio 7846,Yamaha Marine,Âncoras,UN,True
+393,194,LHN-451869,1022.79,1380.77,14.648,True,Hélice de Alumínio 7846,Yamaha Marine,Âncoras,UN,True
+394,195,LHN-934253,1588.95,2510.54,4.944,True,Bateria Náutica 4683,Honda Marine,Motores,UN,True
+395,195,LHN-410593,1916.99,3373.9,49.131,True,Bateria Náutica 4683,Honda Marine,Motores,UN,True
+396,195,LHN-182662,316.36,677.01,44.587,True,Bateria Náutica 4683,Honda Marine,Motores,UN,True
+397,196,LHN-010722,761.86,1211.36,31.679,True,Colete Salva-Vidas 9616,Honda Marine,Acessórios de Convés,UN,True
+398,196,LHN-989289,508.09,960.29,1.692,True,Colete Salva-Vidas 9616,Honda Marine,Acessórios de Convés,UN,True
+399,197,LHN-061300,416.38,807.78,30.772,True,Motor de Popa 2175,Volvo Penta,Hélices,UN,True
+400,197,LHN-100901,1492.33,2611.58,7.648,True,Motor de Popa 2175,Volvo Penta,Hélices,UN,True
+401,198,LHN-809076,1695.57,2763.78,30.628,True,Hélice de Alumínio 8067,Lowrance,Equipamentos,UN,True
+402,198,LHN-584100,980.23,1676.19,11.125,True,Hélice de Alumínio 8067,Lowrance,Equipamentos,UN,True
+403,199,LHN-481254,1794.45,2942.9,17.405,True,Colete Salva-Vidas 2755,Honda Marine,Coletes Salva-Vidas,UN,False
+404,200,LHN-350986,183.55,271.65,14.202,True,Tinta Antifouling 4777,Lowrance,Âncoras,L,True
+405,201,LHN-852712,1669.27,2954.61,36.455,True,Sonar Transducer 2387,Mercury Marine,Equipamentos,UN,True
+406,201,LHN-758750,1966.74,4130.15,13.587,True,Sonar Transducer 2387,Mercury Marine,Equipamentos,UN,True
+407,202,LHN-151812,1081.26,2324.71,18.739,True,Cabo Náutico 5453,BR Náutica,Pintura Marítima,M,True
+408,202,LHN-057852,258.73,364.81,3.305,True,Cabo Náutico 5453,BR Náutica,Pintura Marítima,M,True
+409,203,LHN-568908,404.43,869.52,3.962,True,Sonar Transducer 1690,Honda Marine,Coletes Salva-Vidas,UN,True
+410,203,LHN-069697,169.81,368.49,44.955,True,Sonar Transducer 1690,Honda Marine,Coletes Salva-Vidas,UN,True
+411,203,LHN-353941,1846.32,2640.24,44.541,True,Sonar Transducer 1690,Honda Marine,Coletes Salva-Vidas,UN,True
+412,204,LHN-488283,1047.6,1770.44,44.275,True,Sonar Transducer 7487,Marisul,Eletrônica Náutica,UN,True
+413,204,LHN-185115,1145.39,2164.79,33.804,True,Sonar Transducer 7487,Marisul,Eletrônica Náutica,UN,True
+414,204,LHN-581875,296.15,387.96,42.21,False,Sonar Transducer 7487,Marisul,Eletrônica Náutica,UN,True
+415,205,LHN-510103,1375.14,2846.54,40.421,True,Cabo Náutico 6267,Lowrance,Hélices,M,True
+416,205,LHN-129604,627.88,1368.78,7.902,True,Cabo Náutico 6267,Lowrance,Hélices,M,True
+417,206,LHN-560136,1366.77,2063.82,41.662,True,Âncora Bruce 6320,Garmin,Equipamentos,UN,True
+418,206,LHN-604553,817.52,1487.89,42.903,True,Âncora Bruce 6320,Garmin,Equipamentos,UN,True
+419,207,LHN-222588,581.06,1191.17,35.752,True,Tinta Antifouling 179,Raymarine,Manutenção,L,True
+420,208,LHN-975882,1137.81,1752.23,46.339,True,Motor de Popa 9560,Honda Marine,Hélices,UN,True
+421,208,LHN-837701,1189.08,2199.8,12.039,True,Motor de Popa 9560,Honda Marine,Hélices,UN,True
+422,209,LHN-321929,368.09,806.12,16.814,True,Cabo Náutico 7626,BR Náutica,SEGURANÇA,M,True
+423,210,LHN-661051,161.94,259.1,5.975,True,João da Silva,BR Náutica,Equipamentos,UN,True
+424,210,LHN-144525,34.66,45.75,6.457,True,João da Silva,BR Náutica,Equipamentos,UN,True
+425,211,LHN-419128,1367.81,2038.04,48.59,True,Cabo Náutico 9796,BR Náutica,Velas,M,True
+426,212,LHN-306120,679.88,1094.61,21.886,True,Sonar Transducer 594,Simrad,Cabos,UN,True
+427,212,LHN-884225,1924.98,3734.46,21.258,True,Sonar Transducer 594,Simrad,Cabos,UN,True
+428,213,LHN-900424,1940.77,4017.39,49.438,True,Tinta Antifouling 8939,Simrad,Velas,L,True
+429,213,LHN-732771,50.53,90.45,18.501,True,Tinta Antifouling 8939,Simrad,Velas,L,True
+430,214,LHN-601702,252.79,376.66,26.246,True,Hélice de Alumínio 8208,Lowrance,Coletes Salva-Vidas,UN,True
+431,214,LHN-861962,1965.04,2554.55,17.895,True,Hélice de Alumínio 8208,Lowrance,Coletes Salva-Vidas,UN,True
+432,215,LHN-642548,636.0,884.04,40.351,True,Âncora Bruce 3775,Volvo Penta,Cabos,UN,True
+433,216,LHN-909874,1300.88,1860.26,29.034,True,Âncora Bruce 1018,Simrad,Eletrônica Náutica,UN,True
+434,216,LHN-560570,58.4,103.95,27.975,True,Âncora Bruce 1018,Simrad,Eletrônica Náutica,UN,True
+435,216,LHN-581142,1954.19,3107.16,19.536,True,Âncora Bruce 1018,Simrad,Eletrônica Náutica,UN,True
+436,217,LHN-567780,1253.03,2668.95,33.505,True,Bateria Náutica 5611,Lowrance,Acessórios de Convés,UN,True
+437,217,LHN-682884,415.67,860.44,10.126,True,Bateria Náutica 5611,Lowrance,Acessórios de Convés,UN,True
+438,218,LHN-844633,766.99,1004.76,30.966,True,Bússola de Bordo 4059,Simrad,Manutenção,UN,True
+439,219,LHN-368776,102.63,178.58,43.055,True,Colete Salva-Vidas 502,Marisul,Iluminação,UN,True
+440,219,LHN-417363,1814.55,2540.37,33.875,True,Colete Salva-Vidas 502,Marisul,Iluminação,UN,True
+441,219,LHN-971490,309.68,538.84,23.981,True,Colete Salva-Vidas 502,Marisul,Iluminação,UN,True
+442,220,LHN-715137,52.3,107.74,32.669,True,Tinta Antifouling 5225,Suzuki Marine,Hélices,L,True
+443,220,LHN-983578,1076.82,2293.63,35.896,True,Tinta Antifouling 5225,Suzuki Marine,Hélices,L,True
+444,221,LHN-113846,412.38,544.34,11.436,True,Sonar Transducer 4498,Lowrance,Iluminação,UN,True
+445,222,LHN-655066,1900.96,4125.08,15.688,True,GPS Plotter 4088,Garmin,Manutenção,UN,True
+446,222,LHN-058092,195.0,351.0,28.64,True,GPS Plotter 4088,Garmin,Manutenção,UN,True
+447,222,LHN-028747,1182.91,2117.41,0.165,True,GPS Plotter 4088,Garmin,Manutenção,UN,True
+448,223,LHN-618327,1362.23,2792.57,31.172,True,GPS Plotter 582,Yamaha Marine,Cabos,UN,True
+449,223,LHN-721593,1926.1,3486.24,9.297,True,GPS Plotter 582,Yamaha Marine,Cabos,UN,True
+450,223,LHN-014938,1042.85,1585.13,49.03,True,GPS Plotter 582,Yamaha Marine,Cabos,UN,True
+451,224,LHN-199057,101.83,162.93,14.531,True,Tinta Antifouling 1614,Simrad,Manutenção,L,True
+452,224,LHN-019271,679.95,1251.11,16.023,True,Tinta Antifouling 1614,Simrad,Manutenção,L,True
+453,225,LHN-047567,998.86,1408.39,20.177,True,Âncora Bruce 7480,Lowrance,Pesca,UN,True
+454,226,LHN-746991,1288.56,2770.4,6.389,True,Hélice de Alumínio 3756,Volvo Penta,Coletes Salva-Vidas,UN,True
+455,227,LHN-165898,1231.43,1834.83,30.607,True,Colete Salva-Vidas 3392,Suzuki Marine,Coletes Salva-Vidas,UN,True
+456,227,LHN-656937,635.94,1303.68,3.158,True,Colete Salva-Vidas 3392,Suzuki Marine,Coletes Salva-Vidas,UN,True
+457,227,LHN-169951,680.07,1414.55,12.703,True,Colete Salva-Vidas 3392,Suzuki Marine,Coletes Salva-Vidas,UN,True
+458,228,LHN-747816,309.58,495.33,1.815,True,Defensa Náutica 9651,BR Náutica,Hélices,PC,True
+459,229,LHN-824824,173.26,381.17,10.692,True,Bateria Náutica 5653,Garmin,Motores,UN,True
+460,229,LHN-669414,1280.57,2023.3,32.311,True,Bateria Náutica 5653,Garmin,Motores,UN,True
+461,229,LHN-861725,681.65,1315.58,9.496,True,Bateria Náutica 5653,Garmin,Motores,UN,True
+462,230,LHN-466784,1083.16,1700.56,46.378,True,Bússola de Bordo 4361,Volvo Penta,Pesca,UN,True
+463,231,LHN-058674,1243.85,2512.58,14.939,True,GPS Plotter 6626,BR Náutica,Hélices,UN,True
+464,231,LHN-413518,112.62,167.8,25.956,True,GPS Plotter 6626,BR Náutica,Hélices,UN,True
+465,231,LHN-920389,1050.9,1776.02,37.486,True,GPS Plotter 6626,BR Náutica,Hélices,UN,True
+466,232,LHN-982413,677.01,1469.11,20.611,True,Hélice de Alumínio 5784,Raymarine,Coletes Salva-Vidas,UN,True
+467,232,LHN-915171,415.27,718.42,30.837,True,Hélice de Alumínio 5784,Raymarine,Coletes Salva-Vidas,UN,True
+468,232,LHN-860026,322.66,593.69,2.352,True,Hélice de Alumínio 5784,Raymarine,Coletes Salva-Vidas,UN,True
+469,233,LHN-437165,1135.74,2123.83,17.328,True,Bateria Náutica 6163,Yamaha Marine,Âncoras,UN,True
+470,233,LHN-492462,89.53,183.54,17.774,True,Bateria Náutica 6163,Yamaha Marine,Âncoras,UN,True
+471,233,LHN-564628,1704.15,2897.06,19.572,True,Bateria Náutica 6163,Yamaha Marine,Âncoras,UN,True
+472,234,LHN-967867,1244.4,2364.36,28.655,True,Defensa Náutica 417,Suzuki Marine,Coletes Salva-Vidas,PC,True
+473,234,LHN-395551,745.55,1364.36,37.038,True,Defensa Náutica 417,Suzuki Marine,Coletes Salva-Vidas,PC,True
+474,234,LHN-025411,1523.87,2758.2,2.96,True,Defensa Náutica 417,Suzuki Marine,Coletes Salva-Vidas,PC,True
+475,235,LHN-371965,1643.0,2250.91,1.125,True,GPS Plotter 1842,Garmin,Âncoras,UN,True
+476,235,LHN-351398,1586.85,2951.54,49.649,True,GPS Plotter 1842,Garmin,Âncoras,UN,True
+477,236,LHN-340446,1931.6,3785.94,20.088,True,Bateria Náutica 9272,Garmin,Coletes Salva-Vidas,UN,True
+478,237,LHN-392733,1733.43,2565.48,45.324,True,Cabo Náutico 9307,BR Náutica,Pesca,M,True
+479,237,LHN-684552,508.63,691.74,49.641,True,Cabo Náutico 9307,BR Náutica,Pesca,M,True
+480,237,LHN-454719,574.79,850.69,34.176,True,Cabo Náutico 9307,BR Náutica,Pesca,M,True
+481,238,LHN-430132,1695.71,3425.33,28.626,True,Motor de Popa 4350,BR Náutica,Eletrônica Náutica,UN,True
+482,238,LHN-663270,623.78,1228.85,16.503,True,Motor de Popa 4350,BR Náutica,Eletrônica Náutica,UN,True
+483,238,LHN-019188,1460.02,2044.03,15.902,True,Motor de Popa 4350,BR Náutica,Eletrônica Náutica,UN,True
+484,239,LHN-499873,283.11,444.48,36.391,True,Colete Salva-Vidas 326,Mercury Marine,SEGURANÇA,UN,False
+485,239,LHN-093157,915.25,1610.84,25.812,True,Colete Salva-Vidas 326,Mercury Marine,SEGURANÇA,UN,False
+486,240,LHN-304058,950.74,1758.87,7.955,True,Bússola de Bordo 702,Simrad,Âncoras,UN,True
+487,241,LHN-483461,1417.68,2877.89,4.374,True,Defensa Náutica 5179,BR Náutica,Manutenção,PC,True
+488,242,LHN-952998,1445.93,3166.59,44.706,True,Âncora Bruce 7665,Suzuki Marine,Coletes Salva-Vidas,UN,True
+489,242,LHN-812881,854.85,1239.53,3.487,True,Âncora Bruce 7665,Suzuki Marine,Coletes Salva-Vidas,UN,True
+490,242,LHN-507774,1364.5,2428.81,13.151,True,Âncora Bruce 7665,Suzuki Marine,Coletes Salva-Vidas,UN,True
+491,243,LHN-233987,991.43,1655.69,5.29,True,Bússola de Bordo 994,Raymarine,Pesca,UN,True
+492,243,LHN-953756,1952.35,2694.24,25.707,False,Bússola de Bordo 994,Raymarine,Pesca,UN,True
+493,243,LHN-107544,817.68,1136.58,19.229,True,Bússola de Bordo 994,Raymarine,Pesca,UN,True
+494,244,LHN-961992,879.95,1707.1,37.91,True,Sonar Transducer 6595,BR Náutica,Iluminação,UN,True
+495,244,LHN-556782,1379.5,2993.52,11.599,True,Sonar Transducer 6595,BR Náutica,Iluminação,UN,True
+496,245,LHN-951102,841.7,1380.39,18.281,True,Cabo Náutico 7064,Lowrance,SEGURANÇA,M,True
+497,245,LHN-644232,223.44,420.07,20.643,True,Cabo Náutico 7064,Lowrance,SEGURANÇA,M,True
+498,246,LHN-033536,63.0,100.17,44.281,True,Motor de Popa 1365,Suzuki Marine,Equipamentos,UN,True
+499,247,LHN-125895,1305.96,1958.94,11.395,True,Defensa Náutica 7459,Simrad,Hélices,PC,True
+500,247,LHN-743980,924.55,1654.94,26.595,True,Defensa Náutica 7459,Simrad,Hélices,PC,True
+501,248,LHN-094597,1915.35,3045.41,7.11,True,Tinta Antifouling 3953,Marisul,Iluminação,L,True
+502,249,LHN-840831,768.93,1653.2,25.397,True,Motor de Popa 1606,Yamaha Marine,Manutenção,UN,True
+503,249,LHN-788708,1328.56,2245.27,37.825,True,Motor de Popa 1606,Yamaha Marine,Manutenção,UN,True
+504,249,LHN-019871,252.14,509.32,13.412,True,Motor de Popa 1606,Yamaha Marine,Manutenção,UN,True
+505,250,LHN-894118,1749.69,3796.83,20.177,True,Hélice de Alumínio 8577,Suzuki Marine,Âncoras,UN,True
+506,251,LHN-628818,1005.7,1307.41,46.575,True,Motor de Popa 6346,Yamaha Marine,Âncoras,UN,True
+507,251,LHN-721639,101.89,191.55,13.775,True,Motor de Popa 6346,Yamaha Marine,Âncoras,UN,True
+508,251,LHN-659284,1426.87,2240.19,4.667,True,Motor de Popa 6346,Yamaha Marine,Âncoras,UN,True
+509,252,LHN-545732,1957.56,2858.04,2.605,True,Defensa Náutica 9558,Yamaha Marine,Motores,PC,True
+510,253,LHN-381331,202.06,319.25,12.867,True,Bússola de Bordo 3611,Garmin,Coletes Salva-Vidas,UN,True
+511,253,LHN-811838,1145.09,1729.09,17.947,True,Bússola de Bordo 3611,Garmin,Coletes Salva-Vidas,UN,True
+512,254,LHN-612730,161.96,242.94,9.372,True,Bússola de Bordo 7825,Suzuki Marine,Eletrônica Náutica,UN,True
+513,254,LHN-924564,1303.4,2632.87,31.666,True,Bússola de Bordo 7825,Suzuki Marine,Eletrônica Náutica,UN,True
+514,254,LHN-692923,1427.22,2369.19,14.739,True,Bússola de Bordo 7825,Suzuki Marine,Eletrônica Náutica,UN,True
+515,255,LHN-719047,627.36,1166.89,36.127,True,Sonar Transducer 5593,Marisul,Pesca,UN,True
+516,255,LHN-325710,225.68,410.74,22.24,True,Sonar Transducer 5593,Marisul,Pesca,UN,True
+517,255,LHN-339593,521.01,1000.34,16.598,False,Sonar Transducer 5593,Marisul,Pesca,UN,True
+518,256,LHN-951480,941.75,1469.13,2.194,True,Tinta Antifouling 866,Honda Marine,Iluminação,L,True
+519,256,LHN-872048,77.57,122.56,12.257,True,Tinta Antifouling 866,Honda Marine,Iluminação,L,True
+520,256,LHN-911726,50.95,71.33,27.988,True,Tinta Antifouling 866,Honda Marine,Iluminação,L,True
+521,257,LHN-105883,1108.73,1707.44,45.865,True,Colete Salva-Vidas 8800,Simrad,Motores,UN,True
+522,257,LHN-639640,352.25,672.8,26.33,False,Colete Salva-Vidas 8800,Simrad,Motores,UN,True
+523,258,LHN-730053,1887.65,2812.6,10.503,True,Bateria Náutica 5523,Lowrance,Acessórios de Convés,UN,True
+524,258,LHN-838268,1593.2,3058.94,22.838,True,Bateria Náutica 5523,Lowrance,Acessórios de Convés,UN,True
+525,258,LHN-067210,1997.03,4353.53,20.608,True,Bateria Náutica 5523,Lowrance,Acessórios de Convés,UN,True
+526,259,LHN-132378,1591.18,2641.36,44.817,True,Bússola de Bordo 5451,Mercury Marine,Pesca,UN,True
+527,259,LHN-396779,844.57,1140.17,47.868,True,Bússola de Bordo 5451,Mercury Marine,Pesca,UN,True
+528,260,LHN-437436,1485.9,2392.3,46.841,True,Cliente Genérico,Mercury Marine,Iluminação,UN,True
+529,260,LHN-496708,1220.22,1891.34,41.435,True,Cliente Genérico,Mercury Marine,Iluminação,UN,True
+530,261,LHN-145691,635.13,1359.18,23.096,True,Âncora Bruce 7226,Yamaha Marine,Motores,UN,True
+531,261,LHN-412681,711.34,1052.78,35.27,True,Âncora Bruce 7226,Yamaha Marine,Motores,UN,True
+532,262,LHN-611591,128.94,232.09,31.485,True,Hélice de Alumínio 9192,Yamaha Marine,Manutenção,UN,True
+533,263,LHN-476482,950.62,1796.67,12.907,True,Tinta Antifouling 3557,Yamaha Marine,Iluminação,L,True
+534,264,LHN-872306,421.95,552.75,4.163,True,Bateria Náutica 1358,Volvo Penta,SEGURANÇA,UN,True
+535,264,LHN-710774,1881.91,3650.91,31.343,False,Bateria Náutica 1358,Volvo Penta,SEGURANÇA,UN,True
+536,264,LHN-866078,1526.49,3068.24,15.583,True,Bateria Náutica 1358,Volvo Penta,SEGURANÇA,UN,True
+537,265,LHN-623775,868.64,1824.14,5.887,True,Âncora Bruce 2284,Volvo Penta,Coletes Salva-Vidas,UN,True
+538,265,LHN-389293,1247.78,2358.3,32.054,False,Âncora Bruce 2284,Volvo Penta,Coletes Salva-Vidas,UN,True
+539,266,LHN-934318,1293.04,2650.73,40.77,False,Bússola de Bordo 9356,Marisul,Coletes Salva-Vidas,UN,True
+540,266,LHN-451355,1392.43,2436.75,17.615,True,Bússola de Bordo 9356,Marisul,Coletes Salva-Vidas,UN,True
+541,267,LHN-199507,241.67,335.92,30.116,False,GPS Plotter 475,Raymarine,Equipamentos,UN,True
+542,267,LHN-580775,199.72,419.41,3.575,True,GPS Plotter 475,Raymarine,Equipamentos,UN,True
+543,267,LHN-102355,764.59,1284.51,20.116,True,GPS Plotter 475,Raymarine,Equipamentos,UN,True
+544,268,LHN-717429,991.05,1536.13,24.508,True,Motor de Popa 9800,Suzuki Marine,Pesca,UN,True
+545,268,LHN-997213,299.42,518.0,13.414,True,Motor de Popa 9800,Suzuki Marine,Pesca,UN,True
+546,268,LHN-135511,1347.68,2466.25,43.392,True,Motor de Popa 9800,Suzuki Marine,Pesca,UN,True
+547,269,LHN-469107,1529.47,2508.33,1.311,True,Bússola de Bordo 1854,MaxSea,Velas,UN,True
+548,269,LHN-090721,553.83,924.9,14.259,True,Bússola de Bordo 1854,MaxSea,Velas,UN,True
+549,269,LHN-771162,1645.61,2616.52,16.368,True,Bússola de Bordo 1854,MaxSea,Velas,UN,True
+550,270,LHN-074098,318.87,538.89,19.605,False,Defensa Náutica 8531,Yamaha Marine,Iluminação,PC,True
+551,271,LHN-228257,1724.22,2758.75,36.829,True,Tinta Antifouling 5976,Mercury Marine,Iluminação,L,True
+552,272,LHN-750307,1922.93,2692.1,18.049,True,Cabo Náutico 4571,Garmin,Pintura Marítima,M,True
+553,272,LHN-703402,1316.88,2778.62,40.773,False,Cabo Náutico 4571,Garmin,Pintura Marítima,M,True
+554,272,LHN-031502,606.31,1121.67,15.855,True,Cabo Náutico 4571,Garmin,Pintura Marítima,M,True
+555,273,LHN-171003,90.48,172.82,42.686,True,Vela Mestra 3325,Honda Marine,Cabos,UN,True
+556,273,LHN-081972,1426.62,2254.06,19.058,True,Vela Mestra 3325,Honda Marine,Cabos,UN,True
+557,274,LHN-392486,1239.03,2378.94,28.77,True,Tinta Antifouling 5779,Yamaha Marine,Hélices,L,True
+558,274,LHN-427636,1246.27,1757.24,38.443,True,Tinta Antifouling 5779,Yamaha Marine,Hélices,L,True
+559,274,LHN-871349,444.56,893.57,36.934,True,Tinta Antifouling 5779,Yamaha Marine,Hélices,L,True
+560,275,LHN-075781,1597.39,2092.58,3.424,True,Cabo Náutico 5921,Mercury Marine,Manutenção,M,True
+561,275,LHN-886714,1833.04,3757.73,28.534,True,Cabo Náutico 5921,Mercury Marine,Manutenção,M,True
+562,275,LHN-041332,1643.78,2350.61,37.312,True,Cabo Náutico 5921,Mercury Marine,Manutenção,M,True
+563,276,LHN-790801,474.98,726.72,41.887,True,GPS Plotter 4567,Marisul,Acessórios de Convés,UN,True
+564,276,LHN-518587,1374.86,2570.99,14.588,True,GPS Plotter 4567,Marisul,Acessórios de Convés,UN,True
+565,277,LHN-435746,1800.36,3816.76,18.608,True,Cabo Náutico 3697,MaxSea,Coletes Salva-Vidas,M,True
+566,277,LHN-719568,143.82,283.33,28.278,True,Cabo Náutico 3697,MaxSea,Coletes Salva-Vidas,M,True
+567,277,LHN-908775,108.5,146.48,39.629,True,Cabo Náutico 3697,MaxSea,Coletes Salva-Vidas,M,True
+568,278,LHN-684856,348.5,731.85,32.932,True,Sonar Transducer 5470,Marisul,Iluminação,UN,True
+569,279,LHN-917820,144.44,207.99,18.772,True,Vela Mestra 8447,Suzuki Marine,Pesca,UN,True
+570,279,LHN-491289,1188.33,2364.78,0.538,True,Vela Mestra 8447,Suzuki Marine,Pesca,UN,True
+571,279,LHN-676634,1676.07,3536.51,10.036,True,Vela Mestra 8447,Suzuki Marine,Pesca,UN,True
+572,280,LHN-873226,1873.58,3372.44,46.848,True,Defensa Náutica 7532,Simrad,Pesca,PC,True
+573,281,LHN-015632,384.23,776.14,37.006,True,Vela Mestra 8105,Volvo Penta,Eletrônica Náutica,UN,True
+574,282,LHN-854499,1649.43,2342.19,40.626,True,Cabo Náutico 8086,Garmin,Equipamentos,M,True
+575,283,LHN-721865,1529.06,2522.95,28.938,True,Defensa Náutica 3209,Yamaha Marine,Hélices,PC,True
+576,283,LHN-292842,1787.1,2430.46,28.137,True,Defensa Náutica 3209,Yamaha Marine,Hélices,PC,True
+577,283,LHN-408172,1543.76,2670.7,23.484,True,Defensa Náutica 3209,Yamaha Marine,Hélices,PC,True
+578,284,LHN-645763,759.56,1420.38,44.19,True,Bússola de Bordo 7525,Lowrance,Eletrônica Náutica,UN,True
+579,284,LHN-484545,971.09,1495.48,17.789,True,Bússola de Bordo 7525,Lowrance,Eletrônica Náutica,UN,True
+580,285,LHN-195055,806.95,1589.69,32.053,True,Âncora Bruce 1131,Raymarine,Equipamentos,UN,True
+581,285,LHN-917244,886.56,1781.99,29.949,True,Âncora Bruce 1131,Raymarine,Equipamentos,UN,True
+582,286,LHN-412185,1409.15,2156.0,31.901,True,Bússola de Bordo 7461,Garmin,Eletrônica Náutica,UN,True
+583,286,LHN-359577,928.8,1532.52,3.67,True,Bússola de Bordo 7461,Garmin,Eletrônica Náutica,UN,True
+584,286,LHN-654340,839.47,1569.81,32.256,True,Bússola de Bordo 7461,Garmin,Eletrônica Náutica,UN,True
+585,287,LHN-583535,1324.81,2013.71,7.537,True,Âncora Bruce 4980,Volvo Penta,Eletrônica Náutica,UN,True
+586,288,LHN-916696,1635.5,2142.5,49.507,True,Vela Mestra 5566,Simrad,Hélices,UN,True
+587,288,LHN-980298,1116.24,2399.92,38.439,True,Vela Mestra 5566,Simrad,Hélices,UN,True
+588,289,LHN-913369,1473.04,3211.23,42.076,True,Motor de Popa 8515,Volvo Penta,Pintura Marítima,UN,True
+589,289,LHN-129395,883.7,1148.81,33.136,True,Motor de Popa 8515,Volvo Penta,Pintura Marítima,UN,True
+590,289,LHN-899497,835.95,1446.19,40.574,True,Motor de Popa 8515,Volvo Penta,Pintura Marítima,UN,True
+591,290,LHN-656185,1349.18,2199.16,34.458,True,Defensa Náutica 6113,Honda Marine,Equipamentos,PC,True
+592,290,LHN-788662,310.46,589.87,14.161,True,Defensa Náutica 6113,Honda Marine,Equipamentos,PC,True
+593,291,LHN-564110,1304.84,2583.58,28.335,True,GPS Plotter 4422,Honda Marine,Hélices,UN,True
+594,291,LHN-420141,964.74,1601.47,36.002,True,GPS Plotter 4422,Honda Marine,Hélices,UN,True
+595,292,LHN-448212,1270.29,1956.25,5.698,True,Vela Mestra 7242,Simrad,Hélices,UN,True
+596,293,LHN-037674,1450.7,2495.2,33.587,True,GPS Plotter 7173,BR Náutica,SEGURANÇA,UN,True
+597,293,LHN-861308,1160.18,1508.23,36.737,True,GPS Plotter 7173,BR Náutica,SEGURANÇA,UN,True
+598,293,LHN-468573,1247.0,1907.91,34.252,True,GPS Plotter 7173,BR Náutica,SEGURANÇA,UN,True
+599,294,LHN-702214,959.93,1785.47,9.842,True,Vela Mestra 5034,Garmin,Âncoras,UN,True
+600,294,LHN-618715,590.33,1056.69,34.859,True,Vela Mestra 5034,Garmin,Âncoras,UN,True
+601,294,LHN-692364,1196.3,2631.86,38.866,True,Vela Mestra 5034,Garmin,Âncoras,UN,True
+602,295,LHN-542912,1557.18,2133.34,19.463,True,Cabo Náutico 2105,Lowrance,Hélices,M,True
+603,295,LHN-924386,1201.41,2282.68,33.338,True,Cabo Náutico 2105,Lowrance,Hélices,M,True
+604,295,LHN-131725,310.74,621.48,17.881,True,Cabo Náutico 2105,Lowrance,Hélices,M,True
+605,296,LHN-718906,549.07,730.26,7.183,True,Vela Mestra 9794,MaxSea,Motores,UN,True
+606,297,LHN-408806,1661.56,2160.03,15.085,False,Tinta Antifouling 9136,Marisul,Hélices,L,True
+607,297,LHN-347725,1115.89,2276.42,4.476,True,Tinta Antifouling 9136,Marisul,Hélices,L,True
+608,298,LHN-462189,953.97,1612.21,13.037,True,Motor de Popa 2640,BR Náutica,Motores,UN,True
+609,298,LHN-899760,948.48,1498.6,17.585,True,Motor de Popa 2640,BR Náutica,Motores,UN,True
+610,299,LHN-827758,916.51,1191.46,36.165,True,Hélice de Alumínio 9238,Garmin,SEGURANÇA,UN,False
+611,299,LHN-062625,1427.64,2127.18,10.496,True,Hélice de Alumínio 9238,Garmin,SEGURANÇA,UN,False
+612,299,LHN-687366,1094.35,2363.8,39.357,True,Hélice de Alumínio 9238,Garmin,SEGURANÇA,UN,False
+613,300,LHN-292504,1763.87,3651.21,24.682,True,GPS Plotter 7543,Garmin,Cabos,UN,True
+614,301,LHN-806234,1022.55,2116.68,45.513,True,Bússola de Bordo 4621,Raymarine,Hélices,UN,True
+615,301,LHN-285203,1343.16,2256.51,27.666,True,Bússola de Bordo 4621,Raymarine,Hélices,UN,True
+616,301,LHN-906906,955.3,1920.15,41.4,True,Bússola de Bordo 4621,Raymarine,Hélices,UN,True
+617,302,LHN-492596,1011.13,1506.58,19.226,True,GPS Plotter 9135,Volvo Penta,Âncoras,UN,True
+618,302,LHN-117807,1343.98,2177.25,6.186,True,GPS Plotter 9135,Volvo Penta,Âncoras,UN,True
+619,303,LHN-871027,531.56,988.7,12.084,True,Bússola de Bordo 7024,Raymarine,Cabos,UN,True
+620,303,LHN-604235,1626.39,3138.93,0.353,True,Bússola de Bordo 7024,Raymarine,Cabos,UN,True
+621,303,LHN-122468,370.92,541.54,42.816,True,Bússola de Bordo 7024,Raymarine,Cabos,UN,True
+622,304,LHN-140436,707.73,1252.68,34.566,True,Hélice de Alumínio 7333,Simrad,Coletes Salva-Vidas,UN,True
+623,304,LHN-681853,993.82,1848.51,16.511,True,Hélice de Alumínio 7333,Simrad,Coletes Salva-Vidas,UN,True
+624,304,LHN-582104,1811.49,2409.28,6.088,True,Hélice de Alumínio 7333,Simrad,Coletes Salva-Vidas,UN,True
+625,305,LHN-192859,798.32,1556.72,20.645,True,Bateria Náutica 5556,Mercury Marine,Pintura Marítima,UN,True
+626,306,LHN-485454,1217.93,1705.1,37.118,True,Cabo Náutico 9175,Suzuki Marine,Eletrônica Náutica,M,True
+627,306,LHN-817855,443.58,638.76,6.991,True,Cabo Náutico 9175,Suzuki Marine,Eletrônica Náutica,M,True
+628,307,LHN-035936,1880.42,2933.46,7.013,True,Vela Mestra 6857,Mercury Marine,Eletrônica Náutica,UN,True
+629,308,LHN-134809,628.35,1049.34,30.334,True,Motor de Popa 1540,Lowrance,Acessórios de Convés,UN,True
+630,308,LHN-610716,1033.16,2076.65,6.266,True,Motor de Popa 1540,Lowrance,Acessórios de Convés,UN,True
+631,308,LHN-599912,1908.92,2538.86,22.889,True,Motor de Popa 1540,Lowrance,Acessórios de Convés,UN,True
+632,309,LHN-095344,1059.42,1472.59,7.245,True,Motor de Popa 4415,Raymarine,Manutenção,UN,True
+633,310,LHN-816734,757.59,1598.51,11.559,True,Vela Mestra 8489,Raymarine,Motores,UN,True
+634,310,LHN-670653,1352.81,2123.91,1.195,True,Vela Mestra 8489,Raymarine,Motores,UN,True
+635,311,LHN-206789,1983.4,2637.92,46.307,True,GPS Plotter 2249,Volvo Penta,Hélices,UN,True
+636,311,LHN-031013,323.1,704.36,8.329,True,GPS Plotter 2249,Volvo Penta,Hélices,UN,True
+637,311,LHN-014296,666.45,1006.34,14.18,True,GPS Plotter 2249,Volvo Penta,Hélices,UN,True
+638,312,LHN-698979,1235.16,2334.45,14.107,True,Âncora Bruce 831,Garmin,Pintura Marítima,UN,True
+639,312,LHN-574927,1522.42,2542.44,2.699,True,Âncora Bruce 831,Garmin,Pintura Marítima,UN,True
+640,312,LHN-843637,1214.52,2003.96,47.506,True,Âncora Bruce 831,Garmin,Pintura Marítima,UN,True
+641,313,LHN-544876,310.19,409.45,49.03,True,Colete Salva-Vidas 3456,Yamaha Marine,Velas,UN,True
+642,313,LHN-250832,1919.34,2706.27,47.616,True,Colete Salva-Vidas 3456,Yamaha Marine,Velas,UN,True
+643,313,LHN-020586,1979.44,2612.86,27.405,True,Colete Salva-Vidas 3456,Yamaha Marine,Velas,UN,True
+644,314,LHN-915311,1372.43,2127.27,26.137,True,Tinta Antifouling 2982,Garmin,Manutenção,L,True
+645,315,LHN-284589,1285.05,2300.24,42.175,True,Defensa Náutica 2949,Honda Marine,Velas,PC,True
+646,315,LHN-347611,1484.96,3118.42,29.048,True,Defensa Náutica 2949,Honda Marine,Velas,PC,True
+647,316,LHN-131621,302.48,432.55,43.208,True,Cabo Náutico 6564,Volvo Penta,Eletrônica Náutica,M,True
+648,316,LHN-381336,1382.76,2309.21,49.871,True,Cabo Náutico 6564,Volvo Penta,Eletrônica Náutica,M,True
+649,317,LHN-682824,1750.63,3063.6,6.388,True,Defensa Náutica 3153,Mercury Marine,Cabos,PC,True
+650,318,LHN-026498,303.58,637.52,15.402,True,Defensa Náutica 6926,Suzuki Marine,Equipamentos,PC,True
+651,318,LHN-281319,813.04,1317.12,34.717,True,Defensa Náutica 6926,Suzuki Marine,Equipamentos,PC,True
+652,318,LHN-850651,1701.01,3265.94,26.524,False,Defensa Náutica 6926,Suzuki Marine,Equipamentos,PC,True
+653,319,LHN-494029,1017.43,1821.2,31.473,True,Defensa Náutica 8553,Raymarine,Pesca,PC,True
+654,320,LHN-291655,475.35,689.26,8.806,True,Colete Salva-Vidas 7959,BR Náutica,Motores,UN,True
+655,320,LHN-752236,656.41,1089.64,11.571,True,Colete Salva-Vidas 7959,BR Náutica,Motores,UN,True
+656,321,LHN-609811,1447.78,3170.64,27.935,True,Colete Salva-Vidas 7573,Garmin,Velas,UN,True
+657,321,LHN-678117,483.94,909.81,0.824,True,Colete Salva-Vidas 7573,Garmin,Velas,UN,True
+658,322,LHN-479470,1777.94,3840.35,47.894,True,Bateria Náutica 2619,Garmin,Âncoras,UN,True
+659,322,LHN-816287,903.48,1282.94,40.286,True,Bateria Náutica 2619,Garmin,Âncoras,UN,True
+660,322,LHN-749348,1003.98,1997.92,21.983,True,Bateria Náutica 2619,Garmin,Âncoras,UN,True
+661,323,LHN-387803,1609.13,2526.33,7.035,True,Âncora Bruce 7053,Honda Marine,Coletes Salva-Vidas,UN,True
+662,323,LHN-449939,1158.17,2501.65,33.981,True,Âncora Bruce 7053,Honda Marine,Coletes Salva-Vidas,UN,True
+663,324,LHN-277318,1660.91,2491.36,48.682,True,Colete Salva-Vidas 5603,MaxSea,Velas,UN,True
+664,325,LHN-217887,132.36,272.66,28.325,True,Âncora Bruce 5388,BR Náutica,Eletrônica Náutica,UN,True
+665,326,LHN-173874,229.82,406.78,4.228,True,Defensa Náutica 824,Honda Marine,Pesca,PC,True
+666,327,LHN-554419,1352.12,1960.57,29.608,True,Sonar Transducer 4970,Marisul,Equipamentos,UN,True
+667,327,LHN-422108,866.22,1611.17,22.081,True,Sonar Transducer 4970,Marisul,Equipamentos,UN,True
+668,327,LHN-626693,407.72,872.52,4.5,True,Sonar Transducer 4970,Marisul,Equipamentos,UN,True
+669,328,LHN-584528,1964.46,2612.73,23.069,True,Vela Mestra 8368,MaxSea,Eletrônica Náutica,UN,True
+670,328,LHN-261846,982.24,1483.18,31.874,True,Vela Mestra 8368,MaxSea,Eletrônica Náutica,UN,True
+671,328,LHN-877214,729.07,1603.95,23.466,True,Vela Mestra 8368,MaxSea,Eletrônica Náutica,UN,True
+672,329,LHN-113894,127.71,172.41,27.433,True,Colete Salva-Vidas 3098,Volvo Penta,Eletrônica Náutica,UN,True
+673,329,LHN-047540,1309.06,2866.84,22.087,True,Colete Salva-Vidas 3098,Volvo Penta,Eletrônica Náutica,UN,True
+674,330,LHN-965695,918.82,1350.67,46.081,True,Bússola de Bordo 4659,Volvo Penta,Velas,UN,True
+675,331,LHN-260560,1741.92,3588.36,40.697,True,Bateria Náutica 5936,Yamaha Marine,Eletrônica Náutica,UN,True
+676,331,LHN-843270,1460.39,2979.2,46.534,True,Bateria Náutica 5936,Yamaha Marine,Eletrônica Náutica,UN,True
+677,332,LHN-470781,351.34,586.74,48.234,True,Bateria Náutica 9527,Mercury Marine,Eletrônica Náutica,UN,True
+678,333,LHN-854199,578.11,977.01,27.857,True,Bússola de Bordo 180,Mercury Marine,Eletrônica Náutica,UN,True
+679,333,LHN-548265,1229.21,2249.45,44.162,True,Bússola de Bordo 180,Mercury Marine,Eletrônica Náutica,UN,True
+680,333,LHN-471942,985.26,1389.22,17.71,True,Bússola de Bordo 180,Mercury Marine,Eletrônica Náutica,UN,True
+681,334,LHN-390665,725.4,1066.34,25.461,True,Tinta Antifouling 3404,Lowrance,Âncoras,L,True
+682,334,LHN-122922,1865.23,3599.89,36.472,True,Tinta Antifouling 3404,Lowrance,Âncoras,L,True
+683,335,LHN-246918,1944.86,2956.19,31.629,True,Vela Mestra 8049,Marisul,Pintura Marítima,UN,True
+684,335,LHN-581685,554.39,720.71,46.615,True,Vela Mestra 8049,Marisul,Pintura Marítima,UN,True
+685,335,LHN-430949,408.46,616.77,16.393,True,Vela Mestra 8049,Marisul,Pintura Marítima,UN,True
+686,336,LHN-569640,1941.79,2970.94,13.765,True,Bateria Náutica 2400,Garmin,Equipamentos,UN,True
+687,337,LHN-862057,758.84,1168.61,19.554,True,Cabo Náutico 9048,Lowrance,Velas,M,True
+688,337,LHN-021213,1871.06,3648.57,28.065,True,Cabo Náutico 9048,Lowrance,Velas,M,True
+689,337,LHN-841359,1422.23,2844.46,34.775,True,Cabo Náutico 9048,Lowrance,Velas,M,True
+690,338,LHN-478550,1206.32,2340.26,14.311,True,Cabo Náutico 5724,MaxSea,Hélices,M,True
+691,338,LHN-102830,1595.12,2328.88,6.662,True,Cabo Náutico 5724,MaxSea,Hélices,M,True
+692,339,LHN-727967,1090.72,1636.08,18.889,True,Sonar Transducer 6256,Raymarine,Acessórios de Convés,UN,True
+693,340,LHN-793303,1825.25,2719.62,25.058,True,GPS Pltoter 3205,Suzuki Marine,Pesca,UN,True
+694,340,LHN-954975,847.26,1330.2,23.342,True,GPS Pltoter 3205,Suzuki Marine,Pesca,UN,True
+695,340,LHN-271246,1455.66,2518.29,43.557,True,GPS Pltoter 3205,Suzuki Marine,Pesca,UN,True
+696,341,LHN-556102,1687.55,2868.84,32.003,True,Vela Mestra 7122,Yamaha Marine,Manutenção,UN,True
+697,341,LHN-937664,1762.22,2643.33,8.355,True,Vela Mestra 7122,Yamaha Marine,Manutenção,UN,True
+698,342,LHN-138558,805.55,1208.32,13.506,True,asdf,MaxSea,Manutenção,M,True
+699,342,LHN-466226,1908.64,2481.23,27.601,True,asdf,MaxSea,Manutenção,M,True
+700,342,LHN-073013,782.26,1282.91,45.16,True,asdf,MaxSea,Manutenção,M,True
+701,343,LHN-288157,656.31,1036.97,45.505,True,Bússola de Bordo 2338,Lowrance,Pintura Marítima,UN,True
+702,344,LHN-037625,1159.0,1993.48,49.229,False,Âncora Bruce 3286,Garmin,SEGURANÇA,UN,True
+703,344,LHN-233989,1053.69,2002.01,5.293,True,Âncora Bruce 3286,Garmin,SEGURANÇA,UN,True
+704,345,LHN-320688,934.82,1458.32,32.211,True,Vela Mestra 1741,BR Náutica,Âncoras,UN,True
+705,345,LHN-189341,783.77,1034.58,27.865,True,Vela Mestra 1741,BR Náutica,Âncoras,UN,True
+706,345,LHN-704061,1446.75,2734.36,3.299,True,Vela Mestra 1741,BR Náutica,Âncoras,UN,True
+707,346,LHN-413832,213.73,314.18,30.255,True,GPS Plotter 830,Raymarine,Âncoras,UN,True
+708,346,LHN-759550,325.28,556.23,4.572,True,GPS Plotter 830,Raymarine,Âncoras,UN,True
+709,347,LHN-445446,670.76,1408.6,8.254,True,Bússola de Bordo 9956,Lowrance,Motores,UN,True
+710,348,LHN-649334,1973.67,3513.13,47.618,True,Âncora Bruce 1231,Yamaha Marine,Equipamentos,UN,True
+711,348,LHN-242413,591.56,1200.87,46.715,True,Âncora Bruce 1231,Yamaha Marine,Equipamentos,UN,True
+712,349,LHN-242043,943.33,1839.49,32.187,True,Bateria Náutica 5090,Marisul,Cabos,UN,True
+713,350,LHN-471920,1259.96,2771.91,38.961,True,Motor de Popa 1007,MaxSea,Pesca,UN,True
+714,350,LHN-777146,702.75,1370.36,25.795,True,Motor de Popa 1007,MaxSea,Pesca,UN,True
+715,350,LHN-049529,1497.25,2036.26,43.19,True,Motor de Popa 1007,MaxSea,Pesca,UN,True
+716,351,LHN-829187,480.1,715.35,5.931,True,GPS Plotter 845,Simrad,Pesca,UN,True
+717,351,LHN-305434,391.08,555.33,40.782,True,GPS Plotter 845,Simrad,Pesca,UN,True
+718,352,LHN-448842,1349.4,2091.57,0.948,True,Âncora Bruce 7571,Volvo Penta,Equipamentos,UN,True
+719,352,LHN-573243,413.25,590.95,40.875,True,Âncora Bruce 7571,Volvo Penta,Equipamentos,UN,True
+720,352,LHN-975312,1534.55,3314.63,7.476,True,Âncora Bruce 7571,Volvo Penta,Equipamentos,UN,True
+721,353,LHN-119475,1119.23,1947.46,3.527,True,Cabo Náutico 2862,Simrad,Hélices,M,True
+722,354,LHN-541482,449.19,696.24,37.757,True,Bússola de Bordo 1372,Marisul,Eletrônica Náutica,UN,True
+723,355,LHN-075276,770.33,1586.88,13.741,True,Cabo Náutico 1755,Garmin,Cabos,M,True
+724,356,LHN-447440,1425.05,2622.09,19.103,True,Vela Mestra 1319,Volvo Penta,Manutenção,UN,True
+725,356,LHN-980966,835.3,1102.6,48.347,True,Vela Mestra 1319,Volvo Penta,Manutenção,UN,True
+726,356,LHN-338726,110.59,218.97,13.187,True,Vela Mestra 1319,Volvo Penta,Manutenção,UN,True
+727,357,LHN-310750,664.88,1343.06,47.752,True,NAO INFORMADO,Volvo Penta,Âncoras,UN,True
+728,357,LHN-558736,1151.84,2407.35,13.32,True,NAO INFORMADO,Volvo Penta,Âncoras,UN,True
+729,357,LHN-035301,466.79,970.92,18.959,True,NAO INFORMADO,Volvo Penta,Âncoras,UN,True
+730,358,LHN-302416,281.97,391.94,17.272,True,Motor de Popa 553,Yamaha Marine,Hélices,UN,True
+731,359,LHN-925781,1428.83,2414.72,27.184,True,Hélice de Alumínio 8562,Mercury Marine,Cabos,UN,True
+732,360,LHN-051460,972.62,1274.13,19.024,True,Bateria Náutica 2558,Raymarine,Âncoras,UN,True
+733,361,LHN-766292,1161.78,1533.55,49.438,True,Bússola de Bordo 3152,Simrad,Pintura Marítima,UN,False
+734,361,LHN-429246,1748.65,3479.81,17.199,False,Bússola de Bordo 3152,Simrad,Pintura Marítima,UN,False
+735,361,LHN-835642,298.5,617.9,14.447,True,Bússola de Bordo 3152,Simrad,Pintura Marítima,UN,False
+736,362,LHN-876961,85.78,174.99,48.403,True,Âncora Bruce 3524,Lowrance,Manutenção,UN,True
+737,362,LHN-109562,1875.8,2907.49,20.008,True,Âncora Bruce 3524,Lowrance,Manutenção,UN,True
+738,363,LHN-862487,370.04,769.68,30.538,True,Motor de Popa 1279,BR Náutica,Coletes Salva-Vidas,UN,True
+739,363,LHN-610194,1134.2,1621.91,1.417,True,Motor de Popa 1279,BR Náutica,Coletes Salva-Vidas,UN,True
+740,364,LHN-423180,1487.53,2350.3,27.776,True,Vela Mestra 4634,Lowrance,Coletes Salva-Vidas,UN,True
+741,364,LHN-501612,1283.76,2464.82,14.205,True,Vela Mestra 4634,Lowrance,Coletes Salva-Vidas,UN,True
+742,365,LHN-375163,1245.16,2179.03,38.856,True,Sonar Transducer 455,Volvo Penta,Pintura Marítima,UN,True
+743,366,LHN-805041,1667.93,2785.44,19.788,True,Bússola de Bordo 1762,Volvo Penta,Velas,UN,True
+744,366,LHN-180163,1626.98,2928.56,24.637,True,Bússola de Bordo 1762,Volvo Penta,Velas,UN,True
+745,366,LHN-545453,56.65,89.51,42.32,True,Bússola de Bordo 1762,Volvo Penta,Velas,UN,True
+746,367,LHN-383027,977.68,1759.82,10.913,True,Sonar Transducer 4574,Suzuki Marine,Coletes Salva-Vidas,UN,True
+747,368,LHN-770782,1592.47,3184.94,24.968,True,Cabo Náutico 7039,Mercury Marine,Pintura Marítima,M,True
+748,368,LHN-621446,639.67,1049.06,41.029,True,Cabo Náutico 7039,Mercury Marine,Pintura Marítima,M,True
+749,368,LHN-278783,1041.81,1364.77,29.666,True,Cabo Náutico 7039,Mercury Marine,Pintura Marítima,M,True
+750,369,LHN-467801,476.97,868.09,16.239,True,Hélice de Alumínio 393,Volvo Penta,Coletes Salva-Vidas,UN,True
+751,369,LHN-279704,1105.25,1956.29,23.88,True,Hélice de Alumínio 393,Volvo Penta,Coletes Salva-Vidas,UN,True
+752,370,LHN-315245,1331.94,1997.91,25.122,True,Tinta Antifouling 5865,MaxSea,Velas,L,True
+753,370,LHN-940190,1555.05,3250.05,33.118,True,Tinta Antifouling 5865,MaxSea,Velas,L,True
+754,371,LHN-535388,1684.06,2879.74,29.977,True,Motor de Popa 4088,BR Náutica,Âncoras,UN,True
+755,372,LHN-743134,1909.16,2481.91,2.772,True,Vela Mestra 500,Volvo Penta,SEGURANÇA,UN,True
+756,373,LHN-200618,1671.03,2189.05,35.102,True,Cabo Náutico 2300,Mercury Marine,Cabos,M,True
+757,373,LHN-106677,494.32,894.72,3.331,True,Cabo Náutico 2300,Mercury Marine,Cabos,M,True
+758,373,LHN-759729,1940.31,2929.87,46.172,True,Cabo Náutico 2300,Mercury Marine,Cabos,M,True
+759,374,LHN-035116,827.34,1563.67,32.874,True,Âncora Bruce 9527,Lowrance,Pintura Marítima,UN,True
+760,374,LHN-546099,1682.21,3179.38,13.282,True,Âncora Bruce 9527,Lowrance,Pintura Marítima,UN,True
+761,374,LHN-156891,1404.09,1825.32,34.718,True,Âncora Bruce 9527,Lowrance,Pintura Marítima,UN,True
+762,375,LHN-345841,1969.13,3721.66,18.159,True,Sonar Transducer 3481,Raymarine,Cabos,UN,True
+763,375,LHN-870744,887.51,1730.64,17.663,True,Sonar Transducer 3481,Raymarine,Cabos,UN,True
+764,376,LHN-395492,752.29,1391.74,9.908,True,Defensa Náutica 7831,Raymarine,Velas,PC,True
+765,377,LHN-403349,1892.35,3936.09,0.409,True,Cabo Náutico 5117,Lowrance,Hélices,M,True
+766,377,LHN-866836,1890.52,4026.81,5.338,True,Cabo Náutico 5117,Lowrance,Hélices,M,True
+767,377,LHN-942463,354.3,736.94,49.996,True,Cabo Náutico 5117,Lowrance,Hélices,M,True
+768,378,LHN-699082,1134.85,1759.02,0.291,True,Cabo Náutico 5157,Raymarine,Pintura Marítima,M,True
+769,378,LHN-965787,53.1,113.1,37.063,True,Cabo Náutico 5157,Raymarine,Pintura Marítima,M,True
+770,379,LHN-636680,24.66,36.99,19.043,True,Bateria Náutica 3343,Yamaha Marine,Velas,UN,True
+771,379,LHN-824348,362.45,699.53,16.911,True,Bateria Náutica 3343,Yamaha Marine,Velas,UN,True
+772,379,LHN-994013,1552.78,2546.56,9.254,True,Bateria Náutica 3343,Yamaha Marine,Velas,UN,True
+773,380,LHN-784860,678.78,1486.53,5.979,True,Sonar Transducer 8538,BR Náutica,Pintura Marítima,UN,True
+774,381,LHN-829588,783.65,1042.25,44.873,False,Cabo Náutico 9083,BR Náutica,Velas,M,True
+775,381,LHN-643594,961.58,1432.75,22.689,True,Cabo Náutico 9083,BR Náutica,Velas,M,True
+776,382,LHN-357278,1673.53,2342.94,31.407,False,Cabo Náutico 4851,Raymarine,Hélices,M,True
+777,382,LHN-044999,32.76,54.38,38.115,True,Cabo Náutico 4851,Raymarine,Hélices,M,True
+778,382,LHN-044085,122.46,222.88,25.348,True,Cabo Náutico 4851,Raymarine,Hélices,M,True
+779,383,LHN-604492,46.73,61.22,5.055,True,Sonar Transducer 7919,Simrad,Hélices,UN,True
+780,383,LHN-065674,145.17,190.17,32.97,True,Sonar Transducer 7919,Simrad,Hélices,UN,True
+781,384,LHN-834456,461.07,705.44,32.548,True,Bateria Náutica 684,BR Náutica,Hélices,UN,True
+782,384,LHN-048879,726.4,1205.82,23.154,True,Bateria Náutica 684,BR Náutica,Hélices,UN,True
+783,385,LHN-400600,1438.45,2301.52,41.285,True,GPS Plotter 5137,BR Náutica,Equipamentos,UN,True
+784,386,LHN-810696,1243.0,1752.63,26.771,True,Sonar Transducer 9061,Simrad,Velas,UN,True
+785,386,LHN-881098,333.96,450.85,21.362,True,Sonar Transducer 9061,Simrad,Velas,UN,True
+786,387,LHN-186798,195.52,269.82,34.668,True,Cabo Náutico 6511,Volvo Penta,Motores,M,True
+787,387,LHN-872089,164.54,304.4,49.795,True,Cabo Náutico 6511,Volvo Penta,Motores,M,True
+788,387,LHN-749820,515.12,736.62,16.93,True,Cabo Náutico 6511,Volvo Penta,Motores,M,True
+789,388,LHN-932798,397.89,815.67,0.652,True,Cabo Náutico 8945,Honda Marine,Iluminação,M,True
+790,388,LHN-253749,1990.51,3901.4,7.387,True,Cabo Náutico 8945,Honda Marine,Iluminação,M,True
+791,388,LHN-518409,1626.55,3334.43,18.391,True,Cabo Náutico 8945,Honda Marine,Iluminação,M,True
+792,389,LHN-533747,275.2,388.03,41.463,True,Motor de Popa 5331,Marisul,Hélices,UN,True
+793,389,LHN-741648,818.83,1310.13,42.769,True,Motor de Popa 5331,Marisul,Hélices,UN,True
+794,389,LHN-683367,920.99,1970.92,10.849,True,Motor de Popa 5331,Marisul,Hélices,UN,True
+795,390,LHN-429428,813.97,1245.37,23.966,True,Defensa Náutica 3955,Garmin,Manutenção,PC,True
+796,391,LHN-462198,1008.25,1572.87,49.513,True,Bússola de Bordo 5574,Raymarine,Cabos,UN,True
+797,391,LHN-196330,64.85,103.11,41.601,True,Bússola de Bordo 5574,Raymarine,Cabos,UN,True
+798,392,LHN-800943,1403.74,2161.76,13.093,False,Tinta Antifouling 3067,Marisul,Acessórios de Convés,L,True
+799,392,LHN-354919,266.59,487.86,11.304,True,Tinta Antifouling 3067,Marisul,Acessórios de Convés,L,True
+800,392,LHN-672540,75.29,153.59,26.686,True,Tinta Antifouling 3067,Marisul,Acessórios de Convés,L,True
+801,393,LHN-517796,529.6,1075.09,6.55,True,Hélice de Alumínio 2428,Mercury Marine,Equipamentos,UN,True
+802,394,LHN-560155,969.45,1686.84,25.909,True,Sonar Transducer 2625,Volvo Penta,Velas,UN,True
+803,394,LHN-237835,1633.22,2809.14,35.248,True,Sonar Transducer 2625,Volvo Penta,Velas,UN,True
+804,394,LHN-629884,794.56,1183.89,1.302,True,Sonar Transducer 2625,Volvo Penta,Velas,UN,True
+805,395,LHN-076205,1910.08,2540.41,22.946,False,Vela Mestra 9165,Yamaha Marine,Pesca,UN,True
+806,396,LHN-981462,694.16,964.88,8.591,True,Bússola de Bordo 8014,Honda Marine,Motores,UN,True
+807,397,LHN-743815,301.49,431.13,42.698,True,GPS Plotter 3411,BR Náutica,Pintura Marítima,UN,False
+808,398,LHN-174227,255.95,353.21,4.832,True,Âncora Bruce 4713,Mercury Marine,Coletes Salva-Vidas,UN,True
+809,399,LHN-559862,1603.98,3143.8,8.805,True,Hélice de Alumínio 9811,Honda Marine,Cabos,UN,True
+810,399,LHN-017277,718.25,1371.86,12.927,True,Hélice de Alumínio 9811,Honda Marine,Cabos,UN,True
+811,400,LHN-697411,1754.93,2527.1,39.012,True,Vela Mestra 4667,Yamaha Marine,Pesca,UN,True
+812,401,LHN-486654,91.69,151.29,43.606,False,Bússola de Bordo 4473,Raymarine,Eletrônica Náutica,UN,False
+813,401,LHN-234166,1757.3,3479.45,14.153,True,Bússola de Bordo 4473,Raymarine,Eletrônica Náutica,UN,False
+814,402,LHN-676092,1912.53,2696.67,9.243,True,Tinta Antifouling 3241,Garmin,Velas,L,True
+815,403,LHN-587279,1146.63,2213.0,30.542,True,Vela Mestra 807,Suzuki Marine,Acessórios de Convés,UN,True
+816,404,LHN-432994,1525.59,3142.72,21.952,True,Bússola de Bordo 679,Marisul,Hélices,UN,True
+817,405,LHN-973753,1448.1,1954.94,42.271,True,Bateria Náutica 9124,Marisul,Velas,UN,False
+818,405,LHN-214973,1196.78,2561.11,11.753,True,Bateria Náutica 9124,Marisul,Velas,UN,False
+819,406,LHN-614423,1218.43,2643.99,21.364,True,Motor de Popa 6404,Simrad,SEGURANÇA,UN,True
+820,406,LHN-249387,1325.02,1735.78,12.162,True,Motor de Popa 6404,Simrad,SEGURANÇA,UN,True
+821,406,LHN-359056,1478.63,2513.67,23.348,True,Motor de Popa 6404,Simrad,SEGURANÇA,UN,True
+822,407,LHN-339516,157.24,257.87,41.555,True,Motor de Popa 3225,Lowrance,SEGURANÇA,UN,True
+823,408,LHN-775039,1464.38,2460.16,18.394,True,Sonar Transducer 7193,Simrad,Eletrônica Náutica,UN,True
+824,408,LHN-127008,343.01,500.79,20.171,True,Sonar Transducer 7193,Simrad,Eletrônica Náutica,UN,True
+825,408,LHN-511507,1290.8,1742.58,42.505,True,Sonar Transducer 7193,Simrad,Eletrônica Náutica,UN,True
+826,409,LHN-115271,672.51,1042.39,32.871,True,Hélice de Alumínio 9928,Simrad,Manutenção,UN,True
+827,409,LHN-368112,1963.85,3554.57,27.138,True,Hélice de Alumínio 9928,Simrad,Manutenção,UN,True
+828,410,LHN-391369,1727.4,3368.43,9.622,True,Vela Mestra 207,Marisul,Hélices,UN,True
+829,410,LHN-194601,1328.29,2736.28,23.675,True,Vela Mestra 207,Marisul,Hélices,UN,True
+830,411,LHN-134362,1493.02,2149.95,36.474,True,Motor de Popa 684,Simrad,Cabos,UN,True
+831,411,LHN-615511,865.32,1462.39,8.434,True,Motor de Popa 684,Simrad,Cabos,UN,True
+832,411,LHN-112073,860.55,1858.79,8.045,True,Motor de Popa 684,Simrad,Cabos,UN,True
+833,412,LHN-693851,27.44,54.33,8.017,True,Motor de Popa 6647,Honda Marine,Equipamentos,UN,True
+834,412,LHN-984957,72.11,98.79,11.679,True,Motor de Popa 6647,Honda Marine,Equipamentos,UN,True
+835,413,LHN-568799,490.25,656.94,0.616,True,Cabo Náutico 5471,Yamaha Marine,Coletes Salva-Vidas,M,True
+836,413,LHN-790634,1907.12,3757.03,23.548,True,Cabo Náutico 5471,Yamaha Marine,Coletes Salva-Vidas,M,True
+837,414,LHN-622042,652.73,848.55,35.883,True,Âncora Bruce 5302,Garmin,Pesca,UN,True
+838,414,LHN-825943,1286.35,2379.75,37.951,True,Âncora Bruce 5302,Garmin,Pesca,UN,True
+839,415,LHN-952863,1488.57,3036.68,42.728,True,Bateria Náutica 6140,Honda Marine,Velas,UN,True
+840,416,LHN-630683,1929.81,3049.1,3.957,True,Tinta Antifouling 9500,Yamaha Marine,Hélices,L,True
+841,416,LHN-141578,1942.92,3516.69,10.886,True,Tinta Antifouling 9500,Yamaha Marine,Hélices,L,True
+842,417,LHN-256482,581.18,912.45,13.59,True,Bússola de Bordo 6310,Marisul,Acessórios de Convés,UN,True
+843,417,LHN-218363,1869.55,2953.89,20.869,True,Bússola de Bordo 6310,Marisul,Acessórios de Convés,UN,True
+844,417,LHN-874108,1367.96,2462.33,45.682,True,Bússola de Bordo 6310,Marisul,Acessórios de Convés,UN,True
+845,418,LHN-433136,1270.98,1753.95,41.357,True,Tinta Antifouling 6959,BR Náutica,Coletes Salva-Vidas,L,True
+846,419,LHN-571657,844.66,1326.12,32.786,True,Defensa Náutica 9143,Lowrance,Equipamentos,PC,True
+847,420,LHN-719451,273.05,390.46,20.356,True,Colete Salva-Vidas 6879,Raymarine,Hélices,UN,True
+848,420,LHN-638762,1189.19,1760.0,12.882,True,Colete Salva-Vidas 6879,Raymarine,Hélices,UN,True
+849,421,LHN-934721,264.76,383.9,11.779,True,Hélice de Alumínio 314,MaxSea,Equipamentos,UN,True
+850,421,LHN-960672,280.09,450.94,46.011,True,Hélice de Alumínio 314,MaxSea,Equipamentos,UN,True
+851,422,LHN-662962,1584.21,2392.16,34.744,True,Sonar Transducer 7193,BR Náutica,Pesca,UN,True
+852,422,LHN-300953,1160.94,2066.47,49.506,True,Sonar Transducer 7193,BR Náutica,Pesca,UN,True
+853,423,LHN-578645,121.15,258.05,30.886,True,GPS Plotter 5583,Honda Marine,Coletes Salva-Vidas,UN,True
+854,424,LHN-825766,1437.74,3163.03,29.33,True,Colete Salva-Vidas 8874,Raymarine,SEGURANÇA,UN,True
+855,424,LHN-658377,135.78,256.62,44.736,True,Colete Salva-Vidas 8874,Raymarine,SEGURANÇA,UN,True
+856,425,LHN-760445,1639.62,2787.35,4.574,True,Bateria Náutica 2254,MaxSea,Equipamentos,UN,True
+857,425,LHN-743801,1318.83,2426.65,9.96,True,Bateria Náutica 2254,MaxSea,Equipamentos,UN,True
+858,426,LHN-516947,1293.97,1953.89,33.159,True,Motor de Popa 1296,Mercury Marine,SEGURANÇA,UN,True
+859,426,LHN-195215,1038.0,1826.88,39.744,True,Motor de Popa 1296,Mercury Marine,SEGURANÇA,UN,True
+860,426,LHN-334696,1157.61,1771.14,14.879,True,Motor de Popa 1296,Mercury Marine,SEGURANÇA,UN,True
+861,427,LHN-708270,486.4,948.48,47.734,True,Âncora Bruce 5445,Suzuki Marine,Equipamentos,UN,True
+862,428,LHN-028460,1470.24,3102.21,28.238,True,Sonar Transducer 8490,Lowrance,Iluminação,UN,True
+863,428,LHN-926760,980.68,2108.46,21.147,False,Sonar Transducer 8490,Lowrance,Iluminação,UN,True
+864,428,LHN-949202,1372.33,2552.53,8.851,True,Sonar Transducer 8490,Lowrance,Iluminação,UN,True
+865,429,LHN-721969,764.96,1629.36,38.56,True,GPS Plotter 3591,Honda Marine,Iluminação,UN,True
+866,430,LHN-620395,396.78,738.01,28.786,True,GPS Plotter 9763,Raymarine,Pintura Marítima,UN,True
+867,430,LHN-029203,1577.71,2382.34,35.686,True,GPS Plotter 9763,Raymarine,Pintura Marítima,UN,True
+868,430,LHN-414152,150.93,246.02,29.496,True,GPS Plotter 9763,Raymarine,Pintura Marítima,UN,True
+869,431,LHN-937943,1980.04,3742.28,49.313,True,Hélice de Alumínio 571,Yamaha Marine,Hélices,UN,True
+870,431,LHN-333768,813.64,1480.82,4.64,True,Hélice de Alumínio 571,Yamaha Marine,Hélices,UN,True
+871,431,LHN-679441,1629.19,2753.33,24.772,True,Hélice de Alumínio 571,Yamaha Marine,Hélices,UN,True
+872,432,LHN-588613,1938.06,4128.07,22.024,True,Defensa Náutica 2623,Yamaha Marine,Eletrônica Náutica,PC,True
+873,432,LHN-325504,552.67,1077.71,33.248,True,Defensa Náutica 2623,Yamaha Marine,Eletrônica Náutica,PC,True
+874,432,LHN-504244,1846.6,3157.69,16.401,True,Defensa Náutica 2623,Yamaha Marine,Eletrônica Náutica,PC,True
+875,433,LHN-422153,556.17,951.05,47.892,True,Colete Salva-Vidas 2045,Yamaha Marine,Hélices,UN,True
+876,434,LHN-251147,486.9,1041.97,28.253,True,Defensa Náutica 5998,Lowrance,Velas,PC,True
+877,435,LHN-794140,560.3,1019.75,14.456,True,Bateria Náutica 5770,Mercury Marine,Cabos,UN,True
+878,435,LHN-487687,1128.57,2291.0,35.699,True,Bateria Náutica 5770,Mercury Marine,Cabos,UN,True
+879,435,LHN-063004,1999.29,2619.07,30.461,True,Bateria Náutica 5770,Mercury Marine,Cabos,UN,True
+880,436,LHN-593481,595.94,1251.47,37.463,True,Bateria Náutica 6370,MaxSea,Velas,UN,True
+881,436,LHN-023896,1310.44,2109.81,46.608,True,Bateria Náutica 6370,MaxSea,Velas,UN,True
+882,436,LHN-996656,180.32,333.59,30.092,False,Bateria Náutica 6370,MaxSea,Velas,UN,True
+883,437,LHN-019954,276.8,401.36,13.634,True,Hélice de Alumínio 728,BR Náutica,Motores,UN,True
+884,438,LHN-870565,977.63,1955.26,35.195,True,Colete Salva-Vidas 2217,Marisul,Manutenção,UN,True
+885,438,LHN-221467,438.32,718.84,27.728,True,Colete Salva-Vidas 2217,Marisul,Manutenção,UN,True
+886,439,LHN-068507,1887.73,2642.82,23.395,True,Motor de Popa 1376,BR Náutica,Hélices,UN,True
+887,439,LHN-065420,944.09,1982.59,28.982,True,Motor de Popa 1376,BR Náutica,Hélices,UN,True
+888,439,LHN-685807,369.5,539.47,43.498,True,Motor de Popa 1376,BR Náutica,Hélices,UN,True
+889,440,LHN-145249,1432.92,2722.55,7.524,True,Bússola de Bordo 553,BR Náutica,Pesca,UN,True
+890,440,LHN-230372,502.73,864.7,8.303,True,Bússola de Bordo 553,BR Náutica,Pesca,UN,True
+891,441,LHN-639630,1382.93,3014.79,9.667,True,Colete Salva-Vidas 4674,Raymarine,Âncoras,UN,True
+892,441,LHN-496410,890.54,1896.85,37.441,True,Colete Salva-Vidas 4674,Raymarine,Âncoras,UN,True
+893,441,LHN-902059,1868.39,2690.48,28.656,True,Colete Salva-Vidas 4674,Raymarine,Âncoras,UN,True
+894,442,LHN-778844,36.6,78.69,39.319,True,Motor de Popa 8825,Mercury Marine,Iluminação,UN,True
+895,442,LHN-288929,1807.58,2440.23,18.316,True,Motor de Popa 8825,Mercury Marine,Iluminação,UN,True
+896,442,LHN-083783,1746.29,2916.3,14.462,False,Motor de Popa 8825,Mercury Marine,Iluminação,UN,True
+897,443,LHN-912214,91.24,135.04,21.578,True,Vela Mestra 6757,Yamaha Marine,Motores,UN,False
+898,443,LHN-870824,608.56,967.61,40.284,True,Vela Mestra 6757,Yamaha Marine,Motores,UN,False
+899,444,LHN-297390,1619.06,2153.35,23.316,True,Hélice de Alumínio 4479,Suzuki Marine,Eletrônica Náutica,UN,True
+900,444,LHN-716219,1031.57,1485.46,35.041,True,Hélice de Alumínio 4479,Suzuki Marine,Eletrônica Náutica,UN,True
+901,445,LHN-949064,1209.11,2152.22,41.307,True,Hélice de Alumínio 9779,Volvo Penta,SEGURANÇA,UN,False
+902,445,LHN-652850,1421.73,2843.46,45.45,True,Hélice de Alumínio 9779,Volvo Penta,SEGURANÇA,UN,False
+903,446,LHN-260177,1572.67,2783.63,37.613,True,Vela Mestra 2993,Raymarine,Coletes Salva-Vidas,UN,True
+904,447,LHN-759508,623.18,1196.51,17.725,True,Cabo Náutico 2366,Marisul,Cabos,M,True
+905,447,LHN-910322,687.52,1120.66,20.737,True,Cabo Náutico 2366,Marisul,Cabos,M,True
+906,448,LHN-614906,1407.39,2223.68,39.871,True,Bateria Náutica 6898,Lowrance,Manutenção,UN,True
+907,449,LHN-725444,1985.74,3892.05,10.865,True,Bússola de Bordo 8282,Honda Marine,Pintura Marítima,UN,False
+908,450,LHN-814367,1145.64,1959.04,12.887,True,Hélice de Alumínio 290,Raymarine,Cabos,UN,True
+909,450,LHN-061470,1371.83,2990.59,13.939,True,Hélice de Alumínio 290,Raymarine,Cabos,UN,True
+910,451,LHN-182276,1975.57,3990.65,11.41,True,Cabo Náutico 5416,BR Náutica,SEGURANÇA,M,True
+911,451,LHN-384824,882.21,1711.49,49.104,True,Cabo Náutico 5416,BR Náutica,SEGURANÇA,M,True
+912,451,LHN-294684,706.53,1038.6,45.111,True,Cabo Náutico 5416,BR Náutica,SEGURANÇA,M,True
+913,452,LHN-805388,241.95,391.96,17.101,True,Tinta Antifouling 4641,BR Náutica,Hélices,L,True
+914,453,LHN-587206,1202.54,2393.05,25.679,True,Motor de Popa 8838,Garmin,Velas,UN,True
+915,453,LHN-252843,302.99,654.46,4.668,True,Motor de Popa 8838,Garmin,Velas,UN,True
+916,453,LHN-363999,781.99,1243.36,0.612,True,Motor de Popa 8838,Garmin,Velas,UN,True
+917,454,LHN-288752,372.66,588.8,36.915,True,Vela Mestra 401,Simrad,Coletes Salva-Vidas,UN,True
+918,455,LHN-231399,648.71,1109.29,4.544,True,Defensa Náutica 497,Yamaha Marine,Pesca,PC,True
+919,455,LHN-958622,527.32,685.52,31.53,True,Defensa Náutica 497,Yamaha Marine,Pesca,PC,True
+920,455,LHN-973275,1062.93,1998.31,41.525,True,Defensa Náutica 497,Yamaha Marine,Pesca,PC,True
+921,456,LHN-353117,1545.03,3321.81,5.81,True,Colete Salva-Vidas 2374,Honda Marine,SEGURANÇA,UN,True
+922,456,LHN-375373,1808.35,2839.11,29.899,True,Colete Salva-Vidas 2374,Honda Marine,SEGURANÇA,UN,True
+923,456,LHN-797147,1919.38,2495.19,40.851,True,Colete Salva-Vidas 2374,Honda Marine,SEGURANÇA,UN,True
+924,457,LHN-099402,1354.16,2247.91,7.597,True,Tinta Antifouling 8834,Yamaha Marine,Pesca,L,True
+925,458,LHN-017068,71.84,134.34,17.333,True,Sonar Transducer 9222,Garmin,Acessórios de Convés,UN,True
+926,459,LHN-076893,506.1,824.94,10.02,False,Vela Mestra 9743,Simrad,Âncoras,UN,True
+927,459,LHN-310424,1362.06,2506.19,27.985,True,Vela Mestra 9743,Simrad,Âncoras,UN,True
+928,459,LHN-662817,1320.77,2760.41,41.353,True,Vela Mestra 9743,Simrad,Âncoras,UN,True
+929,460,LHN-863469,106.43,145.81,14.175,True,GPS Plotter 2098,Mercury Marine,Âncoras,UN,True
+930,460,LHN-711086,1578.0,2398.56,19.567,True,GPS Plotter 2098,Mercury Marine,Âncoras,UN,True
+931,461,LHN-408073,1609.83,2833.3,34.946,True,Colete Salva-Vidas 3259,Lowrance,Pesca,UN,True
+932,462,LHN-421623,1145.65,2417.32,5.13,True,Hélice de Alumínio 1260,Lowrance,Acessórios de Convés,UN,True
+933,463,LHN-731009,687.34,1189.1,20.455,False,Motor de Popa 8671,Simrad,Motores,UN,True
+934,464,LHN-845166,1610.15,2495.73,15.274,True,GPS Plotter 9584,Honda Marine,Acessórios de Convés,UN,True
+935,464,LHN-272277,151.66,286.64,39.546,True,GPS Plotter 9584,Honda Marine,Acessórios de Convés,UN,True
+936,464,LHN-090109,1892.11,2970.61,8.87,True,GPS Plotter 9584,Honda Marine,Acessórios de Convés,UN,True
+937,465,LHN-580628,1130.24,1785.78,25.062,True,Defensa Náutica 792,Honda Marine,Eletrônica Náutica,PC,True
+938,465,LHN-476197,301.02,568.93,30.992,True,Defensa Náutica 792,Honda Marine,Eletrônica Náutica,PC,True
+939,465,LHN-443458,1014.56,1430.53,4.108,True,Defensa Náutica 792,Honda Marine,Eletrônica Náutica,PC,True
+940,466,LHN-940850,631.1,1035.0,21.582,False,Bússola de Bordo 1900,BR Náutica,Pesca,UN,True
+941,466,LHN-412438,1217.98,1826.97,28.319,True,Bússola de Bordo 1900,BR Náutica,Pesca,UN,True
+942,466,LHN-117122,1444.85,2326.21,19.68,True,Bússola de Bordo 1900,BR Náutica,Pesca,UN,True
+943,467,LHN-269619,1245.18,1880.22,31.276,True,Colete Salva-Vidas 2345,BR Náutica,Acessórios de Convés,UN,True
+944,468,LHN-626370,1729.22,2247.99,35.448,True,Tinta Antifouling 6054,MaxSea,Manutenção,L,True
+945,468,LHN-771654,1327.02,2508.07,26.962,False,Tinta Antifouling 6054,MaxSea,Manutenção,L,True
+946,468,LHN-604564,1576.26,2963.37,18.607,True,Tinta Antifouling 6054,MaxSea,Manutenção,L,True
+947,469,LHN-478857,1076.29,1463.75,1.303,True,Motor de Popa 9450,Suzuki Marine,Iluminação,UN,True
+948,469,LHN-159194,727.33,1461.93,16.654,True,Motor de Popa 9450,Suzuki Marine,Iluminação,UN,True
+949,470,LHN-595227,1181.17,2433.21,32.11,True,Defensa Náutica 9426,BR Náutica,Equipamentos,PC,True
+950,470,LHN-069027,434.28,920.67,31.136,True,Defensa Náutica 9426,BR Náutica,Equipamentos,PC,True
+951,470,LHN-987450,1983.16,3708.51,33.016,True,Defensa Náutica 9426,BR Náutica,Equipamentos,PC,True
+952,471,LHN-696775,146.92,296.78,5.194,True,Colete Salva-Vidas 7201,Garmin,Iluminação,UN,True
+953,472,LHN-189084,1797.32,2336.52,39.536,True,Defensa Náutica 9030,Raymarine,Pintura Marítima,PC,True
+954,473,LHN-397581,540.63,729.85,21.335,True,Motor de Popa 8491,Raymarine,Coletes Salva-Vidas,UN,True
+955,473,LHN-038883,1076.14,2335.22,17.77,True,Motor de Popa 8491,Raymarine,Coletes Salva-Vidas,UN,True
+956,473,LHN-293866,1190.56,2369.21,42.874,True,Motor de Popa 8491,Raymarine,Coletes Salva-Vidas,UN,True
+957,474,LHN-925301,1052.53,1915.6,19.85,True,Tinta Antifouling 8791,Honda Marine,Manutenção,L,True
+958,474,LHN-702711,439.84,919.27,16.89,True,Tinta Antifouling 8791,Honda Marine,Manutenção,L,True
+959,475,LHN-092886,1046.48,1674.37,6.115,True,Bússola de Bordo 2331,Suzuki Marine,Velas,UN,True
+960,475,LHN-777479,1982.12,3547.99,0.883,True,Bússola de Bordo 2331,Suzuki Marine,Velas,UN,True
+961,475,LHN-966561,853.41,1484.93,30.583,True,Bússola de Bordo 2331,Suzuki Marine,Velas,UN,True
+962,476,LHN-237451,1673.74,2309.76,44.587,True,Vela Mestra 5689,Yamaha Marine,Motores,UN,True
+963,476,LHN-299592,149.48,279.53,14.916,True,Vela Mestra 5689,Yamaha Marine,Motores,UN,True
+964,477,LHN-926521,589.31,1178.62,5.283,True,Motor de Popa 8461,Yamaha Marine,Acessórios de Convés,UN,True
+965,477,LHN-627021,730.95,1023.33,46.54,False,Motor de Popa 8461,Yamaha Marine,Acessórios de Convés,UN,True
+966,478,LHN-579567,742.14,1491.7,3.185,True,Tinta Antifouling 3290,Honda Marine,Velas,L,True
+967,479,LHN-091652,584.45,1151.37,39.963,True,Motor de Popa 9417,Marisul,Iluminação,UN,True
+968,479,LHN-652582,1013.43,1874.85,29.51,True,Motor de Popa 9417,Marisul,Iluminação,UN,True
+969,479,LHN-767184,565.23,1232.2,9.238,True,Motor de Popa 9417,Marisul,Iluminação,UN,True
+970,480,LHN-508159,1878.37,2535.8,41.108,True,Hélice de Alumínio 4260,Simrad,Pesca,UN,False
+971,481,LHN-022857,870.91,1149.6,17.439,True,Bússola de Bordo 2683,Suzuki Marine,Manutenção,UN,True
+972,481,LHN-983603,465.46,828.52,26.178,True,Bússola de Bordo 2683,Suzuki Marine,Manutenção,UN,True
+973,481,LHN-761757,1287.13,2677.23,37.611,True,Bússola de Bordo 2683,Suzuki Marine,Manutenção,UN,True
+974,482,LHN-694598,868.84,1737.68,10.405,True,GPS Plotter 6316,Honda Marine,Âncoras,UN,True
+975,482,LHN-817322,1265.47,1936.17,32.775,True,GPS Plotter 6316,Honda Marine,Âncoras,UN,True
+976,483,LHN-887002,276.54,503.3,10.824,True,Defensa Náutica 9695,Mercury Marine,Iluminação,PC,True
+977,483,LHN-279736,1562.03,2124.36,28.268,True,Defensa Náutica 9695,Mercury Marine,Iluminação,PC,True
+978,484,LHN-651524,1690.88,2637.77,48.776,True,Hélice de Alumínio 6668,Honda Marine,Manutenção,UN,True
+979,484,LHN-162247,1107.73,2115.76,36.919,True,Hélice de Alumínio 6668,Honda Marine,Manutenção,UN,True
+980,485,LHN-576997,1835.72,3065.65,30.1,True,GPS Plotter 5365,Volvo Penta,Eletrônica Náutica,UN,True
+981,485,LHN-074615,201.37,277.89,12.558,True,GPS Plotter 5365,Volvo Penta,Eletrônica Náutica,UN,True
+982,486,LHN-660602,452.66,588.46,25.46,True,Genérico,Yamaha Marine,Âncoras,UN,True
+983,486,LHN-885258,1900.92,2908.41,43.641,True,Genérico,Yamaha Marine,Âncoras,UN,True
+984,486,LHN-866273,286.35,515.43,2.382,True,Genérico,Yamaha Marine,Âncoras,UN,True
+985,487,LHN-888421,1443.58,3175.88,15.09,True,Bússola de Bordo 5643,Mercury Marine,Motores,UN,True
+986,488,LHN-208087,189.26,293.35,40.149,True,Bateria Náutica 9984,Raymarine,Velas,UN,True
+987,488,LHN-149020,1836.14,3507.03,47.615,True,Bateria Náutica 9984,Raymarine,Velas,UN,True
+988,489,LHN-763408,63.85,130.89,43.406,True,Defensa Náutica 9755,Marisul,Manutenção,PC,False
+989,490,LHN-252094,1542.64,3285.82,45.651,False,Colete Salva-Vidas 3881,Raymarine,Manutenção,UN,True
+990,490,LHN-630399,529.29,836.28,44.487,True,Colete Salva-Vidas 3881,Raymarine,Manutenção,UN,True
+991,491,LHN-193780,1505.48,3266.89,0.51,True,Bússola de Bordo 4004,Simrad,Equipamentos,UN,True
+992,492,LHN-401037,781.73,1149.14,30.287,True,Bateria Náutica 4361,Garmin,Pintura Marítima,UN,True
+993,492,LHN-258791,1179.28,2476.49,32.324,True,Bateria Náutica 4361,Garmin,Pintura Marítima,UN,True
+994,493,LHN-571777,72.81,130.33,38.064,True,Hélice de Alumínio 5003,Honda Marine,Hélices,UN,True
+995,493,LHN-632518,770.49,1564.09,39.311,True,Hélice de Alumínio 5003,Honda Marine,Hélices,UN,True
+996,493,LHN-518595,887.96,1225.38,27.026,True,Hélice de Alumínio 5003,Honda Marine,Hélices,UN,True
+997,494,LHN-833261,1899.69,3495.43,49.067,True,Motor de Popa 4783,Marisul,SEGURANÇA,UN,True
+998,495,LHN-988025,1969.17,2874.99,17.035,True,Sonar Transducer 4154,Mercury Marine,Acessórios de Convés,UN,True
+999,496,LHN-473756,1964.36,3280.48,29.315,True,Bateria Náutica 6054,Garmin,Pesca,UN,True
+1000,496,LHN-823011,1288.79,2822.45,28.984,True,Bateria Náutica 6054,Garmin,Pesca,UN,True
+1001,497,LHN-453118,1074.66,1687.22,7.972,False,Colete Salva-Vidas 9810,Suzuki Marine,Âncoras,UN,True
+1002,497,LHN-191329,1712.57,2757.24,44.674,True,Colete Salva-Vidas 9810,Suzuki Marine,Âncoras,UN,True
+1003,497,LHN-606209,1004.18,2068.61,14.111,True,Colete Salva-Vidas 9810,Suzuki Marine,Âncoras,UN,True
+1004,498,LHN-958871,1985.26,3533.76,45.799,True,GPS Plotter 7720,Marisul,Pesca,UN,True
+1005,498,LHN-099784,992.71,1320.3,49.625,True,GPS Plotter 7720,Marisul,Pesca,UN,True
+1006,498,LHN-210485,1429.02,2315.01,22.589,False,GPS Plotter 7720,Marisul,Pesca,UN,True
+1007,499,LHN-556836,1686.78,3154.28,43.963,True,Âncora Bruce 3938,Marisul,Coletes Salva-Vidas,UN,False
+1008,500,LHN-579323,1498.94,3252.7,17.295,True,Motor de Popa 7932,Yamaha Marine,Motores,UN,True
+1009,500,LHN-676176,1114.81,2118.14,28.152,True,Motor de Popa 7932,Yamaha Marine,Motores,UN,True

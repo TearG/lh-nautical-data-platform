@@ -1,0 +1,1682 @@
+{
+    "addresses.csv": {
+        "total_rows": 3998,
+        "columns": [
+            "id",
+            "customer_id",
+            "address_type",
+            "postal_code",
+            "street",
+            "number",
+            "complement",
+            "district",
+            "city",
+            "state",
+            "country",
+            "is_primary"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "customer_id": "int64",
+            "address_type": "str",
+            "postal_code": "str",
+            "street": "str",
+            "number": "int64",
+            "complement": "str",
+            "district": "str",
+            "city": "str",
+            "state": "str",
+            "country": "str",
+            "is_primary": "bool"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "customer_id": 0,
+            "address_type": 0,
+            "postal_code": 0,
+            "street": 0,
+            "number": 0,
+            "complement": 2351,
+            "district": 0,
+            "city": 0,
+            "state": 0,
+            "country": 0,
+            "is_primary": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "customer_id": 1,
+                "address_type": "billing",
+                "postal_code": "93032-645",
+                "street": "Núcleo Macedo",
+                "number": 13,
+                "complement": NaN,
+                "district": "Vila Aeroporto",
+                "city": "Martins",
+                "state": "SP",
+                "country": "BR",
+                "is_primary": true
+            },
+            {
+                "id": 2,
+                "customer_id": 1,
+                "address_type": "secondary",
+                "postal_code": "06351-685",
+                "street": "Via Cassiano",
+                "number": 77,
+                "complement": NaN,
+                "district": "Vila Piratininga Venda Nova",
+                "city": "Freitas de Campos",
+                "state": "BA",
+                "country": "BR",
+                "is_primary": false
+            },
+            {
+                "id": 3,
+                "customer_id": 1,
+                "address_type": "secondary",
+                "postal_code": "83799-005",
+                "street": "Passarela Silveira",
+                "number": 49,
+                "complement": NaN,
+                "district": "Delta",
+                "city": "Monteiro",
+                "state": "PA",
+                "country": "BR",
+                "is_primary": false
+            }
+        ]
+    },
+    "attributes.csv": {
+        "total_rows": 8,
+        "columns": [
+            "id",
+            "name",
+            "data_type"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "name": "str",
+            "data_type": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "name": 0,
+            "data_type": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "name": "color",
+                "data_type": "text"
+            },
+            {
+                "id": 2,
+                "name": "size",
+                "data_type": "text"
+            },
+            {
+                "id": 3,
+                "name": "length_m",
+                "data_type": "number"
+            }
+        ]
+    },
+    "brands.csv": {
+        "total_rows": 12,
+        "columns": [
+            "id",
+            "name",
+            "country",
+            "is_active",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "name": "str",
+            "country": "str",
+            "is_active": "bool",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "name": 0,
+            "country": 5,
+            "is_active": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "name": "Yamaha Marine",
+                "country": NaN,
+                "is_active": true,
+                "created_at": "2026-09-08 15:24:40",
+                "updated_at": "2026-11-01 09:59:16"
+            },
+            {
+                "id": 2,
+                "name": "Mercury Marine",
+                "country": "BR",
+                "is_active": true,
+                "created_at": "2026-07-09 16:56:46",
+                "updated_at": "2026-07-25 14:53:22"
+            },
+            {
+                "id": 3,
+                "name": "Suzuki Marine",
+                "country": "DE",
+                "is_active": true,
+                "created_at": "2022-02-13 04:36:48",
+                "updated_at": "2022-08-28 22:40:17"
+            }
+        ]
+    },
+    "categories.csv": {
+        "total_rows": 14,
+        "columns": [
+            "id",
+            "name",
+            "slug",
+            "parent_category_id",
+            "is_active",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "name": "str",
+            "slug": "str",
+            "parent_category_id": "float64",
+            "is_active": "bool",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "name": 0,
+            "slug": 0,
+            "parent_category_id": 3,
+            "is_active": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "name": "Equipamentos",
+                "slug": "equipamentos",
+                "parent_category_id": NaN,
+                "is_active": true,
+                "created_at": "2025-09-29 15:42:52",
+                "updated_at": "2025-11-30 10:44:32"
+            },
+            {
+                "id": 2,
+                "name": "Cabos",
+                "slug": "cabos",
+                "parent_category_id": NaN,
+                "is_active": true,
+                "created_at": "2020-07-16 15:36:35",
+                "updated_at": "2024-03-04 15:49:44"
+            },
+            {
+                "id": 3,
+                "name": "Coletes Salva-Vidas",
+                "slug": "coletes-salva-vidas",
+                "parent_category_id": NaN,
+                "is_active": true,
+                "created_at": "2024-07-29 06:55:53",
+                "updated_at": "2025-08-22 15:53:43"
+            }
+        ]
+    },
+    "customers.csv": {
+        "total_rows": 2000,
+        "columns": [
+            "id",
+            "person_type",
+            "legal_name",
+            "trade_name",
+            "tax_id",
+            "state_registration",
+            "email",
+            "phone",
+            "is_active",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "person_type": "str",
+            "legal_name": "str",
+            "trade_name": "str",
+            "tax_id": "int64",
+            "state_registration": "str",
+            "email": "str",
+            "phone": "str",
+            "is_active": "bool",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "person_type": 0,
+            "legal_name": 0,
+            "trade_name": 1445,
+            "tax_id": 0,
+            "state_registration": 1211,
+            "email": 4,
+            "phone": 4,
+            "is_active": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "person_type": "PJ",
+                "legal_name": "Alves e Filhos S.A.",
+                "trade_name": "da Cruz",
+                "tax_id": 11713629000103,
+                "state_registration": "321819600",
+                "email": "alves.e.filhos.s.a.1@example.com",
+                "phone": "5533989083863",
+                "is_active": true,
+                "created_at": "2023-03-31 02:40:24",
+                "updated_at": "2026-02-06 22:34:19"
+            },
+            {
+                "id": 2,
+                "person_type": "PF",
+                "legal_name": "Lara Abreu",
+                "trade_name": NaN,
+                "tax_id": 72890168662,
+                "state_registration": NaN,
+                "email": "lara.abreu.2@example.com",
+                "phone": "55065942351161",
+                "is_active": false,
+                "created_at": "2021-04-16 19:11:04",
+                "updated_at": "2025-08-10 09:44:20"
+            },
+            {
+                "id": 3,
+                "person_type": "PF",
+                "legal_name": "Dr. João Aparecida",
+                "trade_name": NaN,
+                "tax_id": 21754824560,
+                "state_registration": NaN,
+                "email": "dr.jo.o.aparecida.3@example.com",
+                "phone": "55081961849593",
+                "is_active": true,
+                "created_at": "2022-07-13 09:24:05",
+                "updated_at": "2025-08-29 18:44:03"
+            }
+        ]
+    },
+    "employees.csv": {
+        "total_rows": 15,
+        "columns": [
+            "id",
+            "full_name",
+            "cpf",
+            "email",
+            "role",
+            "primary_location_id",
+            "hire_date",
+            "termination_date",
+            "is_active",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "full_name": "str",
+            "cpf": "int64",
+            "email": "str",
+            "role": "str",
+            "primary_location_id": "int64",
+            "hire_date": "str",
+            "termination_date": "str",
+            "is_active": "bool",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "full_name": 0,
+            "cpf": 0,
+            "email": 0,
+            "role": 0,
+            "primary_location_id": 0,
+            "hire_date": 0,
+            "termination_date": 13,
+            "is_active": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "full_name": "Maria Luísa Rodrigues",
+                "cpf": 42679135105,
+                "email": "maria.lu.sa.rodrigues.1@lhnautical.com.br",
+                "role": "manager",
+                "primary_location_id": 5,
+                "hire_date": "2022-03-04",
+                "termination_date": NaN,
+                "is_active": true,
+                "created_at": "2021-08-15 06:33:02",
+                "updated_at": "2022-12-03 19:24:17"
+            },
+            {
+                "id": 2,
+                "full_name": "Nicolas Ferreira",
+                "cpf": 91124322450,
+                "email": "nicolas.ferreira.2@lhnautical.com.br",
+                "role": "stockist",
+                "primary_location_id": 4,
+                "hire_date": "2025-02-19",
+                "termination_date": NaN,
+                "is_active": true,
+                "created_at": "2023-01-12 10:19:11",
+                "updated_at": "2023-11-02 14:57:12"
+            },
+            {
+                "id": 3,
+                "full_name": "Renan da Paz",
+                "cpf": 54731453534,
+                "email": "renan.da.paz.3@lhnautical.com.br",
+                "role": "stockist",
+                "primary_location_id": 4,
+                "hire_date": "2022-02-24",
+                "termination_date": "2023-07-10",
+                "is_active": false,
+                "created_at": "2020-01-06 05:36:16",
+                "updated_at": "2023-12-21 08:24:02"
+            }
+        ]
+    },
+    "fiscal_invoices.csv": {
+        "total_rows": 34365,
+        "columns": [
+            "id",
+            "order_id",
+            "nfe_number",
+            "nfe_access_key",
+            "series",
+            "issued_at",
+            "status",
+            "total_amount",
+            "xml_storage_uri",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "order_id": "int64",
+            "nfe_number": "str",
+            "nfe_access_key": "object",
+            "series": "int64",
+            "issued_at": "str",
+            "status": "str",
+            "total_amount": "float64",
+            "xml_storage_uri": "str",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "order_id": 0,
+            "nfe_number": 0,
+            "nfe_access_key": 0,
+            "series": 0,
+            "issued_at": 0,
+            "status": 0,
+            "total_amount": 0,
+            "xml_storage_uri": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "order_id": 1,
+                "nfe_number": "NFE000000001",
+                "nfe_access_key": 92111513888805458765558030542916020723242655,
+                "series": 1,
+                "issued_at": "2022-09-06 15:20:37",
+                "status": "authorized",
+                "total_amount": 287.77,
+                "xml_storage_uri": "s3://lh-nautical-nfe/92111513888805458765558030542916020723242655.xml",
+                "created_at": "2022-09-06 15:20:37",
+                "updated_at": "2022-09-06 15:20:37"
+            },
+            {
+                "id": 2,
+                "order_id": 2,
+                "nfe_number": "NFE000000002",
+                "nfe_access_key": 31005218497500379382647168202665916236559159,
+                "series": 1,
+                "issued_at": "2023-02-03 11:22:21",
+                "status": "authorized",
+                "total_amount": 53199.05,
+                "xml_storage_uri": "s3://lh-nautical-nfe/31005218497500379382647168202665916236559159.xml",
+                "created_at": "2023-02-03 11:22:21",
+                "updated_at": "2023-02-03 11:22:21"
+            },
+            {
+                "id": 3,
+                "order_id": 4,
+                "nfe_number": "NFE000000003",
+                "nfe_access_key": 92519324674434850870988051196135041596499751,
+                "series": 1,
+                "issued_at": "2024-03-13 08:12:36",
+                "status": "authorized",
+                "total_amount": 10429.88,
+                "xml_storage_uri": "s3://lh-nautical-nfe/92519324674434850870988051196135041596499751.xml",
+                "created_at": "2024-03-13 08:12:36",
+                "updated_at": "2024-03-13 08:12:36"
+            }
+        ]
+    },
+    "goods_receipts.csv": {
+        "total_rows": 1548,
+        "columns": [
+            "id",
+            "purchase_order_id",
+            "received_by_employee_id",
+            "received_at",
+            "notes",
+            "created_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "purchase_order_id": "int64",
+            "received_by_employee_id": "int64",
+            "received_at": "str",
+            "notes": "str",
+            "created_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "purchase_order_id": 0,
+            "received_by_employee_id": 0,
+            "received_at": 0,
+            "notes": 1471,
+            "created_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "purchase_order_id": 1,
+                "received_by_employee_id": 4,
+                "received_at": "2024-09-12 03:24:36",
+                "notes": NaN,
+                "created_at": "2024-09-12 03:24:36"
+            },
+            {
+                "id": 2,
+                "purchase_order_id": 4,
+                "received_by_employee_id": 1,
+                "received_at": "2022-02-02 18:35:15",
+                "notes": NaN,
+                "created_at": "2022-02-02 18:35:15"
+            },
+            {
+                "id": 3,
+                "purchase_order_id": 5,
+                "received_by_employee_id": 7,
+                "received_at": "2026-09-19 11:34:54",
+                "notes": NaN,
+                "created_at": "2026-09-19 11:34:54"
+            }
+        ]
+    },
+    "goods_receipt_items.csv": {
+        "total_rows": 4733,
+        "columns": [
+            "id",
+            "goods_receipt_id",
+            "purchase_order_item_id",
+            "quantity_received"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "goods_receipt_id": "int64",
+            "purchase_order_item_id": "int64",
+            "quantity_received": "float64"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "goods_receipt_id": 0,
+            "purchase_order_item_id": 0,
+            "quantity_received": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "goods_receipt_id": 1,
+                "purchase_order_item_id": 1,
+                "quantity_received": 5.0
+            },
+            {
+                "id": 2,
+                "goods_receipt_id": 1,
+                "purchase_order_item_id": 2,
+                "quantity_received": 4.62
+            },
+            {
+                "id": 3,
+                "goods_receipt_id": 1,
+                "purchase_order_item_id": 3,
+                "quantity_received": 3.3
+            }
+        ]
+    },
+    "locations.csv": {
+        "total_rows": 6,
+        "columns": [
+            "id",
+            "name",
+            "location_type",
+            "postal_code",
+            "street",
+            "number",
+            "complement",
+            "district",
+            "city",
+            "state",
+            "country",
+            "is_active",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "name": "str",
+            "location_type": "str",
+            "postal_code": "str",
+            "street": "str",
+            "number": "int64",
+            "complement": "str",
+            "district": "str",
+            "city": "str",
+            "state": "str",
+            "country": "str",
+            "is_active": "bool",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "name": 0,
+            "location_type": 0,
+            "postal_code": 0,
+            "street": 0,
+            "number": 0,
+            "complement": 3,
+            "district": 0,
+            "city": 0,
+            "state": 0,
+            "country": 0,
+            "is_active": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "name": "Loja Leão",
+                "location_type": "store",
+                "postal_code": "64771-158",
+                "street": "Conjunto de Siqueira",
+                "number": 9,
+                "complement": "Sala 70",
+                "district": "Vila Independencia 2ª Seção",
+                "city": "Barbosa do Sul",
+                "state": "PR",
+                "country": "BR",
+                "is_active": true,
+                "created_at": "2021-10-31 15:54:22",
+                "updated_at": "2025-06-30 05:43:31"
+            },
+            {
+                "id": 2,
+                "name": "Armazém Camargo",
+                "location_type": "warehouse",
+                "postal_code": "11464-461",
+                "street": "Trecho Montenegro",
+                "number": 80,
+                "complement": NaN,
+                "district": "Marieta 1ª Seção",
+                "city": "Cavalcanti da Mata",
+                "state": "PR",
+                "country": "BR",
+                "is_active": true,
+                "created_at": "2025-07-13 17:06:52",
+                "updated_at": "2026-03-27 21:14:09"
+            },
+            {
+                "id": 3,
+                "name": "Armazém Siqueira",
+                "location_type": "warehouse",
+                "postal_code": "23774-877",
+                "street": "Avenida Melo",
+                "number": 381,
+                "complement": "Sala 53",
+                "district": "Conjunto Paulo Vi",
+                "city": "Brito da Serra",
+                "state": "AP",
+                "country": "BR",
+                "is_active": true,
+                "created_at": "2022-02-25 03:20:12",
+                "updated_at": "2023-05-11 21:16:33"
+            }
+        ]
+    },
+    "orders.csv": {
+        "total_rows": 48998,
+        "columns": [
+            "id",
+            "order_number",
+            "channel",
+            "customer_id",
+            "salesperson_id",
+            "location_id",
+            "status",
+            "subtotal",
+            "discount_amount",
+            "total",
+            "placed_at",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "order_number": "str",
+            "channel": "str",
+            "customer_id": "int64",
+            "salesperson_id": "float64",
+            "location_id": "int64",
+            "status": "str",
+            "subtotal": "float64",
+            "discount_amount": "float64",
+            "total": "float64",
+            "placed_at": "str",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "order_number": 0,
+            "channel": 0,
+            "customer_id": 0,
+            "salesperson_id": 4938,
+            "location_id": 0,
+            "status": 0,
+            "subtotal": 0,
+            "discount_amount": 0,
+            "total": 0,
+            "placed_at": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "order_number": "SO-000001",
+                "channel": "ecommerce",
+                "customer_id": 1136,
+                "salesperson_id": NaN,
+                "location_id": 1,
+                "status": "paid",
+                "subtotal": 323.34,
+                "discount_amount": 35.57,
+                "total": 287.77,
+                "placed_at": "2022-09-06 05:37:37",
+                "created_at": "2022-09-06 05:37:37",
+                "updated_at": "2022-09-06 05:37:37"
+            },
+            {
+                "id": 2,
+                "order_number": "SO-000002",
+                "channel": "ecommerce",
+                "customer_id": 618,
+                "salesperson_id": 9.0,
+                "location_id": 4,
+                "status": "paid",
+                "subtotal": 53199.05,
+                "discount_amount": 0.0,
+                "total": 53199.05,
+                "placed_at": "2023-02-03 04:36:21",
+                "created_at": "2023-02-03 04:36:21",
+                "updated_at": "2023-02-03 04:36:21"
+            },
+            {
+                "id": 3,
+                "order_number": "SO-000003",
+                "channel": "pos",
+                "customer_id": 227,
+                "salesperson_id": 10.0,
+                "location_id": 4,
+                "status": "confirmed",
+                "subtotal": 17157.39,
+                "discount_amount": 0.0,
+                "total": 17157.39,
+                "placed_at": "2024-12-30 07:15:17",
+                "created_at": "2024-12-30 07:15:17",
+                "updated_at": "2024-12-30 07:15:17"
+            }
+        ]
+    },
+    "order_items.csv": {
+        "total_rows": 147320,
+        "columns": [
+            "id",
+            "order_id",
+            "product_variant_id",
+            "quantity",
+            "unit_price",
+            "icms_rate",
+            "ipi_rate",
+            "line_total"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "order_id": "int64",
+            "product_variant_id": "int64",
+            "quantity": "int64",
+            "unit_price": "float64",
+            "icms_rate": "float64",
+            "ipi_rate": "float64",
+            "line_total": "float64"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "order_id": 0,
+            "product_variant_id": 0,
+            "quantity": 0,
+            "unit_price": 0,
+            "icms_rate": 0,
+            "ipi_rate": 0,
+            "line_total": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "order_id": 1,
+                "product_variant_id": 113,
+                "quantity": 6,
+                "unit_price": 53.89,
+                "icms_rate": 12.0,
+                "ipi_rate": 0.0,
+                "line_total": 323.34
+            },
+            {
+                "id": 2,
+                "order_id": 2,
+                "product_variant_id": 293,
+                "quantity": 9,
+                "unit_price": 2398.41,
+                "icms_rate": 17.0,
+                "ipi_rate": 10.0,
+                "line_total": 21585.69
+            },
+            {
+                "id": 3,
+                "order_id": 2,
+                "product_variant_id": 366,
+                "quantity": 2,
+                "unit_price": 2697.71,
+                "icms_rate": 17.0,
+                "ipi_rate": 10.0,
+                "line_total": 5395.42
+            }
+        ]
+    },
+    "payments.csv": {
+        "total_rows": 53546,
+        "columns": [
+            "id",
+            "order_id",
+            "method",
+            "installments",
+            "amount",
+            "status",
+            "paid_at",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "order_id": "int64",
+            "method": "str",
+            "installments": "int64",
+            "amount": "float64",
+            "status": "str",
+            "paid_at": "str",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "order_id": 0,
+            "method": 0,
+            "installments": 0,
+            "amount": 0,
+            "status": 0,
+            "paid_at": 2255,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "order_id": 1,
+                "method": "boleto",
+                "installments": 1,
+                "amount": 287.77,
+                "status": "approved",
+                "paid_at": "2022-09-06 11:49:37",
+                "created_at": "2022-09-06 05:37:37",
+                "updated_at": "2022-09-06 05:37:37"
+            },
+            {
+                "id": 2,
+                "order_id": 2,
+                "method": "pix",
+                "installments": 1,
+                "amount": 53199.05,
+                "status": "approved",
+                "paid_at": "2023-02-03 09:42:21",
+                "created_at": "2023-02-03 04:36:21",
+                "updated_at": "2023-02-03 04:36:21"
+            },
+            {
+                "id": 3,
+                "order_id": 3,
+                "method": "credit_card",
+                "installments": 3,
+                "amount": 17157.39,
+                "status": "pending",
+                "paid_at": NaN,
+                "created_at": "2024-12-30 07:15:17",
+                "updated_at": "2024-12-30 07:15:17"
+            }
+        ]
+    },
+    "products.csv": {
+        "total_rows": 500,
+        "columns": [
+            "id",
+            "name",
+            "description",
+            "brand_id",
+            "category_id",
+            "ncm_code",
+            "unit_of_measure",
+            "is_active",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "name": "str",
+            "description": "str",
+            "brand_id": "int64",
+            "category_id": "int64",
+            "ncm_code": "int64",
+            "unit_of_measure": "str",
+            "is_active": "bool",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "name": 0,
+            "description": 10,
+            "brand_id": 0,
+            "category_id": 0,
+            "ncm_code": 0,
+            "unit_of_measure": 0,
+            "is_active": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "name": "Motor de Popa 6014",
+                "description": "Motor de popa 4 tempos para embarcações de lazer",
+                "brand_id": 9,
+                "category_id": 9,
+                "ncm_code": 50675645,
+                "unit_of_measure": "UN",
+                "is_active": true,
+                "created_at": "2023-06-07 05:32:02",
+                "updated_at": "2025-06-05 20:11:50"
+            },
+            {
+                "id": 2,
+                "name": "Vela Mestra 3870",
+                "description": "Vela mestra em dacron para veleiros 32 pés",
+                "brand_id": 10,
+                "category_id": 13,
+                "ncm_code": 19180016,
+                "unit_of_measure": "UN",
+                "is_active": true,
+                "created_at": "2026-10-15 16:00:03",
+                "updated_at": "2026-11-01 00:37:26"
+            },
+            {
+                "id": 3,
+                "name": "Tinta Antifouling 5479",
+                "description": "Tinta antiincrustante 3.6L para casco",
+                "brand_id": 4,
+                "category_id": 4,
+                "ncm_code": 26507166,
+                "unit_of_measure": "L",
+                "is_active": true,
+                "created_at": "2023-03-27 06:03:29",
+                "updated_at": "2026-09-11 04:08:29"
+            }
+        ]
+    },
+    "product_suppliers.csv": {
+        "total_rows": 1520,
+        "columns": [
+            "product_variant_id",
+            "supplier_id",
+            "supplier_sku",
+            "last_quoted_cost",
+            "lead_time_days",
+            "is_preferred",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "product_variant_id": "int64",
+            "supplier_id": "int64",
+            "supplier_sku": "str",
+            "last_quoted_cost": "float64",
+            "lead_time_days": "int64",
+            "is_preferred": "bool",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "product_variant_id": 0,
+            "supplier_id": 0,
+            "supplier_sku": 28,
+            "last_quoted_cost": 0,
+            "lead_time_days": 0,
+            "is_preferred": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "product_variant_id": 1,
+                "supplier_id": 10,
+                "supplier_sku": "SUP-010-00001",
+                "last_quoted_cost": 1268.63,
+                "lead_time_days": 20,
+                "is_preferred": true,
+                "created_at": "2025-09-08 05:18:56",
+                "updated_at": "2025-10-10 09:00:14"
+            },
+            {
+                "product_variant_id": 2,
+                "supplier_id": 10,
+                "supplier_sku": "SUP-010-00002",
+                "last_quoted_cost": 434.66,
+                "lead_time_days": 36,
+                "is_preferred": true,
+                "created_at": "2024-05-07 12:26:37",
+                "updated_at": "2026-04-15 22:05:44"
+            },
+            {
+                "product_variant_id": 3,
+                "supplier_id": 3,
+                "supplier_sku": "SUP-003-00003",
+                "last_quoted_cost": 28.24,
+                "lead_time_days": 42,
+                "is_preferred": true,
+                "created_at": "2022-12-11 03:23:24",
+                "updated_at": "2023-08-12 02:25:41"
+            }
+        ]
+    },
+    "product_variants.csv": {
+        "total_rows": 1009,
+        "columns": [
+            "id",
+            "product_id",
+            "sku",
+            "barcode_ean",
+            "sale_price",
+            "cost_price",
+            "weight_kg",
+            "icms_rate",
+            "ipi_rate",
+            "is_active",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "product_id": "int64",
+            "sku": "str",
+            "barcode_ean": "float64",
+            "sale_price": "float64",
+            "cost_price": "float64",
+            "weight_kg": "float64",
+            "icms_rate": "float64",
+            "ipi_rate": "float64",
+            "is_active": "bool",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "product_id": 0,
+            "sku": 0,
+            "barcode_ean": 157,
+            "sale_price": 0,
+            "cost_price": 0,
+            "weight_kg": 0,
+            "icms_rate": 0,
+            "ipi_rate": 0,
+            "is_active": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "product_id": 1,
+                "sku": "LHN-353137",
+                "barcode_ean": 812356442423.0,
+                "sale_price": 2452.69,
+                "cost_price": 1409.59,
+                "weight_kg": 17.466,
+                "icms_rate": 18.0,
+                "ipi_rate": 5.0,
+                "is_active": true,
+                "created_at": "2023-08-31 09:15:26",
+                "updated_at": "2026-07-29 01:56:22"
+            },
+            {
+                "id": 2,
+                "product_id": 1,
+                "sku": "LHN-424236",
+                "barcode_ean": 2876604560688.0,
+                "sale_price": 1057.68,
+                "cost_price": 482.96,
+                "weight_kg": 38.9,
+                "icms_rate": 18.0,
+                "ipi_rate": 10.0,
+                "is_active": true,
+                "created_at": "2020-04-29 21:48:21",
+                "updated_at": "2024-03-30 05:43:11"
+            },
+            {
+                "id": 3,
+                "product_id": 1,
+                "sku": "LHN-680793",
+                "barcode_ean": 4024712687768.0,
+                "sale_price": 36.65,
+                "cost_price": 27.15,
+                "weight_kg": 27.526,
+                "icms_rate": 17.0,
+                "ipi_rate": 5.0,
+                "is_active": true,
+                "created_at": "2024-02-03 07:46:25",
+                "updated_at": "2025-11-12 12:55:22"
+            }
+        ]
+    },
+    "purchase_orders.csv": {
+        "total_rows": 2000,
+        "columns": [
+            "id",
+            "po_number",
+            "supplier_id",
+            "buyer_id",
+            "destination_location_id",
+            "status",
+            "currency",
+            "subtotal",
+            "total",
+            "placed_at",
+            "expected_delivery_at",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "po_number": "str",
+            "supplier_id": "int64",
+            "buyer_id": "int64",
+            "destination_location_id": "int64",
+            "status": "str",
+            "currency": "str",
+            "subtotal": "float64",
+            "total": "float64",
+            "placed_at": "str",
+            "expected_delivery_at": "str",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "po_number": 0,
+            "supplier_id": 0,
+            "buyer_id": 0,
+            "destination_location_id": 0,
+            "status": 0,
+            "currency": 0,
+            "subtotal": 0,
+            "total": 0,
+            "placed_at": 0,
+            "expected_delivery_at": 287,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "po_number": "PO-000001",
+                "supplier_id": 7,
+                "buyer_id": 5,
+                "destination_location_id": 6,
+                "status": "partially_received",
+                "currency": "BRL",
+                "subtotal": 67399.65,
+                "total": 67399.65,
+                "placed_at": "2024-09-07 03:24:36",
+                "expected_delivery_at": "2024-11-01",
+                "created_at": "2024-09-07 03:24:36",
+                "updated_at": "2024-09-07 03:24:36"
+            },
+            {
+                "id": 2,
+                "po_number": "PO-000002",
+                "supplier_id": 12,
+                "buyer_id": 13,
+                "destination_location_id": 2,
+                "status": "sent",
+                "currency": "USD",
+                "subtotal": 68354.2,
+                "total": 68354.2,
+                "placed_at": "2024-10-02 15:39:25",
+                "expected_delivery_at": "2024-10-16",
+                "created_at": "2024-10-02 15:39:25",
+                "updated_at": "2024-10-02 15:39:25"
+            },
+            {
+                "id": 3,
+                "po_number": "PO-000003",
+                "supplier_id": 13,
+                "buyer_id": 5,
+                "destination_location_id": 2,
+                "status": "sent",
+                "currency": "BRL",
+                "subtotal": 11935.58,
+                "total": 11935.58,
+                "placed_at": "2025-11-23 07:53:48",
+                "expected_delivery_at": "2025-12-26",
+                "created_at": "2025-11-23 07:53:48",
+                "updated_at": "2025-11-23 07:53:48"
+            }
+        ]
+    },
+    "purchase_order_items.csv": {
+        "total_rows": 6059,
+        "columns": [
+            "id",
+            "purchase_order_id",
+            "product_variant_id",
+            "quantity_ordered",
+            "unit_cost",
+            "line_total"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "purchase_order_id": "int64",
+            "product_variant_id": "int64",
+            "quantity_ordered": "int64",
+            "unit_cost": "float64",
+            "line_total": "float64"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "purchase_order_id": 0,
+            "product_variant_id": 0,
+            "quantity_ordered": 0,
+            "unit_cost": 0,
+            "line_total": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "purchase_order_id": 1,
+                "product_variant_id": 505,
+                "quantity_ordered": 20,
+                "unit_cost": 1697.2,
+                "line_total": 33944.0
+            },
+            {
+                "id": 2,
+                "purchase_order_id": 1,
+                "product_variant_id": 679,
+                "quantity_ordered": 7,
+                "unit_cost": 1204.63,
+                "line_total": 8432.41
+            },
+            {
+                "id": 3,
+                "purchase_order_id": 1,
+                "product_variant_id": 992,
+                "quantity_ordered": 33,
+                "unit_cost": 758.28,
+                "line_total": 25023.24
+            }
+        ]
+    },
+    "returns.csv": {
+        "total_rows": 980,
+        "columns": [
+            "id",
+            "return_number",
+            "order_id",
+            "customer_id",
+            "received_at_location_id",
+            "status",
+            "reason",
+            "total_refund_amount",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "return_number": "str",
+            "order_id": "int64",
+            "customer_id": "int64",
+            "received_at_location_id": "int64",
+            "status": "str",
+            "reason": "str",
+            "total_refund_amount": "float64",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "return_number": 0,
+            "order_id": 0,
+            "customer_id": 0,
+            "received_at_location_id": 0,
+            "status": 0,
+            "reason": 7,
+            "total_refund_amount": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "return_number": "RT-000001",
+                "order_id": 42945,
+                "customer_id": 484,
+                "received_at_location_id": 3,
+                "status": "cancelled",
+                "reason": "Produto avariado no transporte",
+                "total_refund_amount": 6004.35,
+                "created_at": "2026-04-25 22:45:38",
+                "updated_at": "2026-04-25 22:45:38"
+            },
+            {
+                "id": 2,
+                "return_number": "RT-000002",
+                "order_id": 48935,
+                "customer_id": 741,
+                "received_at_location_id": 1,
+                "status": "completed",
+                "reason": "Item não corresponde à descrição",
+                "total_refund_amount": 2277.61,
+                "created_at": "2025-01-08 10:45:17",
+                "updated_at": "2025-01-08 10:45:17"
+            },
+            {
+                "id": 3,
+                "return_number": "RT-000003",
+                "order_id": 4826,
+                "customer_id": 519,
+                "received_at_location_id": 5,
+                "status": "open",
+                "reason": "Tamanho/cor incorretos",
+                "total_refund_amount": 18978.18,
+                "created_at": "2025-02-13 02:57:06",
+                "updated_at": "2025-02-13 02:57:06"
+            }
+        ]
+    },
+    "return_items.csv": {
+        "total_rows": 1384,
+        "columns": [
+            "id",
+            "return_id",
+            "order_item_id",
+            "quantity",
+            "action",
+            "exchange_variant_id",
+            "unit_refund_amount"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "return_id": "int64",
+            "order_item_id": "int64",
+            "quantity": "float64",
+            "action": "str",
+            "exchange_variant_id": "float64",
+            "unit_refund_amount": "float64"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "return_id": 0,
+            "order_item_id": 0,
+            "quantity": 0,
+            "action": 0,
+            "exchange_variant_id": 1024,
+            "unit_refund_amount": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "return_id": 1,
+                "order_item_id": 129232,
+                "quantity": 5.0,
+                "action": "refund",
+                "exchange_variant_id": NaN,
+                "unit_refund_amount": 1200.87
+            },
+            {
+                "id": 2,
+                "return_id": 2,
+                "order_item_id": 147166,
+                "quantity": 1.0,
+                "action": "refund",
+                "exchange_variant_id": NaN,
+                "unit_refund_amount": 2277.61
+            },
+            {
+                "id": 3,
+                "return_id": 2,
+                "order_item_id": 147164,
+                "quantity": 2.0,
+                "action": "exchange",
+                "exchange_variant_id": 900.0,
+                "unit_refund_amount": 0.0
+            }
+        ]
+    },
+    "stock_levels.csv": {
+        "total_rows": 6054,
+        "columns": [
+            "product_variant_id",
+            "location_id",
+            "quantity_on_hand",
+            "reorder_point",
+            "updated_at"
+        ],
+        "dtypes": {
+            "product_variant_id": "int64",
+            "location_id": "int64",
+            "quantity_on_hand": "float64",
+            "reorder_point": "float64",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "product_variant_id": 0,
+            "location_id": 0,
+            "quantity_on_hand": 0,
+            "reorder_point": 6054,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "product_variant_id": 1,
+                "location_id": 1,
+                "quantity_on_hand": 1.0,
+                "reorder_point": NaN,
+                "updated_at": "2026-12-25 03:59:07"
+            },
+            {
+                "product_variant_id": 1,
+                "location_id": 2,
+                "quantity_on_hand": 1.0,
+                "reorder_point": NaN,
+                "updated_at": "2026-12-16 23:19:00"
+            },
+            {
+                "product_variant_id": 1,
+                "location_id": 3,
+                "quantity_on_hand": 1.0,
+                "reorder_point": NaN,
+                "updated_at": "2026-12-04 06:26:43"
+            }
+        ]
+    },
+    "stock_movements.csv": {
+        "total_rows": 115312,
+        "columns": [
+            "id",
+            "product_variant_id",
+            "location_id",
+            "movement_type",
+            "quantity",
+            "reference_table",
+            "reference_id",
+            "employee_id",
+            "notes",
+            "occurred_at",
+            "created_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "product_variant_id": "int64",
+            "location_id": "int64",
+            "movement_type": "str",
+            "quantity": "float64",
+            "reference_table": "str",
+            "reference_id": "float64",
+            "employee_id": "float64",
+            "notes": "str",
+            "occurred_at": "str",
+            "created_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "product_variant_id": 0,
+            "location_id": 0,
+            "movement_type": 0,
+            "quantity": 0,
+            "reference_table": 5894,
+            "reference_id": 5894,
+            "employee_id": 7990,
+            "notes": 3905,
+            "occurred_at": 0,
+            "created_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "product_variant_id": 1,
+                "location_id": 1,
+                "movement_type": "purchase_in",
+                "quantity": 107.0,
+                "reference_table": NaN,
+                "reference_id": NaN,
+                "employee_id": NaN,
+                "notes": "Opening balance — system migration",
+                "occurred_at": "2020-01-01 00:00:00",
+                "created_at": "2020-01-01 00:00:00"
+            },
+            {
+                "id": 2,
+                "product_variant_id": 1,
+                "location_id": 2,
+                "movement_type": "purchase_in",
+                "quantity": 85.0,
+                "reference_table": NaN,
+                "reference_id": NaN,
+                "employee_id": NaN,
+                "notes": "Opening balance — system migration",
+                "occurred_at": "2020-01-01 00:00:00",
+                "created_at": "2020-01-01 00:00:00"
+            },
+            {
+                "id": 3,
+                "product_variant_id": 1,
+                "location_id": 3,
+                "movement_type": "purchase_in",
+                "quantity": 57.0,
+                "reference_table": NaN,
+                "reference_id": NaN,
+                "employee_id": NaN,
+                "notes": "Opening balance — system migration",
+                "occurred_at": "2020-01-01 00:00:00",
+                "created_at": "2020-01-01 00:00:00"
+            }
+        ]
+    },
+    "suppliers.csv": {
+        "total_rows": 25,
+        "columns": [
+            "id",
+            "legal_name",
+            "trade_name",
+            "country",
+            "tax_id",
+            "tax_id_type",
+            "email",
+            "phone",
+            "contact_name",
+            "is_active",
+            "created_at",
+            "updated_at"
+        ],
+        "dtypes": {
+            "id": "int64",
+            "legal_name": "str",
+            "trade_name": "str",
+            "country": "str",
+            "tax_id": "str",
+            "tax_id_type": "str",
+            "email": "str",
+            "phone": "int64",
+            "contact_name": "str",
+            "is_active": "bool",
+            "created_at": "str",
+            "updated_at": "str"
+        },
+        "missing_in_sample": {
+            "id": 0,
+            "legal_name": 0,
+            "trade_name": 12,
+            "country": 0,
+            "tax_id": 0,
+            "tax_id_type": 0,
+            "email": 0,
+            "phone": 0,
+            "contact_name": 0,
+            "is_active": 0,
+            "created_at": 0,
+            "updated_at": 0
+        },
+        "sample_data": [
+            {
+                "id": 1,
+                "legal_name": "Vargas da Cruz S.A.",
+                "trade_name": "Vargas",
+                "country": "BR",
+                "tax_id": "91577583000173",
+                "tax_id_type": "CNPJ",
+                "email": "contact.1@vargas.example",
+                "phone": 6100715800,
+                "contact_name": "Sabrina Azevedo",
+                "is_active": true,
+                "created_at": "2025-08-22 19:29:49",
+                "updated_at": "2026-01-31 18:26:46"
+            },
+            {
+                "id": 2,
+                "legal_name": "Rezende ME",
+                "trade_name": "Rezende",
+                "country": "BR",
+                "tax_id": "99546295000163",
+                "tax_id_type": "CNPJ",
+                "email": "contact.2@rezende.example",
+                "phone": 5507186332343,
+                "contact_name": "Nathan Fernandes",
+                "is_active": true,
+                "created_at": "2022-06-30 16:43:02",
+                "updated_at": "2024-04-11 16:15:32"
+            },
+            {
+                "id": 3,
+                "legal_name": "da Rocha EIRELI",
+                "trade_name": NaN,
+                "country": "BR",
+                "tax_id": "43846339000116",
+                "tax_id_type": "CNPJ",
+                "email": "contact.3@da.example",
+                "phone": 1188839237,
+                "contact_name": "Sr. Thales Cirino",
+                "is_active": true,
+                "created_at": "2022-04-04 19:45:01",
+                "updated_at": "2025-03-05 18:02:57"
+            }
+        ]
+    },
+    "variant_attribute_values.csv": {
+        "total_rows": 2018,
+        "columns": [
+            "product_variant_id",
+            "attribute_id",
+            "value"
+        ],
+        "dtypes": {
+            "product_variant_id": "int64",
+            "attribute_id": "int64",
+            "value": "str"
+        },
+        "missing_in_sample": {
+            "product_variant_id": 0,
+            "attribute_id": 0,
+            "value": 8
+        },
+        "sample_data": [
+            {
+                "product_variant_id": 1,
+                "attribute_id": 4,
+                "value": "456.5"
+            },
+            {
+                "product_variant_id": 1,
+                "attribute_id": 8,
+                "value": "PVC"
+            },
+            {
+                "product_variant_id": 1,
+                "attribute_id": 5,
+                "value": "84.9"
+            }
+        ]
+    }
+}

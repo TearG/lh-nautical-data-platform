@@ -1,0 +1,7 @@
+﻿location_id,receita_total,lucro_bruto,qtd_pedidos,name,location_type,city,state,margem_pct
+1,197219933.66,84124200.076814,6731,Loja Leão,store,Barbosa do Sul,PR,42.66
+2,209835628.99,89375303.692753,7179,Armazém Camargo,warehouse,Cavalcanti da Mata,PR,42.59
+3,206676429.21,88036746.192502,6960,Armazém Siqueira,warehouse,Brito da Serra,AP,42.6
+4,208152924.4,88989477.694501,7098,Armazém Novaes,warehouse,Fonseca do Oeste,PI,42.75
+5,201666702.03,85773359.735162,6867,Loja Oliveira,store,Machado,AL,42.53
+6,202181165.76,85949685.162283,6865,Loja Mendonça,store,Mendonça da Mata,PI,42.51

@@ -1,0 +1,2001 @@
+﻿customer_id,data_ultimo_pedido,frequencia,monetario,recency_days,R_score,F_score,M_score,RFM_score,segmento,legal_name,person_type
+945,2026-12-30,26,886972.25,1,5.0,5.0,5.0,15.0,Champions,Vieira Ltda,PJ
+851,2026-12-20,34,852614.33,11,5.0,5.0,5.0,15.0,Champions,Monteiro S.A.,PJ
+464,2026-12-28,30,1053872.19,3,5.0,5.0,5.0,15.0,Champions,Mendonça ME,PJ
+473,2026-12-29,28,867423.16,2,5.0,5.0,5.0,15.0,Champions,Lavínia Andrade,PF
+1647,2026-12-28,31,862803.47,3,5.0,5.0,5.0,15.0,Champions,Dra. Amanda Dias,PF
+483,2026-12-24,32,835748.49,7,5.0,5.0,5.0,15.0,Champions,Melina Sampaio,PF
+134,2026-12-26,29,966788.77,5,5.0,5.0,5.0,15.0,Champions,Anna Liz Rodrigues,PF
+1351,2026-12-28,30,816487.4,3,5.0,5.0,5.0,15.0,Champions,Barros S.A.,PJ
+1221,2026-12-30,28,884300.24,1,5.0,5.0,5.0,15.0,Champions,Pedro Miguel da Conceição,PF
+868,2026-12-29,27,835370.34,2,5.0,5.0,5.0,15.0,Champions,Murilo Cardoso,PF
+498,2026-12-23,30,931695.81,8,5.0,5.0,5.0,15.0,Champions,Beatriz da Cruz,PF
+504,2026-12-29,29,959879.64,2,5.0,5.0,5.0,15.0,Champions,Liz Silva,PF
+1352,2026-12-28,29,754276.37,3,5.0,5.0,5.0,15.0,Champions,Sr. José Pedro das Neves,PF
+1359,2026-12-26,27,859363.57,5,5.0,5.0,5.0,15.0,Champions,Abreu Rios - ME,PJ
+907,2026-12-31,29,789640.69,0,5.0,5.0,5.0,15.0,Champions,Henrique Cirino,PF
+1603,2026-12-26,28,761377.32,5,5.0,5.0,5.0,15.0,Champions,da Cruz Sampaio e Filhos EIRELI,PJ
+96,2026-12-30,26,816827.41,1,5.0,5.0,5.0,15.0,Champions,Diego da Rocha,PF
+1598,2026-12-20,29,795406.15,11,5.0,5.0,5.0,15.0,Champions,Luiz Felipe Cavalcanti,PF
+1951,2026-12-20,27,889351.06,11,5.0,5.0,5.0,15.0,Champions,Laura Araújo,PF
+1206,2026-12-30,29,952697.27,1,5.0,5.0,5.0,15.0,Champions,Théo Moraes,PF
+89,2026-12-20,27,750076.9,11,5.0,5.0,5.0,15.0,Champions,Carvalho Cassiano S/A EIRELI,PJ
+556,2026-12-19,29,985525.86,12,5.0,5.0,5.0,15.0,Champions,Enzo Gabriel Mendonça,PF
+559,2026-12-29,26,805312.9299999999,2,5.0,5.0,5.0,15.0,Champions,Sr. Isaac Mendes,PF
+1108,2026-12-26,29,970323.45,5,5.0,5.0,5.0,15.0,Champions,Danilo Aragão,PF
+1114,2026-12-25,26,894049.92,6,5.0,5.0,5.0,15.0,Champions,Eloá Caldeira,PF
+1563,2026-12-30,29,1111177.3699999999,1,5.0,5.0,5.0,15.0,Champions,Ana Cecília da Cruz,PF
+1322,2026-12-23,26,906056.66,8,5.0,5.0,5.0,15.0,Champions,da Mata S.A.,PJ
+431,2026-12-22,27,752805.74,9,5.0,5.0,5.0,15.0,Champions,Nogueira S.A.,PJ
+1971,2026-12-30,30,794874.53,1,5.0,5.0,5.0,15.0,Champions,Fogaça ME,PJ
+353,2026-12-31,26,799348.61,0,5.0,5.0,5.0,15.0,Champions,Martins ME,PJ
+1824,2026-12-19,28,777188.22,12,5.0,5.0,5.0,15.0,Champions,Rodrigues Castro e Filhos S.A.,PJ
+1267,2026-12-30,26,825669.37,1,5.0,5.0,5.0,15.0,Champions,LAÍS RIOS,PF
+1261,2026-12-21,32,902521.22,10,5.0,5.0,5.0,15.0,Champions,Daniel Garcia,PF
+229,2026-12-24,33,1086582.64,7,5.0,5.0,5.0,15.0,Champions,Ian Câmara,PF
+273,2026-12-24,26,915186.4,7,5.0,5.0,5.0,15.0,Champions,Théo Aparecida,PF
+280,2026-12-19,27,758862.49,12,5.0,5.0,5.0,15.0,Champions,Cavalcanti ME,PJ
+985,2026-12-31,29,810860.56,0,5.0,5.0,5.0,15.0,Champions,Silveira S.A.,PJ
+1774,2026-12-22,32,859117.4,9,5.0,5.0,5.0,15.0,Champions,Sr. Carlos Eduardo Lima,PF
+1773,2026-12-26,28,906154.64,5,5.0,5.0,5.0,15.0,Champions,Rafael Mendes,PF
+1743,2026-12-19,29,804552.02,12,5.0,5.0,5.0,15.0,Champions,Lunna Fernandes,PF
+956,2026-12-22,27,820290.2,9,5.0,5.0,5.0,15.0,Champions,Fernanda Sá,PF
+1731,2026-12-22,31,995910.23,9,5.0,5.0,5.0,15.0,Champions,Sra. Julia Fernandes,PF
+428,2026-12-31,29,1016955.14,0,5.0,5.0,5.0,15.0,Champions,Peixoto Guerra S/A ME,PJ
+194,2026-12-21,30,787095.13,10,5.0,5.0,5.0,15.0,Champions,Martins S/A EIRELI,PJ
+1876,2026-12-21,26,790512.35,10,5.0,5.0,5.0,15.0,Champions,Ian Gonçalves,PF
+1722,2026-12-29,26,1081395.0,2,5.0,5.0,5.0,15.0,Champions,Marcela Câmara,PF
+1881,2026-12-28,26,812461.18,3,5.0,5.0,5.0,15.0,Champions,Gael Henrique Costa,PF
+1233,2026-12-19,27,761493.99,12,5.0,5.0,5.0,15.0,Champions,Ana Carolina Nunes,PF
+1309,2026-12-25,26,864990.81,6,5.0,5.0,5.0,15.0,Champions,Vinícius Montenegro,PF
+1051,2026-12-25,26,756041.48,6,5.0,5.0,5.0,15.0,Champions,Brenda Câmara,PF
+412,2026-12-29,27,922723.19,2,5.0,5.0,5.0,15.0,Champions,Borges ME,PJ
+166,2026-12-27,27,805872.2,4,5.0,5.0,5.0,15.0,Champions,Francisco Dias,PF
+417,2026-12-22,26,748450.45,9,5.0,5.0,5.0,15.0,Champions,Pacheco S.A.,PJ
+1677,2026-12-27,29,893741.9400000001,4,5.0,5.0,5.0,15.0,Champions,Barbosa S.A.,PJ
+1553,2026-12-23,27,790952.08,8,5.0,5.0,5.0,15.0,Champions,Cunha S.A.,PJ
+1003,2026-12-29,29,866226.07,2,5.0,5.0,5.0,15.0,Champions,Sales S/A Ltda,PJ
+1410,2026-12-29,27,1012286.57,2,5.0,5.0,5.0,15.0,Champions,Martins S.A.,PJ
+638,2026-12-30,29,793452.42,1,5.0,5.0,5.0,15.0,Champions,Larissa Sampaio,PF
+35,2026-12-22,26,879056.6,9,5.0,5.0,5.0,15.0,Champions,da Costa Cardoso - ME,PJ
+673,2026-12-25,26,866600.5700000001,6,5.0,5.0,5.0,15.0,Champions,Srta. Evelyn Garcia,PF
+1465,2026-12-29,26,953347.96,2,5.0,5.0,5.0,15.0,Champions,Sr. Murilo da Costa,PF
+1509,2026-12-24,33,991812.1,7,5.0,5.0,5.0,15.0,Champions,João Gabriel Casa Grande,PF
+1143,2026-12-31,26,883363.77,0,5.0,5.0,5.0,15.0,Champions,Antonella Machado,PF
+633,2026-12-19,31,1082203.82,12,5.0,5.0,5.0,15.0,Champions,Sra. Mariah Moura,PF
+1520,2026-12-27,32,872644.11,4,5.0,5.0,5.0,15.0,Champions,João Guilherme Santos,PF
+1452,2026-12-21,29,917886.3,10,5.0,5.0,5.0,15.0,Champions,da Cruz Ltda,PJ
+765,2026-12-26,27,819977.44,5,5.0,5.0,5.0,15.0,Champions,Maria Júlia Sampaio,PF
+740,2026-12-26,34,1221425.34,5,5.0,5.0,5.0,15.0,Champions,Freitas Ltda,PJ
+1162,2026-12-25,27,791005.72,6,5.0,5.0,5.0,15.0,Champions,Mirella Garcia,PF
+703,2026-12-24,27,924198.14,7,5.0,5.0,5.0,15.0,Champions,Camila Ribeiro,PF
+689,2026-12-26,27,862156.15,5,5.0,5.0,5.0,15.0,Champions,Ana Cecília Fogaça,PF
+1437,2026-12-28,31,878510.0,3,5.0,5.0,5.0,15.0,Champions,Emanuella Leão,PF
+458,2026-12-31,24,768785.45,0,5.0,4.0,5.0,14.0,Champions,Moreira Ltda,PJ
+33,2026-12-23,25,806396.9,8,5.0,4.0,5.0,14.0,Champions,Mendonça Câmara Ltda.,PJ
+448,2026-12-14,30,833559.12,17,4.0,5.0,5.0,14.0,Champions,José Pedro Montenegro,PF
+1656,2026-12-17,30,791967.84,14,4.0,5.0,5.0,14.0,Champions,Luara da Costa,PF
+497,2026-12-27,26,669659.95,4,5.0,5.0,4.0,14.0,Champions,Bento Dias,PF
+482,2026-12-27,25,752682.94,4,5.0,4.0,5.0,14.0,Champions,Levi Ferreira,PF
+1763,2026-12-31,24,768223.1,0,5.0,4.0,5.0,14.0,Champions,Pimenta - ME,PJ
+1222,2026-12-15,28,941784.5,16,4.0,5.0,5.0,14.0,Champions,Sr. Davi Lucca da Conceição,PF
+872,2026-12-07,31,888743.62,24,4.0,5.0,5.0,14.0,Champions,Cunha das Neves S/A ME,PJ
+1483,2026-12-26,24,820311.69,5,5.0,4.0,5.0,14.0,Champions,Miguel Marques,PF
+1635,2026-12-14,27,832869.73,17,4.0,5.0,5.0,14.0,Champions,Lucca da Mota,PF
+1219,2026-12-08,26,800984.92,23,4.0,5.0,5.0,14.0,Champions,Liz da Conceição,PF
+1009,2026-12-04,27,909896.4400000001,27,4.0,5.0,5.0,14.0,Champions,Cassiano - ME,PJ
+1933,2026-12-23,25,784475.56,8,5.0,4.0,5.0,14.0,Champions,Nunes ME,PJ
+297,2026-12-19,24,766041.68,12,5.0,4.0,5.0,14.0,Champions,Pires S.A.,PJ
+296,2026-12-06,31,904773.88,25,4.0,5.0,5.0,14.0,Champions,Ferreira S.A.,PJ
+215,2026-12-19,25,782578.75,12,5.0,4.0,5.0,14.0,Champions,Pedro Miguel Vasconcelos,PF
+1395,2026-12-07,29,948732.47,24,4.0,5.0,5.0,14.0,Champions,Cavalcante S.A.,PJ
+1862,2026-12-23,27,660328.34,8,5.0,5.0,4.0,14.0,Champions,Marcos Vinicius Brito,PF
+917,2026-12-20,28,660642.36,11,5.0,5.0,4.0,14.0,Champions,Novaes Ltda,PJ
+1237,2026-12-10,29,772233.07,21,4.0,5.0,5.0,14.0,Champions,Maya  Monteiro,PF
+1304,2026-12-16,27,863183.07,15,4.0,5.0,5.0,14.0,Champions,Garcia Ltda,PJ
+384,2026-12-22,27,699900.7,9,5.0,5.0,4.0,14.0,Champions,Alexandre Gomes,PF
+180,2026-12-21,23,786221.62,10,5.0,4.0,5.0,14.0,Champions,Gomes S.A.,PJ
+1493,2026-12-10,32,1073662.38,21,4.0,5.0,5.0,14.0,Champions,Levi Dias,PF
+1241,2026-12-14,28,917545.68,17,4.0,5.0,5.0,14.0,Champions,Maria Júlia Ferreira,PF
+927,2026-12-07,31,910114.89,24,4.0,5.0,5.0,14.0,Champions,Rios Costa - ME,PJ
+683,2026-12-16,28,915669.07,15,4.0,5.0,5.0,14.0,Champions,Laís Aragão,PF
+398,2026-12-30,27,744612.18,1,5.0,5.0,4.0,14.0,Champions,Martins - ME,PJ
+1486,2026-12-15,28,861267.8,16,4.0,5.0,5.0,14.0,Champions,Dr. Luigi Cardoso,PF
+733,2026-12-13,27,914218.61,18,4.0,5.0,5.0,14.0,Champions,Lorenzo da Luz,PF
+154,2026-12-21,29,665627.73,10,5.0,5.0,4.0,14.0,Champions,Otto da Rosa,PF
+351,2026-12-04,30,1013789.72,27,4.0,5.0,5.0,14.0,Champions,Gabriela Sales,PF
+1496,2026-12-08,26,896046.61,23,4.0,5.0,5.0,14.0,Champions,Azevedo Ltda,PJ
+1683,2026-12-08,28,768531.3,23,4.0,5.0,5.0,14.0,Champions,Sra. Maria Helena Vasconcelos,PF
+950,2026-12-14,26,761741.33,17,4.0,5.0,5.0,14.0,Champions,Luana Cavalcante,PF
+1987,2026-12-05,33,842549.55,26,4.0,5.0,5.0,14.0,Champions,Laís Fogaça,PF
+340,2026-12-30,26,721479.65,1,5.0,5.0,4.0,14.0,Champions,Joaquim Moreira,PF
+1867,2026-12-14,28,785188.15,17,4.0,5.0,5.0,14.0,Champions,Laís Vargas,PF
+432,2026-12-20,29,651394.74,11,5.0,5.0,4.0,14.0,Champions,Silva EIRELI,PJ
+653,2026-12-17,26,782108.36,14,4.0,5.0,5.0,14.0,Champions,Anthony Dias,PF
+1897,2026-12-13,31,889788.23,18,4.0,5.0,5.0,14.0,Champions,Luna Cavalcante,PF
+118,2026-12-26,25,817044.22,5,5.0,4.0,5.0,14.0,Champions,Moreira Ltda,PJ
+1450,2026-12-29,24,856693.83,2,5.0,4.0,5.0,14.0,Champions,Raquel Lima,PF
+865,2026-12-08,28,796602.3099999999,23,4.0,5.0,5.0,14.0,Champions,Arthur Miguel Nunes,PF
+1022,2026-12-28,23,793354.6900000001,3,5.0,4.0,5.0,14.0,Champions,Ana Cecília Gomes,PF
+1098,2026-12-20,27,725123.99,11,5.0,5.0,4.0,14.0,Champions,da Mota Correia - ME,PJ
+1282,2026-12-15,27,751135.02,16,4.0,5.0,5.0,14.0,Champions,Luiz Gustavo Oliveira,PF
+1074,2026-12-28,25,798969.48,3,5.0,4.0,5.0,14.0,Champions,Camila Sampaio,PF
+836,2026-12-12,27,802759.61,19,4.0,5.0,5.0,14.0,Champions,Sara Porto,PF
+782,2026-12-25,26,679167.11,6,5.0,5.0,4.0,14.0,Champions,Pinto S.A.,PJ
+1401,2026-12-11,30,886211.82,20,4.0,5.0,5.0,14.0,Champions,Fogaça EIRELI,PJ
+825,2026-12-18,27,899789.17,13,4.0,5.0,5.0,14.0,Champions,Sra. Agatha Barbosa,PF
+1828,2026-12-19,26,738569.15,12,5.0,5.0,4.0,14.0,Champions,Srta. Natália Abreu,PF
+1265,2026-12-24,26,714280.67,7,5.0,5.0,4.0,14.0,Champions,Arthur Rezende,PF
+573,2026-12-10,29,908777.96,21,4.0,5.0,5.0,14.0,Champions,Vasconcelos - ME,PJ
+1399,2026-12-14,27,865951.41,17,4.0,5.0,5.0,14.0,Champions,Murilo Cardoso,PF
+813,2026-12-06,27,864091.34,25,4.0,5.0,5.0,14.0,Champions,Carvalho Sales - ME,PJ
+1565,2026-12-16,34,956929.07,15,4.0,5.0,5.0,14.0,Champions,Almeida EIRELI,PJ
+1388,2026-12-14,34,1042100.9,17,4.0,5.0,5.0,14.0,Champions,Nunes da Mota - ME,PJ
+588,2026-12-22,23,761087.65,9,5.0,4.0,5.0,14.0,Champions,Silva - ME,PJ
+54,2026-12-04,29,870499.81,27,4.0,5.0,5.0,14.0,Champions,Srta. Maria Isis da Conceição,PF
+592,2026-12-24,24,873479.84,7,5.0,4.0,5.0,14.0,Champions,Jesus Campos - ME,PJ
+594,2026-12-24,24,783171.92,7,5.0,4.0,5.0,14.0,Champions,Camargo Caldeira S/A Ltda,PJ
+1186,2026-12-24,25,900399.7,7,5.0,4.0,5.0,14.0,Champions,Cauê Marques,PF
+595,2026-12-28,27,681204.56,3,5.0,5.0,4.0,14.0,Champions,Danilo da Luz,PF
+596,2026-12-17,27,889337.21,14,4.0,5.0,5.0,14.0,Champions,Dante Cardoso,PF
+244,2026-12-07,27,884846.62,24,4.0,5.0,5.0,14.0,Champions,Camila Vargas,PF
+1546,2026-12-11,27,887893.58,20,4.0,5.0,5.0,14.0,Champions,Carvalho Carvalho Ltda.,PJ
+1596,2026-12-22,24,839680.54,9,5.0,4.0,5.0,14.0,Champions,João Pedro Vieira,PF
+837,2026-12-25,27,664530.78,6,5.0,5.0,4.0,14.0,Champions,Sr. Daniel Correia,PF
+1946,2026-12-13,26,984449.03,18,4.0,5.0,5.0,14.0,Champions,Eduardo Guerra,PF
+1531,2026-12-26,23,749191.38,5,5.0,4.0,5.0,14.0,Champions,Ramos Ltda.,PJ
+847,2026-12-20,23,796594.14,11,5.0,4.0,5.0,14.0,Champions,Francisco da Luz,PF
+1214,2026-12-23,25,827092.98,8,5.0,4.0,5.0,14.0,Champions,Câmara EIRELI,PJ
+846,2026-12-09,28,838247.42,22,4.0,5.0,5.0,14.0,Champions,Rezende - ME,PJ
+542,2026-12-10,27,829870.63,21,4.0,5.0,5.0,14.0,Champions,Genérico,PF
+543,2026-12-18,30,883498.65,13,4.0,5.0,5.0,14.0,Champions,Giovanna Nogueira,PF
+104,2026-12-06,31,969998.65,25,4.0,5.0,5.0,14.0,Champions,Casa Grande - EI Ltda,PJ
+855,2026-12-19,25,832921.3200000001,12,5.0,4.0,5.0,14.0,Champions,Maya Sousa,PF
+858,2026-12-05,27,843523.68,26,4.0,5.0,5.0,14.0,Champions,Joana Lima,PF
+642,2026-12-19,29,733879.57,12,5.0,5.0,4.0,14.0,Champions,Maria Júlia Aragão,PF
+1844,2026-12-18,26,874298.43,13,4.0,5.0,5.0,14.0,Champions,Igor Rodrigues,PF
+721,2026-11-30,27,804852.19,31,3.0,5.0,5.0,13.0,Champions,Sr. Augusto Barbosa,PF
+720,2026-12-26,27,614664.23,5,5.0,5.0,3.0,13.0,Champions,Davi Lucca Moraes,PF
+1302,2026-12-22,25,745147.57,9,5.0,4.0,4.0,13.0,Champions,Nogueira S.A.,PJ
+1277,2026-12-23,25,677876.46,8,5.0,4.0,4.0,13.0,Champions,Nascimento Ltda,PJ
+1730,2026-11-30,32,1101887.12,31,3.0,5.0,5.0,13.0,Champions,Arthur Gabriel Ramos,PF
+707,2026-11-16,29,791121.7,45,3.0,5.0,5.0,13.0,Champions,da Mota - EI EIRELI,PJ
+1286,2026-12-19,22,768408.01,12,5.0,3.0,5.0,13.0,Champions,Vitor Alves,PF
+976,2026-11-23,29,1003457.83,38,3.0,5.0,5.0,13.0,Champions,Ana Carolina Vargas,PF
+257,2026-12-22,22,767787.65,9,5.0,3.0,5.0,13.0,Champions,Caio Barbosa,PF
+1782,2026-11-13,27,860170.03,48,3.0,5.0,5.0,13.0,Champions,Dante Vasconcelos,PF
+1728,2026-11-11,26,916735.65,50,3.0,5.0,5.0,13.0,Champions,Mariah Novais,PF
+1755,2026-12-07,26,663519.9,24,4.0,5.0,4.0,13.0,Champions,Allana Garcia,PF
+997,2026-11-16,27,940052.32,45,3.0,5.0,5.0,13.0,Champions,Camargo S.A.,PJ
+987,2026-12-31,26,566370.77,0,5.0,5.0,3.0,13.0,Champions,Machado S.A.,PJ
+989,2026-11-26,30,849562.39,35,3.0,5.0,5.0,13.0,Champions,Monteiro Ltda.,PJ
+323,2026-12-17,26,693087.66,14,4.0,5.0,4.0,13.0,Champions,Letícia Andrade,PF
+268,2026-11-26,31,948586.15,35,3.0,5.0,5.0,13.0,Champions,Gabrielly Moreira,PF
+322,2026-11-24,31,838039.33,37,3.0,5.0,5.0,13.0,Champions,Brito Andrade - ME,PJ
+1299,2026-12-01,30,794985.96,30,3.0,5.0,5.0,13.0,Champions,das Neves S.A.,PJ
+337,2026-12-28,24,676730.59,3,5.0,4.0,4.0,13.0,Champions,Isabel Peixoto,PF
+952,2026-12-12,25,881768.62,19,4.0,4.0,5.0,13.0,Champions,Silveira ME,PJ
+991,2026-12-28,23,664166.06,3,5.0,4.0,4.0,13.0,Champions,Pastor S/A S.A.,PJ
+1298,2026-12-14,24,804439.08,17,4.0,4.0,5.0,13.0,Champions,Theodoro Duarte,PF
+1814,2026-12-10,24,937034.66,21,4.0,4.0,5.0,13.0,Champions,Viana ME,PJ
+1458,2026-12-15,26,719983.78,16,4.0,5.0,4.0,13.0,Champions,Dr. José Pedro da Mata,PF
+1294,2026-12-20,24,685006.75,11,5.0,4.0,4.0,13.0,Champions,Vitor Hugo da Paz,PF
+1469,2026-12-06,26,657055.01,25,4.0,5.0,4.0,13.0,Champions,Gomes Moreira - ME,PJ
+947,2026-11-30,28,842409.3,31,3.0,5.0,5.0,13.0,Champions,Oliveira S.A.,PJ
+960,2026-12-31,23,653758.96,0,5.0,4.0,4.0,13.0,Champions,Teixeira Ltda,PJ
+299,2026-11-15,27,773422.59,46,3.0,5.0,5.0,13.0,Champions,Melo - EI S.A.,PJ
+793,2026-12-31,26,583107.35,0,5.0,5.0,3.0,13.0,Champions,Yuri da Mota,PF
+1721,2026-12-31,23,696332.51,0,5.0,4.0,4.0,13.0,Champions,Maria Sophia Teixeira,PF
+624,2026-12-23,23,660120.02,8,5.0,4.0,4.0,13.0,Champions,Nunes - ME,PJ
+869,2026-12-20,23,691536.11,11,5.0,4.0,4.0,13.0,Champions,Duarte ME,PJ
+646,2026-12-30,24,649985.28,1,5.0,4.0,4.0,13.0,Champions,da Luz EIRELI,PJ
+502,2026-12-06,23,804944.11,25,4.0,4.0,5.0,13.0,Champions,Sales S.A.,PJ
+503,2026-12-14,25,836952.15,17,4.0,4.0,5.0,13.0,Champions,Srta. Camila Martins,PF
+1630,2026-12-21,24,675166.37,10,5.0,4.0,4.0,13.0,Champions,Pinto Santos S/A ME,PJ
+1624,2026-12-28,25,708829.22,3,5.0,4.0,4.0,13.0,Champions,Sr. Léo Sousa,PF
+1610,2026-12-29,23,672043.86,2,5.0,4.0,4.0,13.0,Champions,Freitas Camargo - EI ME,PJ
+531,2026-12-11,23,806482.31,20,4.0,4.0,5.0,13.0,Champions,Vinicius Azevedo,PF
+632,2026-12-26,25,722123.76,5,5.0,4.0,4.0,13.0,Champions,Heitor Almeida,PF
+541,2026-11-26,34,956419.82,35,3.0,5.0,5.0,13.0,Champions,Benicio Vargas,PF
+544,2026-12-11,28,744271.93,20,4.0,5.0,4.0,13.0,Champions,Luara Albuquerque,PF
+1536,2026-12-26,21,773672.58,5,5.0,3.0,5.0,13.0,Champions,Lívia Fogaça,PF
+621,2026-12-23,27,571844.51,8,5.0,5.0,3.0,13.0,Champions,Ian Lima,PF
+870,2026-11-25,31,1049190.1,36,3.0,5.0,5.0,13.0,Champions,da Rosa ME,PJ
+844,2026-12-08,25,838642.73,23,4.0,4.0,5.0,13.0,Champions,Sra. Isis Siqueira,PF
+1364,2026-12-31,23,665141.11,0,5.0,4.0,4.0,13.0,Champions,Sr. Dante Almeida,PF
+616,2026-12-01,28,908429.67,30,3.0,5.0,5.0,13.0,Champions,Yasmin Nascimento,PF
+563,2026-12-08,24,766319.29,23,4.0,4.0,5.0,13.0,Champions,Olívia Ribeiro,PF
+1378,2026-12-07,28,672444.13,24,4.0,5.0,4.0,13.0,Champions,Rodrigues ME,PJ
+818,2026-12-28,24,742492.1,3,5.0,4.0,4.0,13.0,Champions,da Paz S.A.,PJ
+817,2026-12-31,24,672421.23,0,5.0,4.0,4.0,13.0,Champions,Dr. Calebe Mendes,PF
+1569,2026-12-07,24,910296.5,24,4.0,4.0,5.0,13.0,Champions,Gomes Azevedo - ME,PJ
+1566,2026-11-25,27,823873.84,36,3.0,5.0,5.0,13.0,Champions,Pedro Henrique Melo,PF
+803,2026-11-17,27,1041953.3,44,3.0,5.0,5.0,13.0,Champions,Joana Novais,PF
+801,2026-12-23,24,736100.02,8,5.0,4.0,4.0,13.0,Champions,Duarte Silveira - ME,PJ
+1394,2026-12-31,25,687431.69,0,5.0,4.0,4.0,13.0,Champions,José Pedro Nogueira,PF
+648,2026-12-15,25,958654.07,16,4.0,4.0,5.0,13.0,Champions,Emanuel Moreira,PF
+871,2026-12-27,25,708468.64,4,5.0,4.0,4.0,13.0,Champions,Ramos Guerra - EI Ltda,PJ
+383,2026-12-10,24,791824.72,21,4.0,4.0,5.0,13.0,Champions,Oliveira e Filhos S.A.,PJ
+1430,2026-11-28,26,1091963.09,33,3.0,5.0,5.0,13.0,Champions,Milena Alves,PF
+1449,2026-12-31,23,656741.46,0,5.0,4.0,4.0,13.0,Champions,Davi Luiz da Rocha,PF
+931,2026-12-23,25,707864.49,8,5.0,4.0,4.0,13.0,Champions,Srta. Pietra Pimenta,PF
+1704,2026-11-16,27,846913.98,45,3.0,5.0,5.0,13.0,Champions,Siqueira da Costa - ME,PJ
+741,2026-12-14,26,706326.53,17,4.0,5.0,4.0,13.0,Champions,Sem Nome,PJ
+928,2026-11-15,26,765543.83,46,3.0,5.0,5.0,13.0,Champions,Vinicius Rios,PF
+1699,2026-12-27,24,718140.76,4,5.0,4.0,4.0,13.0,Champions,Dra. Ester Duarte,PF
+401,2026-11-19,27,904710.17,42,3.0,5.0,5.0,13.0,Champions,Cunha S.A.,PJ
+1314,2026-12-28,24,678628.94,3,5.0,4.0,4.0,13.0,Champions,Mateus Sá,PF
+914,2026-11-17,26,848492.35,44,3.0,5.0,5.0,13.0,Champions,Pacheco Guerra Ltda.,PJ
+748,2026-12-26,23,679460.72,5,5.0,4.0,4.0,13.0,Champions,Borges Pimenta S.A.,PJ
+420,2026-12-09,29,746398.45,22,4.0,5.0,4.0,13.0,Champions,Maria Sophia Fernandes,PF
+426,2026-12-13,24,853974.47,18,4.0,4.0,5.0,13.0,Champions,Martins S/A ME,PJ
+1324,2026-12-28,23,729431.78,3,5.0,4.0,4.0,13.0,Champions,Francisco Nogueira,PF
+649,2026-12-16,24,816694.2,15,4.0,4.0,5.0,13.0,Champions,Camargo Ltda,PJ
+438,2026-12-26,24,738092.47,5,5.0,4.0,4.0,13.0,Champions,Pinto Souza S/A Ltda,PJ
+1668,2026-12-29,28,638345.88,2,5.0,5.0,3.0,13.0,Champions,Vitória Andrade,PF
+445,2026-11-24,26,754870.16,37,3.0,5.0,5.0,13.0,Champions,Cavalcanti S.A.,PJ
+453,2026-12-08,25,783609.74,23,4.0,4.0,5.0,13.0,Champions,Bárbara Albuquerque,PF
+455,2026-12-25,23,668111.7,6,5.0,4.0,4.0,13.0,Champions,da Costa Ltda,PJ
+456,2026-12-14,31,677005.33,17,4.0,5.0,4.0,13.0,Champions,Melo Fogaça - EI Ltda,PJ
+460,2026-12-12,27,730478.6799999999,19,4.0,5.0,4.0,13.0,Champions,Enzo Gabriel Souza,PF
+461,2026-11-30,32,984477.61,31,3.0,5.0,5.0,13.0,Champions,Josué Vargas,PF
+1513,2026-11-11,30,894483.05,50,3.0,5.0,5.0,13.0,Champions,Cavalcante EIRELI,PJ
+1426,2026-12-06,23,748472.88,25,4.0,4.0,5.0,13.0,Champions,Melo Ltda,PJ
+764,2026-12-20,24,679916.55,11,5.0,4.0,4.0,13.0,Champions,Cavalcante S.A.,PJ
+485,2026-12-18,23,747238.37,13,4.0,4.0,5.0,13.0,Champions,Isaque Vasconcelos,PF
+902,2026-12-22,23,725401.85,9,5.0,4.0,4.0,13.0,Champions,Asafe Costa,PF
+1570,2026-11-28,26,807523.62,33,3.0,5.0,5.0,13.0,Champions,Maria Alice Lima,PF
+1917,2026-12-23,23,714616.95,8,5.0,4.0,4.0,13.0,Champions,Cirino ME,PJ
+136,2026-12-11,24,793126.89,20,4.0,4.0,5.0,13.0,Champions,Machado - EI ME,PJ
+139,2026-12-06,25,747326.4,25,4.0,4.0,5.0,13.0,Champions,Costela EIRELI,PJ
+1913,2026-11-27,26,937409.02,34,3.0,5.0,5.0,13.0,Champions,Siqueira S.A.,PJ
+1909,2026-12-22,24,682327.21,9,5.0,4.0,4.0,13.0,Champions,Kevin Sales,PF
+1065,2026-11-18,27,852953.54,43,3.0,5.0,5.0,13.0,Champions,Murilo Ramos,PF
+152,2026-12-31,25,668098.58,0,5.0,4.0,4.0,13.0,Champions,Teixeira ME,PJ
+1900,2026-11-25,31,1040347.22,36,3.0,5.0,5.0,13.0,Champions,Sr. Dom Almeida,PF
+1061,2026-12-08,26,712495.41,23,4.0,5.0,4.0,13.0,Champions,Ana Luiza Ramos,PF
+1889,2026-12-07,25,754521.05,24,4.0,4.0,5.0,13.0,Champions,Abreu Ltda,PJ
+162,2026-12-19,24,704632.08,12,5.0,4.0,4.0,13.0,Champions,Fernandes e Filhos S.A.,PJ
+1055,2026-12-21,25,663091.68,10,5.0,4.0,4.0,13.0,Champions,Enrico Porto,PF
+1886,2026-12-07,24,869443.13,24,4.0,4.0,5.0,13.0,Champions,Farias EIRELI,PJ
+1054,2026-12-01,28,867864.75,30,3.0,5.0,5.0,13.0,Champions,Isis Caldeira,PF
+182,2026-12-20,25,720691.84,11,5.0,4.0,4.0,13.0,Champions,das Neves e Filhos S.A.,PJ
+1873,2026-12-26,25,648956.45,5,5.0,4.0,4.0,13.0,Champions,Leão Ltda,PJ
+1244,2026-12-16,28,659947.31,15,4.0,5.0,4.0,13.0,Champions,Carlos Eduardo da Cruz,PF
+197,2026-12-02,26,849166.6799999999,29,3.0,5.0,5.0,13.0,Champions,Arthur Vasconcelos,PF
+1869,2026-12-24,24,685390.93,7,5.0,4.0,4.0,13.0,Champions,Martins Barbosa Ltda.,PJ
+1041,2026-12-25,23,660555.19,6,5.0,4.0,4.0,13.0,Champions,Pinto ME,PJ
+203,2026-12-25,24,664060.1,6,5.0,4.0,4.0,13.0,Champions,Monteiro S.A.,PJ
+1859,2026-11-24,27,940233.48,37,3.0,5.0,5.0,13.0,Champions,Costela S.A.,PJ
+213,2026-12-01,26,805479.42,30,3.0,5.0,5.0,13.0,Champions,Beatriz Caldeira,PF
+1067,2026-12-22,22,829918.07,9,5.0,3.0,5.0,13.0,Champions,Moura Gonçalves - ME,PJ
+1068,2026-11-23,27,861755.42,38,3.0,5.0,5.0,13.0,Champions,Eloah da Luz,PF
+1851,2026-11-24,31,955186.92,37,3.0,5.0,5.0,13.0,Champions,da Conceição EIRELI,PJ
+1070,2026-12-01,28,778276.29,30,3.0,5.0,5.0,13.0,Champions,Lorenzo Sá,PF
+1150,2026-12-02,32,906290.76,29,3.0,5.0,5.0,13.0,Champions,TeixeiraSales - EI Ltda,PJ
+1155,2026-12-12,25,857912.61,19,4.0,4.0,5.0,13.0,Champions,Freitas Gomes S/A ME,PJ
+9,2026-11-13,29,851285.08,48,3.0,5.0,5.0,13.0,Champions,Eduarda Marques,PF
+15,2026-12-09,23,851999.66,22,4.0,4.0,5.0,13.0,Champions,Aragão e Filhos Ltda,PJ
+32,2026-12-03,26,843888.49,28,3.0,5.0,5.0,13.0,Champions,Santos Cunha S/A S.A.,PJ
+1978,2026-12-02,27,796888.15,29,3.0,5.0,5.0,13.0,Champions,Ana Carolina Araújo,PF
+1973,2026-12-08,23,757952.0700000001,23,4.0,4.0,5.0,13.0,Champions,Yuri Rodrigues,PF
+48,2026-11-20,28,1020398.04,41,3.0,5.0,5.0,13.0,Champions,Juliana Oliveira,PF
+55,2026-11-14,26,929352.94,47,3.0,5.0,5.0,13.0,Champions,Luísa Brito,PF
+1124,2026-12-02,34,1000106.91,29,3.0,5.0,5.0,13.0,Champions,Theodoro Oliveira,PF
+1122,2026-12-22,25,650015.07,9,5.0,4.0,4.0,13.0,Champions,João Pimenta,PF
+1188,2026-12-17,24,768645.49,14,4.0,4.0,5.0,13.0,Champions,Isis da Cruz,PF
+70,2026-12-22,23,654520.6799999999,9,5.0,4.0,4.0,13.0,Champions,Almeida Ltda,PJ
+72,2026-12-12,25,836447.73,19,4.0,4.0,5.0,13.0,Champions,Garcia Ltda,PJ
+1112,2026-12-23,23,655031.81,8,5.0,4.0,4.0,13.0,Champions,Erick Teixeira,PF
+1957,2026-12-14,23,822299.78,17,4.0,4.0,5.0,13.0,Champions,Melissa Garcia,PF
+88,2026-12-27,22,846103.17,4,5.0,3.0,5.0,13.0,Champions,Vinicius Borges,PF
+98,2026-12-15,25,869500.46,16,4.0,4.0,5.0,13.0,Champions,Sr. Luiz Felipe da Costa,PF
+1218,2026-12-07,26,713679.54,24,4.0,5.0,4.0,13.0,Champions,Dom Mendes,PF
+1073,2026-12-14,28,724062.75,17,4.0,5.0,4.0,13.0,Champions,Siqueira Cavalcanti Ltda.,PJ
+120,2026-12-10,25,792000.23,21,4.0,4.0,5.0,13.0,Champions,Silveira Aragão - EI S.A.,PJ
+1853,2026-11-09,27,815059.98,52,3.0,5.0,5.0,13.0,Champions,Peixoto S.A.,PJ
+710,2026-11-24,28,859229.39,37,3.0,5.0,5.0,13.0,Champions,Ravi Lucca Andrade,PF
+1012,2026-12-13,25,799557.0700000001,18,4.0,4.0,5.0,13.0,Champions,Henry Sampaio,PF
+1842,2026-12-09,25,814633.9,22,4.0,4.0,5.0,13.0,Champions,Allana Oliveira,PF
+241,2026-12-14,23,771976.84,17,4.0,4.0,5.0,13.0,Champions,Liz Moraes,PF
+1025,2026-12-18,27,711080.66,13,4.0,5.0,4.0,13.0,Champions,Hellena Casa Grande,PF
+1681,2026-12-20,22,677477.06,11,5.0,3.0,4.0,12.0,Loyal Customers,Maria Laura Ferreira,PF
+635,2026-09-21,32,1076564.07,101,2.0,5.0,5.0,12.0,Loyal Customers,Sr. Nicolas da Luz,PF
+1315,2026-10-25,28,803980.02,67,2.0,5.0,5.0,12.0,Loyal Customers,Fogaça da Costa - EI EIRELI,PJ
+771,2026-10-26,26,746399.77,66,2.0,5.0,5.0,12.0,Loyal Customers,Costa EIRELI,PJ
+1316,2026-11-20,24,778772.3,41,3.0,4.0,5.0,12.0,Loyal Customers,Ferreira Ltda,PJ
+1129,2026-09-11,27,794347.67,111,2.0,5.0,5.0,12.0,Loyal Customers,Bruno Macedo,PF
+1228,2026-11-18,24,777933.33,43,3.0,4.0,5.0,12.0,Loyal Customers,Rebeca da Mota,PF
+1599,2026-11-21,24,968275.37,40,3.0,4.0,5.0,12.0,Loyal Customers,Ana Laura Jesus,PF
+163,2026-12-15,24,703577.9400000001,16,4.0,4.0,4.0,12.0,Loyal Customers,Maria Julia Abreu,PF
+508,2026-12-14,23,686750.75,17,4.0,4.0,4.0,12.0,Loyal Customers,Barbosa ME,PJ
+1974,2026-12-31,22,655019.6,0,5.0,3.0,4.0,12.0,Loyal Customers,Dias - EI S.A.,PJ
+1321,2026-12-23,21,736073.81,8,5.0,3.0,4.0,12.0,Loyal Customers,Sophia Marques,PF
+423,2026-11-09,25,751555.24,52,3.0,4.0,5.0,12.0,Loyal Customers,Sophie Pastor,PF
+823,2026-09-12,27,860472.02,110,2.0,5.0,5.0,12.0,Loyal Customers,Vitor Fonseca,PF
+46,2026-12-28,25,606325.51,3,5.0,4.0,3.0,12.0,Loyal Customers,Fernanda Lima,PF
+427,2026-11-11,25,931284.12,50,3.0,4.0,5.0,12.0,Loyal Customers,Lima ME,PJ
+1264,2026-12-21,22,678444.45,10,5.0,3.0,4.0,12.0,Loyal Customers,Peixoto Sousa Ltda.,PJ
+1413,2026-12-14,26,637491.25,17,4.0,5.0,3.0,12.0,Loyal Customers,Srta. Natália Cavalcanti,PF
+619,2026-10-13,34,970838.7,79,2.0,5.0,5.0,12.0,Loyal Customers,Ravy Souza,PF
+168,2026-12-07,24,650974.63,24,4.0,4.0,4.0,12.0,Loyal Customers,Bruna da Mata,PF
+1525,2026-10-16,31,886930.18,76,2.0,5.0,5.0,12.0,Loyal Customers,da Luz ME,PJ
+1412,2026-12-03,26,692880.85,28,3.0,5.0,4.0,12.0,Loyal Customers,Joana da Paz,PF
+1230,2026-10-16,28,924056.93,76,2.0,5.0,5.0,12.0,Loyal Customers,Ribeiro S.A.,PJ
+40,2026-12-22,21,716964.58,9,5.0,3.0,4.0,12.0,Loyal Customers,Dr. Rafael da Mata,PF
+177,2026-11-05,29,1157948.54,56,2.0,5.0,5.0,12.0,Loyal Customers,Alexia Pimenta,PF
+1884,2026-12-31,21,679403.8,0,5.0,3.0,4.0,12.0,Loyal Customers,Rhavi Vasconcelos,PF
+393,2026-12-12,27,595100.4500000001,19,4.0,5.0,3.0,12.0,Loyal Customers,Jesus S.A.,PJ
+394,2026-10-30,28,923727.43,62,2.0,5.0,5.0,12.0,Loyal Customers,Martins Vargas e Filhos ME,PJ
+174,2026-12-23,23,604147.98,8,5.0,4.0,3.0,12.0,Loyal Customers,Mirella Abreu,PF
+766,2026-10-09,36,1021987.9,83,2.0,5.0,5.0,12.0,Loyal Customers,da Paz ME,PJ
+643,2026-10-08,28,1101387.55,84,2.0,5.0,5.0,12.0,Loyal Customers,Davi Lucas Montenegro,PF
+924,2026-11-29,25,752992.4,32,3.0,4.0,5.0,12.0,Loyal Customers,Abreu Gomes e Filhos Ltda,PJ
+408,2026-12-28,23,617237.74,3,5.0,4.0,3.0,12.0,Loyal Customers,Nunes S.A.,PJ
+2,2026-10-25,29,772803.56,67,2.0,5.0,5.0,12.0,Loyal Customers,Lara Abreu,PF
+1942,2026-12-26,24,637053.21,5,5.0,4.0,3.0,12.0,Loyal Customers,Mendonça EIRELI,PJ
+864,2026-12-11,24,688701.67,20,4.0,4.0,4.0,12.0,Loyal Customers,Araújo S.A.,PJ
+403,2026-10-27,26,868915.98,65,2.0,5.0,5.0,12.0,Loyal Customers,Aragão EIRELI,PJ
+769,2026-12-16,25,724204.4,15,4.0,4.0,4.0,12.0,Loyal Customers,Mirella Albuquerque,PF
+1180,2026-11-30,25,767982.84,31,3.0,4.0,5.0,12.0,Loyal Customers,Viana ME,PJ
+919,2026-11-25,25,777388.75,36,3.0,4.0,5.0,12.0,Loyal Customers,Maria Fernanda Costela,PF
+1843,2026-12-22,21,744990.7,9,5.0,3.0,4.0,12.0,Loyal Customers,da Cruz S.A.,PJ
+434,2026-10-16,26,914547.09,76,2.0,5.0,5.0,12.0,Loyal Customers,Dr. Luiz Fernando Araújo,PF
+501,2026-10-30,29,997861.92,62,2.0,5.0,5.0,12.0,Loyal Customers,Luiza Rodrigues,PF
+1629,2026-12-21,21,658641.47,10,5.0,3.0,4.0,12.0,Loyal Customers,Moura S.A.,PJ
+66,2026-12-04,21,752761.79,27,4.0,3.0,5.0,12.0,Loyal Customers,Beatriz Mendonça,PF
+889,2026-12-09,26,614536.91,22,4.0,5.0,3.0,12.0,Loyal Customers,Eduarda Mendonça,PF
+1123,2026-11-13,24,764217.59,48,3.0,4.0,5.0,12.0,Loyal Customers,Maitê Caldeira,PF
+797,2026-12-23,21,655445.14,8,5.0,3.0,4.0,12.0,Loyal Customers,Azevedo Teixeira - ME,PJ
+61,2026-12-23,25,591922.34,8,5.0,4.0,3.0,12.0,Loyal Customers,Ana Julia Pereira,PF
+1922,2026-12-26,22,728406.46,5,5.0,3.0,4.0,12.0,Loyal Customers,Heloísa Abreu,PF
+593,2026-11-24,29,698060.08,37,3.0,5.0,4.0,12.0,Loyal Customers,Camargo Correia Ltda.,PJ
+884,2026-11-13,25,825159.15,48,3.0,4.0,5.0,12.0,Loyal Customers,Castro Gonçalves e Filhos Ltda,PJ
+1965,2026-12-19,22,715285.05,12,5.0,3.0,4.0,12.0,Loyal Customers,Alana da Rocha,PF
+1822,2026-12-08,24,723505.74,23,4.0,4.0,4.0,12.0,Loyal Customers,Castro ME,PJ
+601,2026-12-07,25,720169.5,24,4.0,4.0,4.0,12.0,Loyal Customers,Gael Leão,PF
+67,2026-11-26,25,777311.27,35,3.0,4.0,5.0,12.0,Loyal Customers,Maria Eduarda Nogueira,PF
+1341,2026-12-20,24,597750.84,11,5.0,4.0,3.0,12.0,Loyal Customers,Oliveira Moura - ME,PJ
+1342,2026-11-28,24,820862.37,33,3.0,4.0,5.0,12.0,Loyal Customers,Stella Garcia,PF
+272,2026-11-30,24,787499.05,31,3.0,4.0,5.0,12.0,Loyal Customers,Pietra Mendes,PF
+135,2026-10-07,29,761605.39,85,2.0,5.0,5.0,12.0,Loyal Customers,da Rosa - ME,PJ
+584,2026-12-25,24,594885.09,6,5.0,4.0,3.0,12.0,Loyal Customers,Emilly Ferreira,PF
+1801,2026-10-11,26,958741.96,81,2.0,5.0,5.0,12.0,Loyal Customers,Marcelo Novais,PF
+1919,2026-12-11,23,726957.34,20,4.0,4.0,4.0,12.0,Loyal Customers,Dr. Thales Peixoto,PF
+465,2026-11-09,28,716556.66,52,3.0,5.0,4.0,12.0,Loyal Customers,Pedro Henrique Pires,PF
+891,2026-12-25,21,662716.76,6,5.0,3.0,4.0,12.0,Loyal Customers,Vinícius da Paz,PF
+500,2026-11-16,27,708115.0,45,3.0,5.0,4.0,12.0,Loyal Customers,Vitor Nunes,PF
+1665,2026-10-27,31,885639.52,65,2.0,5.0,5.0,12.0,Loyal Customers,Dra. Eloah Teixeira,PF
+1901,2026-12-30,22,736829.48,1,5.0,3.0,4.0,12.0,Loyal Customers,Diogo Correia,PF
+440,2026-12-31,23,626175.13,0,5.0,4.0,3.0,12.0,Loyal Customers,Luiz Otávio Martins,PF
+787,2026-12-23,24,598816.47,8,5.0,4.0,3.0,12.0,Loyal Customers,Dr. José Pedro Nunes,PF
+442,2026-11-15,23,751453.77,46,3.0,4.0,5.0,12.0,Loyal Customers,Novais ME,PJ
+900,2026-12-23,21,723237.05,8,5.0,3.0,4.0,12.0,Loyal Customers,Fogaça ME,PJ
+1798,2026-12-13,24,726821.68,18,4.0,4.0,4.0,12.0,Loyal Customers,Leão Ltda,PJ
+899,2026-11-30,25,847672.5,31,3.0,4.0,5.0,12.0,Loyal Customers,Ana Laura Silveira,PF
+147,2026-12-27,24,596716.37,4,5.0,4.0,3.0,12.0,Loyal Customers,Rezende e Filhos ME,PJ
+607,2026-09-29,27,900025.42,93,2.0,5.0,5.0,12.0,Loyal Customers,Cirino EIRELI,PJ
+1912,2026-12-04,25,677878.84,27,4.0,4.0,4.0,12.0,Loyal Customers,Maria Júlia da Luz,PF
+452,2026-11-29,24,855313.23,32,3.0,4.0,5.0,12.0,Loyal Customers,João Sampaio,PF
+606,2026-12-22,25,646160.84,9,5.0,4.0,3.0,12.0,Loyal Customers,Almeida Ltda,PJ
+1905,2026-11-11,24,770916.92,50,3.0,4.0,5.0,12.0,Loyal Customers,Srta. Eloah Pires,PF
+996,2026-12-23,20,772349.25,8,5.0,2.0,5.0,12.0,Loyal Customers,Macedo Ltda,PJ
+893,2026-10-08,32,773052.5,84,2.0,5.0,5.0,12.0,Loyal Customers,Matheus Sá,PF
+1910,2026-10-14,26,749637.52,78,2.0,5.0,5.0,12.0,Loyal Customers,Machado S.A.,PJ
+1662,2026-09-24,27,814688.22,98,2.0,5.0,5.0,12.0,Loyal Customers,Camargo EIRELI,PJ
+56,2026-12-23,23,614383.39,8,5.0,4.0,3.0,12.0,Loyal Customers,Dr. Bruno Farias,PF
+930,2026-11-09,25,879839.2,52,3.0,4.0,5.0,12.0,Loyal Customers,Nicolas Araújo,PF
+1947,2026-11-07,34,1044127.95,54,2.0,5.0,5.0,12.0,Loyal Customers,Amanda Abreu,PF
+1177,2026-11-17,24,792651.8,44,3.0,4.0,5.0,12.0,Loyal Customers,Dr. Lucas Gabriel Fogaça,PF
+1489,2026-11-26,29,728315.04,35,3.0,5.0,4.0,12.0,Loyal Customers,Agatha Costela,PF
+293,2026-12-21,22,719498.75,10,5.0,3.0,4.0,12.0,Loyal Customers,Caroline Oliveira,PF
+1751,2026-11-20,26,668858.26,41,3.0,5.0,4.0,12.0,Loyal Customers,Maria Helena Pinto,PF
+1039,2026-12-03,28,732279.97,28,3.0,5.0,4.0,12.0,Loyal Customers,Maria Isis Porto,PF
+1749,2026-10-24,32,924848.84,68,2.0,5.0,5.0,12.0,Loyal Customers,Jesus Pimenta - EI Ltda,PJ
+1484,2026-10-11,31,815904.31,81,2.0,5.0,5.0,12.0,Loyal Customers,Silveira Nascimento Ltda.,PJ
+1363,2026-09-19,26,953538.37,103,2.0,5.0,5.0,12.0,Loyal Customers,João Miguel Porto,PF
+1744,2026-12-27,24,577745.47,4,5.0,4.0,3.0,12.0,Loyal Customers,Moreira S.A.,PJ
+1820,2026-12-29,21,665158.78,2,5.0,3.0,4.0,12.0,Loyal Customers,Casa Grande EIRELI,PJ
+204,2026-12-23,24,635022.85,8,5.0,4.0,3.0,12.0,Loyal Customers,Sra. Eloah Jesus,PF
+1995,2026-10-02,28,895673.75,90,2.0,5.0,5.0,12.0,Loyal Customers,Maria Helena Rocha,PF
+550,2026-12-25,21,704039.9,6,5.0,3.0,4.0,12.0,Loyal Customers,Josué da Rosa,PF
+1588,2026-11-01,29,786442.1900000001,60,2.0,5.0,5.0,12.0,Loyal Customers,Fernandes S.A.,PJ
+1284,2026-11-29,24,754543.79,32,3.0,4.0,5.0,12.0,Loyal Customers,Casa Grande S.A.,PJ
+856,2026-11-20,27,723846.63,41,3.0,5.0,4.0,12.0,Loyal Customers,Sra. Ana Sophia Silva,PF
+1165,2026-11-24,31,744140.41,37,3.0,5.0,4.0,12.0,Loyal Customers,Yuri Ferreira,PF
+1982,2026-12-18,23,739626.0,13,4.0,4.0,4.0,12.0,Loyal Customers,Francisco Silva,PF
+199,2026-12-17,21,811701.34,14,4.0,3.0,5.0,12.0,Loyal Customers,Santos e Filhos ME,PJ
+1138,2026-12-31,21,674835.85,0,5.0,3.0,4.0,12.0,Loyal Customers,Cassiano da Rocha S.A.,PJ
+961,2026-11-16,26,665565.09,45,3.0,5.0,4.0,12.0,Loyal Customers,Hellena Aparecida,PF
+321,2026-12-07,24,716880.13,24,4.0,4.0,4.0,12.0,Loyal Customers,Catarina da Rosa,PF
+22,2026-12-27,20,895404.61,4,5.0,2.0,5.0,12.0,Loyal Customers,Isadora Rios,PF
+1289,2026-11-20,23,837815.76,41,3.0,4.0,5.0,12.0,Loyal Customers,Novaes Ltda.,PJ
+1028,2026-11-30,23,759682.6,31,3.0,4.0,5.0,12.0,Loyal Customers,da Cruz e Filhos ME,PJ
+245,2026-11-23,24,912217.8200000001,38,3.0,4.0,5.0,12.0,Loyal Customers,Moraes ME,PJ
+1090,2026-11-30,24,755861.9299999999,31,3.0,4.0,5.0,12.0,Loyal Customers,Anna Liz Oliveira,PF
+1262,2026-12-21,23,604239.97,10,5.0,4.0,3.0,12.0,Loyal Customers,João Vitor da Rocha,PF
+4,2026-12-13,23,683687.47,18,4.0,4.0,4.0,12.0,Loyal Customers,Aparecida e Filhos Ltda,PJ
+1781,2026-12-24,20,747486.53,7,5.0,2.0,5.0,12.0,Loyal Customers,Manuella Mendonça,PF
+973,2026-12-30,25,588575.47,1,5.0,4.0,3.0,12.0,Loyal Customers,Casa Grande S/A ME,PJ
+5,2026-11-26,24,763488.04,35,3.0,4.0,5.0,12.0,Loyal Customers,Hellena Rodrigues,PF
+1091,2026-11-05,26,810665.77,56,2.0,5.0,5.0,12.0,Loyal Customers,Enzo Vasconcelos,PF
+11,2026-12-23,21,730995.7,8,5.0,3.0,4.0,12.0,Loyal Customers,Nunes Barros S/A Ltda,PJ
+1030,2026-12-22,23,619228.5599999999,9,5.0,4.0,3.0,12.0,Loyal Customers,Isaque Machado,PF
+1463,2026-12-21,24,577959.94,10,5.0,4.0,3.0,12.0,Loyal Customers,Ana Júlia Teixeira,PF
+1767,2026-12-23,21,696654.28,8,5.0,3.0,4.0,12.0,Loyal Customers,Teixeira ME,PJ
+966,2026-12-29,21,682831.87,2,5.0,3.0,4.0,12.0,Loyal Customers,da Rosa S.A.,PJ
+1144,2026-12-24,23,643196.38,7,5.0,4.0,3.0,12.0,Loyal Customers,Maria Helena Rodrigues,PF
+977,2026-12-03,25,819146.68,28,3.0,4.0,5.0,12.0,Loyal Customers,Diogo Farias,PF
+1213,2026-09-18,28,976389.3,104,2.0,5.0,5.0,12.0,Loyal Customers,Ísis Pacheco,PF
+1080,2026-11-27,23,830968.38,34,3.0,4.0,5.0,12.0,Loyal Customers,Guilherme Pereira,PF
+345,2026-12-27,26,557806.39,4,5.0,5.0,2.0,12.0,Loyal Customers,Macedo ME,PJ
+1740,2026-12-06,24,691471.46,25,4.0,4.0,4.0,12.0,Loyal Customers,Abreu Correia Ltda.,PJ
+347,2026-11-21,23,804498.58,40,3.0,4.0,5.0,12.0,Loyal Customers,Caleb Vargas,PF
+828,2026-12-13,22,754418.52,18,4.0,3.0,5.0,12.0,Loyal Customers,Vitor Hugo Souza,PF
+666,2026-12-27,22,714007.78,4,5.0,3.0,4.0,12.0,Loyal Customers,Brito EIRELI,PJ
+1434,2026-10-08,30,1063845.25,84,2.0,5.0,5.0,12.0,Loyal Customers,Clarice Moura,PF
+759,2026-12-04,24,675626.6,27,4.0,4.0,4.0,12.0,Loyal Customers,Costela ME,PJ
+1305,2026-11-06,28,851357.16,55,2.0,5.0,5.0,12.0,Loyal Customers,Manuela Castro,PF
+1877,2026-12-02,24,766783.37,29,3.0,4.0,5.0,12.0,Loyal Customers,Paulo Teixeira,PF
+370,2026-12-20,23,579660.28,11,5.0,4.0,3.0,12.0,Loyal Customers,Noah Nogueira,PF
+1235,2026-12-16,24,715470.24,15,4.0,4.0,4.0,12.0,Loyal Customers,das Neves Ltda,PJ
+1504,2026-12-16,22,761013.77,15,4.0,3.0,5.0,12.0,Loyal Customers,Eduardo Cunha,PF
+1719,2026-10-28,26,820516.21,64,2.0,5.0,5.0,12.0,Loyal Customers,Santos S.A.,PJ
+1103,2026-11-07,26,835683.06,54,2.0,5.0,5.0,12.0,Loyal Customers,Machado - ME,PJ
+935,2026-11-23,26,700877.25,38,3.0,5.0,4.0,12.0,Loyal Customers,João Peixoto,PF
+1195,2026-12-11,23,683170.37,20,4.0,4.0,4.0,12.0,Loyal Customers,Pereira S.A.,PJ
+863,2026-12-31,22,734592.75,0,5.0,3.0,4.0,12.0,Loyal Customers,Ferreira Martins S.A.,PJ
+378,2026-11-02,27,787224.85,59,2.0,5.0,5.0,12.0,Loyal Customers,Júlia Farias,PF
+1708,2026-11-20,24,805603.34,41,3.0,4.0,5.0,12.0,Loyal Customers,Emanuella da Costa,PF
+1002,2026-12-30,24,601490.55,1,5.0,4.0,3.0,12.0,Loyal Customers,Fernanda da Cruz,PF
+1983,2026-12-09,24,713391.15,22,4.0,4.0,4.0,12.0,Loyal Customers,Sra. Ana Albuquerque,PF
+1628,2026-12-17,23,729763.25,14,4.0,4.0,4.0,12.0,Loyal Customers,Renan Caldeira,PF
+1169,2026-12-28,22,692805.15,3,5.0,3.0,4.0,12.0,Loyal Customers,Ana Liz Borges,PF
+1875,2026-10-20,26,923816.87,72,2.0,5.0,5.0,12.0,Loyal Customers,Rael da Luz,PF
+1702,2026-12-28,21,663513.14,3,5.0,3.0,4.0,12.0,Loyal Customers,Dra. Emanuelly Sampaio,PF
+1168,2026-11-26,25,892497.21,35,3.0,4.0,5.0,12.0,Loyal Customers,Borges - ME,PJ
+1618,2026-12-14,23,697923.89,17,4.0,4.0,4.0,12.0,Loyal Customers,Milena Novaes,PF
+1791,2026-12-23,19,775763.2,8,5.0,2.0,5.0,12.0,Loyal Customers,Novais S.A.,PJ
+948,2026-12-24,26,563947.7,7,5.0,5.0,2.0,12.0,Loyal Customers,Stella Peixoto,PF
+671,2026-12-13,25,698069.1,18,4.0,4.0,4.0,12.0,Loyal Customers,Sá Casa Grande S/A ME,PJ
+744,2026-12-08,24,740693.79,23,4.0,4.0,4.0,12.0,Loyal Customers,Maria Fernanda Moreira,PF
+196,2026-12-17,23,695672.2,14,4.0,4.0,4.0,12.0,Loyal Customers,Sra. Pietra Nogueira,PF
+1466,2026-12-14,22,765876.72,17,4.0,3.0,5.0,12.0,Loyal Customers,Sr. Ravy Rocha,PF
+672,2026-10-16,28,902764.51,76,2.0,5.0,5.0,12.0,Loyal Customers,Dra. Alícia Casa Grande,PF
+350,2026-12-28,24,633297.28,3,5.0,4.0,3.0,12.0,Loyal Customers,Apollo Martins,PF
+568,2026-12-25,18,723488.3200000001,6,5.0,2.0,4.0,11.0,Loyal Customers,Caldeira Gonçalves S/A ME,PJ
+566,2026-11-05,23,877354.63,56,2.0,4.0,5.0,11.0,Loyal Customers,Silva Ltda,PJ
+1110,2026-12-25,21,615259.76,6,5.0,3.0,3.0,11.0,Loyal Customers,Heloisa Ramos,PF
+94,2026-12-28,18,691789.85,3,5.0,2.0,4.0,11.0,Loyal Customers,Bruno Almeida,PF
+264,2026-12-07,21,694505.51,24,4.0,3.0,4.0,11.0,Loyal Customers,Rocha Siqueira Ltda.,PJ
+1572,2026-12-25,23,484513.19,6,5.0,4.0,2.0,11.0,Loyal Customers,Alexia Melo,PF
+1564,2026-12-14,23,617867.27,17,4.0,4.0,3.0,11.0,Loyal Customers,Costela Ltda.,PJ
+1102,2026-12-14,21,704285.53,17,4.0,3.0,4.0,11.0,Loyal Customers,Daniel Aparecida,PF
+95,2026-12-14,23,612990.85,17,4.0,4.0,3.0,11.0,Loyal Customers,Benicio da Costa,PF
+73,2026-12-06,23,569361.32,25,4.0,4.0,3.0,11.0,Loyal Customers,Sr. Renan Azevedo,PF
+85,2026-12-24,21,569735.3,7,5.0,3.0,3.0,11.0,Loyal Customers,Martins ME,PJ
+552,2026-11-15,23,730440.78,46,3.0,4.0,4.0,11.0,Loyal Customers,Novaes Siqueira S.A.,PJ
+71,2026-10-31,24,753197.76,61,2.0,4.0,5.0,11.0,Loyal Customers,Maria Liz Lima,PF
+1362,2026-12-01,25,703977.4299999999,30,3.0,4.0,4.0,11.0,Loyal Customers,Srta. Nina Teixeira,PF
+1961,2026-12-06,22,648767.75,25,4.0,3.0,4.0,11.0,Loyal Customers,Mariana Moraes,PF
+831,2026-11-28,22,803540.11,33,3.0,3.0,5.0,11.0,Loyal Customers,Ryan da Cruz,PF
+834,2026-12-27,21,608380.84,4,5.0,3.0,3.0,11.0,Loyal Customers,Alves Pires Ltda.,PJ
+581,2026-12-23,22,625808.23,8,5.0,3.0,3.0,11.0,Loyal Customers,Isadora Barbosa,PF
+1207,2026-12-15,24,602453.4,16,4.0,4.0,3.0,11.0,Loyal Customers,Srta. Maria Helena da Luz,PF
+77,2026-09-25,24,766505.77,97,2.0,4.0,5.0,11.0,Loyal Customers,Anna Liz da Mata,PF
+1152,2026-12-28,20,735909.74,3,5.0,2.0,4.0,11.0,Loyal Customers,Matteo Castro,PF
+1106,2026-11-11,23,686754.46,50,3.0,4.0,4.0,11.0,Loyal Customers,Dante Novais,PF
+76,2026-11-18,25,735670.14,43,3.0,4.0,4.0,11.0,Loyal Customers,Manuela Castro,PF
+1847,2026-12-24,22,575348.39,7,5.0,3.0,3.0,11.0,Loyal Customers,Barbosa Ltda,PJ
+1963,2026-06-23,30,922061.08,191,1.0,5.0,5.0,11.0,Loyal Customers,Eduardo Ferreira,PF
+682,2026-05-12,27,818764.78,233,1.0,5.0,5.0,11.0,Loyal Customers,Amanda Vargas,PF
+657,2026-10-13,23,872618.24,79,2.0,4.0,5.0,11.0,Loyal Customers,Fernandes e Filhos EIRELI,PJ
+1428,2026-10-24,26,650745.93,68,2.0,5.0,4.0,11.0,Loyal Customers,Melo S.A.,PJ
+1170,2026-12-12,22,718193.11,19,4.0,3.0,4.0,11.0,Loyal Customers,Anna Liz Souza,PF
+753,2026-11-03,27,675557.35,58,2.0,5.0,4.0,11.0,Loyal Customers,Dra. Ísis Caldeira,PF
+1442,2026-12-16,23,596443.33,15,4.0,4.0,3.0,11.0,Loyal Customers,Garcia - ME,PJ
+670,2026-08-18,26,850169.4,135,1.0,5.0,5.0,11.0,Loyal Customers,Lima EIRELI,PJ
+24,2026-12-09,24,601462.78,22,4.0,4.0,3.0,11.0,Loyal Customers,Dr. Ian Câmara,PF
+1494,2026-11-20,23,702044.62,41,3.0,4.0,4.0,11.0,Loyal Customers,Srta. Jade Garcia,PF
+19,2026-12-26,21,611020.27,5,5.0,3.0,3.0,11.0,Loyal Customers,Sra. Vitória Albuquerque,PF
+1989,2026-11-28,21,779008.09,33,3.0,3.0,5.0,11.0,Loyal Customers,Rios EIRELI,PJ
+1993,2026-12-17,21,720424.37,14,4.0,3.0,4.0,11.0,Loyal Customers,João da Silva,PJ
+1427,2026-10-27,24,747863.6900000001,65,2.0,4.0,5.0,11.0,Loyal Customers,Ana Vitória Nogueira,PF
+1160,2026-12-26,22,621384.53,5,5.0,3.0,3.0,11.0,Loyal Customers,da Rocha Novaes S.A.,PJ
+1142,2026-12-28,22,576560.74,3,5.0,3.0,3.0,11.0,Loyal Customers,Sá ME,PJ
+1821,2026-12-12,22,736106.82,19,4.0,3.0,4.0,11.0,Loyal Customers,Cavalcante Campos S.A.,PJ
+694,2026-12-28,18,654256.42,3,5.0,2.0,4.0,11.0,Loyal Customers,Dr. Yago Barbosa,PF
+695,2026-12-21,21,570302.42,10,5.0,3.0,3.0,11.0,Loyal Customers,Azevedo Macedo - ME,PJ
+700,2026-12-31,18,663367.09,0,5.0,2.0,4.0,11.0,Loyal Customers,Allana Novaes,PF
+250,2026-11-03,23,789709.96,58,2.0,4.0,5.0,11.0,Loyal Customers,Melina Câmara,PF
+702,2026-09-10,26,693886.23,112,2.0,5.0,4.0,11.0,Loyal Customers,Pedro Lucas Cirino,PF
+705,2026-07-22,27,787127.72,162,1.0,5.0,5.0,11.0,Loyal Customers,LARA BARROS,PF
+711,2026-12-30,21,631443.22,1,5.0,3.0,3.0,11.0,Loyal Customers,Sr. Pedro Lucas Cirino,PF
+656,2026-04-11,30,862668.95,264,1.0,5.0,5.0,11.0,Loyal Customers,Maria Isis da Costa,PF
+29,2026-12-01,23,669943.6799999999,30,3.0,4.0,4.0,11.0,Loyal Customers,Alves Aparecida S.A.,PJ
+1115,2026-11-01,23,844411.69,60,2.0,4.0,5.0,11.0,Loyal Customers,Sophie Peixoto,PF
+1181,2026-11-13,22,747409.81,48,3.0,3.0,5.0,11.0,Loyal Customers,Brito EIRELI,PJ
+802,2026-12-11,23,642690.7,20,4.0,4.0,3.0,11.0,Loyal Customers,Dr. Dom Cassiano,PF
+62,2026-12-26,19,657066.23,5,5.0,2.0,4.0,11.0,Loyal Customers,Ana Cecília das Neves,PF
+259,2026-11-13,22,810202.5,48,3.0,3.0,5.0,11.0,Loyal Customers,Sr. João Vitor Viana,PF
+1276,2026-07-20,26,747958.97,164,1.0,5.0,5.0,11.0,Loyal Customers,Correia ME,PJ
+604,2026-05-18,31,853333.03,227,1.0,5.0,5.0,11.0,Loyal Customers,João Gabriel Vieira,PF
+1550,2026-11-29,23,732771.92,32,3.0,4.0,4.0,11.0,Loyal Customers,Maria Eduarda Farias,PF
+1011,2026-12-27,19,738384.73,4,5.0,2.0,4.0,11.0,Loyal Customers,Nascimento da Conceição S.A.,PJ
+1545,2026-12-19,21,587760.13,12,5.0,3.0,3.0,11.0,Loyal Customers,José Miguel Dias,PF
+1127,2026-12-01,22,797082.52,30,3.0,3.0,5.0,11.0,Loyal Customers,Thales Casa Grande,PF
+51,2026-12-17,21,699883.11,14,4.0,3.0,4.0,11.0,Loyal Customers,Emanuel das Neves,PF
+49,2026-10-15,26,737450.47,77,2.0,5.0,4.0,11.0,Loyal Customers,Ferreira Ltda,PJ
+31,2026-11-18,25,657841.96,43,3.0,4.0,4.0,11.0,Loyal Customers,Souza Melo - ME,PJ
+1818,2026-11-15,22,756587.9,46,3.0,3.0,5.0,11.0,Loyal Customers,Caleb Carvalho,PF
+1537,2026-12-15,25,643983.36,16,4.0,4.0,3.0,11.0,Loyal Customers,Cunha - EI Ltda,PJ
+623,2026-05-05,26,881163.4,240,1.0,5.0,5.0,11.0,Loyal Customers,Bianca Azevedo,PF
+1414,2026-12-24,22,628577.96,7,5.0,3.0,3.0,11.0,Loyal Customers,Cirino ME,PJ
+1421,2026-12-23,21,580935.28,8,5.0,3.0,3.0,11.0,Loyal Customers,Caroline Rocha,PF
+770,2026-09-13,24,841349.9299999999,109,2.0,4.0,5.0,11.0,Loyal Customers,Dr. Lucas Gabriel Nascimento,PF
+640,2026-12-09,22,674341.2,22,4.0,3.0,4.0,11.0,Loyal Customers,Gael Henrique Melo,PF
+767,2026-12-21,18,663497.63,10,5.0,2.0,4.0,11.0,Loyal Customers,Heloísa Carvalho,PF
+1979,2026-11-12,23,710881.69,49,3.0,4.0,4.0,11.0,Loyal Customers,Câmara ME,PJ
+36,2026-12-29,22,595250.02,2,5.0,3.0,3.0,11.0,Loyal Customers,Pastor e Filhos S.A.,PJ
+1975,2026-12-09,21,657433.15,22,4.0,3.0,4.0,11.0,Loyal Customers,Pimenta Nogueira - EI Ltda,PJ
+1935,2026-07-25,29,769588.33,159,1.0,5.0,5.0,11.0,Loyal Customers,Alana da Cunha,PF
+281,2026-10-09,34,710915.84,83,2.0,5.0,4.0,11.0,Loyal Customers,Mathias Porto,PF
+1707,2026-11-19,21,761378.38,42,3.0,3.0,5.0,11.0,Loyal Customers,Brayan Alves,PF
+1697,2026-11-17,23,734968.75,44,3.0,4.0,4.0,11.0,Loyal Customers,Dr. Marcelo Moreira,PF
+1794,2026-11-22,25,692983.96,39,3.0,4.0,4.0,11.0,Loyal Customers,Mateus Machado,PF
+1311,2026-03-13,27,930157.69,293,1.0,5.0,5.0,11.0,Loyal Customers,Sr. Levi Souza,PF
+1885,2026-09-30,28,667458.18,92,2.0,5.0,4.0,11.0,Loyal Customers,Gomes Pires - ME,PJ
+389,2026-11-19,22,753984.92,42,3.0,3.0,5.0,11.0,Loyal Customers,Benício Caldeira,PF
+178,2026-06-07,29,900669.11,207,1.0,5.0,5.0,11.0,Loyal Customers,Davi Pastor,PF
+1882,2026-12-20,18,647833.09,11,5.0,2.0,4.0,11.0,Loyal Customers,João Lucas Pimenta,PF
+921,2026-12-25,19,651013.46,6,5.0,2.0,4.0,11.0,Loyal Customers,da Cruz e Filhos ME,PJ
+286,2026-12-06,21,736373.28,25,4.0,3.0,4.0,11.0,Loyal Customers,Moraes Ltda.,PJ
+184,2026-12-31,20,679773.46,0,5.0,2.0,4.0,11.0,Loyal Customers,José Miguel Vargas,PF
+382,2026-12-04,23,638007.99,27,4.0,4.0,3.0,11.0,Loyal Customers,Rebeca Caldeira,PF
+1713,2026-12-23,23,549044.2,8,5.0,4.0,2.0,11.0,Loyal Customers,Mendes ME,PJ
+1715,2026-10-29,25,817402.97,63,2.0,4.0,5.0,11.0,Loyal Customers,Marina Machado,PF
+934,2026-10-21,25,995077.9400000001,71,2.0,4.0,5.0,11.0,Loyal Customers,Théo da Conceição,PF
+404,2026-09-07,27,762737.86,115,1.0,5.0,5.0,11.0,Loyal Customers,da Mata EIRELI,PJ
+1795,2026-12-09,21,703540.94,22,4.0,3.0,4.0,11.0,Loyal Customers,Pedro Miguel Silveira,PF
+372,2026-10-13,28,683171.15,79,2.0,5.0,4.0,11.0,Loyal Customers,Pimenta EIRELI,PJ
+429,2026-12-22,21,598046.85,9,5.0,3.0,3.0,11.0,Loyal Customers,Catarina Alves,PF
+278,2026-10-17,23,804373.07,75,2.0,4.0,5.0,11.0,Loyal Customers,André Oliveira,PF
+903,2026-11-05,25,765448.0,56,2.0,4.0,5.0,11.0,Loyal Customers,Eloah Gonçalves,PF
+986,2026-11-19,26,601033.57,42,3.0,5.0,3.0,11.0,Loyal Customers,Rafaela Vasconcelos,PF
+158,2026-12-22,22,595328.41,9,5.0,3.0,3.0,11.0,Loyal Customers,Pietra Pacheco,PF
+1894,2026-12-15,25,621365.6,16,4.0,4.0,3.0,11.0,Loyal Customers,Henry Gabriel Alves,PF
+1674,2026-12-14,23,577231.0,17,4.0,4.0,3.0,11.0,Loyal Customers,Freitas S.A.,PJ
+1060,2026-11-17,24,695085.7,44,3.0,4.0,4.0,11.0,Loyal Customers,Lopes Pinto - EI S.A.,PJ
+1690,2026-12-25,21,601209.82,6,5.0,3.0,3.0,11.0,Loyal Customers,Théo Castro,PF
+1675,2026-12-29,22,630915.6,2,5.0,3.0,3.0,11.0,Loyal Customers,Enzo Gabriel Peixoto,PF
+1796,2026-12-14,25,644385.36,17,4.0,4.0,3.0,11.0,Loyal Customers,Alves Barbosa Ltda.,PJ
+1320,2026-11-05,25,886945.64,56,2.0,4.0,5.0,11.0,Loyal Customers,Ana Clara Leão,PF
+418,2026-11-12,21,776065.26,49,3.0,3.0,5.0,11.0,Loyal Customers,Dr. Luiz Henrique Aragão,PF
+165,2026-01-06,30,879631.79,359,1.0,5.0,5.0,11.0,Loyal Customers,da Costa Ltda.,PJ
+1057,2026-12-11,24,624251.38,20,4.0,4.0,3.0,11.0,Loyal Customers,Luiza Jesus,PF
+1307,2026-11-17,23,727474.37,44,3.0,4.0,4.0,11.0,Loyal Customers,Farias S.A.,PJ
+368,2026-12-13,22,724369.74,18,4.0,3.0,4.0,11.0,Loyal Customers,Maria Cecília Leão,PF
+1223,2026-12-12,25,590064.31,19,4.0,4.0,3.0,11.0,Loyal Customers,Ana Clara Moraes,PF
+223,2026-12-05,22,681173.75,26,4.0,3.0,4.0,11.0,Loyal Customers,Dra. Esther Fernandes,PF
+329,2026-11-18,25,671852.03,43,3.0,4.0,4.0,11.0,Loyal Customers,Maria Fernanda Cassiano,PF
+1251,2026-12-02,22,818304.14,29,3.0,3.0,5.0,11.0,Loyal Customers,Cassiano S.A.,PJ
+319,2026-12-27,22,601341.78,4,5.0,3.0,3.0,11.0,Loyal Customers,Cavalcante S.A.,PJ
+318,2026-10-13,26,661941.85,79,2.0,5.0,4.0,11.0,Loyal Customers,Vinicius Ribeiro,PF
+212,2026-10-02,29,658248.65,90,2.0,5.0,4.0,11.0,Loyal Customers,Vicente Marques,PF
+1296,2026-11-11,23,724791.01,50,3.0,4.0,4.0,11.0,Loyal Customers,Sousa S.A.,PJ
+1846,2026-08-24,26,758822.29,129,1.0,5.0,5.0,11.0,Loyal Customers,da Mota Fernandes S.A.,PJ
+206,2026-07-21,26,751034.2000000001,163,1.0,5.0,5.0,11.0,Loyal Customers,Farias S.A.,PJ
+310,2026-12-18,21,676847.4,13,4.0,3.0,4.0,11.0,Loyal Customers,Miguel Vieira,PF
+1293,2026-11-24,29,632073.37,37,3.0,5.0,3.0,11.0,Loyal Customers,Duarte Ltda.,PJ
+1287,2026-12-22,22,595235.43,9,5.0,3.0,3.0,11.0,Loyal Customers,Andrade S.A.,PJ
+218,2026-12-07,22,735148.06,24,4.0,3.0,4.0,11.0,Loyal Customers,Ana da Costa,PF
+302,2026-10-25,24,747081.44,67,2.0,4.0,5.0,11.0,Loyal Customers,Albuquerque ME,PJ
+1285,2026-10-09,25,875308.45,83,2.0,4.0,5.0,11.0,Loyal Customers,Guerra S.A.,PJ
+959,2026-12-16,24,568200.31,15,4.0,4.0,3.0,11.0,Loyal Customers,Albuquerque Brito S.A.,PJ
+958,2026-12-16,22,656759.21,15,4.0,3.0,4.0,11.0,Loyal Customers,Casa Grande Porto S/A EIRELI,PJ
+941,2026-12-18,24,621218.96,13,4.0,4.0,3.0,11.0,Loyal Customers,Pedro da Costa,PF
+356,2026-12-27,24,562540.28,4,5.0,4.0,2.0,11.0,Loyal Customers,Sarah Cassiano,PF
+943,2026-10-29,24,855967.59,63,2.0,4.0,5.0,11.0,Loyal Customers,Mendonça ME,PJ
+361,2026-11-27,25,651237.97,34,3.0,4.0,4.0,11.0,Loyal Customers,Borges Sampaio - ME,PJ
+287,2026-10-04,24,791573.8,88,2.0,4.0,5.0,11.0,Loyal Customers,Zoe Albuquerque,PF
+192,2026-12-24,23,511018.2,7,5.0,4.0,2.0,11.0,Loyal Customers,IsadoraB rito,PF
+358,2026-07-28,26,820062.82,156,1.0,5.0,5.0,11.0,Loyal Customers,Bárbara da Mata,PF
+1243,2026-12-14,22,722786.35,17,4.0,3.0,4.0,11.0,Loyal Customers,da Paz ME,PJ
+946,2026-12-14,22,728954.53,17,4.0,3.0,4.0,11.0,Loyal Customers,Josué Silva,PF
+955,2026-09-10,23,781185.5599999999,112,2.0,4.0,5.0,11.0,Loyal Customers,Sá ME,PJ
+346,2026-11-02,27,728537.67,59,2.0,5.0,4.0,11.0,Loyal Customers,Cauê Leão,PF
+344,2026-12-08,24,578807.91,23,4.0,4.0,3.0,11.0,Loyal Customers,das Neves S.A.,PJ
+949,2026-11-06,24,840310.54,55,2.0,4.0,5.0,11.0,Loyal Customers,Dra. Ana Julia da Cunha,PF
+1789,2026-09-11,26,669434.03,111,2.0,5.0,4.0,11.0,Loyal Customers,Ravi Lucca das Neves,PF
+951,2026-12-18,25,626140.04,13,4.0,4.0,3.0,11.0,Loyal Customers,Eloah da Costa,PF
+954,2026-11-10,23,673498.75,51,3.0,4.0,4.0,11.0,Loyal Customers,João Pedro Marques,PF
+1670,2026-12-18,22,740576.71,13,4.0,3.0,4.0,11.0,Loyal Customers,Lucas da Rocha,PF
+1004,2026-09-27,25,829033.48,95,2.0,4.0,5.0,11.0,Loyal Customers,da Cunha S/A ME,PJ
+121,2026-12-17,20,783918.33,14,4.0,2.0,5.0,11.0,Loyal Customers,Sousa EIRELI,PJ
+474,2026-11-29,21,795804.16,32,3.0,3.0,5.0,11.0,Loyal Customers,Luara Novaes,PF
+1078,2026-07-18,29,854048.12,166,1.0,5.0,5.0,11.0,Loyal Customers,Rodrigues Brito Ltda.,PJ
+877,2026-06-16,27,1032214.82,198,1.0,5.0,5.0,11.0,Loyal Customers,Pietro Lopes,PF
+486,2026-07-30,28,906606.4400000001,154,1.0,5.0,5.0,11.0,Loyal Customers,Machado Ltda.,PJ
+876,2026-05-05,30,1025683.72,240,1.0,5.0,5.0,11.0,Loyal Customers,Luiz Otávio da Cunha,PF
+132,2026-10-19,26,734692.09,73,2.0,5.0,4.0,11.0,Loyal Customers,Cavalcante Duarte - EI S.A.,PJ
+1920,2026-12-24,25,514230.6,7,5.0,4.0,2.0,11.0,Loyal Customers,Jesus EIRELI,PJ
+1639,2026-10-14,24,794345.41,78,2.0,4.0,5.0,11.0,Loyal Customers,Mariana Borges,PF
+857,2026-12-28,21,592348.89,3,5.0,3.0,3.0,11.0,Loyal Customers,Isaque Ribeiro,PF
+523,2026-12-02,23,660788.69,29,3.0,4.0,4.0,11.0,Loyal Customers,Freitas da Cunha - EI Ltda,PJ
+127,2026-11-30,21,772956.89,31,3.0,3.0,5.0,11.0,Loyal Customers,Sra. Jade Silva,PF
+1023,2026-11-27,23,690039.23,34,3.0,4.0,4.0,11.0,Loyal Customers,Nogueira S.A.,PJ
+1021,2026-12-01,23,663466.5700000001,30,3.0,4.0,4.0,11.0,Loyal Customers,Casa Grande e Filhos ME,PJ
+1931,2026-10-07,23,885799.75,85,2.0,4.0,5.0,11.0,Loyal Customers,Cassiano EIRELI,PJ
+112,2026-12-26,22,626004.33,5,5.0,3.0,3.0,11.0,Loyal Customers,da Cruz ME,PJ
+1075,2026-12-17,24,618388.75,14,4.0,4.0,3.0,11.0,Loyal Customers,da Costa Moraes - EI S.A.,PJ
+862,2026-12-31,18,657771.62,0,5.0,2.0,4.0,11.0,Loyal Customers,Andrade Gomes S.A.,PJ
+867,2026-11-25,24,710291.98,36,3.0,4.0,4.0,11.0,Loyal Customers,Emanuella Gomes,PF
+1807,2026-11-28,21,769640.05,33,3.0,3.0,5.0,11.0,Loyal Customers,Sarah Machado,PF
+298,2026-12-10,23,584592.0,21,4.0,4.0,3.0,11.0,Loyal Customers,Dr. Noah Cavalcante,PF
+232,2026-12-20,19,653531.94,11,5.0,2.0,4.0,11.0,Loyal Customers,Fogaça Santos - ME,PJ
+505,2026-12-08,21,655187.61,23,4.0,3.0,4.0,11.0,Loyal Customers,Camargo S.A.,PJ
+514,2026-12-25,25,510386.2,6,5.0,4.0,2.0,11.0,Loyal Customers,Luigi da Rocha,PF
+1941,2026-11-20,24,733618.17,41,3.0,4.0,4.0,11.0,Loyal Customers,Mendes S/A ME,PJ
+882,2026-11-22,24,679184.1,39,3.0,4.0,4.0,11.0,Loyal Customers,Vieira EIRELI,PJ
+513,2026-12-19,22,644661.1,12,5.0,3.0,3.0,11.0,Loyal Customers,Bento Cardoso,PF
+463,2026-12-28,20,650787.09,3,5.0,2.0,4.0,11.0,Loyal Customers,Jade Cavalcanti,PF
+1360,2026-10-30,27,729282.76,62,2.0,5.0,4.0,11.0,Loyal Customers,Cirino S/A EIRELI,PJ
+1911,2026-11-14,25,660102.15,47,3.0,4.0,4.0,11.0,Loyal Customers,Leão e Filhos S.A.,PJ
+1338,2026-12-07,23,588756.68,24,4.0,4.0,3.0,11.0,Loyal Customers,Enzo Gabriel Lopes,PF
+276,2026-12-19,23,503370.48,12,5.0,4.0,2.0,11.0,Loyal Customers,Vitor Montenegro,PF
+1329,2026-11-20,25,723963.82,41,3.0,4.0,4.0,11.0,Loyal Customers,Yago Guerra,PF
+1609,2026-12-03,25,695462.02,28,3.0,4.0,4.0,11.0,Loyal Customers,Francisco Casa Grande,PF
+1904,2026-12-10,21,661426.93,21,4.0,3.0,4.0,11.0,Loyal Customers,Casa Grande ME,PJ
+467,2026-04-13,26,862360.55,262,1.0,5.0,5.0,11.0,Loyal Customers,Ana Julia Novaes,PF
+535,2026-12-01,22,859897.54,30,3.0,3.0,5.0,11.0,Loyal Customers,Emanuella Leão,PF
+897,2026-03-27,30,864841.4,279,1.0,5.0,5.0,11.0,Loyal Customers,Peixoto Macedo Ltda.,PJ
+1614,2026-12-24,22,602061.39,7,5.0,3.0,3.0,11.0,Loyal Customers,Maria Eduarda Teixeira,PF
+988,2026-12-07,25,618575.28,24,4.0,4.0,3.0,11.0,Loyal Customers,Campos ME,PJ
+1604,2026-12-08,21,727491.41,23,4.0,3.0,4.0,11.0,Loyal Customers,Fernandes S.A.,PJ
+1654,2026-09-28,24,804007.42,94,2.0,4.0,5.0,11.0,Loyal Customers,Viana ME,PJ
+887,2026-06-30,27,957166.54,184,1.0,5.0,5.0,11.0,Loyal Customers,Sousa Sá - ME,PJ
+1084,2026-12-17,22,657330.47,14,4.0,3.0,4.0,11.0,Loyal Customers,Costa Macedo e Filhos Ltda,PJ
+1357,2026-08-07,28,667216.65,146,1.0,5.0,4.0,10.0,Loyal Customers,Sousa EIRELI,PJ
+1256,2026-12-15,22,640171.26,16,4.0,3.0,3.0,10.0,Loyal Customers,Araújo ME,PJ
+1374,2026-12-24,19,637356.89,7,5.0,2.0,3.0,10.0,Loyal Customers,da Conceição Pastor Ltda.,PJ
+978,2026-10-27,24,692872.8,65,2.0,4.0,4.0,10.0,Loyal Customers,Lavínia Nascimento,PF
+1368,2026-12-28,22,563637.48,3,5.0,3.0,2.0,10.0,Loyal Customers,Montenegro S.A.,PJ
+1358,2026-12-16,22,591714.53,15,4.0,3.0,3.0,10.0,Loyal Customers,Aurora Vargas,PF
+852,2026-12-18,19,676647.5,13,4.0,2.0,4.0,10.0,Loyal Customers,Araújo Ltda,PJ
+835,2026-10-26,27,623629.55,66,2.0,5.0,3.0,10.0,Loyal Customers,Theo Borges,PF
+1279,2026-12-05,22,602292.73,26,4.0,3.0,3.0,10.0,Loyal Customers,Guilherme Câmara,PF
+1451,2026-11-03,25,688573.45,58,2.0,4.0,4.0,10.0,Loyal Customers,Rezende Ltda.,PJ
+1216,2026-11-12,22,650315.99,49,3.0,3.0,4.0,10.0,Loyal Customers,Ramos Castro e Filhos EIRELI,PJ
+1462,2026-11-11,21,706019.84,50,3.0,3.0,4.0,10.0,Loyal Customers,Pereira Sampaio Ltda.,PJ
+1252,2026-08-26,24,889708.46,127,1.0,4.0,5.0,10.0,Loyal Customers,Antony Carvalho,PF
+1146,2026-09-26,22,844321.98,96,2.0,3.0,5.0,10.0,Loyal Customers,Lucas da Conceição,PF
+1203,2026-11-09,21,674753.16,52,3.0,3.0,4.0,10.0,Loyal Customers,Montenegro S/A Ltda,PJ
+727,2026-11-20,24,615726.6799999999,41,3.0,4.0,3.0,10.0,Loyal Customers,Camargo EIRELI,PJ
+1044,2026-11-09,21,737457.77,52,3.0,3.0,4.0,10.0,Loyal Customers,Ana Sophia Cunha,PF
+1254,2026-11-23,21,650064.19,38,3.0,3.0,4.0,10.0,Loyal Customers,Sá ME,PJ
+1402,2026-12-30,22,526290.24,1,5.0,3.0,2.0,10.0,Loyal Customers,Dra. Isis Cardoso,PF
+1445,2026-11-02,25,727400.03,59,2.0,4.0,4.0,10.0,Loyal Customers,Lorenzo Sá,PF
+1340,2026-11-24,22,690112.11,37,3.0,3.0,4.0,10.0,Loyal Customers,Barros Lopes Ltda.,PJ
+1183,2026-10-03,23,694539.07,89,2.0,4.0,4.0,10.0,Loyal Customers,Nogueira Ltda.,PJ
+1396,2026-07-11,25,809274.22,173,1.0,4.0,5.0,10.0,Loyal Customers,Pinto Correia S.A.,PJ
+1225,2026-10-17,25,675977.45,75,2.0,4.0,4.0,10.0,Loyal Customers,Santos S.A.,PJ
+896,2026-12-17,21,582405.82,14,4.0,3.0,3.0,10.0,Loyal Customers,Gustavo Casa Grande,PF
+1000,2026-12-18,20,699100.85,13,4.0,2.0,4.0,10.0,Loyal Customers,Agatha Cassiano,PF
+1212,2026-12-26,20,625572.6,5,5.0,2.0,3.0,10.0,Loyal Customers,Oliveira ME,PJ
+1416,2026-09-01,24,770703.69,121,1.0,4.0,5.0,10.0,Loyal Customers,Montenegro Gomes - EI ME,PJ
+1417,2026-12-11,22,607180.79,20,4.0,3.0,3.0,10.0,Loyal Customers,Maya Siqueira,PF
+1026,2026-06-12,26,665949.56,202,1.0,5.0,4.0,10.0,Loyal Customers,da Costa Pastor S/A EIRELI,PJ
+1424,2026-12-16,21,606815.53,15,4.0,3.0,3.0,10.0,Loyal Customers,Nathan Melo,PF
+1337,2026-11-17,23,611229.55,44,3.0,4.0,3.0,10.0,Loyal Customers,Sra. Ágatha Ferreira,PF
+1391,2026-11-14,22,713078.86,47,3.0,3.0,4.0,10.0,Loyal Customers,Yuri Ramos,PF
+911,2026-12-26,19,578745.6799999999,5,5.0,2.0,3.0,10.0,Loyal Customers,Camargo S/A ME,PJ
+883,2026-04-12,24,811613.56,263,1.0,4.0,5.0,10.0,Loyal Customers,Bruno Cavalcanti,PF
+925,2026-09-11,25,699701.0,111,2.0,4.0,4.0,10.0,Loyal Customers,Vinicius Sales,PF
+1283,2026-11-15,22,663685.31,46,3.0,3.0,4.0,10.0,Loyal Customers,Dr. Henry Gabriel Pereira,PF
+874,2026-12-14,24,551458.35,17,4.0,4.0,2.0,10.0,Loyal Customers,Samuel Rios,PF
+806,2026-03-18,24,828160.17,288,1.0,4.0,5.0,10.0,Loyal Customers,Sousa ME,PJ
+1308,2026-09-09,22,827632.37,113,2.0,3.0,5.0,10.0,Loyal Customers,Porto Pereira - ME,PJ
+1174,2026-12-22,20,627341.53,9,5.0,2.0,3.0,10.0,Loyal Customers,Câmara Ltda,PJ
+1386,2026-12-28,19,610061.26,3,5.0,2.0,3.0,10.0,Loyal Customers,Nicole Teixeira,PF
+1220,2026-11-30,22,648606.43,31,3.0,3.0,4.0,10.0,Loyal Customers,Garcia Pinto Ltda.,PJ
+808,2026-12-08,23,555407.58,23,4.0,4.0,2.0,10.0,Loyal Customers,Luan Dias,PF
+938,2026-12-12,18,718538.88,19,4.0,2.0,4.0,10.0,Loyal Customers,Abreu Ltda,PJ
+898,2026-12-18,19,663344.26,13,4.0,2.0,4.0,10.0,Loyal Customers,Pedro Henrique Ramos,PF
+942,2026-12-15,22,638394.72,16,4.0,3.0,3.0,10.0,Loyal Customers,Luiza Teixeira,PF
+814,2026-09-21,23,735273.75,101,2.0,4.0,4.0,10.0,Loyal Customers,Maria Fernanda da Luz,PF
+1135,2026-12-09,20,667371.95,22,4.0,2.0,4.0,10.0,Loyal Customers,Monteiro S.A.,PJ
+1439,2026-12-23,18,632824.23,8,5.0,2.0,3.0,10.0,Loyal Customers,Pacheco S/A EIRELI,PJ
+866,2026-10-30,23,660574.79,62,2.0,4.0,4.0,10.0,Loyal Customers,Rebeca Pimenta,PF
+1088,2026-12-18,22,630421.14,13,4.0,3.0,3.0,10.0,Loyal Customers,Santos Ltda,PJ
+1153,2026-11-08,24,712938.33,53,2.0,4.0,4.0,10.0,Loyal Customers,Augusto Camargo,PF
+1706,2026-11-24,22,727162.48,37,3.0,3.0,4.0,10.0,Loyal Customers,Caldeira Ltda,PJ
+247,2026-04-04,26,726247.68,271,1.0,5.0,4.0,10.0,Loyal Customers,Ágatha Sales,PF
+561,2026-11-05,23,724435.08,56,2.0,4.0,4.0,10.0,Loyal Customers,Srta. Amanda Pereira,PF
+1584,2026-09-13,23,715180.84,109,2.0,4.0,4.0,10.0,Loyal Customers,Bryan Guerra,PF
+1585,2026-12-14,20,697331.53,17,4.0,2.0,4.0,10.0,Loyal Customers,Ana Laura Carvalho,PF
+242,2026-12-14,22,632733.52,17,4.0,3.0,3.0,10.0,Loyal Customers,Olívia Silva,PF
+549,2026-12-22,20,590730.28,9,5.0,2.0,3.0,10.0,Loyal Customers,Macedo Pires S/A EIRELI,PJ
+1591,2026-12-18,20,692624.34,13,4.0,2.0,4.0,10.0,Loyal Customers,Pedro Miguel Castro,PF
+1823,2026-06-28,26,653868.85,186,1.0,5.0,4.0,10.0,Loyal Customers,Alana Almeida,PF
+249,2026-01-10,24,754823.36,355,1.0,4.0,5.0,10.0,Loyal Customers,Isabela Moraes,PF
+518,2026-12-09,19,708817.8,22,4.0,2.0,4.0,10.0,Loyal Customers,Arthur Costa,PF
+1819,2026-12-11,22,642060.67,20,4.0,3.0,3.0,10.0,Loyal Customers,Dr. Vitor Mendes,PF
+255,2026-06-06,26,677522.96,208,1.0,5.0,4.0,10.0,Loyal Customers,Vieira S.A.,PJ
+261,2026-11-19,22,701194.72,42,3.0,3.0,4.0,10.0,Loyal Customers,André Oliveira,PF
+526,2026-12-31,18,567559.79,0,5.0,2.0,3.0,10.0,Loyal Customers,Dra. Kamilly Correia,PF
+524,2026-10-03,25,699320.38,89,2.0,4.0,4.0,10.0,Loyal Customers,Amanda Cavalcanti,PF
+1619,2026-12-16,19,668418.04,15,4.0,2.0,4.0,10.0,Loyal Customers,Dra. Gabrielly Mendes,PF
+1623,2026-06-17,25,845905.23,197,1.0,4.0,5.0,10.0,Loyal Customers,Théo Fernandes,PF
+233,2026-12-25,19,565467.61,6,5.0,2.0,3.0,10.0,Loyal Customers,Laís da Luz,PF
+565,2026-11-02,22,791205.52,59,2.0,3.0,5.0,10.0,Loyal Customers,Sra. Olívia Rios,PF
+220,2026-12-04,20,669633.06,27,4.0,2.0,4.0,10.0,Loyal Customers,Vasconcelos e Filhos ME,PJ
+1849,2026-10-25,23,672584.61,67,2.0,4.0,4.0,10.0,Loyal Customers,Sr. Thomas Andrade,PF
+610,2026-12-09,22,565281.33,22,4.0,3.0,3.0,10.0,Loyal Customers,Mendes Teixeira - EI S.A.,PJ
+1893,2026-12-15,20,726850.83,16,4.0,2.0,4.0,10.0,Loyal Customers,Fonseca Ltda,PJ
+164,2026-12-30,21,549667.93,1,5.0,3.0,2.0,10.0,Loyal Customers,Camargo EIRELI,PJ
+598,2026-12-14,19,649026.95,17,4.0,2.0,4.0,10.0,Loyal Customers,da Mata Ltda.,PJ
+1555,2026-12-06,23,519712.61,25,4.0,4.0,2.0,10.0,Loyal Customers,da Cruz S/A ME,PJ
+587,2026-11-07,24,673208.89,54,2.0,4.0,4.0,10.0,Loyal Customers,Otávio Rocha,PF
+585,2026-10-22,23,702385.88,70,2.0,4.0,4.0,10.0,Loyal Customers,Carolina Casa Grande,PF
+188,2026-12-14,21,615331.84,17,4.0,3.0,3.0,10.0,Loyal Customers,Porto ME,PJ
+583,2026-12-21,21,561795.51,10,5.0,3.0,2.0,10.0,Loyal Customers,Rebeca Brito,PF
+1871,2026-12-24,19,593476.64,7,5.0,2.0,3.0,10.0,Loyal Customers,Henry da Luz,PF
+1571,2026-11-18,20,783894.92,43,3.0,2.0,5.0,10.0,Loyal Customers,Lopes Ltda,PJ
+1577,2026-12-17,20,678884.39,14,4.0,2.0,4.0,10.0,Loyal Customers,Arthur Miguel Silveira,PF
+1705,2026-12-07,22,638632.22,24,4.0,3.0,3.0,10.0,Loyal Customers,Dra. Lorena Macedo,PF
+1579,2026-12-24,20,634149.22,7,5.0,2.0,3.0,10.0,Loyal Customers,Campos Ltda,PJ
+1850,2026-11-18,23,606807.64,43,3.0,4.0,3.0,10.0,Loyal Customers,Jade Teixeira,PF
+519,2026-12-17,23,528352.92,14,4.0,4.0,2.0,10.0,Loyal Customers,Felipe da Luz,PF
+509,2026-10-19,25,697155.85,73,2.0,4.0,4.0,10.0,Loyal Customers,Maysa Teixeira,PF
+157,2026-11-29,21,657906.5599999999,32,3.0,3.0,4.0,10.0,Loyal Customers,Srta. Maysa da Rocha,PF
+355,2026-10-18,23,649905.9400000001,74,2.0,4.0,4.0,10.0,Loyal Customers,Liz Cunha,PF
+1742,2026-12-12,21,645249.47,19,4.0,3.0,3.0,10.0,Loyal Customers,Luiza Nascimento,PF
+1671,2026-12-17,20,647634.97,14,4.0,2.0,4.0,10.0,Loyal Customers,Maria Fernanda Câmara,PF
+437,2026-12-27,20,630094.83,4,5.0,2.0,3.0,10.0,Loyal Customers,Luiz Otávio Lopes,PF
+335,2026-11-01,21,811092.09,60,2.0,3.0,5.0,10.0,Loyal Customers,Machado S.A.,PJ
+433,2026-11-21,25,646040.19,40,3.0,4.0,3.0,10.0,Loyal Customers,Sr. Arthur Pastor,PF
+339,2026-04-03,24,821440.65,272,1.0,4.0,5.0,10.0,Loyal Customers,Sá Costela S/A ME,PJ
+1737,2026-12-30,21,510604.85,1,5.0,3.0,2.0,10.0,Loyal Customers,Mariana da Paz,PF
+411,2026-11-07,22,833537.46,54,2.0,3.0,5.0,10.0,Loyal Customers,Abreu Sousa - EI Ltda,PJ
+1809,2026-12-24,20,582467.64,7,5.0,2.0,3.0,10.0,Loyal Customers,Teixeira ME,PJ
+1693,2026-12-11,23,536193.25,20,4.0,4.0,2.0,10.0,Loyal Customers,Albuquerque - ME,PJ
+367,2026-12-17,22,589051.39,14,4.0,3.0,3.0,10.0,Loyal Customers,Luiza Silva,PF
+406,2026-04-05,25,754927.41,270,1.0,4.0,5.0,10.0,Loyal Customers,Alícia da Rocha,PF
+1709,2026-08-12,25,873750.25,141,1.0,4.0,5.0,10.0,Loyal Customers,da Conceição Nascimento - ME,PJ
+1698,2026-12-27,19,631113.15,4,5.0,2.0,3.0,10.0,Loyal Customers,Lara Siqueira,PF
+706,2026-03-03,26,659564.12,303,1.0,5.0,4.0,10.0,Loyal Customers,Pedro Lucas Rezende,PF
+1701,2026-12-25,20,603118.96,6,5.0,2.0,3.0,10.0,Loyal Customers,Brito Dias - ME,PJ
+1667,2026-11-07,23,739706.73,54,2.0,4.0,4.0,10.0,Loyal Customers,Almeida Vieira S.A.,PJ
+447,2026-11-28,22,736455.32,33,3.0,3.0,4.0,10.0,Loyal Customers,Pedro Lucas Pires,PF
+1760,2026-11-01,21,756983.47,60,2.0,3.0,5.0,10.0,Loyal Customers,Macedo ME,PJ
+305,2026-12-05,22,639171.08,26,4.0,3.0,3.0,10.0,Loyal Customers,Cauã da Paz,PF
+1633,2026-12-27,20,589089.18,4,5.0,2.0,3.0,10.0,Loyal Customers,Oliveira ME,PJ
+1634,2026-09-14,21,747056.67,108,2.0,3.0,5.0,10.0,Loyal Customers,das Neves Gonçalves - EI S.A.,PJ
+495,2026-12-30,21,472640.42,1,5.0,3.0,2.0,10.0,Loyal Customers,Eloá Araújo,PF
+1638,2026-12-14,22,616458.23,17,4.0,3.0,3.0,10.0,Loyal Customers,Dr. Benício Farias,PF
+1640,2026-12-05,19,678073.25,26,4.0,2.0,4.0,10.0,Loyal Customers,Ana Lívia Ferreira,PF
+1643,2026-12-03,22,673525.6,28,3.0,3.0,4.0,10.0,Loyal Customers,Mariane Mendes,PF
+1805,2026-12-24,21,552002.77,7,5.0,3.0,2.0,10.0,Loyal Customers,Vargas Sales e Filhos S.A.,PJ
+275,2026-10-31,24,698491.11,61,2.0,4.0,4.0,10.0,Loyal Customers,Cauê Almeida,PF
+1797,2026-11-27,22,677625.28,34,3.0,3.0,4.0,10.0,Loyal Customers,Dra. Alexia Leão,PF
+484,2026-12-07,22,585614.0700000001,24,4.0,3.0,3.0,10.0,Loyal Customers,Larissa Cunha,PF
+481,2026-12-07,19,663600.11,24,4.0,2.0,4.0,10.0,Loyal Customers,Dr. Enzo Lopes,PF
+1793,2026-12-20,20,622799.18,11,5.0,2.0,3.0,10.0,Loyal Customers,Vieira Ltda,PJ
+476,2026-12-25,21,542727.39,6,5.0,3.0,2.0,10.0,Loyal Customers,Erick Costa,PF
+471,2026-11-13,24,636761.8,48,3.0,4.0,3.0,10.0,Loyal Customers,Rodrigo Rezende,PF
+1783,2026-12-13,21,626225.74,18,4.0,3.0,3.0,10.0,Loyal Customers,da Cunha - ME,PJ
+612,2026-06-20,23,787061.78,194,1.0,4.0,5.0,10.0,Loyal Customers,Daniel Câmara,PF
+1854,2026-12-05,22,643963.73,26,4.0,3.0,3.0,10.0,Loyal Customers,Moraes ME,PJ
+1703,2026-06-27,30,724217.37,187,1.0,5.0,4.0,10.0,Loyal Customers,Cunha Pinto - ME,PJ
+59,2026-12-22,22,505881.15,9,5.0,3.0,2.0,10.0,Loyal Customers,Cecília da Conceição,PF
+1944,2026-12-24,19,633644.6,7,5.0,2.0,3.0,10.0,Loyal Customers,Sra. Olivia Monteiro,PF
+108,2026-10-14,24,690051.65,78,2.0,4.0,4.0,10.0,Loyal Customers,Leonardo Gonçalves,PF
+82,2026-12-09,22,622977.31,22,4.0,3.0,3.0,10.0,Loyal Customers,Thomas Porto,PF
+690,2026-03-15,23,774761.24,291,1.0,4.0,5.0,10.0,Loyal Customers,Moraes ME,PJ
+641,2026-10-21,24,677675.22,71,2.0,4.0,4.0,10.0,Loyal Customers,das Neves S.A.,PJ
+644,2026-06-30,25,815396.6799999999,184,1.0,4.0,5.0,10.0,Loyal Customers,Albuquerque Ltda,PJ
+687,2026-12-10,23,484324.57,21,4.0,4.0,2.0,10.0,Loyal Customers,Camila Lopes,PF
+53,2026-11-01,23,727173.65,60,2.0,4.0,4.0,10.0,Loyal Customers,Rebeca Cassiano,PF
+1514,2026-12-21,20,572807.66,10,5.0,2.0,3.0,10.0,Loyal Customers,da Rocha Vasconcelos S.A.,PJ
+686,2026-12-12,19,652692.3300000001,19,4.0,2.0,4.0,10.0,Loyal Customers,Azevedo S/A ME,PJ
+63,2026-11-15,23,631336.84,46,3.0,4.0,3.0,10.0,Loyal Customers,Viana Nogueira Ltda.,PJ
+28,2026-12-17,22,641871.26,14,4.0,3.0,3.0,10.0,Loyal Customers,Viana ME,PJ
+680,2026-12-26,21,556653.06,5,5.0,3.0,2.0,10.0,Loyal Customers,Gabriela da Rosa,PF
+1953,2026-03-28,25,796540.94,278,1.0,4.0,5.0,10.0,Loyal Customers,Monteiro - EI Ltda,PJ
+64,2026-12-18,21,617561.86,13,4.0,3.0,3.0,10.0,Loyal Customers,Marques Ltda.,PJ
+90,2026-12-14,21,571730.38,17,4.0,3.0,3.0,10.0,Loyal Customers,Macedo Pimenta Ltda.,PJ
+148,2026-10-03,25,720827.81,89,2.0,4.0,4.0,10.0,Loyal Customers,Breno Rodrigues,PF
+1499,2026-12-09,22,645109.78,22,4.0,3.0,3.0,10.0,Loyal Customers,Guilherme Gonçalves,PF
+1964,2026-12-29,22,520448.58,2,5.0,3.0,2.0,10.0,Loyal Customers,Bella Silva,PF
+86,2026-10-16,24,741602.48,76,2.0,4.0,4.0,10.0,Loyal Customers,Araújo Machado S/A EIRELI,PJ
+1958,2026-12-14,21,587029.67,17,4.0,3.0,3.0,10.0,Loyal Customers,Fonseca - EI Ltda,PJ
+83,2026-12-26,18,619525.52,5,5.0,2.0,3.0,10.0,Loyal Customers,Erick Pereira,PF
+110,2026-12-01,21,655456.57,30,3.0,3.0,4.0,10.0,Loyal Customers,Yasmin Borges,PF
+1955,2026-12-18,20,668987.51,13,4.0,2.0,4.0,10.0,Loyal Customers,Sr. Matheus Ribeiro,PF
+1544,2026-12-18,21,565475.05,13,4.0,3.0,3.0,10.0,Loyal Customers,Correia Aragão S.A.,PJ
+1914,2026-11-17,26,548455.09,44,3.0,5.0,2.0,10.0,Loyal Customers,Sra. Beatriz Siqueira,PF
+133,2026-12-24,18,604145.77,7,5.0,2.0,3.0,10.0,Loyal Customers,Souza S.A.,PJ
+1994,2026-12-11,19,691569.52,20,4.0,2.0,4.0,10.0,Loyal Customers,Cassiano S/A EIRELI,PJ
+1924,2026-11-25,27,562552.11,36,3.0,5.0,2.0,10.0,Loyal Customers,Maria Clara Siqueira,PF
+615,2026-12-03,22,684791.84,28,3.0,3.0,4.0,10.0,Loyal Customers,Mariana Mendes,PF
+1539,2026-03-22,25,775688.71,284,1.0,4.0,5.0,10.0,Loyal Customers,Cassiano Fogaça S/A ME,PJ
+627,2026-11-09,25,619614.99,52,3.0,4.0,3.0,10.0,Loyal Customers,João Lucas Oliveira,PF
+376,2026-11-28,22,612903.85,33,3.0,3.0,3.0,9.0,Potential Loyalist,Maysa Silveira,PF
+980,2026-12-30,19,477776.81,1,5.0,2.0,2.0,9.0,Potential Loyalist,Vinícius da Conceição,PF
+291,2026-12-23,18,521561.15,8,5.0,2.0,2.0,9.0,Potential Loyalist,Gustavo Henrique Garcia,PF
+937,2026-12-10,20,625067.92,21,4.0,2.0,3.0,9.0,Potential Loyalist,Júlia Nunes,PF
+982,2026-11-07,22,666480.86,54,2.0,3.0,4.0,9.0,Potential Loyalist,Mathias Novais,PF
+983,2026-09-20,24,633306.65,102,2.0,4.0,3.0,9.0,Potential Loyalist,Cardoso e Filhos ME,PJ
+1718,2026-03-13,23,709975.4,293,1.0,4.0,4.0,9.0,Potential Loyalist,Gustavo Henrique Freitas,PF
+284,2026-12-23,18,530776.9,8,5.0,2.0,2.0,9.0,Potential Loyalist,Castro S/A EIRELI,PJ
+10,2026-12-30,20,526239.48,1,5.0,2.0,2.0,9.0,Potential Loyalist,Sr. Vitor Hugo Vasconcelos,PF
+1120,2026-11-29,22,617638.67,32,3.0,3.0,3.0,9.0,Potential Loyalist,Caio Vieira,PF
+1997,2026-12-06,19,639078.3,25,4.0,2.0,3.0,9.0,Potential Loyalist,Pinto S/A S.A.,PJ
+8,2026-08-05,24,648955.41,148,1.0,4.0,4.0,9.0,Potential Loyalist,Maria Helena Peixoto,PF
+1189,2026-09-07,25,657246.73,115,1.0,4.0,4.0,9.0,Potential Loyalist,Lucas Gabriel Marques,PF
+385,2026-12-29,19,471342.37,2,5.0,2.0,2.0,9.0,Potential Loyalist,Barros EIRELI,PJ
+1799,2026-07-12,23,725962.18,172,1.0,4.0,4.0,9.0,Potential Loyalist,Câmara e Filhos ME,PJ
+6,2026-12-22,19,519910.82,9,5.0,2.0,2.0,9.0,Potential Loyalist,Theo Gonçalves,PF
+1192,2026-12-08,18,567226.72,23,4.0,2.0,3.0,9.0,Potential Loyalist,Luiz Gustavo Moura,PF
+267,2026-12-21,19,525117.63,10,5.0,2.0,2.0,9.0,Potential Loyalist,Clara Sousa,PF
+3,2026-12-31,21,469712.03,0,5.0,3.0,1.0,9.0,Potential Loyalist,Dr. João Aparecida,PF
+979,2026-12-28,18,514973.07,3,5.0,2.0,2.0,9.0,Potential Loyalist,Isabel Dias,PF
+1736,2026-11-23,21,582570.11,38,3.0,3.0,3.0,9.0,Potential Loyalist,Maria Fernanda Almeida,PF
+295,2026-10-14,23,629882.87,78,2.0,4.0,3.0,9.0,Potential Loyalist,Beatriz Sales,PF
+1972,2026-11-19,19,685167.34,42,3.0,2.0,4.0,9.0,Potential Loyalist,Sophia Farias,PF
+25,2026-04-12,22,851997.1,263,1.0,3.0,5.0,9.0,Potential Loyalist,Sr. Danilo da Luz,PF
+1734,2026-12-19,19,561678.93,12,5.0,2.0,2.0,9.0,Potential Loyalist,Rodrigues Ltda.,PJ
+338,2026-11-20,20,727480.54,41,3.0,2.0,4.0,9.0,Potential Loyalist,Mathias Mendonça,PF
+336,2026-08-03,24,730486.84,150,1.0,4.0,4.0,9.0,Potential Loyalist,Dr. Noah da Rosa,PF
+21,2026-12-22,15,610617.75,9,5.0,1.0,3.0,9.0,Potential Loyalist,Ana Carolina Freitas,PF
+1985,2026-11-29,21,624121.72,32,3.0,3.0,3.0,9.0,Potential Loyalist,Oliveira Moraes S/A ME,PJ
+360,2026-12-16,20,566567.42,15,4.0,2.0,3.0,9.0,Potential Loyalist,Maria Júlia Cavalcanti,PF
+1988,2026-12-17,18,585084.34,14,4.0,2.0,3.0,9.0,Potential Loyalist,Sales Pires - ME,PJ
+38,2026-07-14,25,672344.18,170,1.0,4.0,4.0,9.0,Potential Loyalist,Machado ME,PJ
+1977,2026-12-29,18,553723.15,2,5.0,2.0,2.0,9.0,Potential Loyalist,João Felipe Porto,PF
+333,2026-09-14,22,680102.53,108,2.0,3.0,4.0,9.0,Potential Loyalist,Dr. Isaac Montenegro,PF
+23,2026-12-03,22,633521.9400000001,28,3.0,3.0,3.0,9.0,Potential Loyalist,Lucas Gabriel Viana,PF
+1727,2026-09-17,23,631440.38,105,2.0,4.0,3.0,9.0,Potential Loyalist,Monteiro Ltda,PJ
+1725,2026-12-13,18,618353.91,18,4.0,2.0,3.0,9.0,Potential Loyalist,Dr. Otto Borges,PF
+18,2026-04-15,24,696356.41,260,1.0,4.0,4.0,9.0,Potential Loyalist,Rios Ramos Ltda.,PJ
+327,2026-12-28,19,530164.45,3,5.0,2.0,2.0,9.0,Potential Loyalist,Joaquim Barbosa,PF
+314,2026-12-01,22,611252.71,30,3.0,3.0,3.0,9.0,Potential Loyalist,Vasconcelos Ltda,PJ
+308,2026-03-25,22,814792.08,281,1.0,3.0,5.0,9.0,Potential Loyalist,Aylla Moreira,PF
+307,2026-11-01,24,644720.2,60,2.0,4.0,3.0,9.0,Potential Loyalist,Olivia Cirino,PF
+1775,2026-11-05,24,604073.37,56,2.0,4.0,3.0,9.0,Potential Loyalist,Melina Lopes,PF
+1182,2026-11-15,21,575703.09,46,3.0,3.0,3.0,9.0,Potential Loyalist,Dante Abreu,PF
+1785,2026-12-17,20,615786.45,14,4.0,2.0,3.0,9.0,Potential Loyalist,Ana Ribeiro,PF
+52,2026-10-15,23,578688.66,77,2.0,4.0,3.0,9.0,Potential Loyalist,TBD,PJ
+1895,2026-12-23,19,500523.65,8,5.0,2.0,2.0,9.0,Potential Loyalist,Sr. Noah Martins,PF
+1196,2026-10-13,21,679041.03,79,2.0,3.0,4.0,9.0,Potential Loyalist,Juan Nascimento,PF
+1198,2026-12-06,22,546443.15,25,4.0,3.0,2.0,9.0,Potential Loyalist,Dra. Alice Cardoso,PF
+1841,2026-11-04,22,676794.54,57,2.0,3.0,4.0,9.0,Potential Loyalist,Enzo Gabriel Cavalcante,PF
+1082,2026-12-16,21,505106.35,15,4.0,3.0,2.0,9.0,Potential Loyalist,Rios - ME,PJ
+1945,2026-09-21,22,664324.45,101,2.0,3.0,4.0,9.0,Potential Loyalist,Natália Vasconcelos,PF
+1032,2026-09-26,23,619576.04,96,2.0,4.0,3.0,9.0,Potential Loyalist,Srta. Bruna Souza,PF
+1217,2026-09-22,23,611029.14,100,2.0,4.0,3.0,9.0,Potential Loyalist,Ana Clara Teixeira,PF
+111,2026-12-05,21,539127.57,26,4.0,3.0,2.0,9.0,Potential Loyalist,Bruno Aparecida,PF
+209,2026-12-11,17,669993.99,20,4.0,1.0,4.0,9.0,Potential Loyalist,Mathias Moreira,PF
+1250,2026-11-21,19,663712.3,40,3.0,2.0,4.0,9.0,Potential Loyalist,Caio Ramos,PF
+1248,2026-06-29,24,665224.71,185,1.0,4.0,4.0,9.0,Potential Loyalist,Aragão ME,PJ
+115,2026-12-12,22,558759.77,19,4.0,3.0,2.0,9.0,Potential Loyalist,Luiz Otávio Teixeira,PF
+1860,2026-12-19,20,542157.8,12,5.0,2.0,2.0,9.0,Potential Loyalist,Elisa Leão,PF
+1864,2026-11-15,23,549907.78,46,3.0,4.0,2.0,9.0,Potential Loyalist,Nunes S.A.,PJ
+1246,2026-03-02,24,716389.9299999999,304,1.0,4.0,4.0,9.0,Potential Loyalist,Garcia EIRELI,PJ
+1043,2026-10-16,22,694996.95,76,2.0,3.0,4.0,9.0,Potential Loyalist,Nathan Pastor,PF
+198,2026-11-11,21,633895.39,50,3.0,3.0,3.0,9.0,Potential Loyalist,Vitor Vieira,PF
+1872,2026-11-30,22,632521.42,31,3.0,3.0,3.0,9.0,Potential Loyalist,Luigi Barros,PF
+1936,2026-12-11,22,497683.75,20,4.0,3.0,2.0,9.0,Potential Loyalist,Abreu S.A.,PJ
+1925,2026-12-20,20,474811.37,11,5.0,2.0,2.0,9.0,Potential Loyalist,Sampaio ME,PJ
+1880,2026-11-01,25,607876.61,60,2.0,4.0,3.0,9.0,Potential Loyalist,Vasconcelos ME,PJ
+125,2026-11-26,21,582307.71,35,3.0,3.0,3.0,9.0,Potential Loyalist,Emanuelly Andrade,PF
+181,2026-10-26,23,623675.79,66,2.0,4.0,3.0,9.0,Potential Loyalist,Aparecida Araújo - ME,PJ
+176,2026-12-19,15,568314.93,12,5.0,1.0,3.0,9.0,Potential Loyalist,Moreira Rodrigues - ME,PJ
+172,2026-10-15,22,686778.71,77,2.0,3.0,4.0,9.0,Potential Loyalist,Ayla Guerra,PF
+1053,2026-12-06,20,619536.15,25,4.0,2.0,3.0,9.0,Potential Loyalist,Diego Gonçalves,PF
+171,2026-12-26,17,597373.86,5,5.0,1.0,3.0,9.0,Potential Loyalist,da Rocha Ltda,PJ
+167,2026-12-25,17,598235.02,6,5.0,1.0,3.0,9.0,Potential Loyalist,Jesus EIRELI,PJ
+1227,2026-10-14,24,627667.96,78,2.0,4.0,3.0,9.0,Potential Loyalist,Marcelo Rezende,PF
+1259,2026-12-23,18,486570.07,8,5.0,2.0,2.0,9.0,Potential Loyalist,Aragão EIRELI,PJ
+1836,2026-11-22,21,608300.51,39,3.0,3.0,3.0,9.0,Potential Loyalist,Carolina da Paz,PF
+231,2026-12-01,20,658137.48,30,3.0,2.0,4.0,9.0,Potential Loyalist,Bella Moraes,PF
+1274,2026-05-25,25,723432.27,220,1.0,4.0,4.0,9.0,Potential Loyalist,Lara Oliveira,PF
+992,2026-11-05,23,643577.61,56,2.0,4.0,3.0,9.0,Potential Loyalist,Helena Siqueira,PF
+1810,2026-11-10,18,714775.67,51,3.0,2.0,4.0,9.0,Potential Loyalist,Souza Ltda,PJ
+1200,2026-12-16,22,497448.76,15,4.0,3.0,2.0,9.0,Potential Loyalist,Fernanda Abreu,PF
+1100,2026-01-28,25,722661.83,337,1.0,4.0,4.0,9.0,Potential Loyalist,Emanuel Rodrigues,PF
+1278,2026-04-17,21,758988.67,258,1.0,3.0,5.0,9.0,Potential Loyalist,Miguel Marques,PF
+1204,2026-12-28,19,559439.09,3,5.0,2.0,2.0,9.0,Potential Loyalist,da Rosa ME,PJ
+258,2026-11-28,21,568106.04,33,3.0,3.0,3.0,9.0,Potential Loyalist,Maria Luiza Lopes,PF
+1952,2026-11-26,19,686428.47,35,3.0,2.0,4.0,9.0,Potential Loyalist,Srta. Laís Jesus,PF
+1208,2026-10-06,22,692327.85,86,2.0,3.0,4.0,9.0,Potential Loyalist,Sr. Henry Gabriel da Cruz,PF
+253,2026-10-07,22,742635.76,85,2.0,3.0,4.0,9.0,Potential Loyalist,Oliver Nogueira,PF
+1092,2026-06-20,25,710636.15,194,1.0,4.0,4.0,9.0,Potential Loyalist,Abreu Oliveira - ME,PJ
+1089,2026-12-10,20,619587.68,21,4.0,2.0,3.0,9.0,Potential Loyalist,Pereira EIRELI,PJ
+1008,2026-11-17,24,508865.37,44,3.0,4.0,2.0,9.0,Potential Loyalist,Andrade Campos e Filhos ME,PJ
+234,2026-11-29,20,679420.63,32,3.0,2.0,4.0,9.0,Potential Loyalist,Anthony Carvalho,PF
+101,2026-12-07,18,596063.29,24,4.0,2.0,3.0,9.0,Potential Loyalist,Maysa Gomes,PF
+1086,2026-11-30,20,657993.41,31,3.0,2.0,4.0,9.0,Potential Loyalist,Lívia da Luz,PF
+103,2026-11-07,25,592508.82,54,2.0,4.0,3.0,9.0,Potential Loyalist,Sra. Marcela Machado,PF
+1269,2026-12-08,20,576227.0599999999,23,4.0,2.0,3.0,9.0,Potential Loyalist,Sra. Zoe Cassiano,PF
+240,2026-12-30,18,551102.29,1,5.0,2.0,2.0,9.0,Potential Loyalist,Luara Campos,PF
+239,2026-10-29,21,726376.15,63,2.0,3.0,4.0,9.0,Potential Loyalist,Thiago Câmara,PF
+1266,2026-08-04,23,699582.35,149,1.0,4.0,4.0,9.0,Potential Loyalist,Dom Pastor,PF
+1015,2026-10-17,22,679291.36,75,2.0,3.0,4.0,9.0,Potential Loyalist,Ágatha Mendes,PF
+238,2026-10-20,25,576557.41,72,2.0,4.0,3.0,9.0,Potential Loyalist,Lopes e Filhos EIRELI,PJ
+105,2026-12-31,18,553886.49,0,5.0,2.0,2.0,9.0,Potential Loyalist,Dr. Josué Camargo,PF
+106,2026-12-17,20,590263.07,14,4.0,2.0,3.0,9.0,Potential Loyalist,Laura Sales,PF
+1833,2026-11-18,24,534018.98,43,3.0,4.0,2.0,9.0,Potential Loyalist,José Pedro da Rosa,PF
+87,2026-05-29,23,707361.48,216,1.0,4.0,4.0,9.0,Potential Loyalist,Farias S/A S.A.,PJ
+1,2026-12-10,20,630001.32,21,4.0,2.0,3.0,9.0,Potential Loyalist,Alves e Filhos S.A.,PJ
+929,2026-09-03,22,900328.3,119,1.0,3.0,5.0,9.0,Potential Loyalist,Mendes ME,PJ
+575,2026-09-16,22,650997.26,106,2.0,3.0,4.0,9.0,Potential Loyalist,Azevedo ME,PJ
+811,2026-08-24,25,683340.77,129,1.0,4.0,4.0,9.0,Potential Loyalist,Allana Abreu,PF
+1384,2026-02-05,21,816861.09,329,1.0,3.0,5.0,9.0,Potential Loyalist,Ísis Freitas,PF
+577,2026-12-31,20,533001.62,0,5.0,2.0,2.0,9.0,Potential Loyalist,Augusto Moreira,PF
+580,2026-04-07,25,679942.4400000001,268,1.0,4.0,4.0,9.0,Potential Loyalist,Evelyn Silva,PF
+1387,2026-12-05,19,644670.49,26,4.0,2.0,3.0,9.0,Potential Loyalist,Fernanda Costela,PF
+589,2026-11-11,23,540307.96,50,3.0,4.0,2.0,9.0,Potential Loyalist,Lucca Rocha,PF
+800,2026-12-10,20,611955.64,21,4.0,2.0,3.0,9.0,Potential Loyalist,Santos S.A.,PJ
+597,2026-10-11,22,647162.43,81,2.0,3.0,4.0,9.0,Potential Loyalist,Maria Luísa Moura,PF
+603,2026-12-30,18,498747.11,1,5.0,2.0,2.0,9.0,Potential Loyalist,Cirino Abreu S.A.,PJ
+1398,2026-11-27,20,729199.41,34,3.0,2.0,4.0,9.0,Potential Loyalist,da Mota Ltda,PJ
+613,2026-12-14,18,611506.49,17,4.0,2.0,3.0,9.0,Potential Loyalist,Cavalcanti Lima - EI EIRELI,PJ
+614,2026-11-15,22,609292.84,46,3.0,3.0,3.0,9.0,Potential Loyalist,Sra. Ana Lívia Camargo,PF
+786,2026-11-07,23,590453.07,54,2.0,4.0,3.0,9.0,Potential Loyalist,Rodrigo Costela,PF
+785,2026-03-26,24,662246.57,280,1.0,4.0,4.0,9.0,Potential Loyalist,Silva - EI S.A.,PJ
+1407,2026-06-14,25,740493.74,200,1.0,4.0,4.0,9.0,Potential Loyalist,Cirino Ferreira S/A Ltda,PJ
+1310,2026-12-24,20,559708.1,7,5.0,2.0,2.0,9.0,Potential Loyalist,Fernandes EIRELI,PJ
+1382,2026-12-01,22,590886.32,30,3.0,3.0,3.0,9.0,Potential Loyalist,Giovanna Guerra,PF
+1534,2026-05-09,23,699022.52,236,1.0,4.0,4.0,9.0,Potential Loyalist,Renan Machado,PF
+571,2026-06-15,25,723190.85,199,1.0,4.0,4.0,9.0,Potential Loyalist,Pedro Miguel Sampaio,PF
+553,2026-11-20,19,653735.27,41,3.0,2.0,4.0,9.0,Potential Loyalist,Mendonça EIRELI,PJ
+839,2026-10-31,22,721549.17,61,2.0,3.0,4.0,9.0,Potential Loyalist,Thales Câmara,PF
+838,2026-12-16,20,613185.12,15,4.0,2.0,3.0,9.0,Potential Loyalist,Borges Borges e Filhos ME,PJ
+557,2026-11-08,23,606571.97,53,2.0,4.0,3.0,9.0,Potential Loyalist,Davi Luiz Costa,PF
+1371,2026-11-24,21,588537.4,37,3.0,3.0,3.0,9.0,Potential Loyalist,da Paz Nogueira Ltda.,PJ
+830,2026-12-22,18,530000.03,9,5.0,2.0,2.0,9.0,Potential Loyalist,Sra. Mariah Araújo,PF
+1372,2026-05-13,22,752773.76,232,1.0,3.0,5.0,9.0,Potential Loyalist,Isabelly da Conceição,PF
+1582,2026-12-17,17,678860.29,14,4.0,1.0,4.0,9.0,Potential Loyalist,da Costa ME,PJ
+1373,2026-12-27,19,526551.89,4,5.0,2.0,2.0,9.0,Potential Loyalist,Monteiro Ltda,PJ
+564,2026-12-05,20,571710.2,26,4.0,2.0,3.0,9.0,Potential Loyalist,Vieira S.A.,PJ
+1375,2026-09-08,23,610779.42,114,2.0,4.0,3.0,9.0,Potential Loyalist,Sra. Lara Lima,PF
+1580,2026-12-15,22,544221.17,16,4.0,3.0,2.0,9.0,Potential Loyalist,Breno Pimenta,PF
+822,2026-11-25,22,596752.24,36,3.0,3.0,3.0,9.0,Potential Loyalist,Cardoso S.A.,PJ
+1377,2026-09-13,25,586610.23,109,2.0,4.0,3.0,9.0,Potential Loyalist,Dias ME,PJ
+1379,2026-09-29,21,739953.47,93,2.0,3.0,4.0,9.0,Potential Loyalist,Siqueira Novaes - ME,PJ
+618,2026-12-03,21,592523.34,28,3.0,3.0,3.0,9.0,Potential Loyalist,Garcia Siqueira S/A ME,PJ
+1420,2026-12-07,21,533302.19,24,4.0,3.0,2.0,9.0,Potential Loyalist,João Guilherme Cunha,PF
+1600,2026-12-02,18,668149.28,29,3.0,2.0,4.0,9.0,Potential Loyalist,Melina Alves,PF
+674,2026-11-18,21,616786.81,43,3.0,3.0,3.0,9.0,Potential Loyalist,Kamilly das Neves,PF
+679,2026-12-09,20,608716.47,22,4.0,2.0,3.0,9.0,Potential Loyalist,José Pedro da Rosa,PF
+737,2026-06-17,22,857673.99,197,1.0,3.0,5.0,9.0,Potential Loyalist,da Conceição e Filhos S.A.,PJ
+734,2026-12-25,17,581289.84,6,5.0,1.0,3.0,9.0,Potential Loyalist,Sr. Leandro Machado,PF
+732,2026-12-01,21,627341.49,30,3.0,3.0,3.0,9.0,Potential Loyalist,Dr. Davi Lucas Vasconcelos,PF
+731,2026-12-13,19,611370.82,18,4.0,2.0,3.0,9.0,Potential Loyalist,Henry Camargo,PF
+728,2026-11-26,22,628216.99,35,3.0,3.0,3.0,9.0,Potential Loyalist,Santos e Filhos EIRELI,PJ
+691,2026-11-29,21,598504.46,32,3.0,3.0,3.0,9.0,Potential Loyalist,Pastor EIRELI,PJ
+1456,2026-12-26,19,500877.35,5,5.0,2.0,2.0,9.0,Potential Loyalist,Azevedo EIRELI,PJ
+722,2026-04-06,23,721341.98,269,1.0,4.0,4.0,9.0,Potential Loyalist,Cassiano S/A Ltda,PJ
+1473,2026-11-23,22,614201.35,38,3.0,3.0,3.0,9.0,Potential Loyalist,Luna da Cunha,PF
+718,2026-05-08,21,758708.33,237,1.0,3.0,5.0,9.0,Potential Loyalist,Carolina Nascimento,PF
+1470,2026-05-06,22,941900.28,239,1.0,3.0,5.0,9.0,Potential Loyalist,Bárbara Albuquerque,PF
+699,2026-11-24,19,717697.3,37,3.0,2.0,4.0,9.0,Potential Loyalist,Peixoto Ltda,PJ
+714,2026-04-27,25,737102.28,248,1.0,4.0,4.0,9.0,Potential Loyalist,Dom Pastor,PF
+701,2026-12-14,18,571086.95,17,4.0,2.0,3.0,9.0,Potential Loyalist,Pimenta Ltda.,PJ
+676,2026-12-23,20,500477.03,8,5.0,2.0,2.0,9.0,Potential Loyalist,Benício da Rocha,PF
+669,2026-12-11,19,568456.65,20,4.0,2.0,3.0,9.0,Potential Loyalist,Dra. Pietra Sousa,PF
+1533,2026-11-26,22,611755.63,35,3.0,3.0,3.0,9.0,Potential Loyalist,Dias Souza - ME,PJ
+746,2026-11-27,20,738855.0700000001,34,3.0,2.0,4.0,9.0,Potential Loyalist,Pinto - ME,PJ
+1530,2026-07-04,24,745605.47,180,1.0,4.0,4.0,9.0,Potential Loyalist,Danilo Lima,PF
+1528,2026-02-21,25,666582.65,313,1.0,4.0,4.0,9.0,Potential Loyalist,Yan Ferreira,PF
+639,2026-11-22,22,624340.16,39,3.0,3.0,3.0,9.0,Potential Loyalist,Beatriz Porto,PF
+768,2026-11-16,21,616116.87,45,3.0,3.0,3.0,9.0,Potential Loyalist,da Paz das Neves - ME,PJ
+1503,2026-12-30,20,492859.58,1,5.0,2.0,2.0,9.0,Potential Loyalist,da Rocha S.A.,PJ
+661,2026-12-03,18,740795.83,28,3.0,2.0,4.0,9.0,Potential Loyalist,Isabella Oliveira,PF
+758,2026-12-05,22,485810.22,26,4.0,3.0,2.0,9.0,Potential Loyalist,da Mata Costa S.A.,PJ
+757,2026-12-16,20,585502.97,15,4.0,2.0,3.0,9.0,Potential Loyalist,Vargas S.A.,PJ
+755,2026-12-16,20,576201.69,15,4.0,2.0,3.0,9.0,Potential Loyalist,Rios - ME,PJ
+662,2026-12-20,17,569607.85,11,5.0,1.0,3.0,9.0,Potential Loyalist,Isabelly Ribeiro,PF
+1436,2026-12-30,20,553806.93,1,5.0,2.0,2.0,9.0,Potential Loyalist,Lima - EI ME,PJ
+751,2026-11-29,20,692405.44,32,3.0,2.0,4.0,9.0,Potential Loyalist,Garcia Freitas S.A.,PJ
+665,2026-09-14,21,686979.98,108,2.0,3.0,4.0,9.0,Potential Loyalist,Antonella Fogaça,PF
+667,2026-12-16,19,593087.81,15,4.0,2.0,3.0,9.0,Potential Loyalist,João Felipe da Costa,PF
+668,2026-11-15,23,490664.26,46,3.0,4.0,2.0,9.0,Potential Loyalist,Dra. Juliana Monteiro,PF
+1597,2026-12-12,18,589652.36,19,4.0,2.0,3.0,9.0,Potential Loyalist,Garcia ME,PJ
+812,2026-11-07,24,621332.06,54,2.0,4.0,3.0,9.0,Potential Loyalist,Srta. Maria Julia Melo,PF
+472,2026-11-11,22,616623.48,50,3.0,3.0,3.0,9.0,Potential Loyalist,Camargo S.A.,PJ
+1641,2026-10-17,21,658211.2,75,2.0,3.0,4.0,9.0,Potential Loyalist,Sr. Joaquim Albuquerque,PF
+1347,2026-10-12,23,638527.89,80,2.0,4.0,3.0,9.0,Potential Loyalist,Sra. Maria Luiza Lopes,PF
+1645,2026-12-22,18,533072.13,9,5.0,2.0,2.0,9.0,Potential Loyalist,Dra. Evelyn Machado,PF
+480,2026-12-08,22,482154.78,23,4.0,3.0,2.0,9.0,Potential Loyalist,Barros da Mata Ltda.,PJ
+880,2026-09-01,23,708296.78,121,1.0,4.0,4.0,9.0,Potential Loyalist,Eduardo Oliveira,PF
+1646,2026-07-20,21,770449.5599999999,164,1.0,3.0,5.0,9.0,Potential Loyalist,da Rocha S.A.,PJ
+1648,2026-12-27,20,537621.65,4,5.0,2.0,2.0,9.0,Potential Loyalist,Bernardo Carvalho,PF
+916,2026-11-19,20,662219.66,42,3.0,2.0,4.0,9.0,Potential Loyalist,Ana Cecília Moreira,PF
+913,2026-11-12,19,651958.01,49,3.0,2.0,4.0,9.0,Potential Loyalist,Maria Eduarda Marques,PF
+1689,2026-12-03,21,570428.94,28,3.0,3.0,3.0,9.0,Potential Loyalist,João Lucas Azevedo,PF
+1659,2026-12-28,21,417156.16,3,5.0,3.0,1.0,9.0,Potential Loyalist,Arthur Azevedo,PF
+466,2026-05-22,24,683858.69,223,1.0,4.0,4.0,9.0,Potential Loyalist,João Vitor Martins,PF
+1335,2026-11-22,25,539575.39,39,3.0,4.0,2.0,9.0,Potential Loyalist,Júlia das Neves,PF
+1661,2026-12-02,22,597025.52,29,3.0,3.0,3.0,9.0,Potential Loyalist,Ana da Mota,PF
+1685,2026-11-11,21,621110.08,50,3.0,3.0,3.0,9.0,Potential Loyalist,Emanuelly Monteiro,PF
+1334,2026-11-12,22,582211.42,49,3.0,3.0,3.0,9.0,Potential Loyalist,da Cruz Ltda,PJ
+1663,2026-11-18,22,641178.6,43,3.0,3.0,3.0,9.0,Potential Loyalist,Liz Ferreira,PF
+894,2026-12-28,19,535312.27,3,5.0,2.0,2.0,9.0,Potential Loyalist,Evelyn Vieira,PF
+1664,2026-12-24,17,582673.89,7,5.0,1.0,3.0,9.0,Potential Loyalist,Mirella Costa,PF
+451,2026-12-25,19,550960.4,6,5.0,2.0,2.0,9.0,Potential Loyalist,Maria Eduarda Cirino,PF
+1673,2026-12-22,20,482964.45,9,5.0,2.0,2.0,9.0,Potential Loyalist,Castro Brito - EI Ltda,PJ
+436,2026-03-26,21,818074.92,280,1.0,3.0,5.0,9.0,Potential Loyalist,Dr. Mathias Duarte,PF
+901,2026-09-28,21,665527.7,94,2.0,3.0,4.0,9.0,Potential Loyalist,Ramos e Filhos EIRELI,PJ
+450,2026-07-25,23,707985.78,159,1.0,4.0,4.0,9.0,Potential Loyalist,Maria Sophia Vieira,PF
+489,2026-10-29,21,661572.73,63,2.0,3.0,4.0,9.0,Potential Loyalist,Sr. Nicolas Camargo,PF
+1669,2026-12-22,18,491907.72,9,5.0,2.0,2.0,9.0,Potential Loyalist,da Rosa ME,PJ
+1313,2026-12-15,18,596495.27,16,4.0,2.0,3.0,9.0,Potential Loyalist,João Miguel Duarte,PF
+1312,2026-12-18,18,597483.63,13,4.0,2.0,3.0,9.0,Potential Loyalist,Oliveira S.A.,PJ
+854,2026-09-14,21,731903.33,108,2.0,3.0,4.0,9.0,Potential Loyalist,Dra. Ágatha Cavalcanti,PF
+1694,2026-12-30,18,472689.5,1,5.0,2.0,2.0,9.0,Potential Loyalist,Lorena Pereira,PF
+1617,2026-12-09,18,591563.63,22,4.0,2.0,3.0,9.0,Potential Loyalist,Ana Julia Costa,PF
+853,2026-12-24,19,521154.02,7,5.0,2.0,2.0,9.0,Potential Loyalist,Guerra Ltda,PJ
+400,2026-11-20,22,595169.67,41,3.0,3.0,3.0,9.0,Potential Loyalist,Sofia Andrade,PF
+923,2026-10-09,25,593683.61,83,2.0,4.0,3.0,9.0,Potential Loyalist,Laís Castro,PF
+396,2026-11-30,18,654630.87,31,3.0,2.0,4.0,9.0,Potential Loyalist,Hellena Barbosa,PF
+534,2026-12-01,24,561621.83,30,3.0,4.0,2.0,9.0,Potential Loyalist,Vinicius Farias,PF
+1627,2026-12-08,21,502697.77,23,4.0,3.0,2.0,9.0,Potential Loyalist,Vasconcelos - EI S.A.,PJ
+1631,2026-12-24,19,511348.91000000003,7,5.0,2.0,2.0,9.0,Potential Loyalist,Arthur Montenegro,PF
+1601,2026-10-15,22,725752.52,77,2.0,3.0,4.0,9.0,Potential Loyalist,Maria Alice Pacheco,PF
+1608,2026-10-10,22,676178.8,82,2.0,3.0,4.0,9.0,Potential Loyalist,Maysa Pacheco,PF
+850,2026-11-15,19,716209.36,46,3.0,2.0,4.0,9.0,Potential Loyalist,Ana Pinto,PF
+1956,2026-12-28,18,377893.03,3,5.0,2.0,1.0,8.0,Potential Loyalist,Lavínia Aparecida,PF
+1680,2026-12-31,14,502766.96,0,5.0,1.0,2.0,8.0,Potential Loyalist,Vieira e Filhos S.A.,PJ
+1193,2026-12-26,18,447355.12,5,5.0,2.0,1.0,8.0,Potential Loyalist,Maya Cunha,PF
+1684,2026-12-30,18,449419.52,1,5.0,2.0,1.0,8.0,Potential Loyalist,Valentina Mendes,PF
+1998,2026-11-29,20,578679.19,32,3.0,2.0,3.0,8.0,Potential Loyalist,Moreira S.A.,PJ
+1157,2026-06-30,23,619801.87,184,1.0,4.0,3.0,8.0,Potential Loyalist,Dr. Pedro Lucas Barbosa,PF
+1679,2026-12-15,20,504092.42,16,4.0,2.0,2.0,8.0,Potential Loyalist,Lima ME,PJ
+1443,2026-11-25,21,536625.93,36,3.0,3.0,2.0,8.0,Potential Loyalist,Maria Julia Cirino,PF
+1738,2026-03-17,20,749466.97,289,1.0,2.0,5.0,8.0,Potential Loyalist,Benjamin Fogaça,PF
+1197,2026-11-10,18,591790.54,51,3.0,2.0,3.0,8.0,Potential Loyalist,Hadassa Siqueira,PF
+1735,2026-10-07,20,695773.17,85,2.0,2.0,4.0,8.0,Potential Loyalist,Dra. Maria Sophia Guerra,PF
+1954,2026-11-10,18,615067.34,51,3.0,2.0,3.0,8.0,Potential Loyalist,Olívia da Mata,PF
+1156,2026-11-06,19,679153.63,55,2.0,2.0,4.0,8.0,Potential Loyalist,Luara Rocha,PF
+1464,2026-11-29,22,497065.79,32,3.0,3.0,2.0,8.0,Potential Loyalist,Peixoto e Filhos Ltda,PJ
+1301,2026-10-13,19,703391.37,79,2.0,2.0,4.0,8.0,Potential Loyalist,Correia Campos - EI S.A.,PJ
+1326,2026-08-24,26,551731.93,129,1.0,5.0,2.0,8.0,Potential Loyalist,Brito S.A.,PJ
+1501,2026-02-04,22,650562.57,330,1.0,3.0,4.0,8.0,Potential Loyalist,André Aragão,PF
+1300,2026-11-30,20,579444.92,31,3.0,2.0,3.0,8.0,Potential Loyalist,Dr. Raul Costa,PF
+1431,2026-10-10,21,603413.69,82,2.0,3.0,3.0,8.0,Potential Loyalist,Pereira ME,PJ
+1446,2026-11-04,19,689390.99,57,2.0,2.0,4.0,8.0,Potential Loyalist,Albuquerque S.A.,PJ
+1190,2026-10-11,22,588995.18,81,2.0,3.0,3.0,8.0,Potential Loyalist,Dra. Mariana das Neves,PF
+1959,2026-12-16,18,518219.17,15,4.0,2.0,2.0,8.0,Potential Loyalist,João Farias,PF
+1159,2026-07-30,21,676328.07,154,1.0,3.0,4.0,8.0,Potential Loyalist,Juliana Vargas,PF
+1457,2026-11-20,18,589503.03,41,3.0,2.0,3.0,8.0,Potential Loyalist,José Miguel Andrade,PF
+1723,2026-10-31,23,544354.4,61,2.0,4.0,2.0,8.0,Potential Loyalist,Gustavo Henrique Abreu,PF
+1175,2026-12-06,18,546164.36,25,4.0,2.0,2.0,8.0,Potential Loyalist,Hellena Silva,PF
+1455,2026-12-13,20,497424.16,18,4.0,2.0,2.0,8.0,Potential Loyalist,Laura Novaes,PF
+1482,2026-10-27,21,608837.1,65,2.0,3.0,3.0,8.0,Potential Loyalist,Castro Alves - EI ME,PJ
+1477,2026-11-25,17,721312.78,36,3.0,1.0,4.0,8.0,Potential Loyalist,Pedro Lucas da Conceição,PF
+1453,2026-06-26,23,628902.57,188,1.0,4.0,3.0,8.0,Potential Loyalist,Marcela Araújo,PF
+1720,2026-03-26,21,742590.62,280,1.0,3.0,4.0,8.0,Potential Loyalist,Davi Lucca Farias,PF
+1976,2026-09-09,19,651024.1,113,2.0,2.0,4.0,8.0,Potential Loyalist,Cirino EIRELI,PJ
+1724,2026-12-22,19,396089.27,9,5.0,2.0,1.0,8.0,Potential Loyalist,Gomes Duarte - ME,PJ
+1210,2026-12-18,19,495996.98,13,4.0,2.0,2.0,8.0,Potential Loyalist,Sarah Garcia,PF
+1726,2026-12-25,17,536878.18,6,5.0,1.0,2.0,8.0,Potential Loyalist,Emanuella Rocha,PF
+1691,2026-11-30,16,671222.27,31,3.0,1.0,4.0,8.0,Potential Loyalist,Ana Júlia Mendes,PF
+1968,2026-12-27,20,442923.19,4,5.0,2.0,1.0,8.0,Potential Loyalist,Sampaio Marques Ltda.,PJ
+1459,2026-12-02,19,593394.37,29,3.0,2.0,3.0,8.0,Potential Loyalist,João Miguel Albuquerque,PF
+1966,2026-11-20,21,561512.18,41,3.0,3.0,2.0,8.0,Potential Loyalist,Lopes ME,PJ
+1491,2026-12-12,20,533702.55,19,4.0,2.0,2.0,8.0,Potential Loyalist,Viana Ltda,PJ
+1448,2026-04-14,21,700610.06,261,1.0,3.0,4.0,8.0,Potential Loyalist,Luna Cassiano,PF
+1447,2026-05-19,21,716060.3,226,1.0,3.0,4.0,8.0,Potential Loyalist,Guerra Albuquerque S/A EIRELI,PJ
+1986,2026-10-14,21,641676.77,78,2.0,3.0,3.0,8.0,Potential Loyalist,Cunha ME,PJ
+1191,2026-11-04,23,526259.81,57,2.0,4.0,2.0,8.0,Potential Loyalist,Moreira S.A.,PJ
+1272,2026-11-27,19,574922.42,34,3.0,2.0,3.0,8.0,Potential Loyalist,Breno Correia,PF
+1297,2026-12-20,19,415433.14,11,5.0,2.0,1.0,8.0,Potential Loyalist,Dra. Luna Novaes,PF
+1748,2026-11-19,21,533854.87,42,3.0,3.0,2.0,8.0,Potential Loyalist,Rios e Filhos S.A.,PJ
+1281,2026-06-29,21,676321.41,185,1.0,3.0,4.0,8.0,Potential Loyalist,Camargo EIRELI,PJ
+1389,2026-11-14,20,628512.37,47,3.0,2.0,3.0,8.0,Potential Loyalist,Davi Lucas Martins,PF
+1788,2026-12-05,21,458004.08999999997,26,4.0,3.0,1.0,8.0,Potential Loyalist,Santos S.A.,PJ
+1339,2026-11-27,18,622672.87,34,3.0,2.0,3.0,8.0,Potential Loyalist,Cardoso Ltda,PJ
+1874,2026-11-08,22,640173.64,53,2.0,3.0,3.0,8.0,Potential Loyalist,Dr. Davi Lucas Teixeira,PF
+1650,2026-12-21,18,350216.93,10,5.0,2.0,1.0,8.0,Potential Loyalist,Novais S.A.,PJ
+1383,2026-12-12,19,537399.18,19,4.0,2.0,2.0,8.0,Potential Loyalist,Ravi Freitas,PF
+1247,2026-12-23,14,488111.57,8,5.0,1.0,2.0,8.0,Potential Loyalist,Farias Pacheco Ltda.,PJ
+1381,2026-12-13,19,553035.83,18,4.0,2.0,2.0,8.0,Potential Loyalist,Rodrigues Rezende e Filhos S.A.,PJ
+1644,2026-12-25,13,494829.99,6,5.0,1.0,2.0,8.0,Potential Loyalist,Nogueira ME,PJ
+1858,2026-12-14,19,498173.52,17,4.0,2.0,2.0,8.0,Potential Loyalist,Machado EIRELI,PJ
+1253,2026-12-22,20,468004.92,9,5.0,2.0,1.0,8.0,Potential Loyalist,Nicolas Martins,PF
+1255,2026-12-21,17,541622.13,10,5.0,1.0,2.0,8.0,Potential Loyalist,Vitor Hugo da Rocha,PF
+1257,2026-12-05,19,493734.35,26,4.0,2.0,2.0,8.0,Potential Loyalist,Cassiano Ltda,PJ
+1950,2026-11-12,18,595363.73,49,3.0,2.0,3.0,8.0,Potential Loyalist,Barros - EI ME,PJ
+1626,2026-07-04,22,739121.35,180,1.0,3.0,4.0,8.0,Potential Loyalist,Olivia Marques,PF
+1839,2026-10-05,22,639777.92,87,2.0,3.0,3.0,8.0,Potential Loyalist,Juliana Cardoso,PF
+1815,2026-10-27,22,642614.19,65,2.0,3.0,3.0,8.0,Potential Loyalist,Azevedo ME,PJ
+1817,2026-12-19,17,483350.03,12,5.0,1.0,2.0,8.0,Potential Loyalist,Srta. Agatha Guerra,PF
+1834,2026-10-18,20,651674.93,74,2.0,2.0,4.0,8.0,Potential Loyalist,Fonseca ME,PJ
+1263,2026-03-20,22,745220.66,286,1.0,3.0,4.0,8.0,Potential Loyalist,da Mata - ME,PJ
+1370,2026-10-26,22,567693.11,66,2.0,3.0,3.0,8.0,Potential Loyalist,Duarte S/A S.A.,PJ
+1586,2026-11-05,20,658870.44,56,2.0,2.0,4.0,8.0,Potential Loyalist,Maria Laura da Rocha,PF
+1606,2026-12-12,18,476787.12,19,4.0,2.0,2.0,8.0,Potential Loyalist,Paulo Castro,PF
+1605,2026-11-24,19,622386.38,37,3.0,2.0,3.0,8.0,Potential Loyalist,Josué Mendonça,PF
+1367,2026-12-19,15,472076.01,12,5.0,1.0,2.0,8.0,Potential Loyalist,Asafe Machado,PF
+1589,2026-12-21,18,388382.25,10,5.0,2.0,1.0,8.0,Potential Loyalist,Heitor Câmara,PF
+1390,2026-12-30,19,406564.48,1,5.0,2.0,1.0,8.0,Potential Loyalist,Ana Julia da Rosa,PF
+1787,2026-11-24,19,588082.62,37,3.0,2.0,3.0,8.0,Potential Loyalist,Yan Vargas,PF
+1554,2026-12-05,20,521475.56,26,4.0,2.0,2.0,8.0,Potential Loyalist,Ana Vitória Leão,PF
+1888,2026-10-10,22,642901.56,82,2.0,3.0,3.0,8.0,Potential Loyalist,Carvalho ME,PJ
+1948,2026-12-02,19,608817.87,29,3.0,2.0,3.0,8.0,Potential Loyalist,Alexia Vieira,PF
+1502,2026-12-31,17,517471.95,0,5.0,1.0,2.0,8.0,Potential Loyalist,Oliver Garcia,PF
+1211,2026-11-02,19,679732.84,59,2.0,2.0,4.0,8.0,Potential Loyalist,Alexia Oliveira,PF
+1758,2026-08-04,22,695872.72,149,1.0,3.0,4.0,8.0,Potential Loyalist,Barbosa Costela - ME,PJ
+1507,2026-12-13,21,334183.6,18,4.0,3.0,1.0,8.0,Potential Loyalist,Alice da Rosa,PF
+1517,2026-09-10,22,632937.91,112,2.0,3.0,3.0,8.0,Potential Loyalist,Cavalcante ME,PJ
+1522,2026-12-23,18,360733.13,8,5.0,2.0,1.0,8.0,Potential Loyalist,Rodrigues Ltda.,PJ
+1762,2026-12-10,18,563200.48,21,4.0,2.0,2.0,8.0,Potential Loyalist,Silva Nascimento S/A EIRELI,PJ
+1527,2026-03-10,19,808547.43,296,1.0,2.0,5.0,8.0,Potential Loyalist,Caio Farias,PF
+1270,2026-12-14,18,561008.86,17,4.0,2.0,2.0,8.0,Potential Loyalist,Lunna da Luz,PF
+1764,2026-12-19,19,468483.51,12,5.0,2.0,1.0,8.0,Potential Loyalist,Montenegro Sampaio - EI ME,PJ
+1768,2026-11-22,19,641078.65,39,3.0,2.0,3.0,8.0,Potential Loyalist,Alana Barbosa,PF
+1943,2026-12-17,19,519365.3,14,4.0,2.0,2.0,8.0,Potential Loyalist,Montenegro EIRELI,PJ
+1535,2025-12-04,22,743766.55,392,1.0,3.0,4.0,8.0,Potential Loyalist,Cunha da Cruz Ltda.,PJ
+1291,2026-11-24,21,526028.2,37,3.0,3.0,2.0,8.0,Potential Loyalist,Allana Rezende,PF
+1408,2026-11-17,18,567424.64,44,3.0,2.0,3.0,8.0,Potential Loyalist,Peixoto Albuquerque S/A ME,PJ
+1923,2026-12-02,22,558792.09,29,3.0,3.0,2.0,8.0,Potential Loyalist,Ravi Lucca Caldeira,PF
+1406,2026-12-21,18,465071.62,10,5.0,2.0,1.0,8.0,Potential Loyalist,Viana Ltda,PJ
+1288,2026-11-21,19,566513.4299999999,40,3.0,2.0,3.0,8.0,Potential Loyalist,Esther Rios,PF
+1903,2026-08-15,23,614605.16,138,1.0,4.0,3.0,8.0,Potential Loyalist,Clara da Cunha,PF
+1902,2026-07-10,24,631027.82,174,1.0,4.0,3.0,8.0,Potential Loyalist,Rebeca Martins,PF
+1224,2026-11-06,21,619491.97,55,2.0,3.0,3.0,8.0,Potential Loyalist,Samuel Campos,PF
+1548,2026-11-28,19,587633.56,33,3.0,2.0,3.0,8.0,Potential Loyalist,Maria Liz da Rosa,PF
+1551,2026-04-24,20,746456.74,251,1.0,2.0,5.0,8.0,Potential Loyalist,Leão EIRELI,PJ
+1229,2025-11-12,21,701446.0,414,1.0,3.0,4.0,8.0,Potential Loyalist,Anthony Gabriel Ribeiro,PF
+1468,2026-12-28,17,489786.97000000003,3,5.0,1.0,2.0,8.0,Potential Loyalist,Anthony Gabriel Carvalho,PF
+2000,2026-07-18,21,665022.91,166,1.0,3.0,4.0,8.0,Potential Loyalist,Nicole Almeida,PF
+696,2026-12-21,16,550234.3099999999,10,5.0,1.0,2.0,8.0,Potential Loyalist,Sra. Ana Lívia Castro,PF
+975,2026-02-16,23,606212.09,318,1.0,4.0,3.0,8.0,Potential Loyalist,Souza S.A.,PJ
+1005,2026-12-24,14,496402.89,7,5.0,1.0,2.0,8.0,Potential Loyalist,Helena Vieira,PF
+999,2026-12-30,16,471455.39999999997,1,5.0,1.0,2.0,8.0,Potential Loyalist,Moreira S.A.,PJ
+179,2026-11-12,21,563997.95,49,3.0,3.0,2.0,8.0,Potential Loyalist,Larissa Vasconcelos,PF
+410,2026-09-30,24,554362.85,92,2.0,4.0,2.0,8.0,Potential Loyalist,Marcelo Machado,PF
+716,2026-12-11,19,496412.99,20,4.0,2.0,2.0,8.0,Potential Loyalist,Gael Oliveira,PF
+407,2026-10-24,20,719505.43,68,2.0,2.0,4.0,8.0,Potential Loyalist,Igor Moreira,PF
+202,2026-04-08,22,746249.51,267,1.0,3.0,4.0,8.0,Potential Loyalist,Felipe Siqueira,PF
+974,2026-11-06,22,581434.05,55,2.0,3.0,3.0,8.0,Potential Loyalist,Luiz Felipe Azevedo,PF
+493,2026-12-03,22,553944.86,28,3.0,3.0,2.0,8.0,Potential Loyalist,Pinto Nogueira - EI Ltda,PJ
+972,2026-12-31,17,540514.36,0,5.0,1.0,2.0,8.0,Potential Loyalist,Maria Liz Leão,PF
+730,2026-12-14,20,512140.69,17,4.0,2.0,2.0,8.0,Potential Loyalist,Santos Cavalcanti S/A Ltda,PJ
+391,2026-11-30,20,587216.73,31,3.0,2.0,3.0,8.0,Potential Loyalist,Léo Novaes,PF
+736,2026-12-02,20,591277.94,29,3.0,2.0,3.0,8.0,Potential Loyalist,Isadora Albuquerque,PF
+390,2026-12-18,20,526789.75,13,4.0,2.0,2.0,8.0,Potential Loyalist,Yago Carvalho,PF
+953,2026-09-18,21,586165.91,104,2.0,3.0,3.0,8.0,Potential Loyalist,Lara Martins,PF
+944,2026-12-15,18,501900.16,16,4.0,2.0,2.0,8.0,Potential Loyalist,Bruno Jesus,PF
+422,2026-12-12,17,632136.38,19,4.0,1.0,3.0,8.0,Potential Loyalist,Cavalcanti ME,PJ
+1007,2026-12-05,19,534003.28,26,4.0,2.0,2.0,8.0,Potential Loyalist,Augusto Siqueira,PF
+424,2026-10-25,21,612723.96,67,2.0,3.0,3.0,8.0,Potential Loyalist,Pastor Costa S.A.,PJ
+444,2026-12-13,18,545390.73,18,4.0,2.0,2.0,8.0,Potential Loyalist,Theo Borges,PF
+655,2026-11-07,22,642995.14,54,2.0,3.0,3.0,8.0,Potential Loyalist,Gael Henrique Aragão,PF
+479,2026-12-18,19,504280.98000000004,13,4.0,2.0,2.0,8.0,Potential Loyalist,Cavalcante e Filhos EIRELI,PJ
+659,2026-06-18,23,623938.64,196,1.0,4.0,3.0,8.0,Potential Loyalist,Alana Sales,PF
+663,2026-12-30,17,475599.97,1,5.0,1.0,2.0,8.0,Potential Loyalist,Caldeira S.A.,PJ
+459,2026-12-22,18,385042.34,9,5.0,2.0,1.0,8.0,Potential Loyalist,Pedro Miguel Fogaça,PF
+1037,2026-08-16,21,656629.96,137,1.0,3.0,4.0,8.0,Potential Loyalist,João Pedro Oliveira,PF
+144,2026-11-28,22,542546.54,33,3.0,3.0,2.0,8.0,Potential Loyalist,Benicio Teixeira,PF
+457,2026-10-19,22,591061.12,73,2.0,3.0,3.0,8.0,Potential Loyalist,Dra. Marina Casa Grande,PF
+1031,2026-12-09,20,492699.7,22,4.0,2.0,2.0,8.0,Potential Loyalist,Maria Luísa Souza,PF
+688,2026-11-07,23,521295.17,54,2.0,4.0,2.0,8.0,Potential Loyalist,da Rocha Ltda,PJ
+149,2026-12-18,18,483545.51,13,4.0,2.0,2.0,8.0,Potential Loyalist,Kaique Castro,PF
+150,2026-12-02,21,545964.08,29,3.0,3.0,2.0,8.0,Potential Loyalist,Brito - ME,PJ
+692,2026-11-17,17,675811.92,44,3.0,1.0,4.0,8.0,Potential Loyalist,Isis Camargo,PF
+446,2026-11-05,22,627804.72,56,2.0,3.0,3.0,8.0,Potential Loyalist,Sousa e Filhos Ltda,PJ
+1019,2026-12-24,19,398232.77999999997,7,5.0,2.0,1.0,8.0,Potential Loyalist,Pinto S.A.,PJ
+940,2026-11-23,18,572270.03,38,3.0,2.0,3.0,8.0,Potential Loyalist,Davi Lucas Viana,PF
+939,2026-03-19,23,591556.9299999999,287,1.0,4.0,3.0,8.0,Potential Loyalist,Luara Campos,PF
+388,2026-10-05,20,721034.29,87,2.0,2.0,4.0,8.0,Potential Loyalist,Allana Melo,PF
+254,2026-10-10,21,576236.58,82,2.0,3.0,3.0,8.0,Potential Loyalist,Vitória Melo,PF
+875,2026-11-13,18,596980.53,48,3.0,2.0,3.0,8.0,Potential Loyalist,Daniel Vieira,PF
+263,2026-12-14,18,511138.18,17,4.0,2.0,2.0,8.0,Potential Loyalist,Pinto EIRELI,PJ
+789,2026-09-03,23,606894.96,119,1.0,4.0,3.0,8.0,Potential Loyalist,Jade Porto,PF
+861,2026-10-06,19,685845.6,86,2.0,2.0,4.0,8.0,Potential Loyalist,Miguel Costa,PF
+791,2026-12-26,16,473529.15,5,5.0,1.0,2.0,8.0,Potential Loyalist,João Lucas Pereira,PF
+270,2026-11-24,18,573258.62,37,3.0,2.0,3.0,8.0,Potential Loyalist,Maria Ferreira,PF
+326,2026-12-14,17,601386.83,17,4.0,1.0,3.0,8.0,Potential Loyalist,Melo - EI ME,PJ
+860,2026-10-04,21,585412.36,88,2.0,3.0,3.0,8.0,Potential Loyalist,Fernando Nascimento,PF
+795,2026-08-02,22,651088.54,151,1.0,3.0,4.0,8.0,Potential Loyalist,Pedro Miguel Vasconcelos,PF
+290,2026-12-31,17,542934.03,0,5.0,1.0,2.0,8.0,Potential Loyalist,Mendonça S.A.,PJ
+317,2026-12-12,20,525015.33,19,4.0,2.0,2.0,8.0,Potential Loyalist,Vinícius Aparecida,PF
+807,2026-11-09,18,612184.28,52,3.0,2.0,3.0,8.0,Potential Loyalist,Pacheco Rocha Ltda.,PJ
+840,2026-03-24,22,712974.17,282,1.0,3.0,4.0,8.0,Potential Loyalist,Maysa Leão,PF
+294,2026-06-11,22,743136.49,203,1.0,3.0,4.0,8.0,Potential Loyalist,Felipe Leão,PF
+824,2026-11-15,19,631003.51,46,3.0,2.0,3.0,8.0,Potential Loyalist,Mariana Costa,PF
+260,2026-12-23,17,540506.56,8,5.0,1.0,2.0,8.0,Potential Loyalist,Davi Luiz Souza,PF
+878,2026-12-07,19,558735.76,24,4.0,2.0,2.0,8.0,Potential Loyalist,Dra. Allana da Rosa,PF
+381,2026-11-21,18,622065.3,40,3.0,2.0,3.0,8.0,Potential Loyalist,Vargas S.A.,PJ
+246,2026-11-01,21,605423.34,60,2.0,3.0,3.0,8.0,Potential Loyalist,Dra. Sophie da Rosa,PF
+918,2026-10-12,24,524937.01,80,2.0,4.0,2.0,8.0,Potential Loyalist,da Rosa ME,PJ
+912,2026-10-02,21,619144.9,90,2.0,3.0,3.0,8.0,Potential Loyalist,Ribeiro S/A S.A.,PJ
+227,2026-12-11,19,540959.05,20,4.0,2.0,2.0,8.0,Potential Loyalist,Teixeira Vasconcelos S.A.,PJ
+909,2026-12-25,18,450121.63,6,5.0,2.0,1.0,8.0,Potential Loyalist,Pedro Miguel Garcia,PF
+908,2026-12-22,20,459820.46,9,5.0,2.0,1.0,8.0,Potential Loyalist,Laura Vieira,PF
+375,2026-11-18,21,516971.85,43,3.0,3.0,2.0,8.0,Potential Loyalist,Srta. Raquel Cirino,PF
+374,2026-12-02,21,520336.47000000003,29,3.0,3.0,2.0,8.0,Potential Loyalist,João Lucas da Mota,PF
+235,2026-12-14,19,516602.79,17,4.0,2.0,2.0,8.0,Potential Loyalist,Maria Liz Marques,PF
+772,2026-08-23,24,628585.91,130,1.0,4.0,3.0,8.0,Potential Loyalist,Leão EIRELI,PJ
+774,2026-11-04,18,743143.01,57,2.0,2.0,4.0,8.0,Potential Loyalist,Beatriz Garcia,PF
+362,2026-12-03,19,568651.62,28,3.0,2.0,3.0,8.0,Potential Loyalist,Cavalcante ME,PJ
+357,2026-12-20,20,413222.72,11,5.0,2.0,1.0,8.0,Potential Loyalist,Marques - ME,PJ
+890,2026-12-05,18,504283.63,26,4.0,2.0,2.0,8.0,Potential Loyalist,Helena Leão,PF
+778,2026-12-17,18,474270.77,14,4.0,2.0,2.0,8.0,Potential Loyalist,Martins Souza - ME,PJ
+342,2026-12-07,20,509387.26,24,4.0,2.0,2.0,8.0,Potential Loyalist,Dr. Apollo Cavalcanti,PF
+654,2026-10-23,20,696202.08,69,2.0,2.0,4.0,8.0,Potential Loyalist,Hadassa Moura,PF
+820,2026-10-25,21,624733.12,67,2.0,3.0,3.0,8.0,Potential Loyalist,Machado Ltda,PJ
+506,2026-11-22,20,588637.88,39,3.0,2.0,3.0,8.0,Potential Loyalist,Sales e Filhos S.A.,PJ
+1079,2026-12-30,13,476447.58,1,5.0,1.0,2.0,8.0,Potential Loyalist,Eloah Freitas,PF
+602,2026-12-13,17,577646.67,18,4.0,1.0,3.0,8.0,Potential Loyalist,Cavalcante - EI Ltda,PJ
+527,2026-11-26,18,579939.08,35,3.0,2.0,3.0,8.0,Potential Loyalist,Melo e Filhos Ltda,PJ
+1085,2026-12-14,18,523449.02999999997,17,4.0,2.0,2.0,8.0,Potential Loyalist,da Costa ME,PJ
+26,2026-09-27,22,644793.7,95,2.0,3.0,3.0,8.0,Potential Loyalist,Gomes - EI EIRELI,PJ
+600,2026-12-14,19,476209.04,17,4.0,2.0,2.0,8.0,Potential Loyalist,Costela EIRELI,PJ
+44,2026-10-29,23,481840.35,63,2.0,4.0,2.0,8.0,Potential Loyalist,Vasconcelos Moreira - ME,PJ
+37,2026-10-21,21,627867.74,71,2.0,3.0,3.0,8.0,Potential Loyalist,Vicente Rezende,PF
+1137,2026-12-29,19,465801.35,2,5.0,2.0,1.0,8.0,Potential Loyalist,Cauê Gonçalves,PF
+528,2026-11-29,21,473605.12,32,3.0,3.0,2.0,8.0,Potential Loyalist,Machado ME,PJ
+99,2026-12-08,18,523184.29,23,4.0,2.0,2.0,8.0,Potential Loyalist,Emilly Carvalho,PF
+1121,2026-11-19,22,537818.33,42,3.0,3.0,2.0,8.0,Potential Loyalist,Rocha ME,PJ
+631,2026-06-11,22,719363.54,203,1.0,3.0,4.0,8.0,Potential Loyalist,Ravy Casa Grande,PF
+41,2026-12-03,19,581044.85,28,3.0,2.0,3.0,8.0,Potential Loyalist,Sra. Kamilly Silveira,PF
+567,2026-12-10,18,487330.51,21,4.0,2.0,2.0,8.0,Potential Loyalist,Srta. Luana Araújo,PF
+1096,2026-12-31,16,511409.67,0,5.0,1.0,2.0,8.0,Potential Loyalist,da Paz S/A Ltda,PJ
+91,2026-11-27,20,621846.43,34,3.0,2.0,3.0,8.0,Potential Loyalist,Rafaela Freitas,PF
+533,2026-10-23,21,591133.14,69,2.0,3.0,3.0,8.0,Potential Loyalist,Luana Pastor,PF
+1104,2026-11-29,20,637953.09,32,3.0,2.0,3.0,8.0,Potential Loyalist,Costa - EI Ltda,PJ
+1097,2026-07-08,20,776714.92,176,1.0,2.0,5.0,8.0,Potential Loyalist,Alexandre Cunha,PF
+599,2026-11-17,18,602752.55,44,3.0,2.0,3.0,8.0,Potential Loyalist,Dr. Daniel Brito,PF
+84,2026-12-17,20,559802.63,14,4.0,2.0,2.0,8.0,Potential Loyalist,Luara Cassiano,PF
+558,2026-11-07,22,577222.55,54,2.0,3.0,3.0,8.0,Potential Loyalist,José Pedro Jesus,PF
+629,2026-10-09,24,503273.65,83,2.0,4.0,2.0,8.0,Potential Loyalist,Eduardo Caldeira,PF
+1101,2026-12-10,20,522839.99,21,4.0,2.0,2.0,8.0,Potential Loyalist,Nunes S.A.,PJ
+532,2026-11-25,22,543949.02,36,3.0,3.0,2.0,8.0,Potential Loyalist,Vitor Gabriel Leão,PF
+1133,2026-10-13,22,606522.51,79,2.0,3.0,3.0,8.0,Potential Loyalist,Joana Duarte,PF
+637,2026-12-01,20,579442.97,30,3.0,2.0,3.0,8.0,Potential Loyalist,Felipe Marques,PF
+1077,2026-12-20,16,519429.29,11,5.0,1.0,2.0,8.0,Potential Loyalist,Cassiano Ltda.,PJ
+50,2026-11-27,20,570564.49,34,3.0,2.0,3.0,8.0,Potential Loyalist,Ribeiro - EI Ltda,PJ
+1149,2026-11-07,19,650566.21,54,2.0,2.0,4.0,8.0,Potential Loyalist,Camila Casa Grande,PF
+551,2026-12-24,17,491078.61,7,5.0,1.0,2.0,8.0,Potential Loyalist,Maysa Lima,PF
+548,2026-08-05,24,636645.26,148,1.0,4.0,3.0,8.0,Potential Loyalist,Silveira Peixoto - ME,PJ
+554,2026-11-07,22,592119.13,54,2.0,3.0,3.0,8.0,Potential Loyalist,Rezende - ME,PJ
+7,2026-12-15,16,630896.33,16,4.0,1.0,3.0,8.0,Potential Loyalist,Maria Cecília Câmara,PF
+520,2026-11-27,19,579256.68,34,3.0,2.0,3.0,8.0,Potential Loyalist,Ribeiro S.A.,PJ
+617,2026-12-19,15,526060.73,12,5.0,1.0,2.0,8.0,Potential Loyalist,Costela S/A Ltda,PJ
+1063,2026-12-26,17,512542.49,5,5.0,1.0,2.0,8.0,Potential Loyalist,Ana Vitória Pimenta,PF
+13,2026-11-24,21,529597.19,37,3.0,3.0,2.0,8.0,Potential Loyalist,Andrade Ltda.,PJ
+16,2026-12-24,17,565159.21,7,5.0,1.0,2.0,8.0,Potential Loyalist,Benjamin Pacheco,PF
+1125,2026-03-10,22,661370.98,296,1.0,3.0,4.0,8.0,Potential Loyalist,Gonçalves Ltda,PJ
+522,2026-12-01,22,503198.6,30,3.0,3.0,2.0,8.0,Potential Loyalist,Silva ME,PJ
+586,2026-05-25,20,814220.19,220,1.0,2.0,5.0,8.0,Potential Loyalist,Martins Ltda,PJ
+114,2026-04-20,21,682126.4,255,1.0,3.0,4.0,8.0,Potential Loyalist,das Neves S.A.,PJ
+69,2026-12-09,18,514172.83999999997,22,4.0,2.0,2.0,8.0,Potential Loyalist,Agatha da Mota,PF
+546,2026-12-22,19,406568.17,9,5.0,2.0,1.0,8.0,Potential Loyalist,Farias Cavalcanti e Filhos Ltda,PJ
+1066,2026-10-24,19,673567.02,68,2.0,2.0,4.0,8.0,Potential Loyalist,Mirella Nunes,PF
+1128,2026-12-12,20,520054.5,19,4.0,2.0,2.0,8.0,Potential Loyalist,Guerra S.A.,PJ
+756,2026-05-23,22,584157.62,222,1.0,3.0,3.0,7.0,Potential Loyalist,Sr. Luigi Martins,PF
+1587,2026-03-25,20,674808.83,281,1.0,2.0,4.0,7.0,Potential Loyalist,Srta. Isis Cavalcanti,PF
+608,2026-12-29,15,440108.8,2,5.0,1.0,1.0,7.0,Potential Loyalist,Maria Luiza Brito,PF
+1732,2026-10-24,22,542837.8,68,2.0,3.0,2.0,7.0,Potential Loyalist,Ana Beatriz Pires,PF
+762,2026-10-24,21,545586.26,68,2.0,3.0,2.0,7.0,Potential Loyalist,José Silveira,PF
+1415,2026-09-07,19,647840.96,115,1.0,2.0,4.0,7.0,Potential Loyalist,Henry Macedo,PF
+1716,2026-05-14,19,695602.34,231,1.0,2.0,4.0,7.0,Potential Loyalist,Ana Júlia Barros,PF
+763,2026-10-11,19,630175.97,81,2.0,2.0,3.0,7.0,Potential Loyalist,Vasconcelos S.A.,PJ
+365,2026-12-09,19,427173.44,22,4.0,2.0,1.0,7.0,Potential Loyalist,Liam da Rosa,PF
+1733,2026-08-11,22,612502.96,142,1.0,3.0,3.0,7.0,Potential Loyalist,Maria Cecília Leão,PF
+1405,2026-11-09,17,595006.52,52,3.0,1.0,3.0,7.0,Potential Loyalist,Vicente Farias,PF
+1739,2026-12-10,17,509810.83,21,4.0,1.0,2.0,7.0,Potential Loyalist,Heitor Novaes,PF
+1392,2026-12-28,14,418199.2,3,5.0,1.0,1.0,7.0,Potential Loyalist,Srta. Sofia Nogueira,PF
+1380,2026-11-02,20,632587.61,59,2.0,2.0,3.0,7.0,Potential Loyalist,Sales Ltda.,PJ
+1766,2026-12-04,18,392353.81,27,4.0,2.0,1.0,7.0,Potential Loyalist,Daniel Gonçalves,PF
+316,2026-10-18,21,523432.74,74,2.0,3.0,2.0,7.0,Potential Loyalist,Sr. Brayan Albuquerque,PF
+809,2026-11-08,21,542171.77,53,2.0,3.0,2.0,7.0,Potential Loyalist,Macedo Campos - ME,PJ
+1385,2026-11-28,20,563576.1799999999,33,3.0,2.0,2.0,7.0,Potential Loyalist,Lima - EI ME,PJ
+1575,2026-12-04,16,478367.60000000003,27,4.0,1.0,2.0,7.0,Potential Loyalist,Elisa Carvalho,PF
+582,2026-11-15,18,559631.49,46,3.0,2.0,2.0,7.0,Potential Loyalist,Diogo Câmara,PF
+1761,2026-12-18,18,468527.62,13,4.0,2.0,1.0,7.0,Potential Loyalist,Maria Luiza Pires,PF
+320,2026-12-31,14,294938.91000000003,0,5.0,1.0,1.0,7.0,Potential Loyalist,Marcos Vinicius Vargas,PF
+324,2026-11-11,19,503591.92,50,3.0,2.0,2.0,7.0,Potential Loyalist,Mateus Aragão,PF
+796,2026-09-24,21,479274.52999999997,98,2.0,3.0,2.0,7.0,Potential Loyalist,Montenegro S.A.,PJ
+1756,2026-11-30,19,541927.61,31,3.0,2.0,2.0,7.0,Potential Loyalist,da Luz Ltda,PJ
+1556,2026-04-01,20,707358.51,274,1.0,2.0,4.0,7.0,Potential Loyalist,Campos Cardoso S/A EIRELI,PJ
+590,2026-12-31,17,430082.65,0,5.0,1.0,1.0,7.0,Potential Loyalist,Helena das Neves,PF
+1562,2025-12-12,21,581714.75,384,1.0,3.0,3.0,7.0,Potential Loyalist,Andrade Barbosa Ltda.,PJ
+1750,2026-12-24,14,440449.86,7,5.0,1.0,1.0,7.0,Potential Loyalist,Davi Guerra,PF
+1578,2026-12-08,17,518156.74,23,4.0,1.0,2.0,7.0,Potential Loyalist,Ana Vasconcelos,PF
+1560,2026-10-19,19,584694.43,73,2.0,2.0,3.0,7.0,Potential Loyalist,Arthur Gabriel Teixeira,PF
+328,2026-12-11,18,461357.35,20,4.0,2.0,1.0,7.0,Potential Loyalist,Dr. Apollo Vargas,PF
+788,2026-10-07,16,664670.62,85,2.0,1.0,4.0,7.0,Potential Loyalist,Dr. Leandro Silva,PF
+569,2026-04-09,22,607023.83,266,1.0,3.0,3.0,7.0,Potential Loyalist,Marcos Vinicius Araújo,PF
+332,2026-12-04,17,490587.98,27,4.0,1.0,2.0,7.0,Potential Loyalist,Garcia Moraes e Filhos EIRELI,PJ
+562,2026-12-26,17,406346.67,5,5.0,1.0,1.0,7.0,Potential Loyalist,Lorenzo Almeida,PF
+781,2026-12-26,17,395520.19,5,5.0,1.0,1.0,7.0,Potential Loyalist,Laura Abreu,PF
+377,2026-10-31,19,579821.98,61,2.0,2.0,3.0,7.0,Potential Loyalist,da Rosa ME,PJ
+745,2026-12-22,13,303702.19,9,5.0,1.0,1.0,7.0,Potential Loyalist,Dr. Felipe Cassiano,PF
+1714,2026-10-29,21,561517.16,63,2.0,3.0,2.0,7.0,Potential Loyalist,Luigi da Mota,PF
+1658,2026-09-16,19,639909.36,106,2.0,2.0,3.0,7.0,Potential Loyalist,Guerra ME,PJ
+430,2026-12-09,19,421653.79,22,4.0,2.0,1.0,7.0,Potential Loyalist,Aylla Teixeira,PF
+1476,2026-11-16,18,525052.68,45,3.0,2.0,2.0,7.0,Potential Loyalist,Alves EIRELI,PJ
+309,2026-06-07,22,593342.87,207,1.0,3.0,3.0,7.0,Potential Loyalist,Letícia Costa,PF
+439,2026-11-08,22,547792.65,53,2.0,3.0,2.0,7.0,Potential Loyalist,Guerra S.A.,PJ
+1615,2026-12-29,16,457103.42,2,5.0,1.0,1.0,7.0,Potential Loyalist,Melo Ltda.,PJ
+1666,2026-12-04,15,477646.57,27,4.0,1.0,2.0,7.0,Potential Loyalist,Melina Gonçalves,PF
+1524,2026-09-08,18,638067.29,114,2.0,2.0,3.0,7.0,Potential Loyalist,Maysa Machado,PF
+1485,2026-11-04,20,622118.42,57,2.0,2.0,3.0,7.0,Potential Loyalist,Kaique Monteiro,PF
+1487,2026-12-13,16,508320.22000000003,18,4.0,1.0,2.0,7.0,Potential Loyalist,Davi Alves,PF
+525,2026-12-17,17,563714.03,14,4.0,1.0,2.0,7.0,Potential Loyalist,Ian Brito,PF
+1621,2026-12-07,15,504997.94,24,4.0,1.0,2.0,7.0,Potential Loyalist,Alves Ltda,PJ
+1660,2026-12-06,18,449190.86,25,4.0,2.0,1.0,7.0,Potential Loyalist,Almeida Ltda,PJ
+677,2026-12-25,14,349206.47,6,5.0,1.0,1.0,7.0,Potential Loyalist,Maria Ribeiro,PF
+1612,2026-07-21,18,657266.95,163,1.0,2.0,4.0,7.0,Potential Loyalist,Camargo S/A ME,PJ
+469,2026-12-11,16,500764.4,20,4.0,1.0,2.0,7.0,Potential Loyalist,Dr. Rael Pinto,PF
+675,2026-11-24,20,532911.61,37,3.0,2.0,2.0,7.0,Potential Loyalist,Daniel Albuquerque,PF
+1497,2026-10-02,20,574329.02,90,2.0,2.0,3.0,7.0,Potential Loyalist,Srta. Jade Oliveira,PF
+478,2026-11-29,18,510102.72,32,3.0,2.0,2.0,7.0,Potential Loyalist,Novais S.A.,PJ
+660,2026-09-02,22,576974.12,120,1.0,3.0,3.0,7.0,Potential Loyalist,Enzo Gabriel Carvalho,PF
+658,2026-06-22,18,681853.65,192,1.0,2.0,4.0,7.0,Potential Loyalist,Arthur Câmara,PF
+512,2026-09-01,21,609909.74,121,1.0,3.0,3.0,7.0,Potential Loyalist,Srta. Evelyn Oliveira,PF
+488,2025-12-12,20,678823.76,384,1.0,2.0,4.0,7.0,Potential Loyalist,Porto ME,PJ
+510,2026-07-20,20,716736.63,164,1.0,2.0,4.0,7.0,Potential Loyalist,Pedro Miguel Araújo,PF
+1508,2026-11-18,18,485421.92,43,3.0,2.0,2.0,7.0,Potential Loyalist,Dr. Henry Gabriel Oliveira,PF
+1632,2026-12-21,14,442037.42,10,5.0,1.0,1.0,7.0,Potential Loyalist,Gabrielly Câmara,PF
+1642,2026-12-19,16,435557.14999999997,12,5.0,1.0,1.0,7.0,Potential Loyalist,Camila Souza,PF
+697,2026-09-22,21,520777.26,100,2.0,3.0,2.0,7.0,Potential Loyalist,Yago Sampaio,PF
+704,2026-11-21,20,524509.45,40,3.0,2.0,2.0,7.0,Potential Loyalist,Lavínia Rezende,PF
+754,2026-12-11,17,474800.86,20,4.0,1.0,2.0,7.0,Potential Loyalist,Ana Liz Dias,PF
+739,2026-12-23,12,345185.67,8,5.0,1.0,1.0,7.0,Potential Loyalist,Lima S.A.,PJ
+1712,2026-11-20,18,515923.69,41,3.0,2.0,2.0,7.0,Potential Loyalist,Rael da Mata,PF
+1711,2026-12-01,20,501706.89,30,3.0,2.0,2.0,7.0,Potential Loyalist,Freitas S.A.,PJ
+749,2026-12-26,14,308967.01,5,5.0,1.0,1.0,7.0,Potential Loyalist,Luiza Moura,PF
+387,2026-12-17,19,410578.79,14,4.0,2.0,1.0,7.0,Potential Loyalist,Srta. Maria Luiza Campos,PF
+1441,2026-12-28,16,401601.83,3,5.0,1.0,1.0,7.0,Potential Loyalist,Dra. Milena Monteiro,PF
+1593,2026-12-12,19,470182.44,19,4.0,2.0,1.0,7.0,Potential Loyalist,Gonçalves S.A.,PJ
+1595,2026-08-12,24,552024.42,141,1.0,4.0,2.0,7.0,Potential Loyalist,Cirino e Filhos Ltda,PJ
+1511,2026-12-05,15,508531.86,26,4.0,1.0,2.0,7.0,Potential Loyalist,Marques EIRELI,PJ
+545,2026-10-30,19,618337.15,62,2.0,2.0,3.0,7.0,Potential Loyalist,Liz Vargas,PF
+1444,2026-12-30,14,387279.46,1,5.0,1.0,1.0,7.0,Potential Loyalist,Maria Luísa Cavalcanti,PF
+1538,2026-11-09,19,551233.52,52,3.0,2.0,2.0,7.0,Potential Loyalist,Ravy Sá,PF
+742,2026-12-23,16,456712.2,8,5.0,1.0,1.0,7.0,Potential Loyalist,Caldeira - ME,PJ
+738,2026-12-14,20,438770.56,17,4.0,2.0,1.0,7.0,Potential Loyalist,Lorenzo Lima,PF
+708,2026-10-29,18,590334.7,63,2.0,2.0,3.0,7.0,Potential Loyalist,Sá Alves Ltda.,PJ
+537,2026-11-30,17,573546.07,31,3.0,1.0,3.0,7.0,Potential Loyalist,Lunna Jesus,PF
+397,2026-09-18,18,583774.01,104,2.0,2.0,3.0,7.0,Potential Loyalist,Sr. Raul Silveira,PF
+402,2026-12-19,10,263045.58,12,5.0,1.0,1.0,7.0,Potential Loyalist,Ana Beatriz da Rocha,PF
+724,2026-04-24,23,535350.47,251,1.0,4.0,2.0,7.0,Potential Loyalist,Luiz Felipe da Paz,PF
+719,2026-12-24,16,448124.37,7,5.0,1.0,1.0,7.0,Potential Loyalist,Leão Ltda,PJ
+717,2026-12-21,13,377867.35,10,5.0,1.0,1.0,7.0,Potential Loyalist,Sra. Maria Cecília Barros,PF
+529,2026-11-19,20,512467.83999999997,42,3.0,2.0,2.0,7.0,Potential Loyalist,Ana Beatriz Carvalho,PF
+1692,2026-12-01,18,524815.69,30,3.0,2.0,2.0,7.0,Potential Loyalist,Pinto Ltda,PJ
+409,2026-12-22,14,373158.79,9,5.0,1.0,1.0,7.0,Potential Loyalist,Asafe Dias,PF
+713,2026-11-01,22,512117.13,60,2.0,3.0,2.0,7.0,Potential Loyalist,da Costa S.A.,PJ
+630,2026-10-20,20,601426.3,72,2.0,2.0,3.0,7.0,Potential Loyalist,Martins S.A.,PJ
+414,2026-11-30,18,501980.99,31,3.0,2.0,2.0,7.0,Potential Loyalist,Caio Casa Grande,PF
+1001,2026-11-29,19,496636.22,32,3.0,2.0,2.0,7.0,Potential Loyalist,Sra. Mariana da Cunha,PF
+271,2026-07-23,21,628379.69,161,1.0,3.0,3.0,7.0,Potential Loyalist,Lara Cunha,PF
+1776,2026-11-12,22,425680.43,49,3.0,3.0,1.0,7.0,Potential Loyalist,Gustavo Henrique Porto,PF
+138,2026-10-27,19,567457.42,65,2.0,2.0,3.0,7.0,Potential Loyalist,Sampaio Ltda,PJ
+1908,2026-12-26,16,420875.95,5,5.0,1.0,1.0,7.0,Potential Loyalist,Rodrigues EIRELI,PJ
+1035,2026-03-07,21,607577.1,299,1.0,3.0,3.0,7.0,Potential Loyalist,Evelyn Fernandes,PF
+1249,2026-12-26,16,315321.1,5,5.0,1.0,1.0,7.0,Potential Loyalist,Maria Laura Viana,PF
+1038,2026-11-20,18,485700.02,41,3.0,2.0,2.0,7.0,Potential Loyalist,Maria Flor Vasconcelos,PF
+141,2026-12-21,17,459050.61,10,5.0,1.0,1.0,7.0,Potential Loyalist,Martins S.A.,PJ
+1042,2026-11-11,17,577528.61,50,3.0,1.0,3.0,7.0,Potential Loyalist,Antony da Paz,PF
+1045,2026-11-23,20,526331.07,38,3.0,2.0,2.0,7.0,Potential Loyalist,da Cunha S.A.,PJ
+1260,2026-09-11,19,634954.67,111,2.0,2.0,3.0,7.0,Potential Loyalist,Maria Julia Souza,PF
+1046,2026-10-29,22,547738.56,63,2.0,3.0,2.0,7.0,Potential Loyalist,Camargo - ME,PJ
+1239,2026-12-31,17,412127.79,0,5.0,1.0,1.0,7.0,Potential Loyalist,Porto - EI EIRELI,PJ
+1918,2026-12-16,16,516383.48,15,4.0,1.0,2.0,7.0,Potential Loyalist,Santos - EI ME,PJ
+130,2026-05-30,20,662718.25,215,1.0,2.0,4.0,7.0,Potential Loyalist,Henry Carvalho,PF
+1049,2026-11-25,20,509464.55,36,3.0,2.0,2.0,7.0,Potential Loyalist,Bernardo Correia,PF
+129,2026-09-24,21,555205.83,98,2.0,3.0,2.0,7.0,Potential Loyalist,Srta. Ana Liz Rios,PF
+1907,2026-01-22,21,614900.53,343,1.0,3.0,3.0,7.0,Potential Loyalist,Catarina Abreu,PF
+1020,2026-12-08,16,488189.36,23,4.0,1.0,2.0,7.0,Potential Loyalist,Olívia Monteiro,PF
+968,2026-11-14,20,559443.75,47,3.0,2.0,2.0,7.0,Potential Loyalist,Ravy Cavalcanti,PF
+187,2026-11-18,19,500913.64,43,3.0,2.0,2.0,7.0,Potential Loyalist,Novaes - ME,PJ
+1290,2026-12-03,19,528699.91,28,3.0,2.0,2.0,7.0,Potential Loyalist,Calebe Novais,PF
+970,2026-10-05,22,552096.76,87,2.0,3.0,2.0,7.0,Potential Loyalist,Vinicius Barbosa,PF
+971,2026-12-24,15,387634.43,7,5.0,1.0,1.0,7.0,Potential Loyalist,Heloisa Sales,PF
+1865,2026-11-07,21,553648.17,54,2.0,3.0,2.0,7.0,Potential Loyalist,Abreu S.A.,PJ
+1866,2026-10-08,18,580906.73,84,2.0,2.0,3.0,7.0,Potential Loyalist,Lucca Azevedo,PF
+191,2026-10-13,20,586975.34,79,2.0,2.0,3.0,7.0,Potential Loyalist,Martins Ltda,PJ
+183,2026-11-08,23,466656.76,53,2.0,4.0,1.0,7.0,Potential Loyalist,Cavalcante EIRELI,PJ
+1018,2026-12-04,17,534287.49,27,4.0,1.0,2.0,7.0,Potential Loyalist,Marcos Vinicius Siqueira,PF
+1883,2026-10-31,19,584372.98,61,2.0,2.0,3.0,7.0,Potential Loyalist,Lara da Conceição,PF
+175,2026-12-14,20,424058.81,17,4.0,2.0,1.0,7.0,Potential Loyalist,Eloah Aragão,PF
+170,2026-12-24,12,329590.99,7,5.0,1.0,1.0,7.0,Potential Loyalist,Cecilia Viana,PF
+1271,2026-11-27,19,549437.89,34,3.0,2.0,2.0,7.0,Potential Loyalist,Macedo ME,PJ
+169,2026-06-24,22,583841.1,190,1.0,3.0,3.0,7.0,Potential Loyalist,Rael da Luz,PF
+159,2026-12-04,18,408345.39999999997,27,4.0,2.0,1.0,7.0,Potential Loyalist,Ribeiro Rios Ltda.,PJ
+124,2026-09-28,18,605874.85,94,2.0,2.0,3.0,7.0,Potential Loyalist,Silva EIRELI,PJ
+123,2026-11-18,20,516406.69,43,3.0,2.0,2.0,7.0,Potential Loyalist,Rezende Ltda,PJ
+1059,2026-10-16,21,540980.33,76,2.0,3.0,2.0,7.0,Potential Loyalist,Vasconcelos Ltda.,PJ
+1172,2026-05-09,18,658000.92,236,1.0,2.0,4.0,7.0,Potential Loyalist,Sra. Heloísa Ramos,PF
+47,2026-12-24,13,410216.09,7,5.0,1.0,1.0,7.0,Potential Loyalist,Macedo ME,PJ
+1179,2026-03-10,21,645411.18,296,1.0,3.0,3.0,7.0,Potential Loyalist,Brito Ltda,PJ
+45,2026-11-08,21,518743.96,53,2.0,3.0,2.0,7.0,Potential Loyalist,Milena Sales,PF
+1176,2026-11-02,20,626624.64,59,2.0,2.0,3.0,7.0,Potential Loyalist,Letícia Guerra,PF
+1132,2026-11-06,20,588314.22,55,2.0,2.0,3.0,7.0,Potential Loyalist,Ana Liz da Conceição,PF
+43,2026-03-19,22,593780.61,287,1.0,3.0,3.0,7.0,Potential Loyalist,Mendes S.A.,PJ
+42,2026-12-05,16,512996.76,26,4.0,1.0,2.0,7.0,Potential Loyalist,Vitor Cardoso,PF
+1062,2026-08-08,19,688416.9400000001,145,1.0,2.0,4.0,7.0,Potential Loyalist,Isaac Nogueira,PF
+1136,2026-01-16,22,644578.84,349,1.0,3.0,3.0,7.0,Potential Loyalist,Ana Lima,PF
+1984,2026-07-17,22,595951.88,167,1.0,3.0,3.0,7.0,Potential Loyalist,Arthur Gabriel Mendonça,PF
+1164,2026-12-16,14,506295.34,15,4.0,1.0,2.0,7.0,Potential Loyalist,Viana Barbosa S/A Ltda,PJ
+1990,2026-06-07,21,576961.15,207,1.0,3.0,3.0,7.0,Potential Loyalist,Julia Martins,PF
+1992,2026-12-14,16,509358.68,17,4.0,1.0,2.0,7.0,Potential Loyalist,Pacheco ME,PJ
+1996,2026-12-01,16,570415.56,30,3.0,1.0,3.0,7.0,Potential Loyalist,Azevedo Rios S.A.,PJ
+1970,2026-12-31,16,363369.91,0,5.0,1.0,1.0,7.0,Potential Loyalist,Moreira ME,PJ
+1185,2026-12-23,13,392553.7,8,5.0,1.0,1.0,7.0,Potential Loyalist,Câmara Ltda,PJ
+1187,2026-12-19,17,296544.17,12,5.0,1.0,1.0,7.0,Potential Loyalist,Sr. Bernardo Albuquerque,PF
+1119,2026-07-14,20,661207.93,170,1.0,2.0,4.0,7.0,Potential Loyalist,Borges EIRELI,PJ
+1117,2026-11-14,19,530800.97,47,3.0,2.0,2.0,7.0,Potential Loyalist,Sophie Sousa,PF
+1113,2026-04-21,19,725144.2,254,1.0,2.0,4.0,7.0,Potential Loyalist,Melissa Albuquerque,PF
+68,2026-09-20,18,644027.37,102,2.0,2.0,3.0,7.0,Potential Loyalist,Lucas Gabriel da Cruz,PF
+1199,2026-03-28,20,695958.67,278,1.0,2.0,4.0,7.0,Potential Loyalist,Cauã da Cruz,PF
+1201,2026-12-20,17,401961.86,11,5.0,1.0,1.0,7.0,Potential Loyalist,Zoe Câmara,PF
+81,2026-12-24,16,461850.33,7,5.0,1.0,1.0,7.0,Potential Loyalist,Bianca da Cruz,PF
+93,2026-10-13,20,581719.29,79,2.0,2.0,3.0,7.0,Potential Loyalist,Sr. Arthur Dias,PF
+97,2026-12-29,15,457225.41,2,5.0,1.0,1.0,7.0,Potential Loyalist,Vinicius Nogueira,PF
+100,2026-12-18,18,458342.95,13,4.0,2.0,1.0,7.0,Potential Loyalist,Ísis Melo,PF
+107,2026-11-01,21,556447.29,60,2.0,3.0,2.0,7.0,Potential Loyalist,Novaes - EI S.A.,PJ
+113,2026-05-14,21,583431.36,231,1.0,3.0,3.0,7.0,Potential Loyalist,Dias S.A.,PJ
+1215,2026-03-10,21,570597.75,296,1.0,3.0,3.0,7.0,Potential Loyalist,Sr. Gustavo Henrique Fonseca,PF
+1069,2026-12-28,17,440830.13,3,5.0,1.0,1.0,7.0,Potential Loyalist,Guerra Pastor S.A.,PJ
+1861,2026-12-20,15,318098.67,11,5.0,1.0,1.0,7.0,Potential Loyalist,Freitas da Rocha Ltda.,PJ
+578,2026-12-10,17,534934.38,21,4.0,1.0,2.0,7.0,Potential Loyalist,Sales Brito e Filhos EIRELI,PJ
+892,2026-12-25,15,440493.95,6,5.0,1.0,1.0,7.0,Potential Loyalist,Costela Duarte e Filhos S.A.,PJ
+236,2026-04-19,21,616175.22,256,1.0,3.0,3.0,7.0,Potential Loyalist,Rafaela Nunes,PF
+848,2026-12-11,14,494348.0,20,4.0,1.0,2.0,7.0,Potential Loyalist,Ana Liz Novais,PF
+1319,2026-12-17,17,514001.63,14,4.0,1.0,2.0,7.0,Potential Loyalist,Carvalho - ME,PJ
+906,2026-12-19,15,456426.4,12,5.0,1.0,1.0,7.0,Potential Loyalist,Dra. Hadassa Pastor,PF
+859,2026-11-25,19,522329.9,36,3.0,2.0,2.0,7.0,Potential Loyalist,Isis Peixoto,PF
+1323,2026-12-27,17,466497.62,4,5.0,1.0,1.0,7.0,Potential Loyalist,Moraes Ltda,PJ
+1803,2026-09-18,20,597339.9400000001,104,2.0,2.0,3.0,7.0,Potential Loyalist,Cavalcanti Camargo - ME,PJ
+228,2026-12-28,15,373913.82,3,5.0,1.0,1.0,7.0,Potential Loyalist,Sales Ferreira Ltda.,PJ
+1355,2026-10-06,22,477775.91,86,2.0,3.0,2.0,7.0,Potential Loyalist,Cliente,PF
+230,2026-12-07,16,510272.07,24,4.0,1.0,2.0,7.0,Potential Loyalist,Peixoto S/A EIRELI,PJ
+1806,2026-05-01,18,653144.5700000001,244,1.0,2.0,4.0,7.0,Potential Loyalist,Lucca Teixeira,PF
+574,2026-07-09,20,665252.92,175,1.0,2.0,4.0,7.0,Potential Loyalist,Maya da Rosa,PF
+895,2026-12-05,19,459417.18,26,4.0,2.0,1.0,7.0,Potential Loyalist,Novais Ltda,PJ
+1330,2026-12-16,15,490619.24,15,4.0,1.0,2.0,7.0,Potential Loyalist,Srta. Ana Lívia Oliveira,PF
+269,2026-11-02,20,615167.78,59,2.0,2.0,3.0,7.0,Potential Loyalist,Ísis Nunes,PF
+1331,2026-12-01,21,467759.54,30,3.0,3.0,1.0,7.0,Potential Loyalist,Alves ME,PJ
+1811,2026-12-26,13,375140.14,5,5.0,1.0,1.0,7.0,Potential Loyalist,Dr. Enrico Mendes,PF
+1332,2026-11-18,19,519082.85,43,3.0,2.0,2.0,7.0,Potential Loyalist,Ana Cecília Souza,PF
+1348,2026-11-26,20,506348.36,35,3.0,2.0,2.0,7.0,Potential Loyalist,Sales - EI ME,PJ
+885,2026-11-27,18,537447.72,34,3.0,2.0,2.0,7.0,Potential Loyalist,Anna Liz Rocha,PF
+888,2026-11-15,19,502932.97000000003,46,3.0,2.0,2.0,7.0,Potential Loyalist,Antônio Monteiro,PF
+226,2026-12-28,17,428669.22,3,5.0,1.0,1.0,7.0,Potential Loyalist,Natália Casa Grande,PF
+237,2026-12-07,18,395459.73,24,4.0,2.0,1.0,7.0,Potential Loyalist,Maysa Aparecida,PF
+221,2026-11-29,17,593387.0,32,3.0,1.0,3.0,7.0,Potential Loyalist,André Moraes,PF
+922,2026-11-01,20,643219.99,60,2.0,2.0,3.0,7.0,Potential Loyalist,Emilly Martins,PF
+219,2026-12-19,12,466006.11,12,5.0,1.0,1.0,7.0,Potential Loyalist,Caleb da Paz,PF
+957,2026-12-22,17,464158.07,9,5.0,1.0,1.0,7.0,Potential Loyalist,Ian Macedo,PF
+301,2026-09-25,19,612469.02,97,2.0,2.0,3.0,7.0,Potential Loyalist,Yasmin das Neves,PF
+963,2026-09-01,21,645635.18,121,1.0,3.0,3.0,7.0,Potential Loyalist,Bruno Rios,PF
+962,2026-12-20,14,377051.27,11,5.0,1.0,1.0,7.0,Potential Loyalist,Jade Costela,PF
+222,2026-10-30,19,572657.59,62,2.0,2.0,3.0,7.0,Potential Loyalist,da Mota S.A.,PJ
+1845,2026-04-11,21,610357.17,264,1.0,3.0,3.0,7.0,Potential Loyalist,Olivia Novais,PF
+832,2026-12-20,16,445350.89,11,5.0,1.0,1.0,7.0,Potential Loyalist,Stella Rios,PF
+224,2026-11-22,18,548184.66,39,3.0,2.0,2.0,7.0,Potential Loyalist,Carolina Sousa,PF
+304,2026-11-12,18,474823.21,49,3.0,2.0,2.0,7.0,Potential Loyalist,Rafael Pinto,PF
+841,2026-05-06,21,574237.87,239,1.0,3.0,3.0,7.0,Potential Loyalist,Sra. Maria Clara da Luz,PF
+292,2026-04-06,21,613821.52,269,1.0,3.0,3.0,7.0,Potential Loyalist,Manuela Fonseca,PF
+1303,2026-12-30,17,393448.1,1,5.0,1.0,1.0,7.0,Potential Loyalist,Moraes - EI ME,PJ
+262,2026-10-24,16,565971.43,68,2.0,1.0,3.0,6.0,At Risk,Castro Cirino S.A.,PJ
+1746,2026-11-11,20,444014.24,50,3.0,2.0,1.0,6.0,At Risk,Souza ME,PJ
+1154,2026-03-20,20,583854.9299999999,286,1.0,2.0,3.0,6.0,At Risk,Bruna Aparecida,PF
+14,2026-11-23,18,416184.65,38,3.0,2.0,1.0,6.0,At Risk,Martins ME,PJ
+331,2026-12-12,13,290919.67,19,4.0,1.0,1.0,6.0,At Risk,Sales Sampaio e Filhos EIRELI,PJ
+1607,2026-11-08,20,527536.7,53,2.0,2.0,2.0,6.0,At Risk,Jesus - EI Ltda,PJ
+1790,2026-12-16,15,384158.48,15,4.0,1.0,1.0,6.0,At Risk,Melina Vargas,PF
+251,2026-10-25,19,514398.13,67,2.0,2.0,2.0,6.0,At Risk,Sousa Moraes S/A Ltda,PJ
+102,2026-12-18,17,469486.76,13,4.0,1.0,1.0,6.0,At Risk,Emilly Nogueira,PF
+341,2026-11-28,20,385943.0,33,3.0,2.0,1.0,6.0,At Risk,Vasconcelos EIRELI,PJ
+248,2026-12-15,17,393472.83,16,4.0,1.0,1.0,6.0,At Risk,Moreira S/A EIRELI,PJ
+1574,2026-12-03,17,545421.43,28,3.0,1.0,2.0,6.0,At Risk,Ryan Carvalho,PF
+116,2026-02-05,19,604854.84,329,1.0,2.0,3.0,6.0,At Risk,Matheus Montenegro,PF
+1940,2026-10-03,20,522754.83,89,2.0,2.0,2.0,6.0,At Risk,Isabel Pastor,PF
+312,2026-09-30,20,556840.49,92,2.0,2.0,2.0,6.0,At Risk,Dr. Pedro Lucas Siqueira,PF
+60,2026-12-17,17,365618.67,14,4.0,1.0,1.0,6.0,At Risk,Pastor ME,PJ
+79,2026-11-17,20,445037.08,44,3.0,2.0,1.0,6.0,At Risk,Cunha EIRELI,PJ
+78,2026-12-17,15,332233.42,14,4.0,1.0,1.0,6.0,At Risk,Brenda da Paz,PF
+1962,2026-11-14,17,486608.44,47,3.0,1.0,2.0,6.0,At Risk,Theodoro Rios,PF
+1747,2026-04-10,21,527398.47,265,1.0,3.0,2.0,6.0,At Risk,Benjamim Azevedo,PF
+1991,2026-06-24,18,572550.63,190,1.0,2.0,3.0,6.0,At Risk,Viana S.A.,PJ
+285,2026-10-15,18,543737.19,77,2.0,2.0,2.0,6.0,At Risk,Maria Luiza Oliveira,PF
+1594,2026-12-12,14,385979.5,19,4.0,1.0,1.0,6.0,At Risk,Joaquim Cunha,PF
+1969,2026-09-01,20,583267.55,121,1.0,2.0,3.0,6.0,At Risk,Luiz Miguel Jesus,PF
+1592,2026-03-13,20,624211.11,293,1.0,2.0,3.0,6.0,At Risk,Ágatha Vargas,PF
+1784,2026-10-26,15,620333.36,66,2.0,1.0,3.0,6.0,At Risk,Dr. Arthur Miguel Campos,PF
+1620,2026-12-09,15,415365.76,22,4.0,1.0,1.0,6.0,At Risk,Ravy Gomes,PF
+1802,2026-10-20,18,536431.91,72,2.0,2.0,2.0,6.0,At Risk,Erick Campos,PF
+1786,2026-12-11,15,411506.6,20,4.0,1.0,1.0,6.0,At Risk,Marina Sampaio,PF
+555,2026-10-21,18,495942.3,71,2.0,2.0,2.0,6.0,At Risk,Santos S.A.,PJ
+1800,2026-11-14,19,461284.74,47,3.0,2.0,1.0,6.0,At Risk,Ryan Ramos,PF
+1752,2026-04-30,18,641312.55,245,1.0,2.0,3.0,6.0,At Risk,LUIZ FELIPE NUNES,PF
+210,2026-12-01,17,525975.6900000001,30,3.0,1.0,2.0,6.0,At Risk,Stella Oliveira,PF
+117,2026-11-11,17,491625.54,50,3.0,1.0,2.0,6.0,At Risk,Maria Clara Sá,PF
+1838,2026-09-26,18,547805.08,96,2.0,2.0,2.0,6.0,At Risk,Ester Cirino,PF
+145,2026-10-13,20,554095.02,79,2.0,2.0,2.0,6.0,At Risk,Rodrigo Ribeiro,PF
+1898,2026-05-17,18,600603.73,228,1.0,2.0,3.0,6.0,At Risk,Vargas ME,PJ
+1840,2026-12-06,13,392844.25,25,4.0,1.0,1.0,6.0,At Risk,Zoe Porto,PF
+441,2026-12-16,14,359514.04,15,4.0,1.0,1.0,6.0,At Risk,Enrico da Cunha,PF
+160,2026-11-07,18,484958.21,54,2.0,2.0,2.0,6.0,At Risk,Dra. Clarice Ferreira,PF
+1892,2026-04-26,21,554257.41,249,1.0,3.0,2.0,6.0,At Risk,Pietra Cardoso,PF
+435,2026-04-20,21,547035.42,255,1.0,3.0,2.0,6.0,At Risk,Vitor Gabriel Duarte,PF
+1769,2026-11-09,16,492057.86,52,3.0,1.0,2.0,6.0,At Risk,Dr. João Gabriel Leão,PF
+225,2026-09-30,18,506613.37,92,2.0,2.0,2.0,6.0,At Risk,da Luz Ltda,PJ
+1676,2026-11-09,16,476503.09,52,3.0,1.0,2.0,6.0,At Risk,Srta. Júlia Jesus,PF
+1887,2026-02-26,18,634655.9400000001,308,1.0,2.0,3.0,6.0,At Risk,Alana Fonseca,PF
+379,2026-11-02,16,567988.51,59,2.0,1.0,3.0,6.0,At Risk,Sr. Levi Novaes,PF
+421,2026-07-04,18,581181.33,180,1.0,2.0,3.0,6.0,At Risk,Dra. Bruna Leão,PF
+185,2026-12-08,16,439226.94,23,4.0,1.0,1.0,6.0,At Risk,Dr. Dom Cavalcanti,PF
+1848,2026-12-07,15,444107.58,24,4.0,1.0,1.0,6.0,At Risk,Letícia Fernandes,PF
+1695,2026-11-17,17,475664.36,44,3.0,1.0,2.0,6.0,At Risk,Ana Júlia Gonçalves,PF
+1863,2026-12-08,17,371585.21,23,4.0,1.0,1.0,6.0,At Risk,Anna Liz da Rocha,PF
+399,2026-11-28,19,428210.0,33,3.0,2.0,1.0,6.0,At Risk,Sra. Isadora da Cruz,PF
+1852,2026-10-19,15,597296.49,73,2.0,1.0,3.0,6.0,At Risk,Maya Barbosa,PF
+395,2026-08-28,18,600358.4,125,1.0,2.0,3.0,6.0,At Risk,Castro Viana S/A Ltda,PJ
+1855,2026-04-30,19,597614.79,245,1.0,2.0,3.0,6.0,At Risk,Ferreira e Filhos Ltda,PJ
+449,2026-10-19,19,542411.04,73,2.0,2.0,2.0,6.0,At Risk,Catarina Abreu,PF
+369,2026-02-14,20,583033.98,320,1.0,2.0,3.0,6.0,At Risk,Carvalho e Filhos Ltda,PJ
+349,2026-07-18,20,570985.92,166,1.0,2.0,3.0,6.0,At Risk,Silveira S.A.,PJ
+468,2026-12-03,20,443665.68,28,3.0,2.0,1.0,6.0,At Risk,Dr. Bruno Vargas,PF
+516,2026-12-03,15,478100.11,28,3.0,1.0,2.0,6.0,At Risk,Heloisa Sales,PF
+119,2026-10-22,18,551209.72,70,2.0,2.0,2.0,6.0,At Risk,Allana Freitas,PF
+1934,2026-02-26,19,610403.8,308,1.0,2.0,3.0,6.0,At Risk,Enzo Gabriel Cassiano,PF
+1830,2026-11-13,19,365813.46,48,3.0,2.0,1.0,6.0,At Risk,Santos Cassiano - EI S.A.,PJ
+494,2026-09-25,18,489431.64,97,2.0,2.0,2.0,6.0,At Risk,Almeida Ltda,PJ
+1929,2026-05-25,22,473345.34,220,1.0,3.0,2.0,6.0,At Risk,Dr. Anthony Gabriel da Costa,PF
+1928,2026-04-03,22,527496.41,272,1.0,3.0,2.0,6.0,At Risk,Sales ME,PJ
+1926,2026-10-24,19,537173.18,68,2.0,2.0,2.0,6.0,At Risk,Aparecida - ME,PJ
+207,2026-11-01,20,561331.26,60,2.0,2.0,2.0,6.0,At Risk,Brito Alves S.A.,PJ
+1831,2026-12-04,15,389679.04,27,4.0,1.0,1.0,6.0,At Risk,Barros ME,PJ
+354,2026-12-06,11,267082.07,25,4.0,1.0,1.0,6.0,At Risk,Mathias Cirino,PF
+131,2026-09-21,19,501496.63,101,2.0,2.0,2.0,6.0,At Risk,Anna Liz Moura,PF
+359,2026-10-15,19,544532.36,77,2.0,2.0,2.0,6.0,At Risk,Novaes ME,PJ
+137,2026-10-24,18,547271.65,68,2.0,2.0,2.0,6.0,At Risk,Noah da Rosa,PF
+1916,2026-12-07,13,354798.99,24,4.0,1.0,1.0,6.0,At Risk,Emanuella Fernandes,PF
+1915,2026-12-14,15,391018.13,17,4.0,1.0,1.0,6.0,At Risk,Luan Montenegro,PF
+1649,2026-11-02,18,504997.3,59,2.0,2.0,2.0,6.0,At Risk,Mariane Aparecida,PF
+1655,2026-12-05,17,444441.67,26,4.0,1.0,1.0,6.0,At Risk,Juan Novais,PF
+364,2026-08-27,21,561778.62,126,1.0,3.0,2.0,6.0,At Risk,Guerra S.A.,PJ
+366,2026-11-19,18,393619.45,42,3.0,2.0,1.0,6.0,At Risk,Bento Freitas,PF
+1657,2026-11-23,16,490811.65,38,3.0,1.0,2.0,6.0,At Risk,Castro Vargas e Filhos ME,PJ
+1891,2026-09-07,19,568623.59,115,1.0,2.0,3.0,6.0,At Risk,Correia Ltda,PJ
+570,2026-11-05,18,516853.63,56,2.0,2.0,2.0,6.0,At Risk,Fernandes EIRELI,PJ
+1423,2026-12-02,16,523821.55,29,3.0,1.0,2.0,6.0,At Risk,Josué Macedo,PF
+1519,2026-12-12,16,385247.59,19,4.0,1.0,1.0,6.0,At Risk,Rafael Pastor,PF
+798,2026-12-04,16,438823.8,27,4.0,1.0,1.0,6.0,At Risk,Sr. Gael Vargas,PF
+1163,2026-12-03,17,473503.36,28,3.0,1.0,2.0,6.0,At Risk,Garcia Albuquerque Ltda.,PJ
+904,2026-09-26,20,565236.26,96,2.0,2.0,2.0,6.0,At Risk,Guilherme Sá,PF
+1325,2026-01-03,21,522426.1,362,1.0,3.0,2.0,6.0,At Risk,Arthur Gabriel Silveira,PF
+1518,2026-12-09,16,427116.51,22,4.0,1.0,1.0,6.0,At Risk,Camargo Pires e Filhos S.A.,PJ
+1317,2026-01-22,20,601366.88,343,1.0,2.0,3.0,6.0,At Risk,Sr. Juan Cavalcanti,PF
+910,2026-11-06,19,536994.02,55,2.0,2.0,2.0,6.0,At Risk,Alícia da Rosa,PF
+1397,2026-08-05,19,638072.83,148,1.0,2.0,3.0,6.0,At Risk,Vasconcelos S.A.,PJ
+984,2026-10-03,20,470764.59,89,2.0,2.0,2.0,6.0,At Risk,Cavalcanti S.A.,PJ
+932,2026-12-15,15,445216.76,16,4.0,1.0,1.0,6.0,At Risk,Oliver Azevedo,PF
+936,2026-12-04,11,312789.0,27,4.0,1.0,1.0,6.0,At Risk,Stephany Cavalcanti,PF
+1366,2026-11-09,15,551836.01,52,3.0,1.0,2.0,6.0,At Risk,Guilherme Rocha,PF
+1140,2026-02-14,18,592633.03,320,1.0,2.0,3.0,6.0,At Risk,Silva Jesus Ltda.,PJ
+1403,2026-08-14,19,637482.57,139,1.0,2.0,3.0,6.0,At Risk,Srta. Liz Vargas,PF
+1056,2026-12-13,16,445160.13,18,4.0,1.0,1.0,6.0,At Risk,Ísis Fernandes,PF
+634,2026-03-31,19,607069.58,275,1.0,2.0,3.0,6.0,At Risk,Mendes EIRELI,PJ
+651,2026-12-16,15,330727.51,15,4.0,1.0,1.0,6.0,At Risk,Dr. Benício Machado,PF
+1336,2026-02-14,20,643044.74,320,1.0,2.0,3.0,6.0,At Risk,Henry Gabriel Cardoso,PF
+1072,2026-11-01,19,485901.05,60,2.0,2.0,2.0,6.0,At Risk,Luiz Otávio Costela,PF
+799,2026-12-02,16,557611.64,29,3.0,1.0,2.0,6.0,At Risk,da Luz Melo Ltda.,PJ
+685,2026-05-26,19,606747.11,219,1.0,2.0,3.0,6.0,At Risk,Srta. Stella Casa Grande,PF
+1478,2026-09-04,21,560039.6,118,1.0,3.0,2.0,6.0,At Risk,Freitas S.A.,PJ
+1475,2026-10-16,18,478099.25,76,2.0,2.0,2.0,6.0,At Risk,da Paz da Paz Ltda.,PJ
+1492,2026-09-13,16,611475.45,109,2.0,1.0,3.0,6.0,At Risk,da Paz - EI S.A.,PJ
+1094,2026-11-18,20,338767.21,43,3.0,2.0,1.0,6.0,At Risk,Luigi Ribeiro,PF
+1167,2026-12-16,17,382730.66,15,4.0,1.0,1.0,6.0,At Risk,Eloá Cunha,PF
+1472,2026-06-16,20,610718.95,198,1.0,2.0,3.0,6.0,At Risk,Francisco Gonçalves,PF
+1353,2026-12-11,13,308051.79,20,4.0,1.0,1.0,6.0,At Risk,Pinto S/A S.A.,PJ
+1087,2026-11-22,17,479462.37,39,3.0,1.0,2.0,6.0,At Risk,Erick Macedo,PF
+698,2026-12-17,13,284935.8,14,4.0,1.0,1.0,6.0,At Risk,Davi Miguel Costela,PF
+664,2026-11-22,17,484419.56,39,3.0,1.0,2.0,6.0,At Risk,Azevedo da Mota - ME,PJ
+1107,2026-06-14,22,558105.57,200,1.0,3.0,2.0,6.0,At Risk,Cassiano Ltda,PJ
+1166,2026-01-05,20,604287.8,360,1.0,2.0,3.0,6.0,At Risk,Luiz Otávio Monteiro,PF
+1349,2026-03-26,20,639012.04,280,1.0,2.0,3.0,6.0,At Risk,da Conceição ME,PJ
+804,2026-12-09,15,446898.83,22,4.0,1.0,1.0,6.0,At Risk,da Conceição ME,PJ
+1529,2026-11-12,14,510754.32,49,3.0,1.0,2.0,6.0,At Risk,Olivia Santos,PF
+1306,2026-04-02,21,474034.19,273,1.0,3.0,2.0,6.0,At Risk,Théo Vasconcelos,PF
+990,2026-11-13,16,470815.97000000003,48,3.0,1.0,2.0,6.0,At Risk,Pacheco Barros S.A.,PJ
+1184,2026-11-19,20,389612.61,42,3.0,2.0,1.0,6.0,At Risk,Ramos S/A Ltda,PJ
+1232,2026-06-11,22,535176.57,203,1.0,3.0,2.0,6.0,At Risk,Lopes Castro e Filhos ME,PJ
+1017,2026-12-01,16,511789.95,30,3.0,1.0,2.0,6.0,At Risk,Porto ME,PJ
+1024,2026-07-04,19,623107.62,180,1.0,2.0,3.0,6.0,At Risk,da Mota Farias e Filhos S.A.,PJ
+1552,2026-09-11,20,484501.16,111,2.0,2.0,2.0,6.0,At Risk,Cardoso S.A.,PJ
+752,2026-11-15,18,402296.27,46,3.0,2.0,1.0,6.0,At Risk,Ana Clara Sampaio,PF
+1258,2026-12-01,19,453582.93,30,3.0,2.0,1.0,6.0,At Risk,Pires Correia - ME,PJ
+773,2026-09-21,20,538627.94,101,2.0,2.0,2.0,6.0,At Risk,Luiz Felipe Marques,PF
+1558,2026-11-06,14,565694.1900000001,55,2.0,1.0,3.0,6.0,At Risk,Natália Borges,PF
+611,2026-12-04,17,401459.36,27,4.0,1.0,1.0,6.0,At Risk,Alexandre Câmara,PF
+1034,2026-11-11,18,446940.67,50,3.0,2.0,1.0,6.0,At Risk,Cecília Pinto,PF
+1036,2026-11-20,14,481177.48,41,3.0,1.0,2.0,6.0,At Risk,Camila Aragão,PF
+1432,2026-10-05,18,557373.81,87,2.0,2.0,2.0,6.0,At Risk,Ribeiro S.A.,PJ
+760,2026-12-06,15,367532.39,25,4.0,1.0,1.0,6.0,At Risk,Dr. Arthur Gabriel Duarte,PF
+1047,2026-07-29,20,640991.72,155,1.0,2.0,3.0,6.0,At Risk,Marques - ME,PJ
+1422,2026-11-01,19,533648.37,60,2.0,2.0,2.0,6.0,At Risk,Araújo S.A.,PJ
+1238,2026-12-07,16,391155.42,24,4.0,1.0,1.0,6.0,At Risk,Lima ME,PJ
+775,2026-11-20,20,467924.9,41,3.0,2.0,1.0,6.0,At Risk,Gael Oliveira,PF
+1481,2026-11-29,17,547573.12,32,3.0,1.0,2.0,6.0,At Risk,Dr. Benicio Vargas,PF
+743,2026-11-09,17,476450.58,52,3.0,1.0,2.0,6.0,At Risk,Pedro Henrique da Rocha,PF
+1273,2026-12-07,12,277360.36,24,4.0,1.0,1.0,6.0,At Risk,João Miguel Siqueira,PF
+1280,2026-10-11,21,451974.39,81,2.0,3.0,1.0,6.0,At Risk,Duarte S.A.,PJ
+1158,2026-09-01,20,585675.59,121,1.0,2.0,3.0,6.0,At Risk,Maria Júlia Freitas,PF
+747,2026-11-30,16,513222.34,31,3.0,1.0,2.0,6.0,At Risk,Siqueira S.A.,PJ
+780,2026-12-01,19,405128.5,30,3.0,2.0,1.0,6.0,At Risk,Novaes EIRELI,PJ
+729,2026-05-24,21,509001.41,221,1.0,3.0,2.0,6.0,At Risk,Theo da Paz,PF
+1052,2026-12-16,10,293221.4,15,4.0,1.0,1.0,6.0,At Risk,Gabriel Cunha,PF
+626,2026-10-12,18,561583.31,80,2.0,2.0,2.0,6.0,At Risk,Silva e Filhos Ltda,PJ
+1541,2026-11-25,17,526462.69,36,3.0,1.0,2.0,6.0,At Risk,das Neves S.A.,PJ
+300,2026-07-14,13,605494.59,170,1.0,1.0,3.0,5.0,At Risk,Dr. Ravi Lucca Nogueira,PF
+1741,2026-10-19,19,455716.46,73,2.0,2.0,1.0,5.0,At Risk,Caleb Costela,PF
+1780,2026-12-02,15,370593.73,29,3.0,1.0,1.0,5.0,At Risk,Dr. Ravi Lucca Cunha,PF
+1105,2026-01-31,17,592142.83,334,1.0,1.0,3.0,5.0,At Risk,Pedro Henrique Cirino,PF
+1205,2026-06-28,19,506878.0,186,1.0,2.0,2.0,5.0,At Risk,Bárbara Borges,PF
+1400,2026-10-27,19,461645.52,65,2.0,2.0,1.0,5.0,At Risk,Pinto - ME,PJ
+1116,2026-01-31,14,572363.67,334,1.0,1.0,3.0,5.0,At Risk,Thomas Alves,PF
+1118,2026-08-13,20,564830.77,140,1.0,2.0,2.0,5.0,At Risk,Vitor Hugo Aparecida,PF
+80,2026-12-01,15,250742.23,30,3.0,1.0,1.0,5.0,At Risk,Dr. Nathan Santos,PF
+343,2026-11-29,16,452536.48,32,3.0,1.0,1.0,5.0,At Risk,Porto EIRELI,PJ
+1369,2026-12-02,16,351318.19,29,3.0,1.0,1.0,5.0,At Risk,Olivia Almeida,PF
+1779,2026-11-22,16,466622.5,39,3.0,1.0,1.0,5.0,At Risk,Sarah Fernandes,PF
+352,2026-04-01,19,530403.34,274,1.0,2.0,2.0,5.0,At Risk,Dr. Arthur Cavalcanti,PF
+776,2026-08-24,21,461987.64,129,1.0,3.0,1.0,5.0,At Risk,da Mota EIRELI,PJ
+363,2026-09-18,14,523850.0,104,2.0,1.0,2.0,5.0,At Risk,Mendes Gomes S/A S.A.,PJ
+75,2026-11-27,17,470377.66000000003,34,3.0,1.0,1.0,5.0,At Risk,Lima Novais - EI EIRELI,PJ
+1960,2026-11-23,16,399802.79,38,3.0,1.0,1.0,5.0,At Risk,Sr. Pedro Lucas Sousa,PF
+819,2026-10-29,16,503037.17,63,2.0,1.0,2.0,5.0,At Risk,Anthony Gabriel Casa Grande,PF
+74,2026-11-24,14,411874.06,37,3.0,1.0,1.0,5.0,At Risk,Rios S.A.,PJ
+1109,2026-08-27,20,555985.5599999999,126,1.0,2.0,2.0,5.0,At Risk,Silva - EI S.A.,PJ
+315,2026-02-10,20,563541.95,324,1.0,2.0,2.0,5.0,At Risk,Cauê Mendonça,PF
+783,2026-11-28,13,347678.24,33,3.0,1.0,1.0,5.0,At Risk,Freitas ME,PJ
+1411,2026-10-05,18,462779.23,87,2.0,2.0,1.0,5.0,At Risk,Gonçalves da Paz S.A.,PJ
+1754,2026-11-15,17,408424.26,46,3.0,1.0,1.0,5.0,At Risk,Diogo Pimenta,PF
+1729,2026-11-27,16,470649.45,34,3.0,1.0,1.0,5.0,At Risk,Pedro Miguel Ferreira,PF
+1759,2026-02-24,17,593731.32,310,1.0,1.0,3.0,5.0,At Risk,Cunha - EI ME,PJ
+1393,2026-11-14,14,398025.3,47,3.0,1.0,1.0,5.0,At Risk,Cauã Nunes,PF
+805,2026-10-04,18,458358.14,88,2.0,2.0,1.0,5.0,At Risk,Montenegro Ltda.,PJ
+1151,2026-09-22,16,553428.95,100,2.0,1.0,2.0,5.0,At Risk,Henry Gabriel Pastor,PF
+842,2026-12-03,12,293265.16000000003,28,3.0,1.0,1.0,5.0,At Risk,Carolina Brito,PF
+994,2026-10-03,17,474368.6,89,2.0,1.0,2.0,5.0,At Risk,Esther Souza,PF
+964,2026-10-26,16,560956.55,66,2.0,1.0,2.0,5.0,At Risk,Rios Rodrigues e Filhos EIRELI,PJ
+1856,2026-12-02,16,446980.25,29,3.0,1.0,1.0,5.0,At Risk,Cassiano S.A.,PJ
+1295,2026-09-17,19,407775.91,105,2.0,2.0,1.0,5.0,At Risk,Levi Abreu,PF
+981,2026-11-02,15,496711.26,59,2.0,1.0,2.0,5.0,At Risk,Maria Vitória Almeida,PF
+1870,2026-02-04,19,507135.72,330,1.0,2.0,2.0,5.0,At Risk,Alves Ltda.,PJ
+195,2026-11-20,13,281714.88,41,3.0,1.0,1.0,5.0,At Risk,Pietra Araújo,PF
+993,2026-11-27,13,394237.39,34,3.0,1.0,1.0,5.0,At Risk,Araújo Lopes S.A.,PJ
+1930,2026-11-07,15,470915.45,54,2.0,1.0,2.0,5.0,At Risk,Caio Teixeira,PF
+1878,2026-10-12,15,478310.29,80,2.0,1.0,2.0,5.0,At Risk,Ana Carolina Barros,PF
+1879,2026-11-04,15,472358.57,57,2.0,1.0,2.0,5.0,At Risk,Ana Carolina Gomes,PF
+1927,2026-11-26,17,398935.1,35,3.0,1.0,1.0,5.0,At Risk,Pires EIRELI,PJ
+1792,2026-11-03,17,491687.33,58,2.0,1.0,2.0,5.0,At Risk,Davi Lucas Rocha,PF
+1010,2026-11-24,14,345385.69,37,3.0,1.0,1.0,5.0,At Risk,da Luz ME,PJ
+1013,2026-11-09,15,465689.34,52,3.0,1.0,1.0,5.0,At Risk,João Guilherme Fernandes,PF
+1014,2026-11-02,16,499864.5,59,2.0,1.0,2.0,5.0,At Risk,Sales S.A.,PJ
+153,2026-11-26,14,408836.76,35,3.0,1.0,1.0,5.0,At Risk,Albuquerque S.A.,PJ
+151,2026-06-27,19,562859.48,187,1.0,2.0,2.0,5.0,At Risk,Srta. Antonella da Mata,PF
+128,2026-05-18,18,489419.07,227,1.0,2.0,2.0,5.0,At Risk,Borges ME,PJ
+1033,2026-11-30,17,406198.93,31,3.0,1.0,1.0,5.0,At Risk,Teixeira S/A EIRELI,PJ
+1245,2026-11-16,14,337284.59,45,3.0,1.0,1.0,5.0,At Risk,Duarte EIRELI,PJ
+1242,2026-09-29,17,517505.44,93,2.0,1.0,2.0,5.0,At Risk,Leandro Pimenta,PF
+1240,2026-09-20,16,516899.57,102,2.0,1.0,2.0,5.0,At Risk,Gabrielly Lima,PF
+216,2026-11-15,12,331125.0,46,3.0,1.0,1.0,5.0,At Risk,Sr. Théo Vieira,PF
+915,2026-12-01,15,458203.48,30,3.0,1.0,1.0,5.0,At Risk,Clara Peixoto,PF
+1938,2026-10-20,18,395535.7,72,2.0,2.0,1.0,5.0,At Risk,Rocha EIRELI,PJ
+1837,2026-11-23,15,418515.0,38,3.0,1.0,1.0,5.0,At Risk,Isabel Aragão,PF
+288,2026-05-23,21,371912.23,222,1.0,3.0,1.0,5.0,At Risk,Sr. João Felipe Cirino,PF
+1095,2026-12-03,16,440032.26,28,3.0,1.0,1.0,5.0,At Risk,Maitê Costela,PF
+283,2026-10-31,17,489058.69,61,2.0,1.0,2.0,5.0,At Risk,Valentim da Paz,PF
+282,2026-08-25,19,549868.54,128,1.0,2.0,2.0,5.0,At Risk,Arthur Miguel Silveira,PF
+279,2026-11-30,17,467751.48,31,3.0,1.0,1.0,5.0,At Risk,Isis da Luz,PF
+845,2026-08-30,19,476873.21,123,1.0,2.0,2.0,5.0,At Risk,da Conceição S.A.,PJ
+1209,2026-11-18,16,362403.63,43,3.0,1.0,1.0,5.0,At Risk,Silveira EIRELI,PJ
+873,2026-12-01,17,354863.69,30,3.0,1.0,1.0,5.0,At Risk,Sampaio ME,PJ
+1812,2026-06-06,20,503531.16,208,1.0,2.0,2.0,5.0,At Risk,Aragão - ME,PJ
+1813,2026-09-23,16,513982.84,99,2.0,1.0,2.0,5.0,At Risk,Rodrigues Ltda,PJ
+373,2026-08-08,17,609162.45,145,1.0,1.0,3.0,5.0,At Risk,Benjamim Ribeiro,PF
+1816,2026-11-18,15,415813.11,43,3.0,1.0,1.0,5.0,At Risk,Henrique Pimenta,PF
+109,2026-11-27,15,397615.14,34,3.0,1.0,1.0,5.0,At Risk,Cardoso ME,PJ
+1344,2026-09-17,17,510741.81,105,2.0,1.0,2.0,5.0,At Risk,Alexia Nogueira,PF
+252,2026-10-18,14,474622.08,74,2.0,1.0,2.0,5.0,At Risk,Liz Mendonça,PF
+1343,2026-11-25,14,426434.73,36,3.0,1.0,1.0,5.0,At Risk,Campos Ltda.,PJ
+1081,2026-04-29,20,495767.05,246,1.0,2.0,2.0,5.0,At Risk,Julia Mendonça,PF
+881,2026-11-22,15,338719.98,39,3.0,1.0,1.0,5.0,At Risk,Luísa Viana,PF
+1076,2026-11-16,15,451542.74,45,3.0,1.0,1.0,5.0,At Risk,Sousa EIRELI,PJ
+1071,2026-07-23,17,645185.42,161,1.0,1.0,3.0,5.0,At Risk,Daniel Mendes,PF
+1328,2026-09-19,20,417420.56,103,2.0,2.0,1.0,5.0,At Risk,Ana Júlia Andrade,PF
+1346,2026-11-30,11,350320.77,31,3.0,1.0,1.0,5.0,At Risk,Cassiano ME,PJ
+1745,2026-10-17,18,442141.42,75,2.0,2.0,1.0,5.0,At Risk,Ana Luiza da Luz,PF
+1139,2026-06-14,16,568805.45,200,1.0,1.0,3.0,5.0,At Risk,Araújo ME,PJ
+39,2026-08-08,19,551593.19,145,1.0,2.0,2.0,5.0,At Risk,Barros da Costa e Filhos S.A.,PJ
+684,2026-06-14,19,526277.31,200,1.0,2.0,2.0,5.0,At Risk,Bianca Farias,PF
+1488,2026-11-25,16,463469.0,36,3.0,1.0,1.0,5.0,At Risk,Nina Martins,PF
+1141,2026-04-16,19,492858.38,259,1.0,2.0,2.0,5.0,At Risk,Eloá Freitas,PF
+536,2026-08-17,19,559368.24,136,1.0,2.0,2.0,5.0,At Risk,Emanuel da Mota,PF
+1479,2026-11-24,14,240396.36,37,3.0,1.0,1.0,5.0,At Risk,Bruno Teixeira,PF
+1672,2026-11-23,17,401513.44,38,3.0,1.0,1.0,5.0,At Risk,Rodrigues Pacheco S/A ME,PJ
+622,2026-11-12,16,433062.31,49,3.0,1.0,1.0,5.0,At Risk,Cirino EIRELI,PJ
+1145,2026-08-20,19,554961.63,133,1.0,2.0,2.0,5.0,At Risk,José Miguel Farias,PF
+539,2025-12-15,20,506275.83999999997,381,1.0,2.0,2.0,5.0,At Risk,Silva Macedo S.A.,PJ
+425,2026-11-24,17,408720.52,37,3.0,1.0,1.0,5.0,At Risk,da Paz Cavalcante - EI ME,PJ
+620,2026-10-20,19,443061.17,72,2.0,2.0,1.0,5.0,At Risk,Arthur Gabriel Pereira,PF
+1682,2026-11-25,13,414699.65,36,3.0,1.0,1.0,5.0,At Risk,Bruna Sales,PF
+416,2026-12-02,14,369065.06,29,3.0,1.0,1.0,5.0,At Risk,Ravy Campos,PF
+1980,2026-09-08,17,530347.72,114,2.0,1.0,2.0,5.0,At Risk,Cauã Leão,PF
+709,2026-04-06,19,564919.76,269,1.0,2.0,2.0,5.0,At Risk,da Cruz - EI S.A.,PJ
+1686,2026-06-24,20,534584.5,190,1.0,2.0,2.0,5.0,At Risk,Cauã Freitas,PF
+1687,2026-11-01,19,456784.73,60,2.0,2.0,1.0,5.0,At Risk,Rhavi Alves,PF
+530,2026-11-10,16,375008.51,51,3.0,1.0,1.0,5.0,At Risk,Correia Ltda,PJ
+1532,2026-05-30,20,542326.27,215,1.0,2.0,2.0,5.0,At Risk,Cassiano - ME,PJ
+678,2026-11-01,18,465900.24,60,2.0,2.0,1.0,5.0,At Risk,Gael Henrique Lopes,PF
+17,2026-04-13,20,533374.65,262,1.0,2.0,2.0,5.0,At Risk,Cirino S/A S.A.,PJ
+1515,2026-11-29,16,449836.12,32,3.0,1.0,1.0,5.0,At Risk,Cassiano S.A.,PJ
+499,2026-11-23,16,361136.39,38,3.0,1.0,1.0,5.0,At Risk,Viana da Cruz - EI Ltda,PJ
+496,2026-09-25,18,411372.16,97,2.0,2.0,1.0,5.0,At Risk,Dr. Marcos Vinicius Campos,PF
+650,2026-09-30,19,398698.08,92,2.0,2.0,1.0,5.0,At Risk,da Cunha Cavalcanti S.A.,PJ
+515,2026-09-24,18,317812.06,98,2.0,2.0,1.0,5.0,At Risk,Costa Ltda,PJ
+1625,2026-10-29,17,507959.64,63,2.0,1.0,2.0,5.0,At Risk,Nina Correia,PF
+1637,2026-08-28,19,525603.47,125,1.0,2.0,2.0,5.0,At Risk,Isabela Azevedo,PF
+20,2026-11-27,11,327493.5,34,3.0,1.0,1.0,5.0,At Risk,Silva Fernandes S.A.,PJ
+1498,2026-03-30,17,623978.66,276,1.0,1.0,3.0,5.0,At Risk,Mariane Rodrigues,PF
+647,2026-08-01,16,628428.33,152,1.0,1.0,3.0,5.0,At Risk,Kaique Albuquerque,PF
+490,2026-11-08,18,464245.06,53,2.0,2.0,1.0,5.0,At Risk,da Rocha EIRELI,PJ
+521,2026-10-29,18,454488.67,63,2.0,2.0,1.0,5.0,At Risk,Nascimento da Rocha S.A.,PJ
+645,2026-11-05,17,542728.2,56,2.0,1.0,2.0,5.0,At Risk,Benjamim da Mota,PF
+1523,2026-12-01,17,420912.45,30,3.0,1.0,1.0,5.0,At Risk,Barbosa Ltda.,PJ
+1651,2026-01-19,19,546716.2,346,1.0,2.0,2.0,5.0,At Risk,Enzo Gabriel Oliveira,PF
+1653,2026-05-12,20,543273.32,233,1.0,2.0,2.0,5.0,At Risk,Ayla Ramos,PF
+1688,2026-11-10,11,275093.15,51,3.0,1.0,1.0,5.0,At Risk,Garcia Novaes - EI S.A.,PJ
+1540,2026-11-23,16,385844.9,38,3.0,1.0,1.0,5.0,At Risk,Aylla Moraes,PF
+712,2026-09-30,18,434153.25,92,2.0,2.0,1.0,5.0,At Risk,Rezende S/A S.A.,PJ
+1576,2026-09-01,19,502033.22,121,1.0,2.0,2.0,5.0,At Risk,Ravy Duarte,PF
+1700,2026-08-02,20,551534.6,151,1.0,2.0,2.0,5.0,At Risk,Vitor Hugo Gonçalves,PF
+1173,2026-03-04,19,530627.14,302,1.0,2.0,2.0,5.0,At Risk,Peixoto da Cunha Ltda.,PJ
+1581,2026-05-07,17,613268.51,238,1.0,1.0,3.0,5.0,At Risk,Novaes Andrade S.A.,PJ
+1130,2026-09-04,18,526110.69,118,1.0,2.0,2.0,5.0,At Risk,Pimenta S.A.,PJ
+386,2025-03-10,18,475883.11,661,1.0,2.0,2.0,5.0,At Risk,Samuel Gomes,PF
+1557,2026-11-02,19,427944.84,59,2.0,2.0,1.0,5.0,At Risk,Kaique Albuquerque,PF
+1696,2026-11-30,17,415528.96,31,3.0,1.0,1.0,5.0,At Risk,Vieira Rodrigues e Filhos EIRELI,PJ
+1148,2026-05-20,18,489550.38,225,1.0,2.0,2.0,5.0,At Risk,Vitor Fonseca,PF
+380,2026-07-31,20,494165.78,153,1.0,2.0,2.0,5.0,At Risk,da Cunha EIRELI,PJ
+12,2026-04-28,22,461187.31,247,1.0,3.0,1.0,5.0,At Risk,Henry Gabriel Azevedo,PF
+1710,2026-09-18,18,374789.08,104,2.0,2.0,1.0,5.0,At Risk,Esther da Mata,PF
+579,2026-10-24,20,440398.84,68,2.0,2.0,1.0,5.0,At Risk,Mateus Rezende,PF
+1147,2026-09-02,18,483487.57,120,1.0,2.0,2.0,5.0,At Risk,Ana Lívia Lima,PF
+1547,2026-10-09,17,510871.04,83,2.0,1.0,2.0,5.0,At Risk,Oliveira Brito S.A.,PJ
+1590,2026-11-01,18,377103.86,60,2.0,2.0,1.0,5.0,At Risk,Vinicius Gomes,PF
+1429,2026-07-18,16,624269.87,166,1.0,1.0,3.0,5.0,At Risk,Cavalcante EIRELI,PJ
+1567,2026-11-20,16,414091.83999999997,41,3.0,1.0,1.0,5.0,At Risk,Arthur Miguel Porto,PF
+1568,2026-09-27,19,464593.64,95,2.0,2.0,1.0,5.0,At Risk,Luiz Fernando da Paz,PF
+1461,2026-11-23,12,376831.05,38,3.0,1.0,1.0,5.0,At Risk,Maria Fernanda Nogueira,PF
+1999,2026-10-15,16,501624.56,77,2.0,1.0,2.0,5.0,At Risk,Srta. Ayla Rezende,PF
+57,2026-11-30,15,272112.78,31,3.0,1.0,1.0,5.0,At Risk,Srta. Maya Brito,PF
+750,2026-11-10,12,258820.4,51,3.0,1.0,1.0,5.0,At Risk,Bárbara Novais,PF
+1857,2026-10-16,16,385661.74,76,2.0,1.0,1.0,4.0,Lost,Dr. Yan Costela,PF
+511,2026-10-11,15,433666.27999999997,81,2.0,1.0,1.0,4.0,Lost,Pinto - ME,PJ
+965,2026-10-20,10,417741.21,72,2.0,1.0,1.0,4.0,Lost,Henry Gabriel Viana,PF
+142,2026-06-29,16,470888.21,185,1.0,1.0,2.0,4.0,Lost,Maria Vitória da Rocha,PF
+1526,2026-11-08,12,364945.72,53,2.0,1.0,1.0,4.0,Lost,Dr. Luiz Otávio Machado,PF
+636,2026-04-29,18,460909.16000000003,246,1.0,2.0,1.0,4.0,Lost,Peixoto Garcia S.A.,PJ
+143,2026-10-10,15,464559.74,82,2.0,1.0,1.0,4.0,Lost,Rebeca Marques,PF
+517,2026-10-18,12,382385.39,74,2.0,1.0,1.0,4.0,Lost,Luiz Miguel Albuquerque,PF
+217,2026-09-12,14,323005.14,110,2.0,1.0,1.0,4.0,Lost,Benjamin da Cruz,PF
+1058,2026-05-13,17,482911.83,232,1.0,1.0,2.0,4.0,Lost,Marques - ME,PJ
+1040,2026-06-27,17,538760.96,187,1.0,1.0,2.0,4.0,Lost,Evelyn Cavalcanti,PF
+140,2026-11-03,14,431753.53,58,2.0,1.0,1.0,4.0,Lost,Anthony Gabriel Cunha,PF
+1521,2026-10-13,14,440438.28,79,2.0,1.0,1.0,4.0,Lost,Marques Ltda,PJ
+1932,2026-04-28,17,500644.51,247,1.0,1.0,2.0,4.0,Lost,Sra. Ana Cecília Cassiano,PF
+920,2026-10-27,13,318155.63,65,2.0,1.0,1.0,4.0,Lost,Ferreira ME,PJ
+1318,2026-02-21,19,450957.81,313,1.0,2.0,1.0,4.0,Lost,Sra. Luna Porto,PF
+1622,2026-05-09,18,383365.49,236,1.0,2.0,1.0,4.0,Lost,da Paz Castro - ME,PJ
+122,2026-10-16,16,448803.27,76,2.0,1.0,1.0,4.0,Lost,da Mota Novais Ltda.,PJ
+1611,2026-02-27,17,523565.52,307,1.0,1.0,2.0,4.0,Lost,Sr. Miguel Mendonça,PF
+1292,2026-01-20,17,497747.52,345,1.0,1.0,2.0,4.0,Lost,Aragão S.A.,PJ
+186,2026-06-20,14,560589.01,194,1.0,1.0,2.0,4.0,Lost,Sr. Theodoro Rocha,PF
+161,2026-05-12,15,507810.92,233,1.0,1.0,2.0,4.0,Lost,Gabrielly Moreira,PF
+609,2026-10-29,13,403704.67,63,2.0,1.0,1.0,4.0,Lost,Josué Vargas,PF
+1268,2025-11-14,17,536511.86,412,1.0,1.0,2.0,4.0,Lost,Brito ME,PJ
+1543,2026-10-19,14,333508.0,73,2.0,1.0,1.0,4.0,Lost,Paulo Pacheco,PF
+1006,2026-11-08,16,457831.84,53,2.0,1.0,1.0,4.0,Lost,Sra. Maria Alice Sá,PF
+1542,2026-10-21,17,462761.08,71,2.0,1.0,1.0,4.0,Lost,Nathan Pires,PF
+547,2026-05-26,16,549878.56,219,1.0,1.0,2.0,4.0,Lost,Sra. Isabelly Pinto,PF
+1275,2025-12-25,17,474589.48,371,1.0,1.0,2.0,4.0,Lost,Maria Luísa Almeida,PF
+1231,2026-11-07,12,430719.31,54,2.0,1.0,1.0,4.0,Lost,Farias ME,PJ
+995,2026-07-29,17,500843.27,155,1.0,1.0,2.0,4.0,Lost,Siqueira S/A Ltda,PJ
+1939,2026-10-26,17,390195.83,66,2.0,1.0,1.0,4.0,Lost,Ana Beatriz Marques,PF
+155,2026-10-31,15,347497.58,61,2.0,1.0,1.0,4.0,Lost,Kevin Abreu,PF
+1899,2026-05-20,19,348294.08,225,1.0,2.0,1.0,4.0,Lost,Lucas Gabriel Dias,PF
+538,2026-08-19,16,527586.45,134,1.0,1.0,2.0,4.0,Lost,Dr. Gael Gonçalves,PF
+1161,2026-11-06,17,444385.74,55,2.0,1.0,1.0,4.0,Lost,Raquel Viana,PF
+591,2026-06-13,17,481856.28,201,1.0,1.0,2.0,4.0,Lost,Luiz Gustavo Caldeira,PF
+1583,2026-09-12,12,359653.45,110,2.0,1.0,1.0,4.0,Lost,Nunes S.A.,PJ
+193,2026-11-08,13,292467.02,53,2.0,1.0,1.0,4.0,Lost,Antonella Pacheco,PF
+146,2026-10-05,13,246984.81,87,2.0,1.0,1.0,4.0,Lost,Almeida ME,PJ
+628,2026-11-03,13,342915.98,58,2.0,1.0,1.0,4.0,Lost,Nunes - ME,PJ
+200,2026-09-22,13,324225.43,100,2.0,1.0,1.0,4.0,Lost,Farias - EI S.A.,PJ
+1868,2026-09-13,16,438649.93,109,2.0,1.0,1.0,4.0,Lost,Melo Gonçalves - EI ME,PJ
+1906,2026-04-04,17,472202.73,271,1.0,1.0,2.0,4.0,Lost,Gabriela Barros,PF
+201,2026-09-27,16,395276.35,95,2.0,1.0,1.0,4.0,Lost,Sra. Raquel Rezende,PF
+1559,2026-06-12,17,503604.28,202,1.0,1.0,2.0,4.0,Lost,Arthur Gabriel Caldeira,PF
+1890,2026-09-12,14,367876.21,110,2.0,1.0,1.0,4.0,Lost,Mathias Aragão,PF
+1561,2026-06-09,18,456902.58,205,1.0,2.0,1.0,4.0,Lost,Kamilly Nascimento,PF
+969,2026-10-29,16,400553.4,63,2.0,1.0,1.0,4.0,Lost,Arthur Miguel Pacheco,PF
+1516,2026-05-10,20,462713.29,235,1.0,2.0,1.0,4.0,Lost,Costa Ltda,PJ
+761,2026-10-12,15,360508.79,80,2.0,1.0,1.0,4.0,Lost,Enrico Martins,PF
+1327,2026-06-08,14,475648.99,206,1.0,1.0,2.0,4.0,Lost,Cassiano EIRELI,PJ
+1753,2026-10-08,17,463396.82,84,2.0,1.0,1.0,4.0,Lost,Arthur Aparecida,PF
+715,2026-10-25,13,233849.69,67,2.0,1.0,1.0,4.0,Lost,Ribeiro e Filhos EIRELI,PJ
+810,2026-08-11,20,396661.58,142,1.0,2.0,1.0,4.0,Lost,Maria Alice Souza,PF
+313,2026-09-24,15,447548.59,98,2.0,1.0,1.0,4.0,Lost,Correia ME,PJ
+816,2026-10-19,16,392250.19,73,2.0,1.0,1.0,4.0,Lost,Renan Martins,PF
+1771,2025-12-21,18,457049.17,375,1.0,2.0,1.0,4.0,Lost,Duarte Ltda,PJ
+1772,2026-10-29,10,319453.66000000003,63,2.0,1.0,1.0,4.0,Lost,Sra. Agatha Machado,PF
+419,2026-10-11,14,278763.63,81,2.0,1.0,1.0,4.0,Lost,Dr. Kevin da Mata,PF
+1467,2026-09-03,19,456856.96,119,1.0,2.0,1.0,4.0,Lost,Barros Macedo S/A ME,PJ
+1678,2026-10-04,14,209764.12,88,2.0,1.0,1.0,4.0,Lost,Cavalcanti Andrade - EI EIRELI,PJ
+1471,2026-10-20,17,410140.33,72,2.0,1.0,1.0,4.0,Lost,Antônio Pereira,PF
+1777,2026-10-23,12,404816.67,69,2.0,1.0,1.0,4.0,Lost,Alexandre Pacheco,PF
+1202,2026-07-02,16,533022.57,182,1.0,1.0,2.0,4.0,Lost,Castro - EI Ltda,PJ
+1832,2026-10-17,16,399517.72000000003,75,2.0,1.0,1.0,4.0,Lost,Valentim Nogueira,PF
+303,2026-03-20,17,475337.77999999997,286,1.0,1.0,2.0,4.0,Lost,da Cruz Ltda,PJ
+827,2026-11-07,14,394830.82,54,2.0,1.0,1.0,4.0,Lost,Carvalho ME,PJ
+1134,2026-08-28,16,503125.53,125,1.0,1.0,2.0,4.0,Lost,Kaique Moura,PF
+794,2026-08-23,20,386730.72,130,1.0,2.0,1.0,4.0,Lost,Martins ME,PJ
+443,2026-08-26,15,477872.36,127,1.0,1.0,2.0,4.0,Lost,Nicolas Fonseca,PF
+405,2026-10-24,15,390235.02999999997,68,2.0,1.0,1.0,4.0,Lost,Matteo Cavalcanti,PF
+1425,2026-05-27,20,418360.95999999996,218,1.0,2.0,1.0,4.0,Lost,Allana Vargas,PF
+1717,2026-06-06,14,507252.39,208,1.0,1.0,2.0,4.0,Lost,Gonçalves ME,PJ
+1419,2026-07-27,19,460978.2,157,1.0,2.0,1.0,4.0,Lost,Ana Vitória da Luz,PF
+1418,2026-09-07,17,548971.83,115,1.0,1.0,2.0,4.0,Lost,Sra. Emanuella Borges,PF
+1126,2026-10-30,13,380028.44,62,2.0,1.0,1.0,4.0,Lost,Caldeira S.A.,PJ
+777,2026-08-04,17,512835.08,149,1.0,1.0,2.0,4.0,Lost,Câmara S.A.,PJ
+779,2026-08-18,16,531725.66,135,1.0,1.0,2.0,4.0,Lost,Pinto Fogaça - EI Ltda,PJ
+348,2026-03-29,17,527866.32,277,1.0,1.0,2.0,4.0,Lost,João Guilherme Farias,PF
+1178,2026-10-09,16,402871.91,83,2.0,1.0,1.0,4.0,Lost,Dr. Cauê Aparecida,PF
+1171,2026-10-10,16,443045.43,82,2.0,1.0,1.0,4.0,Lost,Pedro Pastor,PF
+784,2026-08-05,18,400105.57,148,1.0,2.0,1.0,4.0,Lost,Joaquim Martins,PF
+1404,2026-04-12,18,448718.97000000003,263,1.0,2.0,1.0,4.0,Lost,Pedro Fogaça,PF
+725,2026-10-28,14,446776.41,64,2.0,1.0,1.0,4.0,Lost,Igor Rios,PF
+1967,2026-04-30,14,489694.32,245,1.0,1.0,2.0,4.0,Lost,Melo ME,PJ
+723,2026-04-03,15,481987.91,272,1.0,1.0,2.0,4.0,Lost,Lorenzo Gomes,PF
+829,2026-04-22,17,533211.19,253,1.0,1.0,2.0,4.0,Lost,Eloá Santos,PF
+1474,2026-09-14,14,398780.42,108,2.0,1.0,1.0,4.0,Lost,Théo Borges,PF
+1480,2026-03-16,14,518154.02,290,1.0,1.0,2.0,4.0,Lost,Camila Novaes,PF
+1808,2026-09-30,13,434243.74,92,2.0,1.0,1.0,4.0,Lost,Vitor Hugo da Conceição,PF
+1829,2026-09-11,14,410372.26,111,2.0,1.0,1.0,4.0,Lost,Caroline Ferreira,PF
+886,2026-11-02,15,419441.21,59,2.0,1.0,1.0,4.0,Lost,Fogaça S.A.,PJ
+1827,2026-10-30,15,404426.74,62,2.0,1.0,1.0,4.0,Lost,Lucas Gabriel Machado,PF
+1826,2026-10-30,15,468868.49,62,2.0,1.0,1.0,4.0,Lost,Silveira Gonçalves S/A EIRELI,PJ
+1636,2026-10-27,14,443473.39,65,2.0,1.0,1.0,4.0,Lost,Helena Garcia,PF
+652,2026-06-14,20,456226.98,200,1.0,2.0,1.0,4.0,Lost,Danilo Cirino,PF
+371,2026-09-21,12,411514.53,101,2.0,1.0,1.0,4.0,Lost,Vinicius Sá,PF
+27,2026-09-17,12,414135.16000000003,105,2.0,1.0,1.0,4.0,Lost,Gael Leão,PF
+256,2026-10-21,14,380792.85,71,2.0,1.0,1.0,4.0,Lost,Ana Luiza Costela,PF
+1506,2026-09-19,14,470367.31,103,2.0,1.0,1.0,4.0,Lost,Raquel Carvalho,PF
+487,2026-03-07,18,462369.91,299,1.0,2.0,1.0,4.0,Lost,Brito ME,PJ
+477,2026-07-05,20,411566.04000000004,179,1.0,2.0,1.0,4.0,Lost,João da Silva,PF
+1365,2026-10-09,16,379091.04000000004,83,2.0,1.0,1.0,4.0,Lost,Ian Martins,PF
+265,2026-07-31,18,394592.98,153,1.0,2.0,1.0,4.0,Lost,Ana Pacheco,PF
+475,2025-09-01,14,519931.47,486,1.0,1.0,2.0,4.0,Lost,da Paz Silveira S.A.,PJ
+1921,2026-07-05,19,466028.17,179,1.0,2.0,1.0,4.0,Lost,Maria Flor Araújo,PF
+1093,2026-10-23,16,450259.72,69,2.0,1.0,1.0,4.0,Lost,Caio Camargo,PF
+277,2026-03-11,17,500136.75,295,1.0,1.0,2.0,4.0,Lost,Sampaio - EI Ltda,PJ
+34,2026-11-06,16,413227.38,55,2.0,1.0,1.0,4.0,Lost,Garcia ME,PJ
+681,2026-08-19,18,386594.75,134,1.0,2.0,1.0,4.0,Lost,Melina Sales,PF
+1356,2026-10-01,16,355384.94,91,2.0,1.0,1.0,4.0,Lost,Ribeiro S.A.,PJ
+1981,2026-10-22,9,266777.63,70,2.0,1.0,1.0,4.0,Lost,Maria Júlia Viana,PF
+462,2026-10-29,14,369010.76,63,2.0,1.0,1.0,4.0,Lost,Alves Barros - ME,PJ
+454,2026-08-22,13,488527.88,131,1.0,1.0,2.0,4.0,Lost,Caroline Lopes,PF
+1354,2026-04-11,16,529052.51,264,1.0,1.0,2.0,4.0,Lost,Dra. Carolina Marques,PF
+92,2026-09-28,11,245331.58,94,2.0,1.0,1.0,4.0,Lost,Ayla Câmara,PF
+693,2026-09-16,15,413192.99,106,2.0,1.0,1.0,4.0,Lost,Porto Oliveira - EI Ltda,PJ
+1652,2026-04-25,14,493995.07,250,1.0,1.0,2.0,4.0,Lost,Campos Porto - EI EIRELI,PJ
+1064,2026-08-20,16,410179.58999999997,133,1.0,1.0,1.0,3.0,Lost,Sofia Monteiro,PF
+1099,2026-03-28,13,341613.74,278,1.0,1.0,1.0,3.0,Lost,da Conceição S.A.,PJ
+1937,2026-01-18,15,416329.24,347,1.0,1.0,1.0,3.0,Lost,Maria Flor Silveira,PF
+1131,2026-05-27,17,454326.07,218,1.0,1.0,1.0,3.0,Lost,Emilly Araújo,PF
+1194,2026-07-06,14,347740.9,178,1.0,1.0,1.0,3.0,Lost,Calebe Garcia,PF
+58,2026-01-28,13,442541.68,337,1.0,1.0,1.0,3.0,Lost,Clara da Cruz,PF
+1949,2026-01-14,13,374249.83,351,1.0,1.0,1.0,3.0,Lost,Valentina Correia,PF
+1111,2026-06-27,14,399184.4,187,1.0,1.0,1.0,3.0,Lost,Noah Garcia,PF
+1236,2026-01-06,15,303201.89,359,1.0,1.0,1.0,3.0,Lost,Rafael da Paz,PF
+30,2026-02-13,15,441103.49,321,1.0,1.0,1.0,3.0,Lost,Rafael Carvalho,PF
+1226,2026-08-18,17,455161.91,135,1.0,1.0,1.0,3.0,Lost,Luiz Felipe Novais,PF
+65,2025-10-28,15,446457.17,429,1.0,1.0,1.0,3.0,Lost,Bruna Brito,PF
+126,2026-04-01,17,398551.92,274,1.0,1.0,1.0,3.0,Lost,Rafael Ramos,PF
+1050,2026-03-15,16,367841.68,291,1.0,1.0,1.0,3.0,Lost,Bianca Martins,PF
+1083,2026-06-24,16,448742.41,190,1.0,1.0,1.0,3.0,Lost,Isabella Siqueira,PF
+1234,2026-04-04,12,372920.26,271,1.0,1.0,1.0,3.0,Lost,Cardoso Macedo e Filhos S.A.,PJ
+576,2026-07-31,13,290837.18,153,1.0,1.0,1.0,3.0,Lost,Jade Sá,PF
+1048,2026-03-23,15,408697.28,283,1.0,1.0,1.0,3.0,Lost,Teixeira EIRELI,PJ
+1029,2026-07-07,16,431118.73,177,1.0,1.0,1.0,3.0,Lost,Moura e Filhos Ltda,PJ
+413,2026-06-23,14,366476.5,191,1.0,1.0,1.0,3.0,Lost,Rios Ltda.,PJ
+1460,2026-04-30,11,251608.36000000002,245,1.0,1.0,1.0,3.0,Lost,Ísis Cassiano,PF
+1454,2026-06-24,14,316001.51,190,1.0,1.0,1.0,3.0,Lost,Srta. Fernanda Moreira,PF
+726,2026-02-14,17,446176.51,320,1.0,1.0,1.0,3.0,Lost,Evelyn Abreu,PF
+392,2024-11-21,15,373173.16,770,1.0,1.0,1.0,3.0,Lost,Anna Liz Abreu,PF
+735,2026-07-30,13,290199.39,154,1.0,1.0,1.0,3.0,Lost,Silveira S/A ME,PJ
+1440,2026-03-27,13,346835.31,279,1.0,1.0,1.0,3.0,Lost,Garcia Dias S.A.,PJ
+1438,2026-05-04,16,454834.78,241,1.0,1.0,1.0,3.0,Lost,Raquel Abreu,PF
+1435,2025-06-01,8,287270.07,578,1.0,1.0,1.0,3.0,Lost,Clara Moreira,PF
+1433,2026-03-24,15,434870.33999999997,282,1.0,1.0,1.0,3.0,Lost,Letícia Aparecida,PF
+1409,2026-04-21,15,366888.4,254,1.0,1.0,1.0,3.0,Lost,Srta. Ana Vitória Aragão,PF
+334,2026-01-29,17,470293.33,336,1.0,1.0,1.0,3.0,Lost,cecilia borges,PF
+330,2026-08-08,11,266300.43,145,1.0,1.0,1.0,3.0,Lost,Olivia Almeida,PF
+790,2026-08-22,13,455760.31,131,1.0,1.0,1.0,3.0,Lost,Mendes Ltda,PJ
+792,2026-01-07,13,275467.2,358,1.0,1.0,1.0,3.0,Lost,Guerra e Filhos S.A.,PJ
+325,2026-03-15,14,457679.83,291,1.0,1.0,1.0,3.0,Lost,Matteo Machado,PF
+1757,2026-05-28,13,389843.26,217,1.0,1.0,1.0,3.0,Lost,Catarina Câmara,PF
+415,2026-05-31,13,334100.5,214,1.0,1.0,1.0,3.0,Lost,Leão ME,PJ
+1490,2026-06-11,17,414223.31,203,1.0,1.0,1.0,3.0,Lost,Liz Carvalho,PF
+1495,2026-06-09,15,412641.64,205,1.0,1.0,1.0,3.0,Lost,Novais ME,PJ
+1613,2026-08-16,14,273652.08999999997,137,1.0,1.0,1.0,3.0,Lost,Monteiro EIRELI,PJ
+1573,2026-05-23,15,377816.34,222,1.0,1.0,1.0,3.0,Lost,José Pedro Aparecida,PF
+560,2025-04-04,14,315891.12,636,1.0,1.0,1.0,3.0,Lost,Garcia - EI Ltda,PJ
+605,2026-08-20,14,381321.23,133,1.0,1.0,1.0,3.0,Lost,Dra. Julia Silveira,PF
+1549,2026-03-25,16,451632.07,281,1.0,1.0,1.0,3.0,Lost,da Mata Cavalcanti e Filhos Ltda,PJ
+540,2025-12-19,15,439807.37,377,1.0,1.0,1.0,3.0,Lost,Arthur Gabriel Rocha,PF
+1602,2026-06-20,16,372116.04,194,1.0,1.0,1.0,3.0,Lost,Bryan da Paz,PF
+625,2025-12-28,14,370926.89,368,1.0,1.0,1.0,3.0,Lost,Mendes S.A.,PJ
+1616,2025-05-29,15,338889.11,581,1.0,1.0,1.0,3.0,Lost,Hadassa Farias,PF
+470,2026-05-21,10,361074.85,224,1.0,1.0,1.0,3.0,Lost,Abreu - ME,PJ
+507,2026-08-16,17,412679.43,137,1.0,1.0,1.0,3.0,Lost,João Lucas Leão,PF
+1512,2026-01-12,17,419389.91,353,1.0,1.0,1.0,3.0,Lost,Dra. Kamilly Caldeira,PF
+492,2026-03-22,17,451022.36,284,1.0,1.0,1.0,3.0,Lost,Siqueira Duarte S/A ME,PJ
+491,2026-08-13,16,423945.72000000003,140,1.0,1.0,1.0,3.0,Lost,Luana Nunes,PF
+1510,2026-03-28,17,401947.51,278,1.0,1.0,1.0,3.0,Lost,Ravi Lucca Correia,PF
+1505,2024-09-16,11,438239.67,836,1.0,1.0,1.0,3.0,Lost,João Lucas Souza,PF
+1500,2026-03-20,17,461375.94,286,1.0,1.0,1.0,3.0,Lost,Brito - ME,PJ
+1765,2025-12-26,14,329193.46,370,1.0,1.0,1.0,3.0,Lost,da Mata Pimenta - ME,PJ
+815,2026-03-27,13,377065.98,279,1.0,1.0,1.0,3.0,Lost,Maria Flor Teixeira,PF
+1770,2026-07-24,11,423914.43,160,1.0,1.0,1.0,3.0,Lost,Porto Ltda,PJ
+205,2026-02-12,12,267507.12,322,1.0,1.0,1.0,3.0,Lost,Andrade Ltda.,PJ
+905,2026-03-17,15,287005.19,289,1.0,1.0,1.0,3.0,Lost,Sophie Vargas,PF
+926,2026-02-21,13,402656.53,313,1.0,1.0,1.0,3.0,Lost,Caio da Luz,PF
+933,2026-02-13,15,456353.19,321,1.0,1.0,1.0,3.0,Lost,das Neves ME,PJ
+214,2026-04-30,16,416529.01,245,1.0,1.0,1.0,3.0,Lost,Andrade S.A.,PJ
+211,2026-02-10,17,463241.73,324,1.0,1.0,1.0,3.0,Lost,Pedro Henrique Costa,PF
+208,2026-01-18,10,197462.09,347,1.0,1.0,1.0,3.0,Lost,Henry Gabriel da Mata,PF
+967,2026-07-10,15,382873.3,174,1.0,1.0,1.0,3.0,Lost,Guerra Lopes S.A.,PJ
+190,2026-06-28,17,369509.51,186,1.0,1.0,1.0,3.0,Lost,Sampaio ME,PJ
+1333,2026-04-24,12,425198.53,251,1.0,1.0,1.0,3.0,Lost,Sra. Maria Luísa Vieira,PF
+189,2025-10-01,14,423036.64,456,1.0,1.0,1.0,3.0,Lost,Thiago Carvalho,PF
+998,2026-02-10,13,375640.99,324,1.0,1.0,1.0,3.0,Lost,Hellena Macedo,PF
+173,2026-08-24,11,318001.12,129,1.0,1.0,1.0,3.0,Lost,Vieira - EI ME,PJ
+1016,2026-08-13,16,444131.91000000003,140,1.0,1.0,1.0,3.0,Lost,Olivia Aparecida,PF
+156,2024-12-03,13,445088.06,758,1.0,1.0,1.0,3.0,Lost,Pereira EIRELI,PJ
+1896,2025-08-25,15,422730.29,493,1.0,1.0,1.0,3.0,Lost,Sr. Vitor Cassiano,PF
+1027,2026-07-20,17,456305.81,164,1.0,1.0,1.0,3.0,Lost,Francisco Costela,PF
+1835,2026-04-09,15,459914.46,266,1.0,1.0,1.0,3.0,Lost,Arthur Silveira,PF
+1825,2026-01-22,14,468731.0,343,1.0,1.0,1.0,3.0,Lost,Luiza Rezende,PF
+311,2026-07-08,11,292372.83999999997,176,1.0,1.0,1.0,3.0,Lost,Ayla Rodrigues,PF
+843,2026-01-16,14,338034.45,349,1.0,1.0,1.0,3.0,Lost,Oliveira EIRELI,PJ
+821,2026-04-01,16,338959.31,274,1.0,1.0,1.0,3.0,Lost,Benício Viana,PF
+306,2026-04-17,10,296743.39,258,1.0,1.0,1.0,3.0,Lost,Luana Viana,PF
+1376,2026-03-08,11,269030.08,298,1.0,1.0,1.0,3.0,Lost,Theodoro Martins,PF
+1778,2026-03-19,13,406674.31,287,1.0,1.0,1.0,3.0,Lost,Martins ME,PJ
+826,2026-07-19,12,314432.58,165,1.0,1.0,1.0,3.0,Lost,Elisa Teixeira,PF
+572,2026-03-17,15,455901.07,289,1.0,1.0,1.0,3.0,Lost,Lima S.A.,PJ
+289,2026-02-09,17,411363.46,325,1.0,1.0,1.0,3.0,Lost,Sr. Cauê Campos,PF
+274,2025-12-29,14,444797.71,367,1.0,1.0,1.0,3.0,Lost,Barros EIRELI,PJ
+243,2026-08-06,14,293312.21,147,1.0,1.0,1.0,3.0,Lost,Sampaio EIRELI,PJ
+1361,2026-06-09,13,459415.15,205,1.0,1.0,1.0,3.0,Lost,Costa S.A.,PJ
+849,2026-05-18,14,240040.0,227,1.0,1.0,1.0,3.0,Lost,Nunes - EI EIRELI,PJ
+1804,2025-10-07,15,435550.93,450,1.0,1.0,1.0,3.0,Lost,Antonella Abreu,PF
+266,2025-03-14,10,304916.35000000003,657,1.0,1.0,1.0,3.0,Lost,Gonçalves EIRELI,PJ
+1350,2026-04-06,14,338513.89,269,1.0,1.0,1.0,3.0,Lost,Rodrigues - ME,PJ
+1345,2026-08-14,12,386289.98,139,1.0,1.0,1.0,3.0,Lost,Almeida - EI EIRELI,PJ
+879,2026-04-03,12,316933.66,272,1.0,1.0,1.0,3.0,Lost,Jesus ME,PJ
+833,2026-04-20,17,413837.14999999997,255,1.0,1.0,1.0,3.0,Lost,Mariah Gonçalves,PF

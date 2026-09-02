@@ -1,0 +1,501 @@
+﻿customer_id,rank,product_id,product_name,category_name,score_svd,legal_name
+2,1,320,Colete Salva-Vidas 7959,Motores,0.2221,Lara Abreu
+2,2,486,Genérico,Âncoras,0.2202,Lara Abreu
+2,3,352,Âncora Bruce 7571,Equipamentos,0.1957,Lara Abreu
+2,4,299,Hélice de Alumínio 9238,SEGURANÇA,0.1867,Lara Abreu
+2,5,490,Colete Salva-Vidas 3881,Manutenção,0.1808,Lara Abreu
+5,1,441,Colete Salva-Vidas 4674,Âncoras,0.1835,Hellena Rodrigues
+5,2,260,Cliente Genérico,Iluminação,0.1663,Hellena Rodrigues
+5,3,174,Bússola de Bordo 755,Eletrônica Náutica,0.1654,Hellena Rodrigues
+5,4,210,João da Silva,Equipamentos,0.162,Hellena Rodrigues
+5,5,330,Bússola de Bordo 4659,Velas,0.1523,Hellena Rodrigues
+8,1,129,Defensa Náutica 4517,Iluminação,0.1508,Maria Helena Peixoto
+8,2,337,Cabo Náutico 9048,Velas,0.1296,Maria Helena Peixoto
+8,3,486,Genérico,Âncoras,0.1242,Maria Helena Peixoto
+8,4,464,GPS Plotter 9584,Acessórios de Convés,0.1227,Maria Helena Peixoto
+8,5,456,Colete Salva-Vidas 2374,SEGURANÇA,0.1174,Maria Helena Peixoto
+9,1,165,GPS Plotter 6840,Manutenção,0.2399,Eduarda Marques
+9,2,31,Sonar Transducer 4635,Motores,0.2285,Eduarda Marques
+9,3,453,Motor de Popa 8838,Velas,0.2095,Eduarda Marques
+9,4,114,Tinta Antifouling 3228,Motores,0.2057,Eduarda Marques
+9,5,137,Motor de Popa 8544,Iluminação,0.2038,Eduarda Marques
+18,1,476,Vela Mestra 5689,Motores,0.183,Rios Ramos Ltda.
+18,2,405,Bateria Náutica 9124,Velas,0.1814,Rios Ramos Ltda.
+18,3,144,Vela Mestra 7171,Pintura Marítima,0.1733,Rios Ramos Ltda.
+18,4,29,Defensa Náutica 3153,Iluminação,0.1725,Rios Ramos Ltda.
+18,5,338,Cabo Náutico 5724,Hélices,0.1532,Rios Ramos Ltda.
+24,1,352,Âncora Bruce 7571,Equipamentos,0.2669,Dr. Ian Câmara
+24,2,341,Vela Mestra 7122,Manutenção,0.2377,Dr. Ian Câmara
+24,3,154,Hélice de Alumínio 549,Pintura Marítima,0.1982,Dr. Ian Câmara
+24,4,288,Vela Mestra 5566,Hélices,0.1876,Dr. Ian Câmara
+24,5,165,GPS Plotter 6840,Manutenção,0.1841,Dr. Ian Câmara
+31,1,338,Cabo Náutico 5724,Hélices,0.2169,Souza Melo - ME
+31,2,73,Hélice de Alumínio 3700,Acessórios de Convés,0.1601,Souza Melo - ME
+31,3,144,Vela Mestra 7171,Pintura Marítima,0.1589,Souza Melo - ME
+31,4,191,Bússola de Bordo 8959,Acessórios de Convés,0.1445,Souza Melo - ME
+31,5,490,Colete Salva-Vidas 3881,Manutenção,0.133,Souza Melo - ME
+32,1,352,Âncora Bruce 7571,Equipamentos,0.2371,Santos Cunha S/A S.A.
+32,2,341,Vela Mestra 7122,Manutenção,0.2293,Santos Cunha S/A S.A.
+32,3,436,Bateria Náutica 6370,Velas,0.229,Santos Cunha S/A S.A.
+32,4,338,Cabo Náutico 5724,Hélices,0.2078,Santos Cunha S/A S.A.
+32,5,205,Cabo Náutico 6267,Hélices,0.1961,Santos Cunha S/A S.A.
+33,1,156,GPS Plotter 2111,Velas,0.3035,Mendonça Câmara Ltda.
+33,2,308,Motor de Popa 1540,Acessórios de Convés,0.2749,Mendonça Câmara Ltda.
+33,3,205,Cabo Náutico 6267,Hélices,0.2545,Mendonça Câmara Ltda.
+33,4,466,Bússola de Bordo 1900,Pesca,0.2302,Mendonça Câmara Ltda.
+33,5,174,Bússola de Bordo 755,Eletrônica Náutica,0.2099,Mendonça Câmara Ltda.
+35,1,264,Bateria Náutica 1358,SEGURANÇA,0.2106,da Costa Cardoso - ME
+35,2,97,Motor de Popa 5396,Manutenção,0.209,da Costa Cardoso - ME
+35,3,156,GPS Plotter 2111,Velas,0.1983,da Costa Cardoso - ME
+35,4,244,Sonar Transducer 6595,Iluminação,0.1977,da Costa Cardoso - ME
+35,5,114,Tinta Antifouling 3228,Motores,0.1939,da Costa Cardoso - ME
+38,1,374,Âncora Bruce 9527,Pintura Marítima,0.1274,Machado ME
+38,2,192,GPS Plotter 649,Manutenção,0.1273,Machado ME
+38,3,169,Hélice de Alumínio 1674,Cabos,0.1208,Machado ME
+38,4,16,Hélice de Alumínio 8340,Equipamentos,0.1158,Machado ME
+38,5,326,Defensa Náutica 824,Pesca,0.1151,Machado ME
+46,1,294,Vela Mestra 5034,Âncoras,0.2007,Fernanda Lima
+46,2,176,Vela Mestra 1834,Manutenção,0.1759,Fernanda Lima
+46,3,31,Sonar Transducer 4635,Motores,0.1754,Fernanda Lima
+46,4,456,Colete Salva-Vidas 2374,SEGURANÇA,0.1723,Fernanda Lima
+46,5,32,Defensa Náutica 793,Velas,0.16,Fernanda Lima
+48,1,149,Bateria Náutica 948,Coletes Salva-Vidas,0.342,Juliana Oliveira
+48,2,287,Âncora Bruce 4980,Eletrônica Náutica,0.2667,Juliana Oliveira
+48,3,44,Motor de Popa 9645,Acessórios de Convés,0.2645,Juliana Oliveira
+48,4,465,Defensa Náutica 792,Eletrônica Náutica,0.2507,Juliana Oliveira
+48,5,77,Bateria Náutica 1945,Eletrônica Náutica,0.2442,Juliana Oliveira
+49,1,387,Cabo Náutico 6511,Motores,0.25,Ferreira Ltda
+49,2,337,Cabo Náutico 9048,Velas,0.2039,Ferreira Ltda
+49,3,313,Colete Salva-Vidas 3456,Velas,0.1899,Ferreira Ltda
+49,4,430,GPS Plotter 9763,Pintura Marítima,0.1776,Ferreira Ltda
+49,5,43,Defensa Náutica 9513,Equipamentos,0.1725,Ferreira Ltda
+54,1,149,Bateria Náutica 948,Coletes Salva-Vidas,0.1956,Srta. Maria Isis da Conceição
+54,2,368,Cabo Náutico 7039,Pintura Marítima,0.1866,Srta. Maria Isis da Conceição
+54,3,263,Tinta Antifouling 3557,Iluminação,0.1863,Srta. Maria Isis da Conceição
+54,4,441,Colete Salva-Vidas 4674,Âncoras,0.1752,Srta. Maria Isis da Conceição
+54,5,60,Vela Mestra 2410,Manutenção,0.1739,Srta. Maria Isis da Conceição
+55,1,158,Vela Mestra 8056,Iluminação,0.3706,Luísa Brito
+55,2,288,Vela Mestra 5566,Hélices,0.2851,Luísa Brito
+55,3,353,Cabo Náutico 2862,Hélices,0.2471,Luísa Brito
+55,4,473,Motor de Popa 8491,Coletes Salva-Vidas,0.223,Luísa Brito
+55,5,205,Cabo Náutico 6267,Hélices,0.2148,Luísa Brito
+61,1,322,Bateria Náutica 2619,Âncoras,0.2057,Ana Julia Pereira
+61,2,154,Hélice de Alumínio 549,Pintura Marítima,0.1909,Ana Julia Pereira
+61,3,99,Âncora Bruce 2417,Eletrônica Náutica,0.1865,Ana Julia Pereira
+61,4,430,GPS Plotter 9763,Pintura Marítima,0.1734,Ana Julia Pereira
+61,5,199,Colete Salva-Vidas 2755,Coletes Salva-Vidas,0.1682,Ana Julia Pereira
+67,1,416,Tinta Antifouling 9500,Hélices,0.233,Maria Eduarda Nogueira
+67,2,164,Bateria Náutica 2738,Cabos,0.2272,Maria Eduarda Nogueira
+67,3,348,Âncora Bruce 1231,Equipamentos,0.2239,Maria Eduarda Nogueira
+67,4,279,Vela Mestra 8447,Pesca,0.2153,Maria Eduarda Nogueira
+67,5,203,Sonar Transducer 1690,Coletes Salva-Vidas,0.2073,Maria Eduarda Nogueira
+71,1,486,Genérico,Âncoras,0.22,Maria Liz Lima
+71,2,481,Bússola de Bordo 2683,Manutenção,0.2191,Maria Liz Lima
+71,3,164,Bateria Náutica 2738,Cabos,0.1937,Maria Liz Lima
+71,4,63,Colete Salva-Vidas 4753,Pintura Marítima,0.1762,Maria Liz Lima
+71,5,294,Vela Mestra 5034,Âncoras,0.161,Maria Liz Lima
+72,1,486,Genérico,Âncoras,0.3531,Garcia Ltda
+72,2,17,GPS Plotter 3436,Acessórios de Convés,0.2011,Garcia Ltda
+72,3,2,Vela Mestra 3870,SEGURANÇA,0.1844,Garcia Ltda
+72,4,386,Sonar Transducer 9061,Velas,0.1842,Garcia Ltda
+72,5,430,GPS Plotter 9763,Pintura Marítima,0.1817,Garcia Ltda
+76,1,185,Motor de Popa 2690,Hélices,0.2237,Manuela Castro
+76,2,327,Sonar Transducer 4970,Equipamentos,0.1866,Manuela Castro
+76,3,431,Hélice de Alumínio 571,Hélices,0.1827,Manuela Castro
+76,4,348,Âncora Bruce 1231,Equipamentos,0.1805,Manuela Castro
+76,5,177,GPS Plotter 8413,Âncoras,0.1805,Manuela Castro
+77,1,331,Bateria Náutica 5936,Eletrônica Náutica,0.211,Anna Liz da Mata
+77,2,59,Bateria Náutica 8789,Coletes Salva-Vidas,0.2077,Anna Liz da Mata
+77,3,129,Defensa Náutica 4517,Iluminação,0.1987,Anna Liz da Mata
+77,4,149,Bateria Náutica 948,Coletes Salva-Vidas,0.1913,Anna Liz da Mata
+77,5,210,João da Silva,Equipamentos,0.1718,Anna Liz da Mata
+86,1,78,Colete Salva-Vidas 8571,Iluminação,0.273,Araújo Machado S/A EIRELI
+86,2,284,Bússola de Bordo 7525,Eletrônica Náutica,0.2167,Araújo Machado S/A EIRELI
+86,3,441,Colete Salva-Vidas 4674,Âncoras,0.1982,Araújo Machado S/A EIRELI
+86,4,438,Colete Salva-Vidas 2217,Manutenção,0.1804,Araújo Machado S/A EIRELI
+86,5,429,GPS Plotter 3591,Iluminação,0.1691,Araújo Machado S/A EIRELI
+89,1,158,Vela Mestra 8056,Iluminação,0.3178,Carvalho Cassiano S/A EIRELI
+89,2,101,Defensa Náutica 3482,Velas,0.2974,Carvalho Cassiano S/A EIRELI
+89,3,154,Hélice de Alumínio 549,Pintura Marítima,0.2031,Carvalho Cassiano S/A EIRELI
+89,4,352,Âncora Bruce 7571,Equipamentos,0.1936,Carvalho Cassiano S/A EIRELI
+89,5,171,Motor de Popa 6225,SEGURANÇA,0.1893,Carvalho Cassiano S/A EIRELI
+96,1,205,Cabo Náutico 6267,Hélices,0.1872,Diego da Rocha
+96,2,124,Âncora Bruce 9985,Motores,0.1793,Diego da Rocha
+96,3,349,Bateria Náutica 5090,Cabos,0.1738,Diego da Rocha
+96,4,212,Sonar Transducer 594,Cabos,0.1737,Diego da Rocha
+96,5,117,Sonar Transducer 869,Acessórios de Convés,0.161,Diego da Rocha
+98,1,357,NAO INFORMADO,Âncoras,0.2375,Sr. Luiz Felipe da Costa
+98,2,156,GPS Plotter 2111,Velas,0.224,Sr. Luiz Felipe da Costa
+98,3,368,Cabo Náutico 7039,Pintura Marítima,0.2082,Sr. Luiz Felipe da Costa
+98,4,210,João da Silva,Equipamentos,0.1938,Sr. Luiz Felipe da Costa
+98,5,104,Bússola de Bordo 7303,Iluminação,0.19,Sr. Luiz Felipe da Costa
+103,1,337,Cabo Náutico 9048,Velas,0.1577,Sra. Marcela Machado
+103,2,357,NAO INFORMADO,Âncoras,0.1543,Sra. Marcela Machado
+103,3,345,Vela Mestra 1741,Âncoras,0.1497,Sra. Marcela Machado
+103,4,476,Vela Mestra 5689,Motores,0.1465,Sra. Marcela Machado
+103,5,212,Sonar Transducer 594,Cabos,0.1423,Sra. Marcela Machado
+104,1,210,João da Silva,Equipamentos,0.3239,Casa Grande - EI Ltda
+104,2,393,Hélice de Alumínio 2428,Equipamentos,0.253,Casa Grande - EI Ltda
+104,3,172,Defensa Náutica 2684,Eletrônica Náutica,0.2141,Casa Grande - EI Ltda
+104,4,341,Vela Mestra 7122,Manutenção,0.2137,Casa Grande - EI Ltda
+104,5,441,Colete Salva-Vidas 4674,Âncoras,0.2039,Casa Grande - EI Ltda
+108,1,49,Bússola de Bordo 5407,Pintura Marítima,0.1451,Leonardo Gonçalves
+108,2,430,GPS Plotter 9763,Pintura Marítima,0.1446,Leonardo Gonçalves
+108,3,110,Hélice de Alumínio 1155,Pesca,0.1444,Leonardo Gonçalves
+108,4,205,Cabo Náutico 6267,Hélices,0.1439,Leonardo Gonçalves
+108,5,427,Âncora Bruce 5445,Equipamentos,0.1413,Leonardo Gonçalves
+118,1,205,Cabo Náutico 6267,Hélices,0.2832,Moreira Ltda
+118,2,157,Bússola de Bordo 1248,Equipamentos,0.219,Moreira Ltda
+118,3,144,Vela Mestra 7171,Pintura Marítima,0.207,Moreira Ltda
+118,4,164,Bateria Náutica 2738,Cabos,0.2006,Moreira Ltda
+118,5,210,João da Silva,Equipamentos,0.1958,Moreira Ltda
+120,1,129,Defensa Náutica 4517,Iluminação,0.2898,Silveira Aragão - EI S.A.
+120,2,97,Motor de Popa 5396,Manutenção,0.2035,Silveira Aragão - EI S.A.
+120,3,348,Âncora Bruce 1231,Equipamentos,0.2015,Silveira Aragão - EI S.A.
+120,4,176,Vela Mestra 1834,Manutenção,0.1896,Silveira Aragão - EI S.A.
+120,5,400,Vela Mestra 4667,Pesca,0.1786,Silveira Aragão - EI S.A.
+132,1,210,João da Silva,Equipamentos,0.2929,Cavalcante Duarte - EI S.A.
+132,2,331,Bateria Náutica 5936,Eletrônica Náutica,0.2159,Cavalcante Duarte - EI S.A.
+132,3,177,GPS Plotter 8413,Âncoras,0.174,Cavalcante Duarte - EI S.A.
+132,4,182,Vela Mestra 3395,Manutenção,0.1461,Cavalcante Duarte - EI S.A.
+132,5,156,GPS Plotter 2111,Velas,0.146,Cavalcante Duarte - EI S.A.
+134,1,337,Cabo Náutico 9048,Velas,0.345,Anna Liz Rodrigues
+134,2,171,Motor de Popa 6225,SEGURANÇA,0.3407,Anna Liz Rodrigues
+134,3,31,Sonar Transducer 4635,Motores,0.2594,Anna Liz Rodrigues
+134,4,365,Sonar Transducer 455,Pintura Marítima,0.2491,Anna Liz Rodrigues
+134,5,373,Cabo Náutico 2300,Cabos,0.2472,Anna Liz Rodrigues
+135,1,264,Bateria Náutica 1358,SEGURANÇA,0.1951,da Rosa - ME
+135,2,284,Bússola de Bordo 7525,Eletrônica Náutica,0.1856,da Rosa - ME
+135,3,165,GPS Plotter 6840,Manutenção,0.1834,da Rosa - ME
+135,4,149,Bateria Náutica 948,Coletes Salva-Vidas,0.1807,da Rosa - ME
+135,5,382,Cabo Náutico 4851,Hélices,0.162,da Rosa - ME
+136,1,283,Defensa Náutica 3209,Hélices,0.2311,Machado - EI ME
+136,2,195,Bateria Náutica 4683,Motores,0.2081,Machado - EI ME
+136,3,443,Vela Mestra 6757,Motores,0.1973,Machado - EI ME
+136,4,322,Bateria Náutica 2619,Âncoras,0.1853,Machado - EI ME
+136,5,185,Motor de Popa 2690,Hélices,0.1715,Machado - EI ME
+139,1,149,Bateria Náutica 948,Coletes Salva-Vidas,0.1964,Costela EIRELI
+139,2,192,GPS Plotter 649,Manutenção,0.167,Costela EIRELI
+139,3,190,GPS Plotter 3107,Motores,0.1667,Costela EIRELI
+139,4,308,Motor de Popa 1540,Acessórios de Convés,0.1644,Costela EIRELI
+139,5,37,Âncora Bruce 3597,SEGURANÇA,0.1497,Costela EIRELI
+147,1,124,Âncora Bruce 9985,Motores,0.1758,Rezende e Filhos ME
+147,2,115,Bateria Náutica 8635,Pintura Marítima,0.1752,Rezende e Filhos ME
+147,3,408,Sonar Transducer 7193,Eletrônica Náutica,0.1705,Rezende e Filhos ME
+147,4,81,Motor de Popa 7678,Eletrônica Náutica,0.1662,Rezende e Filhos ME
+147,5,177,GPS Plotter 8413,Âncoras,0.1516,Rezende e Filhos ME
+148,1,345,Vela Mestra 1741,Âncoras,0.2867,Breno Rodrigues
+148,2,272,Cabo Náutico 4571,Pintura Marítima,0.1802,Breno Rodrigues
+148,3,73,Hélice de Alumínio 3700,Acessórios de Convés,0.1768,Breno Rodrigues
+148,4,308,Motor de Popa 1540,Acessórios de Convés,0.1733,Breno Rodrigues
+148,5,374,Âncora Bruce 9527,Pintura Marítima,0.1668,Breno Rodrigues
+152,1,97,Motor de Popa 5396,Manutenção,0.2018,Teixeira ME
+152,2,124,Âncora Bruce 9985,Motores,0.1819,Teixeira ME
+152,3,78,Colete Salva-Vidas 8571,Iluminação,0.1815,Teixeira ME
+152,4,54,Colete Salva-Vidas 6302,Cabos,0.174,Teixeira ME
+152,5,389,Motor de Popa 5331,Hélices,0.1721,Teixeira ME
+154,1,80,Hélice de Alumínio 6964,Âncoras,0.1605,Otto da Rosa
+154,2,453,Motor de Popa 8838,Velas,0.1555,Otto da Rosa
+154,3,115,Bateria Náutica 8635,Pintura Marítima,0.1453,Otto da Rosa
+154,4,443,Vela Mestra 6757,Motores,0.1353,Otto da Rosa
+154,5,321,Colete Salva-Vidas 7573,Velas,0.1245,Otto da Rosa
+162,1,493,Hélice de Alumínio 5003,Hélices,0.2212,Fernandes e Filhos S.A.
+162,2,144,Vela Mestra 7171,Pintura Marítima,0.2193,Fernandes e Filhos S.A.
+162,3,353,Cabo Náutico 2862,Hélices,0.2192,Fernandes e Filhos S.A.
+162,4,149,Bateria Náutica 948,Coletes Salva-Vidas,0.2124,Fernandes e Filhos S.A.
+162,5,371,Motor de Popa 4088,Âncoras,0.1682,Fernandes e Filhos S.A.
+163,1,367,Sonar Transducer 4574,Coletes Salva-Vidas,0.1689,Maria Julia Abreu
+163,2,439,Motor de Popa 1376,Hélices,0.1673,Maria Julia Abreu
+163,3,345,Vela Mestra 1741,Âncoras,0.158,Maria Julia Abreu
+163,4,352,Âncora Bruce 7571,Equipamentos,0.1523,Maria Julia Abreu
+163,5,158,Vela Mestra 8056,Iluminação,0.1522,Maria Julia Abreu
+165,1,174,Bússola de Bordo 755,Eletrônica Náutica,0.2257,da Costa Ltda.
+165,2,340,GPS Pltoter 3205,Pesca,0.2247,da Costa Ltda.
+165,3,108,Âncora Bruce 326,SEGURANÇA,0.2033,da Costa Ltda.
+165,4,288,Vela Mestra 5566,Hélices,0.1983,da Costa Ltda.
+165,5,154,Hélice de Alumínio 549,Pintura Marítima,0.1881,da Costa Ltda.
+166,1,124,Âncora Bruce 9985,Motores,0.3115,Francisco Dias
+166,2,114,Tinta Antifouling 3228,Motores,0.2464,Francisco Dias
+166,3,248,Tinta Antifouling 3953,Iluminação,0.218,Francisco Dias
+166,4,383,Sonar Transducer 7919,Hélices,0.205,Francisco Dias
+166,5,498,GPS Plotter 7720,Pesca,0.1954,Francisco Dias
+168,1,158,Vela Mestra 8056,Iluminação,0.2493,Bruna da Mata
+168,2,29,Defensa Náutica 3153,Iluminação,0.2404,Bruna da Mata
+168,3,146,Cabo Náutico 7323,Cabos,0.2148,Bruna da Mata
+168,4,413,Cabo Náutico 5471,Coletes Salva-Vidas,0.2021,Bruna da Mata
+168,5,405,Bateria Náutica 9124,Velas,0.1961,Bruna da Mata
+177,1,439,Motor de Popa 1376,Hélices,0.311,Alexia Pimenta
+177,2,368,Cabo Náutico 7039,Pintura Marítima,0.2976,Alexia Pimenta
+177,3,149,Bateria Náutica 948,Coletes Salva-Vidas,0.2967,Alexia Pimenta
+177,4,308,Motor de Popa 1540,Acessórios de Convés,0.2571,Alexia Pimenta
+177,5,361,Bússola de Bordo 3152,Pintura Marítima,0.2379,Alexia Pimenta
+178,1,205,Cabo Náutico 6267,Hélices,0.3589,Davi Pastor
+178,2,210,João da Silva,Equipamentos,0.3349,Davi Pastor
+178,3,288,Vela Mestra 5566,Hélices,0.32,Davi Pastor
+178,4,212,Sonar Transducer 594,Cabos,0.2887,Davi Pastor
+178,5,101,Defensa Náutica 3482,Velas,0.2611,Davi Pastor
+182,1,232,Hélice de Alumínio 5784,Coletes Salva-Vidas,0.2366,das Neves e Filhos S.A.
+182,2,177,GPS Plotter 8413,Âncoras,0.2152,das Neves e Filhos S.A.
+182,3,337,Cabo Náutico 9048,Velas,0.209,das Neves e Filhos S.A.
+182,4,345,Vela Mestra 1741,Âncoras,0.2004,das Neves e Filhos S.A.
+182,5,391,Bússola de Bordo 5574,Cabos,0.1924,das Neves e Filhos S.A.
+194,1,154,Hélice de Alumínio 549,Pintura Marítima,0.2574,Martins S/A EIRELI
+194,2,177,GPS Plotter 8413,Âncoras,0.2408,Martins S/A EIRELI
+194,3,337,Cabo Náutico 9048,Velas,0.2312,Martins S/A EIRELI
+194,4,365,Sonar Transducer 455,Pintura Marítima,0.2098,Martins S/A EIRELI
+194,5,164,Bateria Náutica 2738,Cabos,0.1946,Martins S/A EIRELI
+197,1,110,Hélice de Alumínio 1155,Pesca,0.2944,Arthur Vasconcelos
+197,2,154,Hélice de Alumínio 549,Pintura Marítima,0.2555,Arthur Vasconcelos
+197,3,361,Bússola de Bordo 3152,Pintura Marítima,0.2373,Arthur Vasconcelos
+197,4,205,Cabo Náutico 6267,Hélices,0.2357,Arthur Vasconcelos
+197,5,260,Cliente Genérico,Iluminação,0.2323,Arthur Vasconcelos
+203,1,176,Vela Mestra 1834,Manutenção,0.2079,Monteiro S.A.
+203,2,389,Motor de Popa 5331,Hélices,0.1661,Monteiro S.A.
+203,3,170,Bateria Náutica 834,Acessórios de Convés,0.1543,Monteiro S.A.
+203,4,453,Motor de Popa 8838,Velas,0.1472,Monteiro S.A.
+203,5,482,GPS Plotter 6316,Âncoras,0.1419,Monteiro S.A.
+204,1,210,João da Silva,Equipamentos,0.1661,Sra. Eloah Jesus
+204,2,341,Vela Mestra 7122,Manutenção,0.163,Sra. Eloah Jesus
+204,3,114,Tinta Antifouling 3228,Motores,0.1571,Sra. Eloah Jesus
+204,4,68,Âncora Bruce 2455,Pesca,0.1543,Sra. Eloah Jesus
+204,5,287,Âncora Bruce 4980,Eletrônica Náutica,0.152,Sra. Eloah Jesus
+206,1,416,Tinta Antifouling 9500,Hélices,0.2401,Farias S.A.
+206,2,368,Cabo Náutico 7039,Pintura Marítima,0.1969,Farias S.A.
+206,3,31,Sonar Transducer 4635,Motores,0.1913,Farias S.A.
+206,4,432,Defensa Náutica 2623,Eletrônica Náutica,0.1718,Farias S.A.
+206,5,323,Âncora Bruce 7053,Coletes Salva-Vidas,0.1673,Farias S.A.
+212,1,156,GPS Plotter 2111,Velas,0.2435,Vicente Marques
+212,2,387,Cabo Náutico 6511,Motores,0.2257,Vicente Marques
+212,3,337,Cabo Náutico 9048,Velas,0.2145,Vicente Marques
+212,4,118,Vela Mestra 5825,Pesca,0.2026,Vicente Marques
+212,5,408,Sonar Transducer 7193,Eletrônica Náutica,0.195,Vicente Marques
+213,1,341,Vela Mestra 7122,Manutenção,0.2752,Beatriz Caldeira
+213,2,411,Motor de Popa 684,Cabos,0.2006,Beatriz Caldeira
+213,3,185,Motor de Popa 2690,Hélices,0.199,Beatriz Caldeira
+213,4,342,asdf,Manutenção,0.1801,Beatriz Caldeira
+213,5,360,Bateria Náutica 2558,Âncoras,0.1728,Beatriz Caldeira
+215,1,288,Vela Mestra 5566,Hélices,0.2437,Pedro Miguel Vasconcelos
+215,2,158,Vela Mestra 8056,Iluminação,0.2096,Pedro Miguel Vasconcelos
+215,3,169,Hélice de Alumínio 1674,Cabos,0.1908,Pedro Miguel Vasconcelos
+215,4,284,Bússola de Bordo 7525,Eletrônica Náutica,0.1908,Pedro Miguel Vasconcelos
+215,5,299,Hélice de Alumínio 9238,SEGURANÇA,0.1843,Pedro Miguel Vasconcelos
+229,1,190,GPS Plotter 3107,Motores,0.2906,Ian Câmara
+229,2,77,Bateria Náutica 1945,Eletrônica Náutica,0.2891,Ian Câmara
+229,3,322,Bateria Náutica 2619,Âncoras,0.2763,Ian Câmara
+229,4,118,Vela Mestra 5825,Pesca,0.2752,Ian Câmara
+229,5,66,TBD,Acessórios de Convés,0.2558,Ian Câmara
+238,1,308,Motor de Popa 1540,Acessórios de Convés,0.1787,Lopes e Filhos EIRELI
+238,2,337,Cabo Náutico 9048,Velas,0.1705,Lopes e Filhos EIRELI
+238,3,210,João da Silva,Equipamentos,0.1646,Lopes e Filhos EIRELI
+238,4,326,Defensa Náutica 824,Pesca,0.1398,Lopes e Filhos EIRELI
+238,5,76,Sonar Transducer 9995,Motores,0.1324,Lopes e Filhos EIRELI
+244,1,164,Bateria Náutica 2738,Cabos,0.2868,Camila Vargas
+244,2,337,Cabo Náutico 9048,Velas,0.2755,Camila Vargas
+244,3,144,Vela Mestra 7171,Pintura Marítima,0.2434,Camila Vargas
+244,4,500,Motor de Popa 7932,Motores,0.2199,Camila Vargas
+244,5,117,Sonar Transducer 869,Acessórios de Convés,0.2198,Camila Vargas
+245,1,31,Sonar Transducer 4635,Motores,0.3524,Moraes ME
+245,2,156,GPS Plotter 2111,Velas,0.3072,Moraes ME
+245,3,129,Defensa Náutica 4517,Iluminação,0.2849,Moraes ME
+245,4,80,Hélice de Alumínio 6964,Âncoras,0.2319,Moraes ME
+245,5,235,GPS Plotter 1842,Âncoras,0.2318,Moraes ME
+247,1,210,João da Silva,Equipamentos,0.258,Ágatha Sales
+247,2,101,Defensa Náutica 3482,Velas,0.2457,Ágatha Sales
+247,3,164,Bateria Náutica 2738,Cabos,0.2091,Ágatha Sales
+247,4,76,Sonar Transducer 9995,Motores,0.1823,Ágatha Sales
+247,5,51,Defensa Náutica 9969,Hélices,0.173,Ágatha Sales
+249,1,284,Bússola de Bordo 7525,Eletrônica Náutica,0.1835,Isabela Moraes
+249,2,349,Bateria Náutica 5090,Cabos,0.1764,Isabela Moraes
+249,3,149,Bateria Náutica 948,Coletes Salva-Vidas,0.1624,Isabela Moraes
+249,4,466,Bússola de Bordo 1900,Pesca,0.1448,Isabela Moraes
+249,5,232,Hélice de Alumínio 5784,Coletes Salva-Vidas,0.1397,Isabela Moraes
+255,1,441,Colete Salva-Vidas 4674,Âncoras,0.2601,Vieira S.A.
+255,2,185,Motor de Popa 2690,Hélices,0.2376,Vieira S.A.
+255,3,476,Vela Mestra 5689,Motores,0.2357,Vieira S.A.
+255,4,393,Hélice de Alumínio 2428,Equipamentos,0.2343,Vieira S.A.
+255,5,341,Vela Mestra 7122,Manutenção,0.2027,Vieira S.A.
+268,1,322,Bateria Náutica 2619,Âncoras,0.285,Gabrielly Moreira
+268,2,149,Bateria Náutica 948,Coletes Salva-Vidas,0.2088,Gabrielly Moreira
+268,3,253,Bússola de Bordo 3611,Coletes Salva-Vidas,0.1934,Gabrielly Moreira
+268,4,110,Hélice de Alumínio 1155,Pesca,0.1869,Gabrielly Moreira
+268,5,461,Colete Salva-Vidas 3259,Pesca,0.1771,Gabrielly Moreira
+272,1,466,Bússola de Bordo 1900,Pesca,0.271,Pietra Mendes
+272,2,436,Bateria Náutica 6370,Velas,0.2549,Pietra Mendes
+272,3,398,Âncora Bruce 4713,Coletes Salva-Vidas,0.2339,Pietra Mendes
+272,4,144,Vela Mestra 7171,Pintura Marítima,0.2163,Pietra Mendes
+272,5,341,Vela Mestra 7122,Manutenção,0.2154,Pietra Mendes
+273,1,68,Âncora Bruce 2455,Pesca,0.2103,Théo Aparecida
+273,2,185,Motor de Popa 2690,Hélices,0.208,Théo Aparecida
+273,3,288,Vela Mestra 5566,Hélices,0.1901,Théo Aparecida
+273,4,101,Defensa Náutica 3482,Velas,0.1871,Théo Aparecida
+273,5,451,Cabo Náutico 5416,SEGURANÇA,0.1848,Théo Aparecida
+275,1,144,Vela Mestra 7171,Pintura Marítima,0.2441,Cauê Almeida
+275,2,321,Colete Salva-Vidas 7573,Velas,0.2003,Cauê Almeida
+275,3,279,Vela Mestra 8447,Pesca,0.1866,Cauê Almeida
+275,4,349,Bateria Náutica 5090,Cabos,0.183,Cauê Almeida
+275,5,74,Bússola de Bordo 702,Hélices,0.1709,Cauê Almeida
+280,1,352,Âncora Bruce 7571,Equipamentos,0.2138,Cavalcanti ME
+280,2,322,Bateria Náutica 2619,Âncoras,0.1842,Cavalcanti ME
+280,3,144,Vela Mestra 7171,Pintura Marítima,0.1735,Cavalcanti ME
+280,4,368,Cabo Náutico 7039,Pintura Marítima,0.1733,Cavalcanti ME
+280,5,340,GPS Pltoter 3205,Pesca,0.164,Cavalcanti ME
+281,1,203,Sonar Transducer 1690,Coletes Salva-Vidas,0.237,Mathias Porto
+281,2,486,Genérico,Âncoras,0.2271,Mathias Porto
+281,3,373,Cabo Náutico 2300,Cabos,0.2071,Mathias Porto
+281,4,114,Tinta Antifouling 3228,Motores,0.204,Mathias Porto
+281,5,393,Hélice de Alumínio 2428,Equipamentos,0.1994,Mathias Porto
+287,1,349,Bateria Náutica 5090,Cabos,0.2787,Zoe Albuquerque
+287,2,171,Motor de Popa 6225,SEGURANÇA,0.2403,Zoe Albuquerque
+287,3,154,Hélice de Alumínio 549,Pintura Marítima,0.2207,Zoe Albuquerque
+287,4,31,Sonar Transducer 4635,Motores,0.2119,Zoe Albuquerque
+287,5,337,Cabo Náutico 9048,Velas,0.2054,Zoe Albuquerque
+296,1,345,Vela Mestra 1741,Âncoras,0.3002,Ferreira S.A.
+296,2,146,Cabo Náutico 7323,Cabos,0.253,Ferreira S.A.
+296,3,444,Hélice de Alumínio 4479,Eletrônica Náutica,0.2445,Ferreira S.A.
+296,4,323,Âncora Bruce 7053,Coletes Salva-Vidas,0.2437,Ferreira S.A.
+296,5,465,Defensa Náutica 792,Eletrônica Náutica,0.234,Ferreira S.A.
+297,1,156,GPS Plotter 2111,Velas,0.2268,Pires S.A.
+297,2,349,Bateria Náutica 5090,Cabos,0.1877,Pires S.A.
+297,3,288,Vela Mestra 5566,Hélices,0.1821,Pires S.A.
+297,4,436,Bateria Náutica 6370,Velas,0.1807,Pires S.A.
+297,5,486,Genérico,Âncoras,0.1581,Pires S.A.
+299,1,17,GPS Plotter 3436,Acessórios de Convés,0.2887,Melo - EI S.A.
+299,2,146,Cabo Náutico 7323,Cabos,0.2458,Melo - EI S.A.
+299,3,176,Vela Mestra 1834,Manutenção,0.2388,Melo - EI S.A.
+299,4,149,Bateria Náutica 948,Coletes Salva-Vidas,0.2278,Melo - EI S.A.
+299,5,254,Bússola de Bordo 7825,Eletrônica Náutica,0.2077,Melo - EI S.A.
+302,1,31,Sonar Transducer 4635,Motores,0.2903,Albuquerque ME
+302,2,416,Tinta Antifouling 9500,Hélices,0.2283,Albuquerque ME
+302,3,195,Bateria Náutica 4683,Motores,0.2079,Albuquerque ME
+302,4,165,GPS Plotter 6840,Manutenção,0.1891,Albuquerque ME
+302,5,176,Vela Mestra 1834,Manutenção,0.1874,Albuquerque ME
+307,1,124,Âncora Bruce 9985,Motores,0.2903,Olivia Cirino
+307,2,99,Âncora Bruce 2417,Eletrônica Náutica,0.2067,Olivia Cirino
+307,3,456,Colete Salva-Vidas 2374,SEGURANÇA,0.1877,Olivia Cirino
+307,4,389,Motor de Popa 5331,Hélices,0.1756,Olivia Cirino
+307,5,391,Bússola de Bordo 5574,Cabos,0.1752,Olivia Cirino
+318,1,144,Vela Mestra 7171,Pintura Marítima,0.1866,Vinicius Ribeiro
+318,2,426,Motor de Popa 1296,SEGURANÇA,0.1853,Vinicius Ribeiro
+318,3,185,Motor de Popa 2690,Hélices,0.179,Vinicius Ribeiro
+318,4,464,GPS Plotter 9584,Acessórios de Convés,0.1675,Vinicius Ribeiro
+318,5,476,Vela Mestra 5689,Motores,0.1661,Vinicius Ribeiro
+321,1,486,Genérico,Âncoras,0.2663,Catarina da Rosa
+321,2,129,Defensa Náutica 4517,Iluminação,0.1826,Catarina da Rosa
+321,3,427,Âncora Bruce 5445,Equipamentos,0.1812,Catarina da Rosa
+321,4,365,Sonar Transducer 455,Pintura Marítima,0.1774,Catarina da Rosa
+321,5,441,Colete Salva-Vidas 4674,Âncoras,0.1716,Catarina da Rosa
+322,1,338,Cabo Náutico 5724,Hélices,0.2121,Brito Andrade - ME
+322,2,326,Defensa Náutica 824,Pesca,0.1978,Brito Andrade - ME
+322,3,304,Hélice de Alumínio 7333,Coletes Salva-Vidas,0.195,Brito Andrade - ME
+322,4,177,GPS Plotter 8413,Âncoras,0.1755,Brito Andrade - ME
+322,5,337,Cabo Náutico 9048,Velas,0.1744,Brito Andrade - ME
+323,1,416,Tinta Antifouling 9500,Hélices,0.1956,Letícia Andrade
+323,2,352,Âncora Bruce 7571,Equipamentos,0.1744,Letícia Andrade
+323,3,287,Âncora Bruce 4980,Eletrônica Náutica,0.1737,Letícia Andrade
+323,4,91,Hélice de Alumínio 8603,Coletes Salva-Vidas,0.1575,Letícia Andrade
+323,5,253,Bússola de Bordo 3611,Coletes Salva-Vidas,0.1567,Letícia Andrade
+329,1,453,Motor de Popa 8838,Velas,0.1829,Maria Fernanda Cassiano
+329,2,338,Cabo Náutico 5724,Hélices,0.1823,Maria Fernanda Cassiano
+329,3,115,Bateria Náutica 8635,Pintura Marítima,0.1751,Maria Fernanda Cassiano
+329,4,73,Hélice de Alumínio 3700,Acessórios de Convés,0.1742,Maria Fernanda Cassiano
+329,5,78,Colete Salva-Vidas 8571,Iluminação,0.1723,Maria Fernanda Cassiano
+336,1,338,Cabo Náutico 5724,Hélices,0.2446,Dr. Noah da Rosa
+336,2,192,GPS Plotter 649,Manutenção,0.2294,Dr. Noah da Rosa
+336,3,68,Âncora Bruce 2455,Pesca,0.1936,Dr. Noah da Rosa
+336,4,176,Vela Mestra 1834,Manutenção,0.1891,Dr. Noah da Rosa
+336,5,284,Bússola de Bordo 7525,Eletrônica Náutica,0.181,Dr. Noah da Rosa
+337,1,413,Cabo Náutico 5471,Coletes Salva-Vidas,0.2248,Isabel Peixoto
+337,2,352,Âncora Bruce 7571,Equipamentos,0.1903,Isabel Peixoto
+337,3,129,Defensa Náutica 4517,Iluminação,0.171,Isabel Peixoto
+337,4,349,Bateria Náutica 5090,Cabos,0.1597,Isabel Peixoto
+337,5,416,Tinta Antifouling 9500,Hélices,0.1556,Isabel Peixoto
+339,1,116,Colete Salva-Vidas 280,Hélices,0.1795,Sá Costela S/A ME
+339,2,345,Vela Mestra 1741,Âncoras,0.1681,Sá Costela S/A ME
+339,3,118,Vela Mestra 5825,Pesca,0.1527,Sá Costela S/A ME
+339,4,199,Colete Salva-Vidas 2755,Coletes Salva-Vidas,0.1503,Sá Costela S/A ME
+339,5,338,Cabo Náutico 5724,Hélices,0.1498,Sá Costela S/A ME
+340,1,115,Bateria Náutica 8635,Pintura Marítima,0.2773,Joaquim Moreira
+340,2,17,GPS Plotter 3436,Acessórios de Convés,0.276,Joaquim Moreira
+340,3,431,Hélice de Alumínio 571,Hélices,0.2488,Joaquim Moreira
+340,4,164,Bateria Náutica 2738,Cabos,0.2448,Joaquim Moreira
+340,5,348,Âncora Bruce 1231,Equipamentos,0.2384,Joaquim Moreira
+344,1,338,Cabo Náutico 5724,Hélices,0.1734,das Neves S.A.
+344,2,295,Cabo Náutico 2105,Hélices,0.1504,das Neves S.A.
+344,3,431,Hélice de Alumínio 571,Hélices,0.1488,das Neves S.A.
+344,4,99,Âncora Bruce 2417,Eletrônica Náutica,0.1488,das Neves S.A.
+344,5,54,Colete Salva-Vidas 6302,Cabos,0.139,das Neves S.A.
+345,1,481,Bússola de Bordo 2683,Manutenção,0.2005,Macedo ME
+345,2,299,Hélice de Alumínio 9238,SEGURANÇA,0.1909,Macedo ME
+345,3,37,Âncora Bruce 3597,SEGURANÇA,0.1826,Macedo ME
+345,4,88,Tinta Antifouling 6853,Hélices,0.1741,Macedo ME
+345,5,192,GPS Plotter 649,Manutenção,0.1655,Macedo ME
+346,1,393,Hélice de Alumínio 2428,Equipamentos,0.2259,Cauê Leão
+346,2,498,GPS Plotter 7720,Pesca,0.2258,Cauê Leão
+346,3,316,Cabo Náutico 6564,Eletrônica Náutica,0.2092,Cauê Leão
+346,4,441,Colete Salva-Vidas 4674,Âncoras,0.1842,Cauê Leão
+346,5,110,Hélice de Alumínio 1155,Pesca,0.1709,Cauê Leão
+350,1,288,Vela Mestra 5566,Hélices,0.1509,Apollo Martins
+350,2,337,Cabo Náutico 9048,Velas,0.1378,Apollo Martins
+350,3,426,Motor de Popa 1296,SEGURANÇA,0.1275,Apollo Martins
+350,4,284,Bússola de Bordo 7525,Eletrônica Náutica,0.1263,Apollo Martins
+350,5,486,Genérico,Âncoras,0.1228,Apollo Martins
+351,1,345,Vela Mestra 1741,Âncoras,0.3429,Gabriela Sales
+351,2,337,Cabo Náutico 9048,Velas,0.3338,Gabriela Sales
+351,3,416,Tinta Antifouling 9500,Hélices,0.2537,Gabriela Sales
+351,4,124,Âncora Bruce 9985,Motores,0.2498,Gabriela Sales
+351,5,158,Vela Mestra 8056,Iluminação,0.2473,Gabriela Sales
+353,1,288,Vela Mestra 5566,Hélices,0.3433,Martins ME
+353,2,308,Motor de Popa 1540,Acessórios de Convés,0.2939,Martins ME
+353,3,54,Colete Salva-Vidas 6302,Cabos,0.2626,Martins ME
+353,4,57,Vela Mestra 6445,Equipamentos,0.2548,Martins ME
+353,5,149,Bateria Náutica 948,Coletes Salva-Vidas,0.2497,Martins ME
+356,1,124,Âncora Bruce 9985,Motores,0.1912,Sarah Cassiano
+356,2,345,Vela Mestra 1741,Âncoras,0.1813,Sarah Cassiano
+356,3,387,Cabo Náutico 6511,Motores,0.1788,Sarah Cassiano
+356,4,248,Tinta Antifouling 3953,Iluminação,0.1689,Sarah Cassiano
+356,5,406,Motor de Popa 6404,SEGURANÇA,0.162,Sarah Cassiano
+358,1,288,Vela Mestra 5566,Hélices,0.3775,Bárbara da Mata
+358,2,338,Cabo Náutico 5724,Hélices,0.236,Bárbara da Mata
+358,3,182,Vela Mestra 3395,Manutenção,0.2148,Bárbara da Mata
+358,4,124,Âncora Bruce 9985,Motores,0.2052,Bárbara da Mata
+358,5,326,Defensa Náutica 824,Pesca,0.2035,Bárbara da Mata
+361,1,124,Âncora Bruce 9985,Motores,0.2209,Borges Sampaio - ME
+361,2,345,Vela Mestra 1741,Âncoras,0.2074,Borges Sampaio - ME
+361,3,299,Hélice de Alumínio 9238,SEGURANÇA,0.1943,Borges Sampaio - ME
+361,4,68,Âncora Bruce 2455,Pesca,0.1865,Borges Sampaio - ME
+361,5,338,Cabo Náutico 5724,Hélices,0.1768,Borges Sampaio - ME
+372,1,165,GPS Plotter 6840,Manutenção,0.1846,Pimenta EIRELI
+372,2,341,Vela Mestra 7122,Manutenção,0.1841,Pimenta EIRELI
+372,3,174,Bússola de Bordo 755,Eletrônica Náutica,0.162,Pimenta EIRELI
+372,4,75,Vela Mestra 1913,Equipamentos,0.1591,Pimenta EIRELI
+372,5,114,Tinta Antifouling 3228,Motores,0.1478,Pimenta EIRELI
+378,1,308,Motor de Popa 1540,Acessórios de Convés,0.3002,Júlia Farias
+378,2,101,Defensa Náutica 3482,Velas,0.2823,Júlia Farias
+378,3,149,Bateria Náutica 948,Coletes Salva-Vidas,0.2257,Júlia Farias
+378,4,368,Cabo Náutico 7039,Pintura Marítima,0.2143,Júlia Farias
+378,5,156,GPS Plotter 2111,Velas,0.1989,Júlia Farias
+383,1,337,Cabo Náutico 9048,Velas,0.2586,Oliveira e Filhos S.A.
+383,2,206,Âncora Bruce 6320,Equipamentos,0.2345,Oliveira e Filhos S.A.
+383,3,156,GPS Plotter 2111,Velas,0.232,Oliveira e Filhos S.A.
+383,4,101,Defensa Náutica 3482,Velas,0.222,Oliveira e Filhos S.A.
+383,5,203,Sonar Transducer 1690,Coletes Salva-Vidas,0.2144,Oliveira e Filhos S.A.
+384,1,295,Cabo Náutico 2105,Hélices,0.2216,Alexandre Gomes
+384,2,149,Bateria Náutica 948,Coletes Salva-Vidas,0.2137,Alexandre Gomes
+384,3,263,Tinta Antifouling 3557,Iluminação,0.2028,Alexandre Gomes
+384,4,131,Âncora Bruce 7031,Equipamentos,0.1869,Alexandre Gomes
+384,5,419,Defensa Náutica 9143,Equipamentos,0.183,Alexandre Gomes
+393,1,352,Âncora Bruce 7571,Equipamentos,0.2039,Jesus S.A.
+393,2,295,Cabo Náutico 2105,Hélices,0.2038,Jesus S.A.
+393,3,114,Tinta Antifouling 3228,Motores,0.1978,Jesus S.A.
+393,4,177,GPS Plotter 8413,Âncoras,0.1733,Jesus S.A.
+393,5,258,Bateria Náutica 5523,Acessórios de Convés,0.1706,Jesus S.A.
+394,1,453,Motor de Popa 8838,Velas,0.2543,Martins Vargas e Filhos ME
+394,2,349,Bateria Náutica 5090,Cabos,0.2386,Martins Vargas e Filhos ME
+394,3,154,Hélice de Alumínio 549,Pintura Marítima,0.2057,Martins Vargas e Filhos ME
+394,4,68,Âncora Bruce 2455,Pesca,0.203,Martins Vargas e Filhos ME
+394,5,264,Bateria Náutica 1358,SEGURANÇA,0.1988,Martins Vargas e Filhos ME
+398,1,453,Motor de Popa 8838,Velas,0.2133,Martins - ME
+398,2,368,Cabo Náutico 7039,Pintura Marítima,0.2055,Martins - ME
+398,3,387,Cabo Náutico 6511,Motores,0.2014,Martins - ME
+398,4,31,Sonar Transducer 4635,Motores,0.1762,Martins - ME
+398,5,337,Cabo Náutico 9048,Velas,0.1708,Martins - ME
