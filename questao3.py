@@ -2,11 +2,11 @@ import os
 import pandas as pd
 from sqlalchemy import create_engine
 
-DB_USER = 'postgres'
-DB_PASSWORD = 'sua_senha'
-DB_HOST = 'localhost'
-DB_PORT = '5432'
-DB_NAME = 'lh_nautical'
+DB_USER = os.getenv('DB_USER', 'postgres')
+DB_PASSWORD = os.getenv('DB_PASSWORD', '')
+DB_HOST = os.getenv('DB_HOST', 'localhost')
+DB_PORT = os.getenv('DB_PORT', '5432')
+DB_NAME = os.getenv('DB_NAME', 'lh_nautical')
 
 DATABASE_URI = f'postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}'
 engine = create_engine(DATABASE_URI)
