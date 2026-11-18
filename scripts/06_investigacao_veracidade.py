@@ -59,8 +59,8 @@ def investigar_devolucoes(fato_pago, fato_returns):
         f"| Ano | Receita | Valor Devolvido | Taxa (%) |\n"
         f"|---|---|---|---|\n"
     )
-    for _, row in comp_ano.iterrows():
-        res += f"| {int(row['year'])} | R$ {row['line_total']:,.2f} | R$ {row['refund_value']:,.2f} | {row['taxa_dev_pct']:.2f}% |\n"
+    for row in comp_ano.itertuples(index=False):
+        res += f"| {int(row.year)} | R$ {row.line_total:,.2f} | R$ {row.refund_value:,.2f} | {row.taxa_dev_pct:.2f}% |\n"
         
     res += (
         f"\n**Conclusão:** A taxa é uniformemente baixa em todos os anos. "
@@ -100,8 +100,8 @@ def investigar_nfe(fato_pago, raw_fiscal):
         f"| Status do Pedido | Qtd Pedidos SEM NF-e |\n"
         f"|---|---|\n"
     )
-    for _, row in status_sem_nfe.iterrows():
-        res += f"| {row['status']} | {row['order_id']} |\n"
+    for row in status_sem_nfe.itertuples(index=False):
+        res += f"| {row.status} | {row.order_id} |\n"
         
     res += (
         f"\n**Conclusão:** Há {len(pedidos_sem_nfe)} pedidos confirmados, pagos ou entregues "

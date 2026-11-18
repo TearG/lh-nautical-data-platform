@@ -15,6 +15,7 @@ Uso:
 """
 
 from pathlib import Path
+import re
 import sys
 
 try:
@@ -42,7 +43,9 @@ print(sep)
 tabelas = [r[0] for r in con.execute("SHOW TABLES").fetchall()]
 print(f"\n  Tabelas disponíveis ({len(tabelas)}):")
 for t in sorted(tabelas):
-    n = con.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
+    if not re.match(r'^[a-zA-Z0-9_]+$', t):
+        continue
+    n = con.execute(f'SELECT COUNT(*) FROM "{t}"').fetchone()[0]
     print(f"    - {t:<40}  {n:>10,} linhas")
 
 # =======================================================================

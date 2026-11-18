@@ -1,4 +1,5 @@
 import os
+import re
 import pandas as pd
 from sqlalchemy import create_engine
 
@@ -23,11 +24,14 @@ def load_data():
     for filename in sorted(os.listdir(input_dir)):
         if filename.endswith('.csv'):
             table_name = filename.replace('.csv', '')
+            if not re.match(r'^[a-zA-Z0-9_]+$', table_name):
+                print(f"[IGNORADO] - Nome de tabela inválido: '{table_name}'")
+                continue
             csv_path = os.path.join(input_dir, filename)
             
             try:
                 df = pd.read_csv(csv_path, encoding='latin1')
-                df.to_sql(name=table_name, con=engine, if_exists='append', index=False, chunksize=10000)
+                df.to_sql(name=table_name, con=engine, if_exists='append', index=False, chunksize=5000, method='multi')
                 print(f"[OK] - Tabela '{table_name}': {len(df)} linhas inseridas com sucesso.")
             except Exception as e:
                 print(f"[ERRO] - Falha ao carregar a tabela '{table_name}': {e}")
